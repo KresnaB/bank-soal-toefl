@@ -1,0 +1,1001 @@
+{
+    "short_questions": [
+        {
+            "id": "L001",
+            "sectionType": "listening",
+            "audioFile": "audio_l001.mp3",
+            "questionText": "What does the woman imply?",
+            "options": [
+                "The man should finish the paper tonight",
+                "The deadline has passed",
+                "The man does not need to rush",
+                "The chemistry paper is difficult"
+            ],
+            "answerIndex": 2,
+            "explanation": "The woman says 'the deadline isn't until next month', implying there is no need to hurry."
+        },
+        {
+            "id": "L002",
+            "sectionType": "listening",
+            "audioFile": "audio_l002.mp3",
+            "questionText": "What does the man suggest the woman do?",
+            "options": [
+                "Look on a different shelf",
+                "Buy the book at the bookstore",
+                "Ask the librarian for help",
+                "Wait for the book to be returned"
+            ],
+            "answerIndex": 2,
+            "explanation": "The man suggests checking with the librarian at the reserve desk."
+        },
+        {
+            "id": "L003",
+            "sectionType": "listening",
+            "audioFile": "audio_l003.mp3",
+            "questionText": "What does the woman mean?",
+            "options": [
+                "She thinks the picnic should be canceled",
+                "She believes the weather will improve",
+                "She prefers to stay indoors",
+                "She didn't check the forecast"
+            ],
+            "answerIndex": 1,
+            "explanation": "The woman says it will 'clear up by noon', meaning the weather will get better."
+        },
+        {
+            "id": "L004",
+            "sectionType": "listening",
+            "audioFile": "audio_l004.mp3",
+            "questionText": "What is the woman's problem?",
+            "options": [
+                "She has no money",
+                "The cafeteria is closed",
+                "Her food is too cold",
+                "She doesn't like soup"
+            ],
+            "answerIndex": 2,
+            "explanation": "The woman explicitly states 'This soup is freezing cold'."
+        },
+        {
+            "id": "L005",
+            "sectionType": "listening",
+            "audioFile": "audio_l005.mp3",
+            "questionText": "What is the main topic of the talk?",
+            "options": [
+                "The color of plants",
+                "The process of photosynthesis",
+                "How to grow chemicals",
+                "Different types of organisms"
+            ],
+            "answerIndex": 1,
+            "explanation": "The professor starts by saying 'Today we are going to discuss photosynthesis'."
+        },
+        {
+            "id": "L006",
+            "sectionType": "listening",
+            "audioFile": "audio_l006.mp3",
+            "questionText": "What has changed about the orientation?",
+            "options": [
+                "The date",
+                "The time",
+                "The requirements",
+                "The location"
+            ],
+            "answerIndex": 3,
+            "explanation": "The speaker says the orientation 'has been moved to the gymnasium', which indicates a change in location."
+        },
+        {
+            "id": "L007",
+            "sectionType": "listening",
+            "audioFile": "audio_l007.mp3",
+            "questionText": "What does the woman suggest the man do?",
+            "options": [
+                "Buy a new ID card",
+                "Look in the cafeteria",
+                "Wait for the cafeteria to open",
+                "Report the ID stolen"
+            ],
+            "answerIndex": 1,
+            "explanation": "The woman suggests checking the 'Lost and Found section', implying he should go back to look for it."
+        },
+        {
+            "id": "L008",
+            "sectionType": "listening",
+            "audioFile": "audio_l008.mp3",
+            "questionText": "What does the man imply?",
+            "options": [
+                "Professor Miller is currently busy",
+                "The woman should come back at 2:00",
+                "The assignment is due at 2:00",
+                "He does not know where the office is"
+            ],
+            "answerIndex": 1,
+            "explanation": "Since office hours start at 2:00, the implication is that she must wait until then to see him."
+        },
+        {
+            "id": "L009",
+            "sectionType": "listening",
+            "audioFile": "audio_l009.mp3",
+            "questionText": "What is the woman's advice?",
+            "options": [
+                "Move to a different room",
+                "Play loud music back",
+                "Talk to the roommate or buy earplugs",
+                "Sleep during the day"
+            ],
+            "answerIndex": 2,
+            "explanation": "She explicitly suggests 'talking to him' or 'buying some earplugs'."
+        },
+        {
+            "id": "L010",
+            "sectionType": "listening",
+            "audioFile": "audio_l010.mp3",
+            "questionText": "Why does the woman decide to take the class?",
+            "options": [
+                "It is an easy class",
+                "There is no writing involved",
+                "The content is interesting",
+                "Her friend is taking it"
+            ],
+            "answerIndex": 2,
+            "explanation": "She says, 'I don't mind writing if the content is interesting.'"
+        },
+        {
+            "id": "L011",
+            "sectionType": "listening",
+            "audioFile": "audio_l011.mp3",
+            "questionText": "What evidence suggests Mars was once wet?",
+            "options": [
+                "Photographs of oceans",
+                "The red color of the planet",
+                "Geological features like riverbeds",
+                "Ice caps found by the rover"
+            ],
+            "answerIndex": 2,
+            "explanation": "The professor mentions 'geological evidence, such as dried-up riverbeds'."
+        },
+        {
+            "id": "L012",
+            "sectionType": "listening",
+            "audioFile": "audio_l012.mp3",
+            "questionText": "Where should students go if they want to study in a group?",
+            "options": [
+                "The first floor",
+                "The second floor",
+                "The third floor",
+                "The circulation desk"
+            ],
+            "answerIndex": 1,
+            "explanation": "The guide states: 'Group study rooms are available on the second floor'."
+        },
+        {
+            "id": "L013",
+            "sectionType": "listening",
+            "audioFile": "audio_l013.mp3",
+            "questionText": "How does the man feel?",
+            "options": [
+                "Excited about the movie",
+                "Regretful about taking the bus",
+                "Happy to be on the subway",
+                "Indifferent about being late"
+            ],
+            "answerIndex": 1,
+            "explanation": "He says 'We should have just taken the subway', expressing regret over their choice of transport."
+        },
+        {
+            "id": "L014",
+            "sectionType": "listening",
+            "audioFile": "audio_l014.mp3",
+            "questionText": "According to the speaker, what was a result of the Gold Rush?",
+            "options": [
+                "Everyone became rich",
+                "California became a separate country",
+                "Rapid growth of cities",
+                "A decrease in migration"
+            ],
+            "answerIndex": 2,
+            "explanation": "The speaker mentions it 'led to the rapid growth of cities like San Francisco'."
+        },
+        {
+            "id": "L015",
+            "sectionType": "listening",
+            "audioFile": "audio_l015.mp3",
+            "questionText": "What is an advantage of buying at the student store?",
+            "options": [
+                "It is open 24 hours",
+                "It offers a discount",
+                "It has better computers",
+                "It is located off-campus"
+            ],
+            "answerIndex": 1,
+            "explanation": "The woman mentions 'the student store offers a discount if you show your ID'."
+        },
+        {
+            "id": "L016",
+            "sectionType": "listening",
+            "audioFile": "audio_l016.mp3",
+            "questionText": "What is probably wrong with the man?",
+            "options": [
+                "He is just tired",
+                "He has the flu",
+                "He ate something bad",
+                "He studied too hard"
+            ],
+            "answerIndex": 1,
+            "explanation": "The man says, 'I think I caught that flu going around'."
+        },
+        {
+            "id": "L017",
+            "sectionType": "listening",
+            "audioFile": "audio_l017.mp3",
+            "questionText": "What does the woman suggest?",
+            "options": [
+                "Eating at the cafeteria again",
+                "Cooking lunch at home",
+                "Trying a new restaurant nearby",
+                "Skipping lunch today"
+            ],
+            "answerIndex": 2,
+            "explanation": "The woman mentions a 'new sandwich shop across the street' and suggests it is good."
+        },
+        {
+            "id": "L018",
+            "sectionType": "listening",
+            "audioFile": "audio_l018.mp3",
+            "questionText": "What advice does the man give the woman?",
+            "options": [
+                "Cancel the presentation",
+                "Practice alone in front of a mirror",
+                "Write down everything she wants to say",
+                "Practice with him"
+            ],
+            "answerIndex": 1,
+            "explanation": "The man explicitly asks, 'Why don't you try practicing in front of a mirror?'"
+        },
+        {
+            "id": "L019",
+            "sectionType": "listening",
+            "audioFile": "audio_l019.mp3",
+            "questionText": "What does the woman imply the man should do?",
+            "options": [
+                "Buy stamps at a grocery store",
+                "Go to the post office",
+                "Wait until he has stamps",
+                "Ask someone else to mail it"
+            ],
+            "answerIndex": 1,
+            "explanation": "She explains that the post office can handle it without stamps, implying he should go there."
+        },
+        {
+            "id": "L020",
+            "sectionType": "listening",
+            "audioFile": "audio_l020.mp3",
+            "questionText": "According to the speaker, why do animals hibernate?",
+            "options": [
+                "To hunt for food more easily",
+                "To avoid predators",
+                "To conserve energy during winter",
+                "To increase their body temperature"
+            ],
+            "answerIndex": 2,
+            "explanation": "The speaker states that the process 'allows the animal to conserve energy'."
+        }
+    ],
+    "long_sets": [
+        {
+            "setId": "LS001",
+            "title": "Discussion: Campus Environmental Initiative",
+            "audioFile": "audio_ls001.mp3",
+            "questions": [
+                {
+                    "id": "L021",
+                    "questionText": "What is the main purpose of the conversation?",
+                    "options": [
+                        "To plan a campus protest",
+                        "To discuss a new recycling program",
+                        "To apply for a student government position",
+                        "To complain about library hours"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The students are discussing the implementation of 'a new comprehensive recycling program on campus'."
+                },
+                {
+                    "id": "L022",
+                    "questionText": "According to the man, what is the biggest challenge to the program?",
+                    "options": [
+                        "Lack of funding",
+                        "Lack of student interest",
+                        "Finding a space for the bins",
+                        "Getting approval from the administration"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The man explicitly states that 'generating interest among the student body is our greatest hurdle'."
+                },
+                {
+                    "id": "L023",
+                    "questionText": "What does the woman suggest to improve student participation?",
+                    "options": [
+                        "Charging a fee for non-recycling",
+                        "Holding a recycling competition between dorms",
+                        "Giving out free coffee to recyclers",
+                        "Making recycling mandatory"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "She suggests, 'What if we had a competition to see which dorm can recycle the most?'"
+                },
+                {
+                    "id": "L024",
+                    "questionText": "What will the man do next?",
+                    "options": [
+                        "Call the university president",
+                        "Order the recycling bins",
+                        "Draft a proposal for the competition",
+                        "Quit the initiative"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "At the end, he says, 'I'll get started on drafting that proposal right away'."
+                }
+            ]
+        },
+        {
+            "setId": "LS002",
+            "title": "Lecture: Comets vs. Asteroids",
+            "audioFile": "audio_ls002.mp3",
+            "questions": [
+                {
+                    "id": "L025",
+                    "questionText": "What is the main topic of the lecture?",
+                    "options": [
+                        "The formation of the solar system",
+                        "The differences between comets and asteroids",
+                        "How to use a telescope",
+                        "The distance from Earth to Mars"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The professor states: 'Today we are going to clarify the difference between... comets and asteroids.'"
+                },
+                {
+                    "id": "L026",
+                    "questionText": "How does the professor describe a comet?",
+                    "options": [
+                        "As a burning rock",
+                        "As a dirty snowball",
+                        "As a piece of iron",
+                        "As a small planet"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The professor explicitly says: 'You can think of a comet as a dirty snowball.'"
+                },
+                {
+                    "id": "L027",
+                    "questionText": "Where are most asteroids located?",
+                    "options": [
+                        "Close to the Sun",
+                        "Between Mars and Jupiter",
+                        "Outside the solar system",
+                        "Near Earth's moon"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The talk mentions: 'Most of them are found in the Asteroid Belt, a vast ring located between the orbits of Mars and Jupiter.'"
+                },
+                {
+                    "id": "L028",
+                    "questionText": "What happens when a comet gets close to the Sun?",
+                    "options": [
+                        "It melts completely",
+                        "It stops moving",
+                        "It develops a tail",
+                        "It turns into an asteroid"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The professor explains that the ice heats up 'creating a glowing atmosphere and a tail'."
+                }
+            ]
+        },
+        {
+            "setId": "LS003",
+            "title": "Talk: The Safety Elevator",
+            "audioFile": "audio_ls003.mp3",
+            "questions": [
+                {
+                    "id": "L029",
+                    "questionText": "What prevented people from using early elevators for passengers?",
+                    "options": [
+                        "They were too slow",
+                        "They were too expensive",
+                        "They were dangerous if the cable broke",
+                        "They were only allowed in factories"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The guide says: 'If the lifting cable snapped, the car would crash... people were afraid to use them.'"
+                },
+                {
+                    "id": "L030",
+                    "questionText": "What did Elisha Otis invent?",
+                    "options": [
+                        "The first elevator",
+                        "The safety brake",
+                        "The steel cable",
+                        "The electric motor"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The guide clarifies: 'He invented a safety brake.'"
+                },
+                {
+                    "id": "L031",
+                    "questionText": "How did Otis demonstrate his invention?",
+                    "options": [
+                        "He ordered the rope to be cut while standing on the elevator",
+                        "He built the Empire State Building",
+                        "He wrote a book about it",
+                        "He dropped a heavy box from a tower"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "The text states: 'He stood on an elevator platform and ordered the rope to be cut.'"
+                },
+                {
+                    "id": "L032",
+                    "questionText": "What was the result of this invention?",
+                    "options": [
+                        "It made shipping freight cheaper",
+                        "It allowed for the construction of skyscrapers",
+                        "It caused the World's Fair to close",
+                        "It reduced the cost of steel"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The guide concludes: 'This invention gave architects the confidence to design tall buildings.'"
+                }
+            ]
+        },
+        {
+            "setId": "LS004",
+            "title": "Lecture: Honeybee Communication",
+            "audioFile": "audio_ls004.mp3",
+            "questions": [
+                {
+                    "id": "L033",
+                    "questionText": "What is the main topic of the lecture?",
+                    "options": [
+                        "How bees make honey",
+                        "The life cycle of a queen bee",
+                        "How honeybees communicate food location",
+                        "Why bees sting humans"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The professor discusses how bees communicate using the 'waggle dance' to share info about food."
+                },
+                {
+                    "id": "L034",
+                    "questionText": "What is the 'waggle dance' used for?",
+                    "options": [
+                        "To attract a mate",
+                        "To warn about predators",
+                        "To indicate distance and direction of food",
+                        "To keep the hive warm"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The professor says: 'This dance tells the other bees two things: the distance and the direction of the food.'"
+                },
+                {
+                    "id": "L035",
+                    "questionText": "How do bees indicate direction?",
+                    "options": [
+                        "By the loudness of their buzz",
+                        "By the angle of the dance relative to the sun",
+                        "By touching antennas",
+                        "By releasing a scent"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The talk states: 'The angle of the dance relates to the position of the sun, indicating direction.'"
+                },
+                {
+                    "id": "L036",
+                    "questionText": "What determines the distance to the food source?",
+                    "options": [
+                        "The duration of the waggle",
+                        "The number of bees dancing",
+                        "The time of day",
+                        "The speed of flight"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "The professor explains: 'The duration of the waggle part of the dance indicates how far away the flowers are.'"
+                }
+            ]
+        },
+        {
+            "setId": "LS005",
+            "title": "Lecture: Impressionism",
+            "audioFile": "audio_ls005.mp3",
+            "questions": [
+                {
+                    "id": "L037",
+                    "questionText": "What characterized art before Impressionism?",
+                    "options": [
+                        "It was abstract and colorful",
+                        "It was realistic and highly detailed",
+                        "It was mostly painted outdoors",
+                        "It focused on geometric shapes"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The professor says: 'Before this, art was expected to be realistic and highly detailed.'"
+                },
+                {
+                    "id": "L038",
+                    "questionText": "What did Impressionists want to capture?",
+                    "options": [
+                        "Historical accuracy",
+                        "Religious themes",
+                        "The momentary effect of light and color",
+                        "The anatomy of the human body"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "They 'wanted to capture the momentary effect of light and color.'"
+                },
+                {
+                    "id": "L039",
+                    "questionText": "What does 'en plein air' mean?",
+                    "options": [
+                        "In plain air",
+                        "Painting outdoors",
+                        "Painting quickly",
+                        "Painting portraits"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The professor defines it as: 'en plein air, or outdoors.'"
+                },
+                {
+                    "id": "L040",
+                    "questionText": "How did critics initially react to Impressionism?",
+                    "options": [
+                        "They loved it immediately",
+                        "They ignored it",
+                        "They hated it and called it unfinished",
+                        "They bought all the paintings"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The text states: 'At first, critics hated it, calling the works unfinished sketches.'"
+                }
+            ]
+        },
+        {
+            "setId": "LS006",
+            "title": "Lecture: Plate Tectonics",
+            "audioFile": "audio_ls006.mp3",
+            "questions": [
+                {
+                    "id": "L041",
+                    "questionText": "How does the speaker describe the Earth's outer shell?",
+                    "options": [
+                        "As a single solid piece",
+                        "As a liquid surface",
+                        "As broken pieces called plates",
+                        "As a soft sponge"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The speaker says it is 'broken into large pieces called tectonic plates.'"
+                },
+                {
+                    "id": "L042",
+                    "questionText": "How fast do tectonic plates move?",
+                    "options": [
+                        "Very quickly",
+                        "About the speed fingernails grow",
+                        "Faster than a car",
+                        "They do not move"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The speaker compares the speed to: 'about the same speed that your fingernails grow.'"
+                },
+                {
+                    "id": "L043",
+                    "questionText": "What happens when plates interact at their boundaries?",
+                    "options": [
+                        "The weather changes",
+                        "Oceans dry up",
+                        "Earthquakes and volcanic eruptions occur",
+                        "The Earth stops spinning"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The speaker lists results: 'they cause earthquakes, volcanic eruptions...'"
+                },
+                {
+                    "id": "L044",
+                    "questionText": "What is the theory called?",
+                    "options": [
+                        "The Big Bang",
+                        "Plate Tectonics",
+                        "Continental Drift",
+                        "The Ring of Fire"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The speaker explicitly states: 'This theory is called Plate Tectonics.'"
+                }
+            ]
+        },
+        {
+            "setId": "LS007",
+            "title": "Discussion: Research Paper Topic",
+            "audioFile": "audio_ls007.mp3",
+            "questions": [
+                {
+                    "id": "L045",
+                    "questionText": "Why is the student visiting the professor?",
+                    "options": [
+                        "To ask for a grade change",
+                        "To discuss his research paper topic",
+                        "To complain about social media",
+                        "To apply for a job"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The student says: 'I wanted to discuss my topic for the final research paper.'"
+                },
+                {
+                    "id": "L046",
+                    "questionText": "What was the student's initial topic idea?",
+                    "options": [
+                        "The history of the internet",
+                        "Impact of social media on marketing",
+                        "Small businesses in the area",
+                        "How to use Instagram"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "He proposed: 'analyzing the impact of social media on modern marketing.'"
+                },
+                {
+                    "id": "L047",
+                    "questionText": "What was the professor's main feedback?",
+                    "options": [
+                        "The topic is too boring",
+                        "The topic is too broad",
+                        "The student should change his major",
+                        "The topic is perfect as is"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The professor says: 'it is also extremely broad... I suggest you narrow it down.'"
+                },
+                {
+                    "id": "L048",
+                    "questionText": "How did the student narrow down the topic?",
+                    "options": [
+                        "By focusing on Instagram and small businesses",
+                        "By writing about Facebook only",
+                        "By interviewing the professor",
+                        "By analyzing global corporations"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "He suggests: 'focus specifically on how small businesses use Instagram'."
+                }
+            ]
+        },
+        {
+            "setId": "LS008",
+            "title": "Lecture: Coral Reefs",
+            "audioFile": "audio_ls008.mp3",
+            "questions": [
+                {
+                    "id": "L049",
+                    "questionText": "What is a coral actually composed of?",
+                    "options": [
+                        "Hard rocks",
+                        "Colorful plants",
+                        "Tiny animals called polyps",
+                        "Dead fish"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The professor clarifies: 'it is actually a colony of tiny animals called polyps.'"
+                },
+                {
+                    "id": "L050",
+                    "questionText": "What is the relationship between coral and zooxanthellae?",
+                    "options": [
+                        "They are enemies",
+                        "They have a symbiotic relationship",
+                        "The algae eat the coral",
+                        "They compete for sunlight"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The lecture states: 'These polyps have a fascinating symbiotic relationship with microscopic algae.'"
+                },
+                {
+                    "id": "L051",
+                    "questionText": "What happens during 'coral bleaching'?",
+                    "options": [
+                        "The coral turns white because it expels the algae",
+                        "The coral grows larger",
+                        "The coral turns green",
+                        "The coral moves to colder water"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "The professor explains: 'corals... expel these algae. This causes the coral to turn completely white.'"
+                },
+                {
+                    "id": "L052",
+                    "questionText": "What is the main cause of coral bleaching mentioned in the lecture?",
+                    "options": [
+                        "Water pollution",
+                        "Overfishing",
+                        "Rising water temperatures",
+                        "Tourists touching the reef"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The text says: 'when water temperatures rise due to climate change...'"
+                }
+            ]
+        },
+        {
+            "setId": "LS009",
+            "title": "Lecture: Memory Types",
+            "audioFile": "audio_ls009.mp3",
+            "questions": [
+                {
+                    "id": "L053",
+                    "questionText": "What is the main topic of the lecture?",
+                    "options": [
+                        "How to fix a computer",
+                        "The difference between short-term and long-term memory",
+                        "Why we forget our childhood",
+                        "The anatomy of the brain"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The professor introduces the topic: 'The most common model divides memory into two main types: short-term and long-term memory.'"
+                },
+                {
+                    "id": "L054",
+                    "questionText": "To what does the professor compare short-term memory?",
+                    "options": [
+                        "A library",
+                        "A hard drive",
+                        "A computer's RAM",
+                        "A phone book"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The professor explicitly says: 'It's like a computer's RAM.'"
+                },
+                {
+                    "id": "L055",
+                    "questionText": "About how long does information stay in short-term memory without rehearsal?",
+                    "options": [
+                        "1 to 2 minutes",
+                        "20 to 30 seconds",
+                        "1 hour",
+                        "Forever"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The text states: 'You can hold information there for about 20 to 30 seconds.'"
+                },
+                {
+                    "id": "L056",
+                    "questionText": "What is required to move information into long-term memory?",
+                    "options": [
+                        "Sleeping",
+                        "Eating healthy food",
+                        "Rehearsal or encoding",
+                        "Writing it down"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The professor explains: 'you need to use a process called rehearsal or encoding.'"
+                }
+            ]
+        },
+        {
+            "setId": "LS010",
+            "title": "Conversation: Career Services",
+            "audioFile": "audio_ls010.mp3",
+            "questions": [
+                {
+                    "id": "L057",
+                    "questionText": "Why did the student visit the career counselor?",
+                    "options": [
+                        "To find a job after graduation",
+                        "To get help with his resume for an internship",
+                        "To volunteer at the center",
+                        "To complain about a class"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The student says: 'I'm planning to apply for summer internships, but I'm really struggling with my resume.'"
+                },
+                {
+                    "id": "L058",
+                    "questionText": "What is the student worried about regarding his resume?",
+                    "options": [
+                        "It is too long",
+                        "It has spelling errors",
+                        "It is too empty because he lacks experience",
+                        "The font size is too small"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "He mentions: 'I feel like it's too empty. I haven't had a real job before.'"
+                },
+                {
+                    "id": "L059",
+                    "questionText": "What does the counselor say about volunteer work?",
+                    "options": [
+                        "It does not count as experience",
+                        "It counts as experience and shows dedication",
+                        "It should be removed from the resume",
+                        "It is only useful for scholarships"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "She reassures him: 'volunteer work counts as experience! It shows dedication and skill.'"
+                },
+                {
+                    "id": "L060",
+                    "questionText": "What does the counselor suggest the student do next?",
+                    "options": [
+                        "Apply for the internship immediately",
+                        "Rewrite the resume alone",
+                        "Attend a Resume Workshop on Thursday",
+                        "Get a part-time job"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "She recommends: 'I recommend you attend our Resume Workshop this Thursday.'"
+                }
+            ]
+        },
+        {
+            "setId": "LS011",
+            "title": "Lecture: Realism & Mark Twain",
+            "audioFile": "audio_ls011.mp3",
+            "questions": [
+                {
+                    "id": "L061",
+                    "questionText": "What is the main difference between Realism and Romanticism mentioned by the professor?",
+                    "options": [
+                        "Romanticism is older than Realism",
+                        "Realism depicts life as it is, while Romanticism focuses on idealism",
+                        "Realism focuses on poetry, while Romanticism focuses on novels",
+                        "There is no difference"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The professor states: 'While Romanticism focused on emotion and idealism, Realism tried to depict life exactly as it was.'"
+                },
+                {
+                    "id": "L062",
+                    "questionText": "Why does the professor mention Mark Twain?",
+                    "options": [
+                        "He was a Romantic poet",
+                        "He criticized the Realist movement",
+                        "He was a central figure of the Realism movement",
+                        "He lived in England"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The text says: 'A central figure of this movement was Mark Twain.'"
+                },
+                {
+                    "id": "L063",
+                    "questionText": "What was unique about the dialogue in 'Huckleberry Finn'?",
+                    "options": [
+                        "It was written in Latin",
+                        "It used perfect, poetic English",
+                        "It used the specific dialect of the American South",
+                        "It had no dialogue"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The professor explains: 'Twain used the specific dialect of the American South... he made them speak like real people.'"
+                },
+                {
+                    "id": "L064",
+                    "questionText": "What subjects did Realist writers focus on?",
+                    "options": [
+                        "Supernatural events",
+                        "Heroic knights",
+                        "Kings and Queens",
+                        "Everyday events and common people"
+                    ],
+                    "answerIndex": 3,
+                    "explanation": "The lecture concludes: 'Realist writers focused on everyday events, common people, and social problems.'"
+                }
+            ]
+        },
+        {
+            "setId": "LS012",
+            "title": "Talk: Geothermal Energy",
+            "audioFile": "audio_ls012.mp3",
+            "questions": [
+                {
+                    "id": "L065",
+                    "questionText": "Where does geothermal energy come from?",
+                    "options": [
+                        "The wind",
+                        "The sun",
+                        "Heat stored inside the Earth",
+                        "Ocean waves"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The speaker states: 'This energy comes from the heat stored inside the Earth.'"
+                },
+                {
+                    "id": "L066",
+                    "questionText": "What is the main advantage of geothermal energy over solar and wind?",
+                    "options": [
+                        "It is cheaper to build",
+                        "It is consistent and available 24 hours a day",
+                        "It looks better",
+                        "It uses less land"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The speaker emphasizes: 'One of the biggest advantages... is consistency... available 24 hours a day.'"
+                },
+                {
+                    "id": "L067",
+                    "questionText": "Why do solar panels and wind turbines have limitations according to the talk?",
+                    "options": [
+                        "They are too expensive",
+                        "They depend on weather conditions (sun and wind)",
+                        "They are dangerous to birds",
+                        "They don't last long"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The speaker notes: 'Solar panels don't work at night, and wind turbines stop when the air is still.'"
+                },
+                {
+                    "id": "L068",
+                    "questionText": "Where are geothermal resources most commonly found?",
+                    "options": [
+                        "In the middle of the desert",
+                        "Along major plate boundaries like the 'Ring of Fire'",
+                        "In the rainforest",
+                        "On top of high mountains"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The text mentions: 'found along major plate boundaries... such as the Ring of Fire.'"
+                }
+            ]
+        },
+        {
+            "setId": "LS013",
+            "title": "Conversation: Housing Request",
+            "audioFile": "audio_ls013.mp3",
+            "questions": [
+                {
+                    "id": "L069",
+                    "questionText": "What is the student's problem?",
+                    "options": [
+                        "The room is broken",
+                        "She cannot afford the rent",
+                        "Her roommate has a conflicting schedule",
+                        "She wants a bigger room"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "She explains: 'my roommate and I have very different schedules... She studies late at night... and I have 8 AM classes.'"
+                },
+                {
+                    "id": "L070",
+                    "questionText": "What is the 'freeze period'?",
+                    "options": [
+                        "A time when the heating is turned off",
+                        "The first two weeks when no moves are allowed",
+                        "The winter break",
+                        "A time when students must stay indoors"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The officer defines it as: 'a freeze period for the first two weeks of classes where no moves are allowed.'"
+                },
+                {
+                    "id": "L071",
+                    "questionText": "Why does the university have a freeze period?",
+                    "options": [
+                        "To save money",
+                        "To verify who actually arrived on campus",
+                        "To punish students",
+                        "To clean the rooms"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The officer says: 'This gives us time to verify who actually arrived on campus.'"
+                },
+                {
+                    "id": "L072",
+                    "questionText": "What can the student do today?",
+                    "options": [
+                        "Move to a new room immediately",
+                        "Fill out a transfer request form",
+                        "Talk to her roommate",
+                        "Leave the university"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The officer concludes: 'You can fill out this transfer request form today, but we can't process the move until next Monday.'"
+                }
+            ]
+        }
+    ]
+}
