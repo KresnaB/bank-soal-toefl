@@ -1,0 +1,1909 @@
+{
+    "passages": [
+        {
+            "passageId": 1,
+            "title": "The History of Coffee",
+            "content": "Coffee is one of the most popular beverages in the world today. Its origins can be traced back to Ethiopia, where legend has it that a goat herder named Kaldi discovered the coffee plant around 850 AD. Kaldi noticed that his goats became unusually energetic after eating berries from a certain tree.\n\nFrom Ethiopia, coffee spread to the Arabian Peninsula, where it was first cultivated and traded. By the 15th century, coffee was being grown in the Yemeni district of Arabia. The word 'coffee' itself is derived from the Arabic word 'qahwah.'\n\nCoffeehouses began appearing in cities across the Near East during the 16th century. These establishments became important social gathering places where people would engage in conversation, listen to music, and watch performances. Coffee eventually made its way to Europe in the 17th century, where it quickly gained popularity despite initial resistance from some religious groups.\n\nToday, coffee is grown in more than 70 countries, primarily in the equatorial regions of the Americas, Southeast Asia, India, and Africa. Brazil is the largest producer, followed by Vietnam and Colombia. The global coffee industry employs millions of people and generates billions of dollars annually.",
+            "questions": [
+                {
+                    "id": "R001",
+                    "questionText": "According to the passage, where did coffee originate?",
+                    "options": [
+                        "Yemen",
+                        "Arabia",
+                        "Ethiopia",
+                        "Europe"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage states 'Its origins can be traced back to Ethiopia.'"
+                },
+                {
+                    "id": "R002",
+                    "questionText": "What function did coffeehouses serve in the Near East?",
+                    "options": [
+                        "Religious ceremonies",
+                        "Agricultural markets",
+                        "Social gathering places",
+                        "Government offices"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage describes coffeehouses as 'important social gathering places.'"
+                },
+                {
+                    "id": "R003",
+                    "questionText": "The word 'qahwah' is mentioned to show:",
+                    "options": [
+                        "The cost of coffee in ancient times",
+                        "The origin of the English word 'coffee'",
+                        "A type of coffee bean",
+                        "An ancient coffee recipe"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage explains that 'The word coffee itself is derived from the Arabic word qahwah.'"
+                },
+                {
+                    "id": "R004",
+                    "questionText": "According to the passage, when did coffee arrive in Europe?",
+                    "options": [
+                        "15th century",
+                        "16th century",
+                        "17th century",
+                        "18th century"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage states 'Coffee eventually made its way to Europe in the 17th century.'"
+                },
+                {
+                    "id": "R005",
+                    "questionText": "Who is Kaldi mentioned in the passage?",
+                    "options": [
+                        "A coffee merchant",
+                        "A goat herder",
+                        "An Arabian king",
+                        "A European explorer"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage says 'a goat herder named Kaldi discovered the coffee plant.'"
+                },
+                {
+                    "id": "R006",
+                    "questionText": "Which country is the largest coffee producer today?",
+                    "options": [
+                        "Vietnam",
+                        "Colombia",
+                        "Ethiopia",
+                        "Brazil"
+                    ],
+                    "answerIndex": 3,
+                    "explanation": "The passage states 'Brazil is the largest producer.'"
+                },
+                {
+                    "id": "R007",
+                    "questionText": "The word 'cultivated' in paragraph 2 is closest in meaning to:",
+                    "options": [
+                        "discovered",
+                        "grown",
+                        "sold",
+                        "consumed"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Cultivated means grown or farmed."
+                },
+                {
+                    "id": "R008",
+                    "questionText": "What did Kaldi observe about his goats?",
+                    "options": [
+                        "They refused to eat",
+                        "They became energetic",
+                        "They got sick",
+                        "They produced more milk"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage states the goats 'became unusually energetic after eating berries.'"
+                },
+                {
+                    "id": "R009",
+                    "questionText": "In how many countries is coffee grown today?",
+                    "options": [
+                        "More than 50",
+                        "More than 60",
+                        "More than 70",
+                        "More than 80"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage states 'coffee is grown in more than 70 countries.'"
+                },
+                {
+                    "id": "R010",
+                    "questionText": "What was the initial reaction to coffee in Europe?",
+                    "options": [
+                        "Immediate acceptance",
+                        "Resistance from religious groups",
+                        "Ban by governments",
+                        "Indifference"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage mentions 'initial resistance from some religious groups.'"
+                }
+            ]
+        },
+        {
+            "passageId": 2,
+            "title": "Photosynthesis: Nature's Energy Factory",
+            "content": "Photosynthesis is the process by which plants, algae, and certain bacteria convert light energy, usually from the sun, into chemical energy stored in glucose. This remarkable process is fundamental to life on Earth, as it produces the oxygen we breathe and forms the base of most food chains.\n\nThe process occurs primarily in the leaves of plants, within specialized cell structures called chloroplasts. These chloroplasts contain chlorophyll, the green pigment that gives plants their characteristic color. Chlorophyll absorbs light most efficiently in the red and blue portions of the electromagnetic spectrum, while reflecting green light—which is why plants appear green to our eyes.\n\nThe basic equation for photosynthesis can be summarized as: carbon dioxide + water + light energy → glucose + oxygen. During the light-dependent reactions, water molecules are split, releasing oxygen as a byproduct. The light-independent reactions, also known as the Calvin cycle, use the energy captured during the light reactions to convert carbon dioxide into glucose.\n\nScientists estimate that photosynthesis produces approximately 100-115 billion tons of carbon in biomass each year. This process removes about 100 billion tons of carbon dioxide from the atmosphere annually, making plants crucial in regulating Earth's climate and atmospheric composition.",
+            "questions": [
+                {
+                    "id": "R011",
+                    "questionText": "What is the main purpose of photosynthesis?",
+                    "options": [
+                        "To produce water",
+                        "To convert light energy into chemical energy",
+                        "To release carbon dioxide",
+                        "To absorb oxygen"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Photosynthesis converts light energy into chemical energy stored in glucose."
+                },
+                {
+                    "id": "R012",
+                    "questionText": "Where does photosynthesis primarily occur?",
+                    "options": [
+                        "In the roots",
+                        "In the stems",
+                        "In the leaves",
+                        "In the flowers"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage states it 'occurs primarily in the leaves of plants.'"
+                },
+                {
+                    "id": "R013",
+                    "questionText": "Why do plants appear green?",
+                    "options": [
+                        "Chlorophyll absorbs green light",
+                        "Chlorophyll reflects green light",
+                        "Plants produce green oxygen",
+                        "The sun emits green light"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage explains chlorophyll 'reflecting green light—which is why plants appear green.'"
+                },
+                {
+                    "id": "R014",
+                    "questionText": "What is released as a byproduct during photosynthesis?",
+                    "options": [
+                        "Carbon dioxide",
+                        "Nitrogen",
+                        "Oxygen",
+                        "Hydrogen"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage states 'water molecules are split, releasing oxygen as a byproduct.'"
+                },
+                {
+                    "id": "R015",
+                    "questionText": "The Calvin cycle is another name for:",
+                    "options": [
+                        "Light-dependent reactions",
+                        "Light-independent reactions",
+                        "Chlorophyll absorption",
+                        "Water splitting"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage states 'light-independent reactions, also known as the Calvin cycle.'"
+                },
+                {
+                    "id": "R016",
+                    "questionText": "What structures contain chlorophyll?",
+                    "options": [
+                        "Mitochondria",
+                        "Chloroplasts",
+                        "Nuclei",
+                        "Vacuoles"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage mentions 'chloroplasts contain chlorophyll.'"
+                },
+                {
+                    "id": "R017",
+                    "questionText": "How much carbon dioxide does photosynthesis remove annually?",
+                    "options": [
+                        "About 50 billion tons",
+                        "About 75 billion tons",
+                        "About 100 billion tons",
+                        "About 150 billion tons"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage states it 'removes about 100 billion tons of carbon dioxide.'"
+                },
+                {
+                    "id": "R018",
+                    "questionText": "Which colors of light does chlorophyll absorb most efficiently?",
+                    "options": [
+                        "Green and yellow",
+                        "Red and blue",
+                        "Orange and purple",
+                        "White and black"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage states chlorophyll 'absorbs light most efficiently in the red and blue portions.'"
+                },
+                {
+                    "id": "R019",
+                    "questionText": "The word 'fundamental' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Optional",
+                        "Essential",
+                        "Complicated",
+                        "Recent"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Fundamental means basic or essential."
+                },
+                {
+                    "id": "R020",
+                    "questionText": "What role do plants play in Earth's climate?",
+                    "options": [
+                        "They increase temperature",
+                        "They regulate atmospheric composition",
+                        "They produce carbon dioxide",
+                        "They have no effect"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage describes plants as 'crucial in regulating Earth's climate and atmospheric composition.'"
+                }
+            ]
+        },
+        {
+            "passageId": 3,
+            "title": "The Great Wall of China",
+            "content": "The Great Wall of China is one of the most impressive architectural achievements in human history. Contrary to popular belief, the wall is not a single continuous structure but rather a series of walls and fortifications built over many centuries by various Chinese dynasties. The earliest walls were constructed as early as the 7th century BC, though the most well-known sections were built during the Ming Dynasty (1368-1644 AD).\n\nThe primary purpose of the wall was defensive—to protect Chinese states and empires from nomadic groups from the northern steppes. The wall also served as a means of controlling immigration and emigration, as well as imposing duties on goods transported along the Silk Road. Guard towers were placed at regular intervals, allowing soldiers to signal each other using smoke or fire.\n\nThe total length of all walls built throughout history is estimated to be approximately 21,196 kilometers (13,171 miles). However, much of the ancient wall has deteriorated or been destroyed over time. The sections most visited by tourists today, such as those near Beijing at Badaling and Mutianyu, have been restored and maintained.\n\nIn 1987, the Great Wall was designated a UNESCO World Heritage Site. It is now one of the most popular tourist attractions in the world, drawing millions of visitors each year. Despite the famous claim, the wall is not visible from space with the naked eye under normal conditions.",
+            "questions": [
+                {
+                    "id": "R021",
+                    "questionText": "According to the passage, the Great Wall is:",
+                    "options": [
+                        "A single continuous structure",
+                        "A series of walls and fortifications",
+                        "Built entirely by one dynasty",
+                        "Only 1,000 years old"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage states it is 'a series of walls and fortifications built over many centuries.'"
+                },
+                {
+                    "id": "R022",
+                    "questionText": "When were the most famous sections of the wall built?",
+                    "options": [
+                        "7th century BC",
+                        "10th century AD",
+                        "Ming Dynasty",
+                        "20th century"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage states 'the most well-known sections were built during the Ming Dynasty.'"
+                },
+                {
+                    "id": "R023",
+                    "questionText": "What was the primary purpose of the Great Wall?",
+                    "options": [
+                        "Tourism",
+                        "Trade",
+                        "Defense",
+                        "Agriculture"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage states 'the primary purpose of the wall was defensive.'"
+                },
+                {
+                    "id": "R024",
+                    "questionText": "How were guard towers used?",
+                    "options": [
+                        "For storing weapons",
+                        "For signaling using smoke or fire",
+                        "For living quarters",
+                        "For religious ceremonies"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage mentions soldiers could 'signal each other using smoke or fire.'"
+                },
+                {
+                    "id": "R025",
+                    "questionText": "What is the estimated total length of all walls?",
+                    "options": [
+                        "About 10,000 km",
+                        "About 15,000 km",
+                        "About 21,000 km",
+                        "About 30,000 km"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage states 'approximately 21,196 kilometers.'"
+                },
+                {
+                    "id": "R026",
+                    "questionText": "When was the Great Wall designated a UNESCO World Heritage Site?",
+                    "options": [
+                        "1967",
+                        "1977",
+                        "1987",
+                        "1997"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage states 'In 1987, the Great Wall was designated a UNESCO World Heritage Site.'"
+                },
+                {
+                    "id": "R027",
+                    "questionText": "The word 'deteriorated' in paragraph 3 is closest in meaning to:",
+                    "options": [
+                        "Improved",
+                        "Expanded",
+                        "Declined",
+                        "Relocated"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Deteriorated means declined or gotten worse over time."
+                },
+                {
+                    "id": "R028",
+                    "questionText": "Which tourist sites are mentioned near Beijing?",
+                    "options": [
+                        "Shanghai and Hangzhou",
+                        "Badaling and Mutianyu",
+                        "Xi'an and Guilin",
+                        "Suzhou and Nanjing"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage mentions 'sections near Beijing at Badaling and Mutianyu.'"
+                },
+                {
+                    "id": "R029",
+                    "questionText": "What role did the wall play regarding the Silk Road?",
+                    "options": [
+                        "It blocked all trade",
+                        "It imposed duties on goods",
+                        "It had no connection",
+                        "It was built for the Silk Road"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage mentions 'imposing duties on goods transported along the Silk Road.'"
+                },
+                {
+                    "id": "R030",
+                    "questionText": "Can the Great Wall be seen from space with the naked eye?",
+                    "options": [
+                        "Yes, easily",
+                        "Yes, with difficulty",
+                        "No, under normal conditions",
+                        "Only during certain seasons"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage states it 'is not visible from space with the naked eye under normal conditions.'"
+                }
+            ]
+        },
+        {
+            "passageId": 4,
+            "title": "The Human Brain",
+            "content": "The human brain is the most complex organ in the known universe. Weighing approximately 1.4 kilograms (3 pounds), it contains roughly 86 billion neurons, each connected to thousands of other neurons through synapses. These connections create an intricate network capable of processing vast amounts of information simultaneously.\n\nThe brain is divided into several major regions, each responsible for different functions. The cerebrum, the largest part, handles conscious thought, learning, memory, and voluntary movement. The cerebellum, located at the back of the brain, coordinates balance and motor skills. The brainstem controls vital automatic functions such as breathing, heart rate, and blood pressure.\n\nDespite constituting only about 2% of body weight, the brain consumes approximately 20% of the body's energy. It requires a constant supply of oxygen and glucose to function properly. Even a brief interruption of blood flow to the brain can result in unconsciousness within seconds and permanent damage within minutes.\n\nRecent neuroscience research has revealed that the brain remains plastic throughout life, meaning it can form new neural connections and adapt to new experiences. This neuroplasticity allows for learning at any age and offers hope for recovery from brain injuries. However, many mysteries about consciousness, memory formation, and the nature of thought remain unsolved.",
+            "questions": [
+                {
+                    "id": "R031",
+                    "questionText": "How much does the human brain weigh?",
+                    "options": [
+                        "About 1 kilogram",
+                        "About 1.4 kilograms",
+                        "About 2 kilograms",
+                        "About 3 kilograms"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage states 'Weighing approximately 1.4 kilograms.'"
+                },
+                {
+                    "id": "R032",
+                    "questionText": "How many neurons does the brain contain?",
+                    "options": [
+                        "About 8 billion",
+                        "About 46 billion",
+                        "About 86 billion",
+                        "About 100 billion"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage states 'roughly 86 billion neurons.'"
+                },
+                {
+                    "id": "R033",
+                    "questionText": "Which part of the brain is responsible for balance?",
+                    "options": [
+                        "Cerebrum",
+                        "Cerebellum",
+                        "Brainstem",
+                        "Cortex"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage states 'The cerebellum... coordinates balance and motor skills.'"
+                },
+                {
+                    "id": "R034",
+                    "questionText": "What percentage of body energy does the brain consume?",
+                    "options": [
+                        "About 10%",
+                        "About 15%",
+                        "About 20%",
+                        "About 25%"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage states 'the brain consumes approximately 20% of the body's energy.'"
+                },
+                {
+                    "id": "R035",
+                    "questionText": "What does the brainstem control?",
+                    "options": [
+                        "Conscious thought",
+                        "Balance and coordination",
+                        "Automatic functions like breathing",
+                        "Learning and memory"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage states the brainstem 'controls vital automatic functions such as breathing.'"
+                },
+                {
+                    "id": "R036",
+                    "questionText": "What is neuroplasticity?",
+                    "options": [
+                        "Brain damage",
+                        "The brain's ability to form new connections",
+                        "Brain surgery",
+                        "Memory loss"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage describes neuroplasticity as the brain's ability to 'form new neural connections and adapt.'"
+                },
+                {
+                    "id": "R037",
+                    "questionText": "What percentage of body weight does the brain constitute?",
+                    "options": [
+                        "About 1%",
+                        "About 2%",
+                        "About 5%",
+                        "About 10%"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage states 'constituting only about 2% of body weight.'"
+                },
+                {
+                    "id": "R038",
+                    "questionText": "What happens if blood flow to the brain is interrupted?",
+                    "options": [
+                        "Nothing significant",
+                        "Improved function",
+                        "Unconsciousness within seconds",
+                        "Gradual improvement"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage states 'interruption of blood flow... can result in unconsciousness within seconds.'"
+                },
+                {
+                    "id": "R039",
+                    "questionText": "The word 'intricate' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Simple",
+                        "Complex",
+                        "Fast",
+                        "Large"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Intricate means complex or complicated."
+                },
+                {
+                    "id": "R040",
+                    "questionText": "What does the cerebrum handle?",
+                    "options": [
+                        "Only breathing",
+                        "Balance only",
+                        "Conscious thought and memory",
+                        "Blood pressure only"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage states the cerebrum 'handles conscious thought, learning, memory.'"
+                }
+            ]
+        },
+        {
+            "passageId": 5,
+            "title": "Climate Change and Its Effects",
+            "content": "Climate change refers to long-term shifts in global temperatures and weather patterns. While climate variations have occurred naturally throughout Earth's history, human activities since the Industrial Revolution have been the primary driver of climate change since the mid-20th century. The burning of fossil fuels—coal, oil, and natural gas—releases carbon dioxide and other greenhouse gases into the atmosphere.\n\nGreenhouse gases trap heat in the atmosphere, causing a warming effect known as the greenhouse effect. While this effect is natural and necessary for life on Earth, the increase in greenhouse gas concentrations has intensified it, leading to global warming. The average global temperature has risen by approximately 1.1 degrees Celsius since the pre-industrial era.\n\nThe effects of climate change are wide-ranging and increasingly visible. Rising temperatures have led to the melting of polar ice caps and glaciers, contributing to sea level rise. Extreme weather events, including hurricanes, droughts, and heat waves, have become more frequent and intense. Many ecosystems are being disrupted, threatening biodiversity and species survival.\n\nAddressing climate change requires global cooperation and significant changes in energy production and consumption. Renewable energy sources such as solar, wind, and hydroelectric power offer alternatives to fossil fuels. Many countries have committed to reducing carbon emissions through international agreements like the Paris Agreement, which aims to limit global warming to 1.5 degrees Celsius above pre-industrial levels.",
+            "questions": [
+                {
+                    "id": "R041",
+                    "questionText": "What has been the primary driver of recent climate change?",
+                    "options": [
+                        "Natural cycles",
+                        "Volcanic activity",
+                        "Human activities",
+                        "Solar radiation"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage states 'human activities... have been the primary driver of climate change.'"
+                },
+                {
+                    "id": "R042",
+                    "questionText": "Which gases are released by burning fossil fuels?",
+                    "options": [
+                        "Oxygen and nitrogen",
+                        "Carbon dioxide and greenhouse gases",
+                        "Hydrogen and helium",
+                        "Ozone and argon"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage mentions 'releases carbon dioxide and other greenhouse gases.'"
+                },
+                {
+                    "id": "R043",
+                    "questionText": "How much has the average global temperature risen?",
+                    "options": [
+                        "About 0.5 degrees Celsius",
+                        "About 1.1 degrees Celsius",
+                        "About 2 degrees Celsius",
+                        "About 3 degrees Celsius"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage states 'approximately 1.1 degrees Celsius since the pre-industrial era.'"
+                },
+                {
+                    "id": "R044",
+                    "questionText": "What is the greenhouse effect?",
+                    "options": [
+                        "Cooling of the atmosphere",
+                        "Trapping of heat in the atmosphere",
+                        "Release of oxygen",
+                        "Absorption of water"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage describes it as 'trap heat in the atmosphere, causing a warming effect.'"
+                },
+                {
+                    "id": "R045",
+                    "questionText": "What has contributed to sea level rise?",
+                    "options": [
+                        "Increased rainfall",
+                        "Melting of ice caps and glaciers",
+                        "Underwater earthquakes",
+                        "Ocean currents"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage mentions 'melting of polar ice caps and glaciers, contributing to sea level rise.'"
+                },
+                {
+                    "id": "R046",
+                    "questionText": "Which renewable energy sources are mentioned?",
+                    "options": [
+                        "Nuclear and coal",
+                        "Solar, wind, and hydroelectric",
+                        "Oil and natural gas",
+                        "Geothermal only"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage mentions 'solar, wind, and hydroelectric power.'"
+                },
+                {
+                    "id": "R047",
+                    "questionText": "What is the goal of the Paris Agreement regarding temperature?",
+                    "options": [
+                        "Limit warming to 0.5 degrees",
+                        "Limit warming to 1.5 degrees",
+                        "Limit warming to 2.5 degrees",
+                        "No specific goal"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage states it 'aims to limit global warming to 1.5 degrees Celsius.'"
+                },
+                {
+                    "id": "R048",
+                    "questionText": "The word 'disrupted' in paragraph 3 is closest in meaning to:",
+                    "options": [
+                        "Improved",
+                        "Disturbed",
+                        "Created",
+                        "Expanded"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Disrupted means disturbed or interrupted."
+                },
+                {
+                    "id": "R049",
+                    "questionText": "What extreme weather events are mentioned?",
+                    "options": [
+                        "Snowstorms and earthquakes",
+                        "Hurricanes, droughts, and heat waves",
+                        "Tsunamis and volcanic eruptions",
+                        "Tornadoes only"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage mentions 'hurricanes, droughts, and heat waves.'"
+                },
+                {
+                    "id": "R050",
+                    "questionText": "What is being threatened by ecosystem disruption?",
+                    "options": [
+                        "Only plants",
+                        "Biodiversity and species survival",
+                        "Only ocean life",
+                        "Only human food supply"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage mentions 'threatening biodiversity and species survival.'"
+                }
+            ]
+        },
+        {
+            "passageId": 6,
+            "title": "The Industrial Revolution",
+            "content": "The Industrial Revolution was a period of global transition of the human economy towards more widespread, efficient, and stable manufacturing processes. Beginning in Great Britain in the 18th century, it quickly spread to other parts of the world, particularly Europe and North America. This era was characterized by the transition from hand production methods to machines, new chemical manufacturing and iron production processes, the increasing use of steam power and water power, the development of machine tools, and the rise of the mechanized factory system.\n\nOne of the most significant technological developments of the Industrial Revolution was the steam engine, perfected by James Watt in the 1770s. The steam engine allowed for the automation of manufacturing and revolutionized transportation with the invention of the steam locomotive and steamship. Another key innovation was the spinning jenny, which drastically increased the productivity of the textile industry.\n\nThe Industrial Revolution brought about profound social and economic changes. It led to rapid urbanization as people moved from rural areas to cities in search of work in factories. While it resulted in an unprecedented rise in the rate of population growth and an overall increase in the standard of living for some, it also led to poor working conditions, child labor, and environmental pollution. The impacts of this era continue to shape the modern world, laying the foundation for contemporary industrial societies.",
+            "questions": [
+                {
+                    "id": "R051",
+                    "questionText": "Where did the Industrial Revolution begin?",
+                    "options": [
+                        "North America",
+                        "Great Britain",
+                        "France",
+                        "Germany"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage states it began in Great Britain in the 18th century."
+                },
+                {
+                    "id": "R052",
+                    "questionText": "Which of the following was NOT a characteristic of the Industrial Revolution?",
+                    "options": [
+                        "Hand production methods",
+                        "Use of steam power",
+                        "Mechanized factory system",
+                        "Machine tools"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "The passage describes the 'transition FROM hand production methods TO machines.'"
+                },
+                {
+                    "id": "R053",
+                    "questionText": "Who perfected the steam engine in the 1770s?",
+                    "options": [
+                        "Eli Whitney",
+                        "Thomas Edison",
+                        "James Watt",
+                        "Robert Fulton"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage identifies James Watt as the one who perfected the steam engine."
+                },
+                {
+                    "id": "R054",
+                    "questionText": "What industry was most affected by the spinning jenny?",
+                    "options": [
+                        "Iron production",
+                        "Transportation",
+                        "Agriculture",
+                        "Textiles"
+                    ],
+                    "answerIndex": 3,
+                    "explanation": "The passage mentions the spinning jenny 'increased the productivity of the textile industry.'"
+                },
+                {
+                    "id": "R055",
+                    "questionText": "What does 'urbanization' refer to in the passage?",
+                    "options": [
+                        "Growth of rural farming",
+                        "Movement of people to cities",
+                        "Decrease in population",
+                        "Preservation of nature"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage links urbanization suggests people moving from rural areas to cities."
+                },
+                {
+                    "id": "R056",
+                    "questionText": "According to the passage, the steam engine revolutionized:",
+                    "options": [
+                        "Agriculture",
+                        "Communication",
+                        "Transportation",
+                        "Education"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage states it 'revolutionized transportation with the invention of the steam locomotive and steamship.'"
+                },
+                {
+                    "id": "R057",
+                    "questionText": "Which of the following was a negative effect of the Industrial Revolution?",
+                    "options": [
+                        "Increase in standard of living",
+                        "New manufacturing processes",
+                        "Population growth",
+                        "Child labor"
+                    ],
+                    "answerIndex": 3,
+                    "explanation": "The passage lists child labor as one of the negative outcomes."
+                },
+                {
+                    "id": "R058",
+                    "questionText": "The word 'profound' in paragraph 3 is closest in meaning to:",
+                    "options": [
+                        "Slight",
+                        "Deep and significant",
+                        "Negative",
+                        "Rapid"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Profound means deep or intense."
+                },
+                {
+                    "id": "R059",
+                    "questionText": "What provided the power for the new automated manufacturing?",
+                    "options": [
+                        "Steam and water power",
+                        "Electricity",
+                        "Solar energy",
+                        "Nuclear power"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "The passage mentions 'increasing use of steam power and water power.'"
+                },
+                {
+                    "id": "R060",
+                    "questionText": "What did the Industrial Revolution lay the foundation for?",
+                    "options": [
+                        "Ancient civilizations",
+                        "Contemporary industrial societies",
+                        "Agricultural revolutions",
+                        "Feudal systems"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage ends by saying it laid the 'foundation for contemporary industrial societies.'"
+                }
+            ]
+        },
+        {
+            "passageId": 7,
+            "title": "Plate Tectonics",
+            "content": "The theory of plate tectonics describes the large-scale motion of seven large plates and the movements of a larger number of smaller plates of Earth's lithosphere. This theory, which was developed in the mid-20th century, revolutionized our understanding of the Earth's geological history and the processes that shape its surface. According to the theory, these tectonic plates are in constant, slow motion, driven by the intense heat from the Earth's core.\n\nThe boundaries where these plates meet are sites of significant geological activity. There are three main types of plate boundaries: divergent, convergent, and transform. At divergent boundaries, plates move apart, often creating new crust as magma rises from the mantle. Convergent boundaries occur where plates move toward each other, often resulting in one plate being forced beneath another (subduction) and the formation of mountain ranges or volcanic activity. Transform boundaries occur where plates slide past each other, which can lead to powerful earthquakes.\n\nThe movement of tectonic plates is responsible for many of Earth's most dramatic features, including the Himalayas, the San Andreas Fault, and the volcanic 'Ring of Fire' around the Pacific Ocean. The theory also explains the process of continental drift, first proposed by Alfred Wegener in the early 20th century, which suggests that the continents were once part of a single supercontinent called Pangaea.\n\nOngoing research in plate tectonics continues to provide insights into Earth's future, including predictions about how the continents will move over millions of years. It also plays a crucial role in understanding and preparing for natural hazards such as earthquakes, tsunamis, and volcanic eruptions.",
+            "questions": [
+                {
+                    "id": "R061",
+                    "questionText": "What does the theory of plate tectonics describe?",
+                    "options": [
+                        "The formation of the moon",
+                        "Movement of plates in the lithosphere",
+                        "The water cycle",
+                        "Ocean currents"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage says it describes the large-scale motion of plates of Earth's lithosphere."
+                },
+                {
+                    "id": "R062",
+                    "questionText": "What drives the constant motion of tectonic plates?",
+                    "options": [
+                        "Wind power",
+                        "Heat from the Earth's core",
+                        "Ocean tides",
+                        "Solar radiation"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage states they are 'driven by the intense heat from the Earth's core.'"
+                },
+                {
+                    "id": "R063",
+                    "questionText": "At which boundary do plates move apart?",
+                    "options": [
+                        "Convergent",
+                        "Divergent",
+                        "Transform",
+                        "Subduction"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "At divergent boundaries, plates move apart."
+                },
+                {
+                    "id": "R064",
+                    "questionText": "What often happens at transform boundaries?",
+                    "options": [
+                        "New crust is created",
+                        "Mountains are formed",
+                        "Plates slide past each other",
+                        "Volcanoes erupt"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Transform boundaries occur where plates slide past each other."
+                },
+                {
+                    "id": "R065",
+                    "questionText": "What resulted from plates moving toward each other?",
+                    "options": [
+                        "Divergent boundaries",
+                        "Mountain ranges or volcanic activity",
+                        "New crust formation",
+                        "Calm geological conditions"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Convergent boundaries often result in 'formation of mountain ranges or volcanic activity.'"
+                },
+                {
+                    "id": "R066",
+                    "questionText": "Who first proposed the concept of continental drift?",
+                    "options": [
+                        "James Watt",
+                        "James Hutton",
+                        "Alfred Wegener",
+                        "Charles Darwin"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage credits Alfred Wegener with proposing continental drift."
+                },
+                {
+                    "id": "R067",
+                    "questionText": "What was 'Pangaea'?",
+                    "options": [
+                        "A tectonic plate",
+                        "A single supercontinent",
+                        "A types of boundary",
+                        "The Earth's core"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Pangaea was the single supercontinent suggested by continental drift."
+                },
+                {
+                    "id": "R068",
+                    "questionText": "The word 'magma' in paragraph 2 refers to:",
+                    "options": [
+                        "Frozen water",
+                        "Molten rock",
+                        "Solid iron",
+                        "Ocean sediment"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "In geological context, magma is molten rock."
+                },
+                {
+                    "id": "R069",
+                    "questionText": "The Himalayas are an example of a feature caused by:",
+                    "options": [
+                        "Plate movement",
+                        "Erosion only",
+                        "Human activity",
+                        "Wind patterns"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "The passage lists the Himalayas as a feature caused by the movement of tectonic plates."
+                },
+                {
+                    "id": "R070",
+                    "questionText": "Why is research in plate tectonics important for natural hazards?",
+                    "options": [
+                        "It prevents earthquakes",
+                        "It helps in preparation for disasters",
+                        "It stops volcanic eruptions",
+                        "It controls the weather"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage states it plays a 'crucial role in understanding and preparing for natural hazards.'"
+                }
+            ]
+        },
+        {
+            "passageId": 8,
+            "title": "The Renaissance",
+            "content": "The Renaissance was a fervent period of European cultural, artistic, political, and economic 'rebirth' following the Middle Ages. Generally described as taking place from the 14th century to the 17th century, the Renaissance promoted the rediscovery of classical philosophy, literature, and art. Some of the greatest thinkers, authors, statesmen, scientists, and artists in human history thrived during this era.\n\nItaly is often considered the birthplace of the Renaissance, particularly the city of Florence. Wealthy merchant families, such as the Medici, provided the financial support (patronage) that allowed artists and scholars to pursue their work. This period saw the development of new artistic techniques, such as linear perspective, which created a sense of three-dimensional space on a flat surface.\n\nHumanism, a philosophical movement that emphasized human potential and achievements over religious dogma, was a central theme of the Renaissance. This shift in thinking encouraged a spirit of inquiry and exploration. Notable figures of the Renaissance include Leonardo da Vinci, known as the 'Renaissance Man' for his contributions to art and science; Michelangelo, whose masterpieces include the David and the Sistine Chapel ceiling; and William Shakespeare, arguably the greatest dramatist in the English language.\n\nThe Renaissance also saw significant advancements in science and technology. The invention of the printing press by Johannes Gutenberg in the mid-15th century allowed for the rapid spread of ideas across Europe. The Scientific Revolution, which began during the late Renaissance, challenged traditional views of the universe and laid the groundwork for modern science.",
+            "questions": [
+                {
+                    "id": "R071",
+                    "questionText": "What does the word 'Renaissance' mean?",
+                    "options": [
+                        "Middle Ages",
+                        "Rebirth",
+                        "Transformation",
+                        "Invention"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage defines it as a period of 'rebirth'."
+                },
+                {
+                    "id": "R072",
+                    "questionText": "Which city is mentioned as a major center of the Renaissance in Italy?",
+                    "options": [
+                        "Rome",
+                        "Venice",
+                        "Florence",
+                        "Milan"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage specifically mentions the city of Florence."
+                },
+                {
+                    "id": "R073",
+                    "questionText": "What was the role of the Medici family?",
+                    "options": [
+                        "They were famous artists",
+                        "They invented the printing press",
+                        "They provided financial support to artists",
+                        "They were religious leaders"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage says they 'provided the financial support (patronage) that allowed artists and scholars to pursue their work.'"
+                },
+                {
+                    "id": "R074",
+                    "questionText": "What artistic technique allowed for 3D effects on a flat surface?",
+                    "options": [
+                        "Oil painting",
+                        "Linear perspective",
+                        "Engraving",
+                        "Sculpting"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage mentions 'linear perspective, which created a sense of three-dimensional space.'"
+                },
+                {
+                    "id": "R075",
+                    "questionText": "What was a central theme of Renaissance philosophy?",
+                    "options": [
+                        "Humanism",
+                        "Feudalism",
+                        "Isolationism",
+                        "Religious dogma"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "The passage states 'Humanism... was a central theme of the Renaissance.'"
+                },
+                {
+                    "id": "R076",
+                    "questionText": "Who is known as the 'Renaissance Man'?",
+                    "options": [
+                        "Michelangelo",
+                        "William Shakespeare",
+                        "Leonardo da Vinci",
+                        "Johannes Gutenberg"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage identifies Leonardo da Vinci as the 'Renaissance Man'."
+                },
+                {
+                    "id": "R077",
+                    "questionText": "What invention allowed for the rapid spread of ideas?",
+                    "options": [
+                        "The steam engine",
+                        "The telescope",
+                        "The printing press",
+                        "The compass"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The invention of the printing press 'allowed for the rapid spread of ideas.'"
+                },
+                {
+                    "id": "R078",
+                    "questionText": "The word 'fervent' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Boring",
+                        "Short",
+                        "Passionate/Intense",
+                        "Forgotten"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Fervent means having or displaying a passionate intensity."
+                },
+                {
+                    "id": "R079",
+                    "questionText": "Which dramatist is mentioned in the passage?",
+                    "options": [
+                        "Leonardo da Vinci",
+                        "Michelangelo",
+                        "William Shakespeare",
+                        "James Watt"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "William Shakespeare is mentioned as a dramatist."
+                },
+                {
+                    "id": "R080",
+                    "questionText": "What did the Scientific Revolution challenge?",
+                    "options": [
+                        "The Renaissance",
+                        "Traditional views of the universe",
+                        "Humanism",
+                        "The Medici family"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The Scientific Revolution 'challenged traditional views of the universe.'"
+                }
+            ]
+        },
+        {
+            "passageId": 9,
+            "title": "Coral Reefs: Rainforests of the Sea",
+            "content": "Coral reefs are among the most diverse and productive ecosystems on Earth, often referred to as the 'rainforests of the sea.' While they cover less than 1% of the ocean floor, they support more than 25% of all marine species. Reefs are primarily composed of calcium carbonate structures built by colonies of tiny animals called coral polyps.\n\nCoral polyps have a symbiotic relationship with microscopic algae called zooxanthellae, which live within the coral's tissues. The algae provide the coral with food and their vibrant colors through photosynthesis, while the coral provides the algae with a protected environment and the nutrients they need to thrive. Because the algae require sunlight for photosynthesis, coral reefs only grow in shallow, clear, and warm tropical waters.\n\nCoral reefs provide numerous benefits to humans and the environment. They act as natural barriers, protecting coastal communities from erosion and storms. They also support multi-billion dollar fishing and tourism industries and are a source of potential new medicines for various diseases. Some estimates suggest the total value of services provided by coral reefs is over 30 billion dollars annually.\n\nDespite their importance, coral reefs are facing unprecedented threats. Rising ocean temperatures, driven by climate change, lead to a phenomenon known as coral bleaching, where corals expel their algae and eventually die. Ocean acidification, pollution, overfishing, and destructive fishing practices further contribute to reef degradation. Scientists estimate that if current trends continue, many of the world's coral reefs could be lost by 2050.",
+            "questions": [
+                {
+                    "id": "R081",
+                    "questionText": "Why are coral reefs called 'rainforests of the sea'?",
+                    "options": [
+                        "They grow on trees",
+                        "They have very high biodiversity",
+                        "They produce rain",
+                        "They are found in forests"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The term reflects their high diversity, supporting over 25% of marine species."
+                },
+                {
+                    "id": "R082",
+                    "questionText": "What are coral reefs primarily composed of?",
+                    "options": [
+                        "Sand",
+                        "Calcium carbonate",
+                        "Plastic",
+                        "Iron"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Reefs are 'primarily composed of calcium carbonate structures.'"
+                },
+                {
+                    "id": "R083",
+                    "questionText": "What is 'zooxanthellae'?",
+                    "options": [
+                        "A type of coral polyp",
+                        "Microscopic algae",
+                        "A large fish",
+                        "Ocean sediment"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage describes zooxanthellae as 'microscopic algae'."
+                },
+                {
+                    "id": "R084",
+                    "questionText": "How does zooxanthellae help the coral?",
+                    "options": [
+                        "By protecting it from fish",
+                        "By providing food through photosynthesis",
+                        "By building the calcium structure",
+                        "By heating the water"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The algae provide food and color through photosynthesis."
+                },
+                {
+                    "id": "R085",
+                    "questionText": "Why must coral reefs grow in shallow water?",
+                    "options": [
+                        "Because the water is colder",
+                        "Because the algae need sunlight",
+                        "To protect them from waves",
+                        "To be closer to humans"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The algae require sunlight for photosynthesis."
+                },
+                {
+                    "id": "R086",
+                    "questionText": "Which of the following is a benefit of coral reefs to humans?",
+                    "options": [
+                        "Increasing storm intensity",
+                        "Natural barriers against erosion",
+                        "Producing fossil fuels",
+                        "Decreasing fishing yields"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "They 'act as natural barriers, protecting coastal communities from erosion and storms.'"
+                },
+                {
+                    "id": "R087",
+                    "questionText": "What happens during 'coral bleaching'?",
+                    "options": [
+                        "Coral grows faster",
+                        "Coral expels its algae",
+                        "Coral changes into sand",
+                        "Coral produces more oxygen"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Coral bleaching is 'where corals expel their algae and eventually die.'"
+                },
+                {
+                    "id": "R088",
+                    "questionText": "What is the primary cause of coral bleaching?",
+                    "options": [
+                        "Overfishing",
+                        "Rising ocean temperatures",
+                        "Ocean acidification",
+                        "Plastic pollution"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "It is 'driven by climate change' and 'rising ocean temperatures'."
+                },
+                {
+                    "id": "R089",
+                    "questionText": "The word 'degradation' in paragraph 4 is closest in meaning to:",
+                    "options": [
+                        "Improvement",
+                        "Deterioration/Worsening",
+                        "Expansion",
+                        "Observation"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Degradation refers to the process of being degraded or deteriorating."
+                },
+                {
+                    "id": "R090",
+                    "questionText": "When might we lose many of the world's reefs if trends continue?",
+                    "options": [
+                        "By 2030",
+                        "By 2040",
+                        "By 2050",
+                        "By 2100"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Scientists estimate loss 'by 2050'."
+                }
+            ]
+        },
+        {
+            "passageId": 10,
+            "title": "The History of the Internet",
+            "content": "The Internet has transformed modern life, but its origins date back to the height of the Cold War. In the late 1960s, the Advanced Research Projects Agency (ARPA) of the United States Department of Defense funded ARPANET, the first network to use packet switching technology. This allowed multiple computers to communicate with each other over a single network, even if some parts of the system were damaged.\n\nThroughout the 1970s and 1980s, engineers developed the standard protocols that form the technical backbone of the Internet today, including Transmission Control Protocol and Internet Protocol (TCP/IP). The invention of the World Wide Web in 1989 by Tim Berners-Lee, a researcher at CERN in Switzerland, revolutionized the Internet by making it accessible to the general public through the use of browsers and websites.\n\nThe 1990s saw a rapid expansion of the Internet as it became a global platform for commerce, communication, and information sharing. The development of high-speed broadband connections and the proliferation of personal computers further accelerated its growth. Today, billions of people around the world use the Internet daily for everything from social networking and entertainment to work and education.\n\nHowever, the rapid growth of the Internet has also brought challenges. Issues such as data privacy, cybersecurity, the digital divide, and the spread of misinformation have become major global concerns. As the Internet continues to evolve with technologies like 5G, the Internet of Things (IoT), and artificial intelligence (AI), its impact on society will likely grow even more significant.",
+            "questions": [
+                {
+                    "id": "R091",
+                    "questionText": "What was the name of the first network using packet switching?",
+                    "options": [
+                        "INTERNET",
+                        "ARPANET",
+                        "WWW",
+                        "TCP"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage identifies ARPANET as the first network to use packet switching."
+                },
+                {
+                    "id": "R092",
+                    "questionText": "What technology allowed multiple computers to communicate over one network?",
+                    "options": [
+                        "Radio waves",
+                        "Packet switching",
+                        "Direct wiring",
+                        "Satellite links"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Packet switching technology allowed this communication."
+                },
+                {
+                    "id": "R093",
+                    "questionText": "What protocols form the backbone of the Internet?",
+                    "options": [
+                        "HTTP/HTML",
+                        "TCP/IP",
+                        "FTP/SMTP",
+                        "DNS/DHCP"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage mentions 'Transmission Control Protocol and Internet Protocol (TCP/IP).'"
+                },
+                {
+                    "id": "R094",
+                    "questionText": "Who invented the World Wide Web?",
+                    "options": [
+                        "Bill Gates",
+                        "Tim Berners-Lee",
+                        "Steve Jobs",
+                        "James Watt"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The World Wide Web was invented by Tim Berners-Lee in 1989."
+                },
+                {
+                    "id": "R095",
+                    "questionText": "Where was the World Wide Web invented?",
+                    "options": [
+                        "ARPA in USA",
+                        "CERN in Switzerland",
+                        "Oxford in UK",
+                        "Silicon Valley"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Tim Berners-Lee was a researcher at 'CERN in Switzerland'."
+                },
+                {
+                    "id": "R096",
+                    "questionText": "What happened in the 1990s regarding the Internet?",
+                    "options": [
+                        "It was invented",
+                        "It became a global platform for commerce",
+                        "It was shut down",
+                        "It became private"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The 1990s saw its 'rapid expansion' as a 'global platform for commerce'."
+                },
+                {
+                    "id": "R097",
+                    "questionText": "What contributed to the acceleration of Internet growth?",
+                    "options": [
+                        "Slower connections",
+                        "Lower computer use",
+                        "High-speed broadband and personal computers",
+                        "Cost increases"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Broadband and PCs 'further accelerated its growth'."
+                },
+                {
+                    "id": "R098",
+                    "questionText": "Which is an issue mentioned regarding the Internet's growth?",
+                    "options": [
+                        "Information scarcity",
+                        "Data privacy and cybersecurity",
+                        "Too many physical books",
+                        "Lack of speed"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Issues listed include 'data privacy, cybersecurity, the digital divide'."
+                },
+                {
+                    "id": "R099",
+                    "questionText": "The word 'proliferation' in paragraph 3 is closest in meaning to:",
+                    "options": [
+                        "Decline",
+                        "Rapid increase",
+                        "Stabilization",
+                        "Destruction"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Proliferation refers to a rapid increase in numbers."
+                },
+                {
+                    "id": "R100",
+                    "questionText": "What technologies are mentioned as part of the future evolution?",
+                    "options": [
+                        "Steam power and radio",
+                        "Dial-up and floppy disks",
+                        "5G, IoT, and AI",
+                        "Television and PRINT"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage lists '5G, the Internet of Things (IoT), and artificial intelligence (AI)'."
+                }
+            ]
+        },
+        {
+            "passageId": 11,
+            "title": "Human Migration: Patterns and Drivers",
+            "content": "Human migration is the movement of people from one place to another with the intentions of settling, permanently or temporarily, at a new location. Throughout history, migration has played a crucial role in the distribution of humans across the globe and the development of distinct cultures. Modern migration patterns are driven by a complex interplay of 'push' and 'pull' factors.\n\nPush factors are conditions in a person's home country that encourage them to leave. These often include negative circumstances such as conflict, political instability, lack of economic opportunities, or environmental disasters. For example, refugees are individuals who have been forced to leave their country to escape war, persecution, or natural disaster.\n\nPull factors, on the other hand, are the attractive features of a destination country that draw people to it. These typically include better job prospects, higher wages, political stability, better education systems, and reunification with family members. The promise of a better quality of life is a powerful motivator for millions of migrants each year.\n\nThe effects of migration are felt by both the source and destination countries. In destination countries, migration can provide a source of labor, contribute to cultural diversity, and stimulate economic growth. However, it can also strain public services and lead to social tensions. In source countries, migration can lead to 'brain drain'—the loss of skilled workers—while also providing significant income through remittances, which are funds sent home by migrants to support their families.",
+            "questions": [
+                {
+                    "id": "R101",
+                    "questionText": "What is the definition of human migration?",
+                    "options": [
+                        "Short term travel only",
+                        "Moving with the intention of settling",
+                        "Only moving within a country",
+                        "Refusing to leave home"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage define it as 'movement of people... with the intentions of settling'."
+                },
+                {
+                    "id": "R102",
+                    "questionText": "What are 'push factors'?",
+                    "options": [
+                        "Attractive features of a new country",
+                        "Conditions that encourage leaving home",
+                        "Methods of transportation",
+                        "Laws that encourage migration"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Push factors are 'conditions in a person's home country that encourage them to leave.'"
+                },
+                {
+                    "id": "R103",
+                    "questionText": "Which of the following is an example of a push factor?",
+                    "options": [
+                        "Better job prospects",
+                        "Higher wages",
+                        "Conflict and instability",
+                        "Reunification with family"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Conflict and instability are listed as negative push factors."
+                },
+                {
+                    "id": "R104",
+                    "questionText": "Who are 'refugees' according to the passage?",
+                    "options": [
+                        "Economic migrants only",
+                        "People forced to leave due to war or disaster",
+                        "Tourists",
+                        "People moving for family reasons"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Refugees are those 'forced to leave... to escape war, persecution, or natural disaster.'"
+                },
+                {
+                    "id": "R105",
+                    "questionText": "What are 'pull factors'?",
+                    "options": [
+                        "Negative conditions at home",
+                        "Attractive features of a destination",
+                        "Border security measures",
+                        "Cost of moving"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Pull factors are 'attractive features of a destination country that draw people to it.'"
+                },
+                {
+                    "id": "R106",
+                    "questionText": "What is a common motivator for migrations?",
+                    "options": [
+                        "Seeking a lower quality of life",
+                        "Better quality of life and opportunities",
+                        "Escaping high wages",
+                        "Seeking political instability"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The promise of a 'better quality of life' is a powerful motivator."
+                },
+                {
+                    "id": "R107",
+                    "questionText": "What is 'brain drain'?",
+                    "options": [
+                        "Loss of skilled workers in source countries",
+                        "A type of medical condition",
+                        "Lack of education in destination countries",
+                        "Excess of labor"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Brain drain refers to 'the loss of skilled workers' from source countries."
+                },
+                {
+                    "id": "R108",
+                    "questionText": "What are 'remittances'?",
+                    "options": [
+                        "Visas granted to migrants",
+                        "Funds sent back by migrants to their families",
+                        "Migration laws",
+                        "Types of transport"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Remittances are 'funds sent home by migrants to support their families'."
+                },
+                {
+                    "id": "R109",
+                    "questionText": "The word 'crucial' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Minor",
+                        "Important/Vitiating",
+                        "Unnecessary",
+                        "Optional"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Crucial means extremely important or necessary."
+                },
+                {
+                    "id": "R110",
+                    "questionText": "What is one effect of migration on destination countries?",
+                    "options": [
+                        "Brain drain",
+                        "Source of labor and cultural diversity",
+                        "Constant conflict",
+                        "loss of economic growth"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "It can 'provide a source of labor, contribute to cultural diversity'."
+                }
+            ]
+        },
+        {
+            "passageId": 12,
+            "title": "The Solar System",
+            "content": "The Solar System consists of the Sun and the objects that orbit it, including eight planets, their moons, and various smaller bodies like asteroids and comets. Formed billions of years ago from a giant interstellar molecular cloud, the Sun contains more than 99% of the total mass of the system.\n\nThe planets are divided into two main groups: the terrestrial inner planets and the giant outer planets. The inner planets—Mercury, Venus, Earth, and Mars—are composed primarily of silicate rock or metals and have solid surfaces. The outer planets include the gas giants Jupiter and Saturn, composed mostly of hydrogen and helium, and the ice giants Uranus and Neptune, made largely of substances with higher melting points such as water, ammonia, and methane.\n\nBeyond Neptune lies the Kuiper belt, a region filled with icy objects including dwarf planets such as Pluto. Even further out is the Oort cloud, a theoretical region where most long-period comets are believed to originate. The boundary of the solar system is determined by the heliopause, where the solar wind meets the interstellar medium.\n\nSpace exploration has significantly expanded our understanding of the Solar System. Robotic missions have landed on Mars, explored the moons of Jupiter and Saturn, and even visited distant Pluto. These missions continue to search for signs of past or present life beyond Earth and provide clues about the formation and evolution of our planetary neighborhood.",
+            "questions": [
+                {
+                    "id": "R111",
+                    "questionText": "What contains most of the mass in the Solar System?",
+                    "options": [
+                        "Jupiter",
+                        "The Earth",
+                        "The Sun",
+                        "The Kuiper belt"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The Sun contains more than 99% of the total mass."
+                },
+                {
+                    "id": "R112",
+                    "questionText": "How many known planets are in the Solar System?",
+                    "options": [
+                        "Seven",
+                        "Eight",
+                        "Nine",
+                        "Ten"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage confirms there are eight planets."
+                },
+                {
+                    "id": "R113",
+                    "questionText": "Which are the 'terrestrial inner planets'?",
+                    "options": [
+                        "Jupiter, Saturn, Uranus, Neptune",
+                        "Mercury, Venus, Gaia, Mars",
+                        "Mercury, Venus, Earth, Mars",
+                        "Mars, Jupiter, Saturn, Uranus"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The inner planets are Mercury, Venus, Earth, and Mars."
+                },
+                {
+                    "id": "R114",
+                    "questionText": "What are the inner planets primarily composed of?",
+                    "options": [
+                        "Gases",
+                        "Ice",
+                        "Silicate rock or metals",
+                        "Pure iron"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "They are 'composed primarily of silicate rock or metals'."
+                },
+                {
+                    "id": "R115",
+                    "questionText": "Which planets are known as the 'gas giants'?",
+                    "options": [
+                        "Earth and Venus",
+                        "Uranus and Neptune",
+                        "Jupiter and Saturn",
+                        "Mercury and Mars"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The gas giants are Jupiter and Saturn."
+                },
+                {
+                    "id": "R116",
+                    "questionText": "What are Uranus and Neptune often called?",
+                    "options": [
+                        "Rocky planets",
+                        "Gas giants",
+                        "Ice giants",
+                        "Dwarf planets"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "They are called ice giants."
+                },
+                {
+                    "id": "R117",
+                    "questionText": "What is Pluto categorized as today?",
+                    "options": [
+                        "A gas giant",
+                        "A dwarf planet",
+                        "An inner planet",
+                        "A comet"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Pluto is mentioned as a dwarf planet in the Kuiper belt."
+                },
+                {
+                    "id": "R118",
+                    "questionText": "The Oort cloud is believed to be the source of:",
+                    "options": [
+                        "Asteroids",
+                        "Long-period comets",
+                        "Planetary moons",
+                        "New stars"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The Oort cloud is where 'most long-period comets are believed to originate'."
+                },
+                {
+                    "id": "R119",
+                    "questionText": "The word 'theoretical' in paragraph 3 means:",
+                    "options": [
+                        "Proven by observation",
+                        "Based on theory/assumed",
+                        "Visible to naked eye",
+                        "Dangerous"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Theoretical means based on theory rather than proven facts or observations."
+                },
+                {
+                    "id": "R120",
+                    "questionText": "The boundary where the solar wind meets the interstellar medium is:",
+                    "options": [
+                        "The Kuiper belt",
+                        "The heliopause",
+                        "The asteroid belt",
+                        "The ozone layer"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The boundary is called the heliopause."
+                }
+            ]
+        },
+        {
+            "passageId": 13,
+            "title": "Ancient Mesopotamia: The Cradle of Civilization",
+            "content": "Mesopotamia, located between the Tigris and Euphrates rivers in modern-day Iraq, is often called the 'cradle of civilization.' The fertile land between these rivers allowed early humans to transition from hunter-gatherers to settled farmers, leading to the development of the first complex societies. The Sumerians, who inhabited southern Mesopotamia from about 4000 BC, are credited with many significant inventions.\n\nOne of the most important Sumerian achievements was the invention of cuneiform, the earliest known writing system. Originally used for record-keeping and commerce, cuneiform evolved into a tool for literature, law, and history. The Sumerians also developed irrigation systems to control river flooding, as well as the wheel, the sailboat, and a number system based on 60, which still influences our measurement of time today.\n\nAs Sumerian city-states grew, they were followed by other powerful empires, including the Akkadians, Babylonians, and Assyrians. Hammurabi, a famous king of Babylon, is known for creating one of the earliest and most complete legal codes, known as the Code of Hammurabi. This code established principles of justice and punishments for various crimes, influencing legal systems for centuries.\n\nMesopotamian civilization made significant contributions to architecture, including the construction of ziggurats—massive stepped pyramids that served as religious centers. Their advancements in astronomy, mathematics, and medicine also laid foundations for future civilizations. While the empires of Mesopotamia eventually fell, their legacy continues to resonate throughout human history.",
+            "questions": [
+                {
+                    "id": "R121",
+                    "questionText": "Where was Mesopotamia located?",
+                    "options": [
+                        "Between Nile and Congo",
+                        "Between Tigris and Euphrates",
+                        "Between Indus and Ganges",
+                        "Between Yangtze and Yellow"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Mesopotamia was located between the Tigris and Euphrates rivers."
+                },
+                {
+                    "id": "R122",
+                    "questionText": "What allowed early humans in Mesopotamia to settle?",
+                    "options": [
+                        "Lack of water",
+                        "Fertile land",
+                        "Cold climate",
+                        "Mountain barriers"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Fertile land allowed them to transition to settled farmers."
+                },
+                {
+                    "id": "R123",
+                    "questionText": "Which group inhabited southern Mesopotamia around 4000 BC?",
+                    "options": [
+                        "Aztecs",
+                        "Sumerians",
+                        "Egyptians",
+                        "Romans"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The Sumerians inhabited this area."
+                },
+                {
+                    "id": "R124",
+                    "questionText": "What was 'cuneiform'?",
+                    "options": [
+                        "A type of food",
+                        "A writing system",
+                        "A farming tool",
+                        "A religious ritual"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Cuneiform was the earliest known writing system."
+                },
+                {
+                    "id": "R125",
+                    "questionText": "The Sumerian number system affects our current:",
+                    "options": [
+                        "Currency",
+                        "Measurement of time",
+                        "Distance measurement",
+                        "Weights"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Their system based on 60 influences how we measure time (minutes/seconds)."
+                },
+                {
+                    "id": "R126",
+                    "questionText": "Who is known for creating an early legal code?",
+                    "options": [
+                        "Alexander the Great",
+                        "Hammurabi",
+                        "Julius Caesar",
+                        "Socrates"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "King Hammurabi is known for the Code of Hammurabi."
+                },
+                {
+                    "id": "R127",
+                    "questionText": "What are 'ziggurats'?",
+                    "options": [
+                        "Irrigation channels",
+                        "Massive stepped pyramids",
+                        "Types of ships",
+                        "Marketplaces"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Ziggurats were 'massive stepped pyramids that served as religious centers'."
+                },
+                {
+                    "id": "R128",
+                    "questionText": "The word 'evolved' in paragraph 2 is closest in meaning to:",
+                    "options": [
+                        "Stayed the same",
+                        "Developed gradually",
+                        "Disappeared",
+                        "Failed"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Evolve means to develop gradually."
+                },
+                {
+                    "id": "R129",
+                    "questionText": "Which empire followed the Sumerians?",
+                    "options": [
+                        "British",
+                        "Akkadians, Babylonians, Assyrians",
+                        "Spanish",
+                        "Mongol"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage lists the Akkadians, Babylonians, and Assyrians as following empires."
+                },
+                {
+                    "id": "R130",
+                    "questionText": "What was cuneiform originally used for?",
+                    "options": [
+                        "Poetry",
+                        "Record-keeping and commerce",
+                        "Religious hymns",
+                        "Maps"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "It was 'Originally used for record-keeping and commerce'."
+                }
+            ]
+        },
+        {
+            "passageId": 14,
+            "title": "The Development of Language",
+            "content": "Language is one of the most distinctive features of the human species, allowing for the communication of complex ideas and the preservation of culture. While the exact origins of language remain a mystery, linguists believe that all modern languages share common roots. Most of the world's approximately 7,000 languages can be grouped into several major families, such as Indo-European, Sino-Tibetan, and Afro-Asiatic.\n\nThe Indo-European family, the largest in terms of number of speakers, includes languages such as English, Spanish, Hindi, and Russian. Linguists believe these languages evolved from a single ancestral language spoken thousands of years ago, likely by nomadic groups in Eastern Europe or Central Asia. As these groups migrated, their languages diverged and changed over time.\n\nLanguages are constantly evolving, influenced by social, cultural, and technological factors. The borrowing of words between languages, known as loanwords, is a common phenomenon. For example, English has borrowed significantly from French, Latin, and German throughout its history. In the modern era, the Internet and global media have accelerated the spread of certain languages, particularly English, while others face the threat of extinction.\n\nLinguistic diversity is increasingly recognized as an essential part of human heritage. Many organizations are working to document and preserve endangered languages before they disappear forever. Understanding how languages develop and change offers insights into human history, cognition, and the ways we interact with one another.",
+            "questions": [
+                {
+                    "id": "R131",
+                    "questionText": "How many languages are estimated to exist today?",
+                    "options": [
+                        "About 1,000",
+                        "About 3,500",
+                        "About 7,000",
+                        "About 10,000"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage mentions 'approximately 7,000 languages'."
+                },
+                {
+                    "id": "R132",
+                    "questionText": "Which is the largest language family in terms of speakers?",
+                    "options": [
+                        "Sino-Tibetan",
+                        "Afro-Asiatic",
+                        "Indo-European",
+                        "Austronesian"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Indo-European is the largest family."
+                },
+                {
+                    "id": "R133",
+                    "questionText": "English belongs to which language family?",
+                    "options": [
+                        "Sino-Tibetan",
+                        "Samoyedic",
+                        "Indo-European",
+                        "Turkic"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The passage includes English in the Indo-European family."
+                },
+                {
+                    "id": "R134",
+                    "questionText": "What causing languages in the same family to diverge?",
+                    "options": [
+                        "Migration over time",
+                        "Strict laws",
+                        "Lack of communication",
+                        "Invention of writing"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "As groups migrated, their languages 'diverged and changed over time'."
+                },
+                {
+                    "id": "R135",
+                    "questionText": "What are 'loanwords'?",
+                    "options": [
+                        "Words borrowed from other languages",
+                        "Words about money",
+                        "Forgotten words",
+                        "Only new technological terms"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Loanwords are defined as 'The borrowing of words between languages'."
+                },
+                {
+                    "id": "R136",
+                    "questionText": "Which factors influence language evolution?",
+                    "options": [
+                        "Genetic only",
+                        "Social, cultural, and technological",
+                        "Only the weather",
+                        "It doesn't evolve"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Evolution is influenced by 'social, cultural, and technological factors'."
+                },
+                {
+                    "id": "R137",
+                    "questionText": "What is one threat mentioned for some languages?",
+                    "options": [
+                        "Growth too rapidly",
+                        "Extinction",
+                        "Being too simple",
+                        "Lack of speakers for English"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The passage mentions some languages face the 'threat of extinction'."
+                },
+                {
+                    "id": "R138",
+                    "questionText": "What has accelerated the spread of certain languages today?",
+                    "options": [
+                        "Physical isolation",
+                        "The Internet and global media",
+                        "War only",
+                        "Manual Labor"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Internet and media have accelerated the spread."
+                },
+                {
+                    "id": "R139",
+                    "questionText": "The word 'diverged' in paragraph 2 means:",
+                    "options": [
+                        "Met together",
+                        "Separated or became different",
+                        "Disappeared",
+                        "Improved"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Diverge means to go in different directions or become separate."
+                },
+                {
+                    "id": "R140",
+                    "questionText": "Why is documenting languages important?",
+                    "options": [
+                        "To control people",
+                        "To preserve human heritage",
+                        "To make money",
+                        "To invent new words"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Linguistic diversity is 'recognized as an essential part of human heritage'."
+                }
+            ]
+        },
+        {
+            "passageId": 15,
+            "title": "The Gutenberg Printing Press",
+            "content": "In the mid-15th century, German goldsmith Johannes Gutenberg invented the mechanical movable-type printing press, an event that is widely considered the most influential in the modern era. Before Gutenberg, books were copied by hand or using woodblock printing, both of which were slow and expensive processes. Gutenberg's innovation allowed for the mass production of books for the first time.\n\nThe key to Gutenberg's invention was the creation of metal movable type—individual letters and symbols that could be rearranged and reused. He also developed a durable oil-based ink and a printing press adapted from existing wine or olive presses. His most famous product was the Gutenberg Bible, known for its high aesthetic and technical quality.\n\nThe printing press had a profound impact on European society. It democratized knowledge by making books more affordable and accessible to a wider audience, leading to an increase in literacy rates. It played a crucial role in the spread of the Reformation, as religious texts and ideas could be distributed rapidly. It also contributed to the rise of new ideas during the Renaissance and the Scientific Revolution.\n\nThe legacy of the printing press continues today, as it paved the way for the development of newspapers, journals, and the modern publishing industry. While the digital age has changed how we consume information, the impact of Gutenberg's invention in promoting education and the free exchange of ideas remains one of the most significant milestones in human history.",
+            "questions": [
+                {
+                    "id": "R141",
+                    "questionText": "Who invented the mechanical movable-type printing press?",
+                    "options": [
+                        "Johannes Gutenberg",
+                        "Tim Berners-Lee",
+                        "Leonardo da Vinci",
+                        "James Watt"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "The passage credits Johannes Gutenberg with the invention."
+                },
+                {
+                    "id": "R142",
+                    "questionText": "What was the method of copying books before the printing press?",
+                    "options": [
+                        "Digital scanning",
+                        "Photocopy",
+                        "Copied by hand or woodblock printing",
+                        "Typing"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "They were copied by hand or woodblock printing."
+                },
+                {
+                    "id": "R143",
+                    "questionText": "What was a major advantage of Gutenberg's press?",
+                    "options": [
+                        "It used more ink",
+                        "It allowed for mass production of books",
+                        "It was made of wood",
+                        "It was only for religious leaders"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "It 'allowed for the mass production of books for the first time'."
+                },
+                {
+                    "id": "R144",
+                    "questionText": "What was the 'movable type' made of?",
+                    "options": [
+                        "Wood",
+                        "Paper",
+                        "Metal",
+                        "Plastic"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The key was 'the creation of metal movable type'."
+                },
+                {
+                    "id": "R145",
+                    "questionText": "Gutenberg adapted his press from:",
+                    "options": [
+                        "Wine or olive presses",
+                        "Weaving looms",
+                        "Steam engines",
+                        "Water wheels"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "He adapted it 'from existing wine or olive presses'."
+                },
+                {
+                    "id": "R146",
+                    "questionText": "What famous book did Gutenberg produce?",
+                    "options": [
+                        "The Renaissance",
+                        "The Gutenberg Bible",
+                        "The Dictionary",
+                        "Code of Hammurabi"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "His most famous product was the Gutenberg Bible."
+                },
+                {
+                    "id": "R147",
+                    "questionText": "What was one social impact of the printing press?",
+                    "options": [
+                        "Decrease in literacy",
+                        "Democratization of knowledge",
+                        "Slow spread of ideas",
+                        "Increased price of books"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "It 'democratized knowledge by making books more affordable'."
+                },
+                {
+                    "id": "R148",
+                    "questionText": "The printing press helped spread which movement?",
+                    "options": [
+                        "The Industrial Revolution",
+                        "The Reformation",
+                        "The Digital Age",
+                        "Ancient Mesopotamian law"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "It 'played a crucial role in the spread of the Reformation'."
+                },
+                {
+                    "id": "R149",
+                    "questionText": "The word 'democratized' in paragraph 3 means:",
+                    "options": [
+                        "Made restricted to few",
+                        "Made accessible to many",
+                        "Failed to work",
+                        "Hidden from view"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Democratized means to make something available or accessible to everyone."
+                },
+                {
+                    "id": "R150",
+                    "questionText": "What legacy did the press leave for modern times?",
+                    "options": [
+                        "Nothing significant",
+                        "Paved way for publishing industry",
+                        "Blocked the digital age",
+                        "Promoted illiteracy"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "It 'paved the way for the development of... the modern publishing industry'."
+                }
+            ]
+        }
+    ]
+}

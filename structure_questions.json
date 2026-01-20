@@ -1,0 +1,2474 @@
+{
+    "structure": [
+        {
+            "id": "S001",
+            "sectionType": "structure",
+            "questionText": "The North Platte River ______ from Wyoming into Nebraska.",
+            "options": [
+                "it flowed",
+                "flows",
+                "flowing",
+                "with flowing water"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kalimat ini membutuhkan kata kerja utama (main verb). 'Flows' adalah satu-satunya kata kerja tunggal yang tepat untuk subjek 'The North Platte River'."
+        },
+        {
+            "id": "S002",
+            "sectionType": "structure",
+            "questionText": "______ Biloxi received its name from a Sioux word meaning 'first people'.",
+            "options": [
+                "The city of",
+                "Located in",
+                "It is in",
+                "The tour included"
+            ],
+            "answerIndex": 0,
+            "explanation": "Kalimat ini membutuhkan subjek. 'The city of' melengkapi subjek 'Biloxi' menjadi frasa benda yang utuh."
+        },
+        {
+            "id": "S003",
+            "sectionType": "structure",
+            "questionText": "A pride of lions ______ up to forty lions, including one to three males, several females, and cubs.",
+            "options": [
+                "can contain",
+                "it contains",
+                "contain",
+                "containing"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subjek kalimat adalah 'A pride' (tunggal). 'Can contain' adalah kata kerja modal yang benar."
+        },
+        {
+            "id": "S004",
+            "sectionType": "structure",
+            "questionText": "______ tea plant are small and white.",
+            "options": [
+                "The",
+                "On the",
+                "Having flowers the",
+                "The flowers of the"
+            ],
+            "answerIndex": 3,
+            "explanation": "Predikatnya adalah 'are' (jamak), jadi subjeknya harus jamak. 'The flowers of the' menyediakan subjek jamak ('flowers')."
+        },
+        {
+            "id": "S005",
+            "sectionType": "structure",
+            "questionText": "The tetracyclines, ______ antibiotics, are used to treat infections.",
+            "options": [
+                "are a family of",
+                "being a family",
+                "a family of",
+                "their family is"
+            ],
+            "answerIndex": 2,
+            "explanation": "Ini adalah bentuk Appositive. Struktur yang benar adalah 'Subject, Appositive, Verb'. 'A family of' berfungsi sebagai appositive."
+        },
+        {
+            "id": "S006",
+            "sectionType": "structure",
+            "questionText": "Any possible academic assistance from taking stimulants ______ marginal at best.",
+            "options": [
+                "it is",
+                "there is",
+                "is",
+                "as"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subjek utamanya adalah 'Any possible academic assistance' (tunggal). Maka kata kerjanya adalah 'is'."
+        },
+        {
+            "id": "S007",
+            "sectionType": "structure",
+            "questionText": "Henry Adams, born in Boston, ______ famous as a historian and novelist.",
+            "options": [
+                "became",
+                "and became",
+                "he was",
+                "and he became"
+            ],
+            "answerIndex": 0,
+            "explanation": "Kalimat ini sudah memiliki subjek 'Henry Adams' dan modifier. Yang dibutuhkan hanya kata kerja utama: 'became'."
+        },
+        {
+            "id": "S008",
+            "sectionType": "structure",
+            "questionText": "The major cause ______ the pull of the Moon on the Earth.",
+            "options": [
+                "the ocean tides are",
+                "of ocean tides is",
+                "of the tides in the ocean",
+                "the oceans' tides"
+            ],
+            "answerIndex": 1,
+            "explanation": "Struktur kalimat: Subject + Verb + Object. 'The major cause of ocean tides' adalah subjek lengkap, dan 'is' adalah kata kerjanya."
+        },
+        {
+            "id": "S009",
+            "sectionType": "structure",
+            "questionText": "Still a novelty in the late nineteenth century, ______ limited to the rich.",
+            "options": [
+                "was photography",
+                "photography was",
+                "it was photography",
+                "photography"
+            ],
+            "answerIndex": 1,
+            "explanation": "Frasa di awal adalah modifier. Setelah koma, harus diikuti langsung oleh subjek yang dijelaskan (photography) lalu kata kerja (was)."
+        },
+        {
+            "id": "S010",
+            "sectionType": "structure",
+            "questionText": "A computerized map of the freeways using information gathered by sensors ______ on a local cable channel during rush hours.",
+            "options": [
+                "airs",
+                "airing",
+                "air",
+                "to air"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subjek utamanya adalah 'A computerized map' (tunggal). Maka kata kerjanya harus tunggal: 'airs'."
+        },
+        {
+            "id": "S011",
+            "sectionType": "structure",
+            "questionText": "Usually, the more skilled an athlete, ______ the more money he or she earns.",
+            "options": [
+                "that",
+                "is",
+                "the",
+                "and"
+            ],
+            "answerIndex": 2,
+            "explanation": "Ini adalah bentuk 'Double Comparative': The more..., the more... (Semakin..., semakin...)."
+        },
+        {
+            "id": "S012",
+            "sectionType": "structure",
+            "questionText": "______ the mass of the object is difficult without a scale.",
+            "options": [
+                "Determine",
+                "To determine",
+                "Determined",
+                "For determining"
+            ],
+            "answerIndex": 1,
+            "explanation": "Infinitive 'To determine' dapat berfungsi sebagai subjek kalimat."
+        },
+        {
+            "id": "S013",
+            "sectionType": "structure",
+            "questionText": "The reactor core of a nuclear power plant is enclosed in concrete ______ radiation.",
+            "options": [
+                "prevent",
+                "prevents",
+                "to prevent",
+                "prevention"
+            ],
+            "answerIndex": 2,
+            "explanation": "Gunakan 'to + verb' (infinitive of purpose) untuk menunjukkan tujuan. 'To prevent' (untuk mencegah)."
+        },
+        {
+            "id": "S014",
+            "sectionType": "structure",
+            "questionText": "______ political party in the United States.",
+            "options": [
+                "No",
+                "Not",
+                "None",
+                "Never"
+            ],
+            "answerIndex": 0,
+            "explanation": "'No' digunakan sebelum kata benda (noun phrase) untuk menunjukkan ketiadaan."
+        },
+        {
+            "id": "S015",
+            "sectionType": "structure",
+            "questionText": "The committee has met and ______.",
+            "options": [
+                "they have reached a decision",
+                "it has formulated some opinions",
+                "its decision was reached",
+                "it has reached a decision"
+            ],
+            "answerIndex": 3,
+            "explanation": "'The committee' dianggap tunggal (collective noun), jadi gunakan 'it'. Struktur harus paralel: 'has met and (has) reached'."
+        },
+        {
+            "id": "S016",
+            "sectionType": "structure",
+            "questionText": "Alfred Adams has not ______ lived lonelinessly in times of sorrow.",
+            "options": [
+                "only",
+                "alone",
+                "solely",
+                "lone"
+            ],
+            "answerIndex": 0,
+            "explanation": "Pola 'not only... but also'. Di sini konteksnya mengarah pada 'not only'."
+        },
+        {
+            "id": "S017",
+            "sectionType": "structure",
+            "questionText": "Juana Ines de la Cruz ______ a nun in 1667 to devote her life to writing.",
+            "options": [
+                "who became",
+                "became",
+                "becoming",
+                "she became"
+            ],
+            "answerIndex": 1,
+            "explanation": "Dibutuhkan kata kerja utama bentuk lampau (past tense) untuk subjek 'Juana Ines de la Cruz'. Jawabannya 'became'."
+        },
+        {
+            "id": "S018",
+            "sectionType": "structure",
+            "questionText": "A premise is a statement ______ as a basis for reasoning.",
+            "options": [
+                "serving",
+                "serves",
+                "that serve",
+                "served"
+            ],
+            "answerIndex": 0,
+            "explanation": "Ini adalah reduksi dari adjective clause 'which serves'. Menjadi 'serving' (Active participle)."
+        },
+        {
+            "id": "S019",
+            "sectionType": "structure",
+            "questionText": "Of all the cereals, rice is the one ______ food for more people than any other grain.",
+            "options": [
+                "it provides",
+                "that providing",
+                "provides",
+                "that provides"
+            ],
+            "answerIndex": 3,
+            "explanation": "Dibutuhkan relative pronoun 'that' + verb untuk menjelaskan 'the one'."
+        },
+        {
+            "id": "S020",
+            "sectionType": "structure",
+            "questionText": "______ wooden buildings helps to protect them from damage due to weather.",
+            "options": [
+                "Painting",
+                "Painted",
+                "The paint",
+                "By painting"
+            ],
+            "answerIndex": 0,
+            "explanation": "Gerund ('Painting') dapat berfungsi sebagai subjek kalimat."
+        },
+        {
+            "id": "S021",
+            "sectionType": "structure",
+            "questionText": "Not only ______ shade and beauty, but they also reduce carbon dioxide.",
+            "options": [
+                "trees provide",
+                "provide trees",
+                "do trees provide",
+                "trees do provide"
+            ],
+            "answerIndex": 2,
+            "explanation": "Jika kalimat dimulai dengan 'Not only', maka harus terjadi Inversi (Auxiliary + Subject + Verb). 'Do trees provide' adalah inversi yang benar."
+        },
+        {
+            "id": "S022",
+            "sectionType": "structure",
+            "questionText": "______ in the atmosphere is the temperature falling below freezing.",
+            "options": [
+                "Frost is produced",
+                "Frost produces",
+                "What produces frost",
+                "What is frost produced"
+            ],
+            "answerIndex": 2,
+            "explanation": "Noun clause 'What produces frost' berfungsi sebagai subjek kalimat."
+        },
+        {
+            "id": "S023",
+            "sectionType": "structure",
+            "questionText": "Lambert's sunfish, a small freshwater fish, ______ for the distinctive red spot on its ear.",
+            "options": [
+                "naming",
+                "is named",
+                "named",
+                "names"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kalimat pasif. Ikan tersebut 'dinamai' (is named)."
+        },
+        {
+            "id": "S024",
+            "sectionType": "structure",
+            "questionText": "Unless protected areas are established, the Bengal tiger ______ extinct.",
+            "options": [
+                "possible become",
+                "creates to be",
+                "might become",
+                "becoming"
+            ],
+            "answerIndex": 2,
+            "explanation": "Conditional sentence. 'Might become' menunjukkan kemungkinan di masa depan."
+        },
+        {
+            "id": "S025",
+            "sectionType": "structure",
+            "questionText": "Before the 1800s, ______ of cotton was done by hand.",
+            "options": [
+                "the pick",
+                "picking",
+                "the picking",
+                "picked"
+            ],
+            "answerIndex": 2,
+            "explanation": "Dibutuhkan noun phrase sebagai subjek. 'The picking' (proses pemetikan) adalah yang paling tepat."
+        },
+        {
+            "id": "S026",
+            "sectionType": "structure",
+            "questionText": "Unlike the Earth, which rotates once every twenty-four hours, ______ once every ten hours.",
+            "options": [
+                "Jupiter rotates",
+                "Jupiter rotating",
+                "rotation of Jupiter",
+                "Jupiter rotate"
+            ],
+            "answerIndex": 0,
+            "explanation": "Setelah frasa pembanding 'Unlike...', harus diikuti oleh subjek yang dibandingkan (Jupiter) dan kata kerja (rotates)."
+        },
+        {
+            "id": "S027",
+            "sectionType": "structure",
+            "questionText": "Jacksonville, Florida, ______ to be the largest city in the United States.",
+            "options": [
+                "claiming",
+                "claims",
+                "that claims",
+                "is claiming"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subjek 'Jacksonville' membutuhkan kata kerja utama. 'Claims' adalah simple present tense yang tepat."
+        },
+        {
+            "id": "S028",
+            "sectionType": "structure",
+            "questionText": "The skull of a mammal ______ of different bones.",
+            "options": [
+                "is made up",
+                "makes up",
+                "made up",
+                "making up"
+            ],
+            "answerIndex": 0,
+            "explanation": "Kalimat pasif. Tengkorak 'is made up of' (terdiri dari/dibuat dari) tulang."
+        },
+        {
+            "id": "S029",
+            "sectionType": "structure",
+            "questionText": "Using a globe can be ______ to visualize the geography of the world.",
+            "options": [
+                "easy",
+                "easier",
+                "easily",
+                "easiest"
+            ],
+            "answerIndex": 1,
+            "explanation": "Dalam konteks ini, seringkali membandingkan dengan metode lain (implisit), jadi comparative 'easier' sering digunakan."
+        },
+        {
+            "id": "S030",
+            "sectionType": "structure",
+            "questionText": "Only when the ground is kept moist ______ germinate.",
+            "options": [
+                "grass seeds will",
+                "will grass seeds",
+                "grass seeds does",
+                "does grass seeds"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kalimat dimulai dengan 'Only when...', menuntut Inversi di klausa utama: Auxiliary (will) + Subject (grass seeds)."
+        },
+        {
+            "id": "S031",
+            "sectionType": "structure",
+            "questionText": "______ widely used in the chemical industry, sodium carbonate is a principal ingredient in soap.",
+            "options": [
+                "It is",
+                "Is",
+                "Though",
+                "To be"
+            ],
+            "answerIndex": 2,
+            "explanation": "Dibutuhkan konjungsi. 'Though (it is) widely used...'."
+        },
+        {
+            "id": "S032",
+            "sectionType": "structure",
+            "questionText": "Glass that has been tempered may be up to ______.",
+            "options": [
+                "five times as hard as ordinary glass",
+                "as hard as ordinary glass five times",
+                "harder as ordinary glass five times",
+                "ordinary glass as hard as five times"
+            ],
+            "answerIndex": 0,
+            "explanation": "Urutan perbandingan: Multiple number + times + as + adjective + as + noun."
+        },
+        {
+            "id": "S033",
+            "sectionType": "structure",
+            "questionText": "Arizona ______ a very dry climate.",
+            "options": [
+                "has",
+                "being",
+                "having",
+                "with"
+            ],
+            "answerIndex": 0,
+            "explanation": "Kalimat sederhana Subject + Verb. Arizona has (memiliki)."
+        },
+        {
+            "id": "S034",
+            "sectionType": "structure",
+            "questionText": "One of the most important tools ______ by geologists is the hammer.",
+            "options": [
+                "are used",
+                "used",
+                "is used",
+                "using"
+            ],
+            "answerIndex": 1,
+            "explanation": "Reduced adjective clause. Aslinya: '...tools (which are) used by...'."
+        },
+        {
+            "id": "S035",
+            "sectionType": "structure",
+            "questionText": "Native American languages are often ______ than European languages.",
+            "options": [
+                "complex",
+                "more complex",
+                "most complex",
+                "complexity"
+            ],
+            "answerIndex": 1,
+            "explanation": "Comparative adjective. Karena ada 'than', gunakan 'more complex'."
+        },
+        {
+            "id": "S036",
+            "sectionType": "structure",
+            "questionText": "Duncan Mayo, ______ of the early west, was actually born in Scotland.",
+            "options": [
+                "was a famous explorer",
+                "a famous explorer",
+                "he was a famous explorer",
+                "explorer was famous"
+            ],
+            "answerIndex": 1,
+            "explanation": "Appositive phrase. Menjelaskan subjek 'Duncan Mayo' tanpa perlu kata kerja baru."
+        },
+        {
+            "id": "S037",
+            "sectionType": "structure",
+            "questionText": "X-rays are able to pass through objects ______ visible light cannot.",
+            "options": [
+                "that",
+                "which",
+                "where",
+                "whose"
+            ],
+            "answerIndex": 0,
+            "explanation": "Relative clause menjelaskan 'objects'. 'That' digunakan sebagai konektor/objek."
+        },
+        {
+            "id": "S038",
+            "sectionType": "structure",
+            "questionText": "______ to the Moon, the Apollo astronauts took many photographs.",
+            "options": [
+                "While",
+                "During",
+                "On their way",
+                "The way"
+            ],
+            "answerIndex": 2,
+            "explanation": "Frasa preposisi 'On their way to the Moon' berfungsi sebagai keterangan yang tepat."
+        },
+        {
+            "id": "S039",
+            "sectionType": "structure",
+            "questionText": "Gunpowder, in some ways the most effective of all the explosive substances, ______ a mixture of potassium nitrate, charcoal, and sulfur.",
+            "options": [
+                "is",
+                "are",
+                "were",
+                "being"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subjeknya 'Gunpowder' (tunggal/uncountable), jadi verb-nya 'is'."
+        },
+        {
+            "id": "S040",
+            "sectionType": "structure",
+            "questionText": "If water is heated to 212 degrees Fahrenheit, ______ as steam.",
+            "options": [
+                "it boils and escapes",
+                "it is boiling and escaping",
+                "it boil and escape",
+                "boils and escapes"
+            ],
+            "answerIndex": 0,
+            "explanation": "Conditional sentence type 0/1 (General truth). Subject (it) + Verb (boils)."
+        },
+        {
+            "id": "S041",
+            "sectionType": "structure",
+            "questionText": "The higher the temperature of a molecule, ______.",
+            "options": [
+                "the more energy it has",
+                "than it has more energy",
+                "more energy has it",
+                "it has more energy"
+            ],
+            "answerIndex": 0,
+            "explanation": "Double Comparative. Pola 'The more..., the more...'. Jawaban yang tepat mengikuti pola 'the + comparative + subject + verb'."
+        },
+        {
+            "id": "S042",
+            "sectionType": "structure",
+            "questionText": "______ related to the hippopotamus, the whale is a mammal.",
+            "options": [
+                "Although",
+                "Looked",
+                "It is",
+                "Despite"
+            ],
+            "answerIndex": 0,
+            "explanation": "Reduced Adjective Clause/Conjunction. Kalimat lengkapnya 'Although (it is) related...'. 'Despite' harus diikuti noun phrase, sedangkan 'related' adalah participle."
+        },
+        {
+            "id": "S043",
+            "sectionType": "structure",
+            "questionText": "______ in 1776, the Declaration of Independence is one of the most important documents in US history.",
+            "options": [
+                "Writing",
+                "Written",
+                "It was written",
+                "To write"
+            ],
+            "answerIndex": 1,
+            "explanation": "Past Participle Phrase. Dokumen tersebut 'ditulis' (pasif), jadi gunakan V3 (Written) di awal kalimat sebagai modifier."
+        },
+        {
+            "id": "S044",
+            "sectionType": "structure",
+            "questionText": "Only after food has been dried ______ stored for later consumption.",
+            "options": [
+                "can it be",
+                "it can be",
+                "be it can",
+                "can be it"
+            ],
+            "answerIndex": 0,
+            "explanation": "Inversion. Kalimat diawali dengan 'Only after...', maka klausa utama harus diinversi (Auxiliary + Subject + Verb)."
+        },
+        {
+            "id": "S045",
+            "sectionType": "structure",
+            "questionText": "The giant panda is ______ to become extinct.",
+            "options": [
+                "danger",
+                "in danger",
+                "endangered",
+                "threatened"
+            ],
+            "answerIndex": 3,
+            "explanation": "Passive Voice / Adjective. 'Threatened' (terancam) paling tepat secara gramatikal dan makna. Jika pakai 'danger', harusnya 'in danger of becoming'."
+        },
+        {
+            "id": "S046",
+            "sectionType": "structure",
+            "questionText": "Neptune is ______ any other planet in the solar system.",
+            "options": [
+                "far from",
+                "further from the Sun than",
+                "further from the Sun",
+                "furthest from the Sun than"
+            ],
+            "answerIndex": 1,
+            "explanation": "Comparative. Dibutuhkan struktur perbandingan lengkap: 'further... than'."
+        },
+        {
+            "id": "S047",
+            "sectionType": "structure",
+            "questionText": "______ is the study of the nervous system.",
+            "options": [
+                "Neurology",
+                "It is neurology",
+                "Neurology which",
+                "That neurology"
+            ],
+            "answerIndex": 0,
+            "explanation": "Missing Subject. Kalimat membutuhkan subjek tunggal. 'Neurology' adalah subjek yang tepat."
+        },
+        {
+            "id": "S048",
+            "sectionType": "structure",
+            "questionText": "Generally, the knifefish ______ electric fields to navigate.",
+            "options": [
+                "uses",
+                "using",
+                "used",
+                "use"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subject-Verb Agreement. Subjek 'the knifefish' (sebagai spesies tunggal) membutuhkan verb tunggal 'uses'."
+        },
+        {
+            "id": "S049",
+            "sectionType": "structure",
+            "questionText": "The seed of the flax plant ______ oil.",
+            "options": [
+                "yields",
+                "yielding",
+                "it yields",
+                "yield"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subject-Verb Agreement. Subjek intinya adalah 'seed' (tunggal), bukan 'plants'. Jadi verb-nya 'yields'."
+        },
+        {
+            "id": "S050",
+            "sectionType": "structure",
+            "questionText": "______ a busy city, Pompeii was destroyed by the eruption of Mount Vesuvius.",
+            "options": [
+                "Once",
+                "It was once",
+                "Once it was",
+                "That once"
+            ],
+            "answerIndex": 0,
+            "explanation": "Appositive/Modifier. 'Once a busy city' berfungsi menjelaskan subjek 'Pompeii'."
+        },
+        {
+            "id": "S051",
+            "sectionType": "structure",
+            "questionText": "It is essential that every student ______ the exam rules.",
+            "options": [
+                "understand",
+                "understands",
+                "to understand",
+                "understanding"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subjunctive. Setelah 'essential that', verb harus dalam bentuk dasar (bare infinitive) untuk semua subjek."
+        },
+        {
+            "id": "S052",
+            "sectionType": "structure",
+            "questionText": "______ determines the color of the eggshell is the breed of the hen.",
+            "options": [
+                "What",
+                "It",
+                "Which",
+                "That"
+            ],
+            "answerIndex": 0,
+            "explanation": "Noun Clause Subject. 'What determines...' adalah klausa yang berfungsi sebagai subjek kalimat."
+        },
+        {
+            "id": "S053",
+            "sectionType": "structure",
+            "questionText": "Not until the 20th century ______ widely understood.",
+            "options": [
+                "quantum mechanics was",
+                "was quantum mechanics",
+                "quantum mechanics",
+                "did quantum mechanics"
+            ],
+            "answerIndex": 1,
+            "explanation": "Inversion. 'Not until' di awal kalimat memicu inversi (Auxiliary + Subject). 'Was quantum mechanics'."
+        },
+        {
+            "id": "S054",
+            "sectionType": "structure",
+            "questionText": "______ rapid spread of the disease was alarming.",
+            "options": [
+                "The",
+                "A",
+                "It was the",
+                "There was a"
+            ],
+            "answerIndex": 0,
+            "explanation": "Missing Article. Dibutuhkan determiner untuk noun phrase 'rapid spread'. 'The' paling spesifik."
+        },
+        {
+            "id": "S055",
+            "sectionType": "structure",
+            "questionText": "Certain layers of the atmosphere allow radio waves ______ around the Earth.",
+            "options": [
+                "traveling",
+                "to travel",
+                "travel",
+                "traveled"
+            ],
+            "answerIndex": 1,
+            "explanation": "Infinitive. Pola 'allow + object + to infinitive'. Jadi 'allow... to travel'."
+        },
+        {
+            "id": "S056",
+            "sectionType": "structure",
+            "questionText": "______ virtually no atmosphere on the Moon.",
+            "options": [
+                "There is",
+                "It is",
+                "Is there",
+                "There are"
+            ],
+            "answerIndex": 0,
+            "explanation": "Existential Sentence. 'Atmosphere' adalah uncountable (tunggal), jadi gunakan 'There is'."
+        },
+        {
+            "id": "S057",
+            "sectionType": "structure",
+            "questionText": "The first steam engine, ______ by James Watt, revolutionized industry.",
+            "options": [
+                "was developed",
+                "developed",
+                "developing",
+                "it was developed"
+            ],
+            "answerIndex": 1,
+            "explanation": "Reduced Adjective Clause. Aslinya 'which was developed'. Disingkat menjadi 'developed' (Past Participle)."
+        },
+        {
+            "id": "S058",
+            "sectionType": "structure",
+            "questionText": "______ gene in the human genome has a specific function.",
+            "options": [
+                "Most",
+                "All",
+                "Every",
+                "Many"
+            ],
+            "answerIndex": 2,
+            "explanation": "Quantifier. 'Gene' adalah singular noun. 'Every' diikuti singular noun, sedangkan opsi lain diikuti plural/uncountable."
+        },
+        {
+            "id": "S059",
+            "sectionType": "structure",
+            "questionText": "Prior to ______ the United States, immigrants must obtain a visa.",
+            "options": [
+                "entering",
+                "enter",
+                "entered",
+                "entrance"
+            ],
+            "answerIndex": 0,
+            "explanation": "Preposition + Gerund. Setelah preposisi 'to' (dalam frasa 'prior to'), gunakan V-ing."
+        },
+        {
+            "id": "S060",
+            "sectionType": "structure",
+            "questionText": "Of the two cars, the red one is ______.",
+            "options": [
+                "the fastest",
+                "faster",
+                "the faster",
+                "fastest"
+            ],
+            "answerIndex": 2,
+            "explanation": "Comparative with 'The'. Jika hanya ada dua benda, gunakan 'the + comparative' (the faster)."
+        },
+        {
+            "id": "S061",
+            "sectionType": "structure",
+            "questionText": "Rarely ______ seen such a beautiful sunset.",
+            "options": [
+                "I have",
+                "have I",
+                "did I",
+                "I did"
+            ],
+            "answerIndex": 1,
+            "explanation": "Inversion. Adverb negatif 'Rarely' di awal kalimat memicu inversi. Gunakan 'have I' (Present Perfect)."
+        },
+        {
+            "id": "S062",
+            "sectionType": "structure",
+            "questionText": "______ is necessary for the body to function properly.",
+            "options": [
+                "To sleep",
+                "Sleeping",
+                "Sleep",
+                "Ideally sleep"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subject Selection. 'Sleep' (noun) adalah subjek yang paling natural dan ringkas di sini."
+        },
+        {
+            "id": "S063",
+            "sectionType": "structure",
+            "questionText": "The manager asked that the report ______ submitted by 5 PM.",
+            "options": [
+                "be",
+                "is",
+                "was",
+                "were"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subjunctive. Setelah 'asked that', verb harus bare infinitive ('be')."
+        },
+        {
+            "id": "S064",
+            "sectionType": "structure",
+            "questionText": "______ built in 1883, the Brooklyn Bridge is an engineering marvel.",
+            "options": [
+                "Although",
+                "It was",
+                "Because",
+                "When"
+            ],
+            "answerIndex": 0,
+            "explanation": "Reduced Clause. 'Although (it was) built...'. Ini menunjukkan pertentangan (tua tapi hebat)."
+        },
+        {
+            "id": "S065",
+            "sectionType": "structure",
+            "questionText": "Neither the teacher nor the students ______ the answer.",
+            "options": [
+                "knows",
+                "know",
+                "knowing",
+                "to know"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subject-Verb Agreement. Dalam 'Neither...nor', verb mengikuti subjek terdekat ('students' = jamak). Jadi 'know'."
+        },
+        {
+            "id": "S066",
+            "sectionType": "structure",
+            "questionText": "The surface of Mars is covered with ______ red dust.",
+            "options": [
+                "a",
+                "the",
+                "some",
+                "-"
+            ],
+            "answerIndex": 3,
+            "explanation": "Zero Article. 'Dust' adalah uncountable noun dan di sini bersifat umum, jadi tidak butuh artikel."
+        },
+        {
+            "id": "S067",
+            "sectionType": "structure",
+            "questionText": "Had I known about the traffic, I ______ earlier.",
+            "options": [
+                "would leave",
+                "will leave",
+                "would have left",
+                "left"
+            ],
+            "answerIndex": 2,
+            "explanation": "Conditional Type 3. 'Had I known' = 'If I had known'. Result clause harus 'would have + V3'."
+        },
+        {
+            "id": "S068",
+            "sectionType": "structure",
+            "questionText": "______ dolphins have no sense of smell is known to marine biologists.",
+            "options": [
+                "That",
+                "Because",
+                "Since",
+                "Although"
+            ],
+            "answerIndex": 0,
+            "explanation": "Noun Clause Subject. 'That dolphins have...' adalah klausa yang berfungsi sebagai subjek kalimat."
+        },
+        {
+            "id": "S069",
+            "sectionType": "structure",
+            "questionText": "The speed of light is ______ the speed of sound.",
+            "options": [
+                "faster",
+                "much faster than",
+                "fastest",
+                "as fast"
+            ],
+            "answerIndex": 1,
+            "explanation": "Comparative. Dibutuhkan struktur komparatif lengkap 'much faster than'."
+        },
+        {
+            "id": "S070",
+            "sectionType": "structure",
+            "questionText": "Proteins are ______ of amino acids.",
+            "options": [
+                "composed",
+                "composing",
+                "compose",
+                "composition"
+            ],
+            "answerIndex": 0,
+            "explanation": "Passive Voice. 'Are composed of' = terdiri dari."
+        },
+        {
+            "id": "S071",
+            "sectionType": "structure",
+            "questionText": "______ rain, the picnic was canceled.",
+            "options": [
+                "Because",
+                "Due to",
+                "Since",
+                "As"
+            ],
+            "answerIndex": 1,
+            "explanation": "Preposition. 'Rain' adalah noun. Gunakan 'Due to' (preposisi). Opsi lain adalah conjunction yang harus diikuti klausa."
+        },
+        {
+            "id": "S072",
+            "sectionType": "structure",
+            "questionText": "Most of the water on Earth ______ in the oceans.",
+            "options": [
+                "is",
+                "are",
+                "being",
+                "to be"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subject-Verb Agreement. 'Water' adalah uncountable (tunggal). Jadi 'is'."
+        },
+        {
+            "id": "S073",
+            "sectionType": "structure",
+            "questionText": "Using a telescope, ______.",
+            "options": [
+                "planets can be seen",
+                "we can see planets",
+                "can see planets",
+                "the seeing of planets"
+            ],
+            "answerIndex": 1,
+            "explanation": "Dangling Modifier. Frasa 'Using a telescope' harus diikuti oleh pelaku yang menggunakan teleskop tersebut ('we')."
+        },
+        {
+            "id": "S074",
+            "sectionType": "structure",
+            "questionText": "______ the fact that he was tired, he continued working.",
+            "options": [
+                "Despite",
+                "Although",
+                "However",
+                "Even"
+            ],
+            "answerIndex": 0,
+            "explanation": "Preposition. 'Despite' diikuti noun phrase ('the fact that...')."
+        },
+        {
+            "id": "S075",
+            "sectionType": "structure",
+            "questionText": "Mathematics ______ my favorite subject in school.",
+            "options": [
+                "was",
+                "were",
+                "are",
+                "have been"
+            ],
+            "answerIndex": 0,
+            "explanation": "Singular Noun. 'Mathematics' berakhiran 's' tapi tunggal. Gunakan 'was'."
+        },
+        {
+            "id": "S076",
+            "sectionType": "structure",
+            "questionText": "______ a large amount of money was stolen from the bank.",
+            "options": [
+                "Alleged",
+                "Reportedly",
+                "It is reported",
+                "The report"
+            ],
+            "answerIndex": 1,
+            "explanation": "Adverb Modifier. 'Reportedly' memodifikasi seluruh kalimat/kata kerja."
+        },
+        {
+            "id": "S077",
+            "sectionType": "structure",
+            "questionText": "The cactus is a plant ______ adapted to dry conditions.",
+            "options": [
+                "well",
+                "good",
+                "better",
+                "best"
+            ],
+            "answerIndex": 0,
+            "explanation": "Adverb usage. Participle 'adapted' harus dijelaskan oleh adverb 'well', bukan adjective 'good'."
+        },
+        {
+            "id": "S078",
+            "sectionType": "structure",
+            "questionText": "Unless ______, I will not go to the party.",
+            "options": [
+                "invited",
+                "inviting",
+                "I invite",
+                "invitation"
+            ],
+            "answerIndex": 0,
+            "explanation": "Reduced Clause. 'Unless (I am) invited...'. Gunakan Past Participle untuk makna pasif."
+        },
+        {
+            "id": "S079",
+            "sectionType": "structure",
+            "questionText": "______ the best player on the team, Sarah was elected captain.",
+            "options": [
+                "Being",
+                "She was",
+                "Is",
+                "To be"
+            ],
+            "answerIndex": 0,
+            "explanation": "Present Participle Phrase. 'Being the best player...' menjelaskan subjek 'Sarah'."
+        },
+        {
+            "id": "S080",
+            "sectionType": "structure",
+            "questionText": "The committee ______ usually hold their meetings on Tuesdays.",
+            "options": [
+                "does",
+                "do",
+                "is",
+                "has"
+            ],
+            "answerIndex": 1,
+            "explanation": "Collective Noun. Di sini ada kata ganti 'their', menunjukkan anggota komite dianggap jamak (individuals). Maka gunakan 'do'."
+        },
+        {
+            "id": "S081",
+            "sectionType": "structure",
+            "questionText": "______ penicillin is known as the first antibiotic.",
+            "options": [
+                "Discovered by Fleming",
+                "Fleming discovered",
+                "That Fleming discovered",
+                "Discovery of"
+            ],
+            "answerIndex": 0,
+            "explanation": "Dangling Modifier (Incorrect) -> Sebenarnya ini bukan dangling jika subjeknya Penicillin. Tapi opsi A 'Discovered by Fleming, penicillin...' adalah struktur yang benar. Di sini letaknya di depan subjek. Maaf, ini Sentence Completion. Opsi A membuat kalimat 'Discovered by Fleming, penicillin...' menjadi frasa participle yang benar."
+        },
+        {
+            "id": "S082",
+            "sectionType": "structure",
+            "questionText": "It is important that he ______ the doctor immediately.",
+            "options": [
+                "see",
+                "sees",
+                "saw",
+                "seeing"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subjunctive. Setelah 'important that', gunakan bare infinitive 'see'."
+        },
+        {
+            "id": "S083",
+            "sectionType": "structure",
+            "questionText": "The Statue of Liberty was a gift ______ friendship from France.",
+            "options": [
+                "of",
+                "for",
+                "in",
+                "to"
+            ],
+            "answerIndex": 0,
+            "explanation": "Preposition. 'A gift of friendship' (hadiah persahabatan)."
+        },
+        {
+            "id": "S084",
+            "sectionType": "structure",
+            "questionText": "______ manufacturing, the country relies on agriculture.",
+            "options": [
+                "In addition to",
+                "Because",
+                "Example",
+                "However"
+            ],
+            "answerIndex": 0,
+            "explanation": "Prepositional Phrase. 'In addition to' (Selain) cocok secara makna dan gramatikal."
+        },
+        {
+            "id": "S085",
+            "sectionType": "structure",
+            "questionText": "Birds regulate their body temperature ______ feathers.",
+            "options": [
+                "by fluffing",
+                "fluffing",
+                "with fluffing",
+                "fluff"
+            ],
+            "answerIndex": 0,
+            "explanation": "Method. 'By + Gerund' digunakan untuk menunjukkan cara melakukan sesuatu."
+        },
+        {
+            "id": "S086",
+            "sectionType": "structure",
+            "questionText": "______ appears to be no solution to the problem.",
+            "options": [
+                "It",
+                "There",
+                "That",
+                "This"
+            ],
+            "answerIndex": 1,
+            "explanation": "Existential Subject. 'There appears to be...' adalah bentuk formal dari 'There is...'."
+        },
+        {
+            "id": "S087",
+            "sectionType": "structure",
+            "questionText": "The Mona Lisa is ______ painting in the world.",
+            "options": [
+                "famous",
+                "the famous",
+                "the most famous",
+                "most famous"
+            ],
+            "answerIndex": 2,
+            "explanation": "Superlative. Dibutuhkan 'the most + adjective' untuk superlatif."
+        },
+        {
+            "id": "S088",
+            "sectionType": "structure",
+            "questionText": "______ classified as a dwarf planet, Pluto has five known moons.",
+            "options": [
+                "Although",
+                "Despite",
+                "Even",
+                "However"
+            ],
+            "answerIndex": 0,
+            "explanation": "Reduced Clause. 'Although (it is) classified...'."
+        },
+        {
+            "id": "S089",
+            "sectionType": "structure",
+            "questionText": "The more you learn, ______ you realize how little you know.",
+            "options": [
+                "more",
+                "the more",
+                "most",
+                "the most"
+            ],
+            "answerIndex": 1,
+            "explanation": "Double Comparative. 'The more..., the more...'."
+        },
+        {
+            "id": "S090",
+            "sectionType": "structure",
+            "questionText": "______ tea is the second most consumed drink in the world.",
+            "options": [
+                "After water",
+                "Water",
+                "Following water",
+                "Water is"
+            ],
+            "answerIndex": 0,
+            "explanation": "Prepositional Phrase. 'After water' memberikan konteks urutan."
+        },
+        {
+            "id": "S091",
+            "sectionType": "structure",
+            "questionText": "The knee is the joint ______ the thigh bone meets the large bone of the lower leg.",
+            "options": [
+                "when",
+                "where",
+                "why",
+                "which"
+            ],
+            "answerIndex": 1,
+            "explanation": "Relative Adverb. 'Where' digunakan untuk merujuk pada tempat atau lokasi fisik (persendian)."
+        },
+        {
+            "id": "S092",
+            "sectionType": "structure",
+            "questionText": "______ produce artificial rain, chemicals are spread by airplanes.",
+            "options": [
+                "To",
+                "In order",
+                "For",
+                "Due to"
+            ],
+            "answerIndex": 0,
+            "explanation": "Infinitive of Purpose. Gunakan 'To + Verb 1' di awal kalimat untuk menyatakan tujuan. 'To produce...'."
+        },
+        {
+            "id": "S093",
+            "sectionType": "structure",
+            "questionText": "If the oxygen supply in the atmosphere ______ replenished by plants, it would soon be exhausted.",
+            "options": [
+                "were not",
+                "was not",
+                "had not been",
+                "is not"
+            ],
+            "answerIndex": 0,
+            "explanation": "Conditional Sentence Type 2. Untuk pengandaian yang berlawanan dengan fakta saat ini, gunakan 'were' untuk semua subjek."
+        },
+        {
+            "id": "S094",
+            "sectionType": "structure",
+            "questionText": "______ excellent art museums, Moscow has a world-famous ballet company.",
+            "options": [
+                "Because",
+                "In spite of",
+                "In addition to",
+                "Although"
+            ],
+            "answerIndex": 2,
+            "explanation": "Connector. Kalimat ini menambahkan informasi positif (museum + ballet), jadi 'In addition to' adalah yang paling tepat."
+        },
+        {
+            "id": "S095",
+            "sectionType": "structure",
+            "questionText": "The onion is characterized by a strong sharp smell and taste ______.",
+            "options": [
+                "is caused by an oil",
+                "that caused by an oil",
+                "caused by an oil",
+                "causing the oil"
+            ],
+            "answerIndex": 2,
+            "explanation": "Reduced Adjective Clause. Aslinya 'which is caused by'. Disingkat menjadi Past Participle 'caused by'."
+        },
+        {
+            "id": "S096",
+            "sectionType": "structure",
+            "questionText": "Not only ______ atoms, but they also contain subatomic particles.",
+            "options": [
+                "does matter contain",
+                "consists of matter",
+                "matter contains",
+                "containing matter"
+            ],
+            "answerIndex": 0,
+            "explanation": "Inversion. 'Not only' di awal kalimat mengharuskan inversi (Auxiliary + Subject + Verb)."
+        },
+        {
+            "id": "S097",
+            "sectionType": "structure",
+            "questionText": "Generally, the thinnest part of the Earth's crust is ______ the oceans.",
+            "options": [
+                "under",
+                "underneath it",
+                "being under",
+                "underside"
+            ],
+            "answerIndex": 0,
+            "explanation": "Preposition. Dibutuhkan preposisi sederhana 'under' untuk menunjukkan lokasi."
+        },
+        {
+            "id": "S098",
+            "sectionType": "structure",
+            "questionText": "______ two fingerprints have ever been found to be exactly the same.",
+            "options": [
+                "No",
+                "Never",
+                "Not",
+                "None"
+            ],
+            "answerIndex": 0,
+            "explanation": "Negative Adjective. 'No' digunakan sebelum noun phrase ('two fingerprints')."
+        },
+        {
+            "id": "S099",
+            "sectionType": "structure",
+            "questionText": "Computers that once took up entire rooms are now ______ to put on desktops.",
+            "options": [
+                "small enough",
+                "enough small",
+                "as small as",
+                "smaller than"
+            ],
+            "answerIndex": 0,
+            "explanation": "Adjective + Enough. Posisi 'enough' selalu diletakkan SETELAH kata sifat."
+        },
+        {
+            "id": "S100",
+            "sectionType": "structure",
+            "questionText": "______ fats are essential to the human body, but too much can be harmful.",
+            "options": [
+                "Although",
+                "Whatever",
+                "Dietary",
+                "There are"
+            ],
+            "answerIndex": 2,
+            "explanation": "Adjective/Subject Modifier. Dibutuhkan kata sifat untuk menjelaskan 'fats'. 'Dietary fats' (lemak makanan)."
+        },
+        {
+            "id": "S101",
+            "sectionType": "structure",
+            "questionText": "The hard palate ______ between the mouth and the nose.",
+            "options": [
+                "forming a partition",
+                "a partition forms",
+                "forms a partition",
+                "a form and a partition"
+            ],
+            "answerIndex": 2,
+            "explanation": "Missing Verb. Kalimat ini sudah punya subjek 'The hard palate', butuh verb utama 'forms'."
+        },
+        {
+            "id": "S102",
+            "sectionType": "structure",
+            "questionText": "______ the history of the tough, strong-willed Nebraska farmer.",
+            "options": [
+                "Not only is",
+                "Willa Cather wrote",
+                "What Willa Cather wrote",
+                "The writing of Willa Cather"
+            ],
+            "answerIndex": 1,
+            "explanation": "Simple Sentence. Dibutuhkan Subjek dan Verb. 'Willa Cather (S) wrote (V)'."
+        },
+        {
+            "id": "S103",
+            "sectionType": "structure",
+            "questionText": "Never before ______ seen such a rapid increase in technology.",
+            "options": [
+                "has the world",
+                "the world has",
+                "did the world",
+                "the world"
+            ],
+            "answerIndex": 0,
+            "explanation": "Inversion. Adverb negatif 'Never before' memicu inversi. Gunakan Present Perfect 'has the world'."
+        },
+        {
+            "id": "S104",
+            "sectionType": "structure",
+            "questionText": "______ for their strong fiber include flax and hemp.",
+            "options": [
+                "Plants are grown",
+                "Plants grown",
+                "Plants that grow",
+                "To grow plants"
+            ],
+            "answerIndex": 1,
+            "explanation": "Reduced Adjective Clause. Subjek kalimat adalah 'Plants (which are) grown for their strong fiber'. Verb utamanya adalah 'include'."
+        },
+        {
+            "id": "S105",
+            "sectionType": "structure",
+            "questionText": "______ is the chemical element with the symbol Au.",
+            "options": [
+                "Gold",
+                "It is gold",
+                "Gold which",
+                "That gold"
+            ],
+            "answerIndex": 0,
+            "explanation": "Simple Subject. Kalimat membutuhkan subjek noun 'Gold'."
+        },
+        {
+            "id": "S106",
+            "sectionType": "structure",
+            "questionText": "In the United States, ______ is the most common form of energy.",
+            "options": [
+                "electricity",
+                "is electricity",
+                "electricity that",
+                "there is electricity"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subject. Setelah frasa preposisi tempat, dibutuhkan subjek untuk verb 'is'. 'Electricity'."
+        },
+        {
+            "id": "S107",
+            "sectionType": "structure",
+            "questionText": "The Eiffel Tower is ______ famous landmark in Paris.",
+            "options": [
+                "a",
+                "the",
+                "an",
+                "-"
+            ],
+            "answerIndex": 0,
+            "explanation": "Article. 'Famous' diawali bunyi konsonan, gunakan 'a'. Ini adalah penyebutan umum salah satu landmark."
+        },
+        {
+            "id": "S108",
+            "sectionType": "structure",
+            "questionText": "______ she was tired, she finished the marathon.",
+            "options": [
+                "Despite",
+                "Although",
+                "However",
+                "Nevertheless"
+            ],
+            "answerIndex": 1,
+            "explanation": "Conjunction. Diikuti klausa lengkap (S + V), gunakan 'Although'. 'Despite' untuk noun phrase."
+        },
+        {
+            "id": "S109",
+            "sectionType": "structure",
+            "questionText": "The study of rocks is ______ geology.",
+            "options": [
+                "called",
+                "calling",
+                "to call",
+                "call"
+            ],
+            "answerIndex": 0,
+            "explanation": "Passive Voice. 'Is called' (disebut)."
+        },
+        {
+            "id": "S110",
+            "sectionType": "structure",
+            "questionText": "______ birds are able to fly, the ostrich cannot.",
+            "options": [
+                "Most",
+                "While most",
+                "That most",
+                "Despite"
+            ],
+            "answerIndex": 1,
+            "explanation": "Conjunction. 'While' menunjukkan pertentangan (Sementara kebanyakan burung bisa terbang...)."
+        },
+        {
+            "id": "S111",
+            "sectionType": "structure",
+            "questionText": "______ air is composed of nitrogen and oxygen.",
+            "options": [
+                "The",
+                "A",
+                "An",
+                "-"
+            ],
+            "answerIndex": 3,
+            "explanation": "Zero Article. 'Air' adalah uncountable noun yang bersifat umum di sini."
+        },
+        {
+            "id": "S112",
+            "sectionType": "structure",
+            "questionText": "Only by working hard ______ achieve your goals.",
+            "options": [
+                "you can",
+                "can you",
+                "you will",
+                "did you"
+            ],
+            "answerIndex": 1,
+            "explanation": "Inversion. 'Only by...' memicu inversi (Auxiliary + S + V)."
+        },
+        {
+            "id": "S113",
+            "sectionType": "structure",
+            "questionText": "The Appalachian Mountains are ______ than the Rocky Mountains.",
+            "options": [
+                "old",
+                "older",
+                "oldest",
+                "more older"
+            ],
+            "answerIndex": 1,
+            "explanation": "Comparative. Adjective pendek + er + than."
+        },
+        {
+            "id": "S114",
+            "sectionType": "structure",
+            "questionText": "______ gene in the body is unique.",
+            "options": [
+                "Each",
+                "All",
+                "Many",
+                "Some"
+            ],
+            "answerIndex": 0,
+            "explanation": "Quantifier. 'Gene' tunggal, jadi gunakan 'Each'. Yang lain untuk jamak."
+        },
+        {
+            "id": "S115",
+            "sectionType": "structure",
+            "questionText": "Before ______ to bed, I always brush my teeth.",
+            "options": [
+                "go",
+                "going",
+                "went",
+                "gone"
+            ],
+            "answerIndex": 1,
+            "explanation": "Preposition + Gerund. 'Before going'."
+        },
+        {
+            "id": "S116",
+            "sectionType": "structure",
+            "questionText": "______ of the students passed the exam.",
+            "options": [
+                "Every",
+                "None",
+                "Each",
+                "Much"
+            ],
+            "answerIndex": 1,
+            "explanation": "Pronoun. 'None of the students' (tak satu pun). 'Every' tidak bisa diikuti 'of' secara langsung (harus 'Every one of'). 'Each of' benar tapi biasanya menekankan individu, 'None' lebih umum untuk negasi jamak di sini."
+        },
+        {
+            "id": "S117",
+            "sectionType": "structure",
+            "questionText": "The speed of sound is ______ than the speed of light.",
+            "options": [
+                "slow",
+                "slower",
+                "slowest",
+                "more slow"
+            ],
+            "answerIndex": 1,
+            "explanation": "Comparative. 'Slower than'."
+        },
+        {
+            "id": "S118",
+            "sectionType": "structure",
+            "questionText": "______ mammals, whales breathe air.",
+            "options": [
+                "Like",
+                "Alike",
+                "As",
+                "Similar"
+            ],
+            "answerIndex": 0,
+            "explanation": "Preposition. 'Like' (seperti) digunakan untuk membandingkan noun."
+        },
+        {
+            "id": "S119",
+            "sectionType": "structure",
+            "questionText": "It is essential that she ______ on time.",
+            "options": [
+                "be",
+                "is",
+                "was",
+                "were"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subjunctive. 'Essential that she be'."
+        },
+        {
+            "id": "S120",
+            "sectionType": "structure",
+            "questionText": "The sun ______ in the east.",
+            "options": [
+                "rise",
+                "rises",
+                "rising",
+                "risen"
+            ],
+            "answerIndex": 1,
+            "explanation": "Simple Present Tense. General truth, subjek tunggal."
+        },
+        {
+            "id": "S121",
+            "sectionType": "structure",
+            "questionText": "______ is a popular sport in Brazil.",
+            "options": [
+                "Soccer",
+                "The soccer",
+                "A soccer",
+                "Play soccer"
+            ],
+            "answerIndex": 0,
+            "explanation": "Zero Article. Nama olahraga tidak menggunakan artikel."
+        },
+        {
+            "id": "S122",
+            "sectionType": "structure",
+            "questionText": "The man ______ to the manager is my uncle.",
+            "options": [
+                "talking",
+                "talks",
+                "talked",
+                "is talking"
+            ],
+            "answerIndex": 0,
+            "explanation": "Reduced Adjective Clause. 'The man (who is) talking...'."
+        },
+        {
+            "id": "S123",
+            "sectionType": "structure",
+            "questionText": "______ help you?",
+            "options": [
+                "Can I",
+                "I can",
+                "I",
+                "Do I"
+            ],
+            "answerIndex": 0,
+            "explanation": "Question Form. Modal + Subject + Verb."
+        },
+        {
+            "id": "S124",
+            "sectionType": "structure",
+            "questionText": "She is ______ intelligent student.",
+            "options": [
+                "a",
+                "an",
+                "the",
+                "-"
+            ],
+            "answerIndex": 1,
+            "explanation": "Article. 'Intelligent' diawali bunyi vokal."
+        },
+        {
+            "id": "S125",
+            "sectionType": "structure",
+            "questionText": "______ I know the answer, I cannot tell you.",
+            "options": [
+                "Although",
+                "Because",
+                "However",
+                "Despite"
+            ],
+            "answerIndex": 0,
+            "explanation": "Conjunction. Menunjukkan pertentangan (Walaupun saya tahu...)."
+        },
+        {
+            "id": "S126",
+            "sectionType": "structure",
+            "questionText": "The river ______ through the city.",
+            "options": [
+                "flow",
+                "flows",
+                "flowing",
+                "flown"
+            ],
+            "answerIndex": 1,
+            "explanation": "Simple Present. Subjek tunggal 'The river'."
+        },
+        {
+            "id": "S127",
+            "sectionType": "structure",
+            "questionText": "______ I have a pen?",
+            "options": [
+                "May",
+                "Do",
+                "Am",
+                "Will"
+            ],
+            "answerIndex": 0,
+            "explanation": "Polite Request. 'May I have...'."
+        },
+        {
+            "id": "S128",
+            "sectionType": "structure",
+            "questionText": "The book ______ by Mark Twain.",
+            "options": [
+                "wrote",
+                "was written",
+                "written",
+                "writing"
+            ],
+            "answerIndex": 1,
+            "explanation": "Passive Voice. Past Tense (was + V3)."
+        },
+        {
+            "id": "S129",
+            "sectionType": "structure",
+            "questionText": "______ students are in the classroom.",
+            "options": [
+                "Many",
+                "Much",
+                "A lot",
+                "Every"
+            ],
+            "answerIndex": 0,
+            "explanation": "Quantifier. 'Students' adalah countable plural. Gunakan 'Many'."
+        },
+        {
+            "id": "S130",
+            "sectionType": "structure",
+            "questionText": "I ______ to the store yesterday.",
+            "options": [
+                "go",
+                "went",
+                "gone",
+                "going"
+            ],
+            "answerIndex": 1,
+            "explanation": "Simple Past. Keterangan waktu 'yesterday'."
+        },
+        {
+            "id": "S131",
+            "sectionType": "structure",
+            "questionText": "The phone ______ while I was sleeping.",
+            "options": [
+                "ring",
+                "rang",
+                "rung",
+                "ringing"
+            ],
+            "answerIndex": 1,
+            "explanation": "Simple Past (interrupted action). 'Rang'."
+        },
+        {
+            "id": "S132",
+            "sectionType": "structure",
+            "questionText": "______ car is parked outside?",
+            "options": [
+                "Who",
+                "Whose",
+                "Whom",
+                "Which"
+            ],
+            "answerIndex": 1,
+            "explanation": "Possessive Question. 'Mobil siapa...'. Gunakan 'Whose'."
+        },
+        {
+            "id": "S133",
+            "sectionType": "structure",
+            "questionText": "He is ______ interesting person.",
+            "options": [
+                "a",
+                "an",
+                "the",
+                "-"
+            ],
+            "answerIndex": 1,
+            "explanation": "Article. 'An interesting person'."
+        },
+        {
+            "id": "S134",
+            "sectionType": "structure",
+            "questionText": "They ______ soccer every weekend.",
+            "options": [
+                "play",
+                "plays",
+                "playing",
+                "played"
+            ],
+            "answerIndex": 0,
+            "explanation": "Simple Present. Subjek 'They' jamak."
+        },
+        {
+            "id": "S135",
+            "sectionType": "structure",
+            "questionText": "______ time is it?",
+            "options": [
+                "What",
+                "Which",
+                "When",
+                "How"
+            ],
+            "answerIndex": 0,
+            "explanation": "Question. 'What time...'."
+        },
+        {
+            "id": "S136",
+            "sectionType": "structure",
+            "questionText": "I ______ seen that movie before.",
+            "options": [
+                "has",
+                "have",
+                "had",
+                "having"
+            ],
+            "answerIndex": 1,
+            "explanation": "Present Perfect. 'I have seen'."
+        },
+        {
+            "id": "S137",
+            "sectionType": "structure",
+            "questionText": "______ is the capital of France?",
+            "options": [
+                "What",
+                "Where",
+                "Which",
+                "Who"
+            ],
+            "answerIndex": 0,
+            "explanation": "Question. 'Apa ibukota...'. Gunakan 'What'."
+        },
+        {
+            "id": "S138",
+            "sectionType": "structure",
+            "questionText": "The cat ______ on the mat.",
+            "options": [
+                "sit",
+                "sits",
+                "sitting",
+                "sat"
+            ],
+            "answerIndex": 1,
+            "explanation": "Simple Present. 'Sits' (atau Sat jika past, tapi Sits opsi paling standar untuk fakta/kebiasaan jika tanpa konteks waktu)."
+        },
+        {
+            "id": "S139",
+            "sectionType": "structure",
+            "questionText": "______ you like some coffee?",
+            "options": [
+                "Would",
+                "Do",
+                "Are",
+                "Can"
+            ],
+            "answerIndex": 0,
+            "explanation": "Offer. 'Would you like...'."
+        },
+        {
+            "id": "S140",
+            "sectionType": "structure",
+            "questionText": "She ______ a teacher.",
+            "options": [
+                "is",
+                "are",
+                "am",
+                "be"
+            ],
+            "answerIndex": 0,
+            "explanation": "To Be. Subjek 'She'. Gunakan 'is'."
+        },
+        {
+            "id": "S141",
+            "sectionType": "structure",
+            "questionText": "______ widely used in the chemical industry, sodium carbonate is a principal ingredient in soap.",
+            "options": [
+                "It is",
+                "Is",
+                "Though",
+                "To be"
+            ],
+            "answerIndex": 2,
+            "explanation": "Reduced Adverb Clause. Kalimat lengkapnya 'Though it is widely used...'. Konjungsi 'Though' diperlukan untuk menunjukkan konsesi."
+        },
+        {
+            "id": "S142",
+            "sectionType": "structure",
+            "questionText": "Just off the Massachusetts coast ______ a popular summer resort area.",
+            "options": [
+                "Martha's Vineyard is",
+                "is where Martha's Vineyard",
+                "is Martha's Vineyard",
+                "Martha's Vineyard being"
+            ],
+            "answerIndex": 2,
+            "explanation": "Inversion of Place. Keterangan tempat 'Just off...' di awal kalimat memicu inversi (Verb + Subject). '...is (V) Martha's Vineyard (S)'."
+        },
+        {
+            "id": "S143",
+            "sectionType": "structure",
+            "questionText": "The older the tree, ______ the rings in its trunk.",
+            "options": [
+                "the more closer",
+                "closest",
+                "closer",
+                "the closer"
+            ],
+            "answerIndex": 3,
+            "explanation": "Double Comparative. Pola 'The older..., the closer...'."
+        },
+        {
+            "id": "S144",
+            "sectionType": "structure",
+            "questionText": "Usually, the more skilled an athlete, ______ the more money he or she earns.",
+            "options": [
+                "that",
+                "is",
+                "the",
+                "and"
+            ],
+            "answerIndex": 2,
+            "explanation": "Double Comparative. Pola 'The more..., the more...'. Bagian kedua harus dimulai dengan 'the'."
+        },
+        {
+            "id": "S145",
+            "sectionType": "structure",
+            "questionText": "______ tea plant are small and white.",
+            "options": [
+                "The",
+                "On the",
+                "Having flowers the",
+                "The flowers of the"
+            ],
+            "answerIndex": 3,
+            "explanation": "Subject-Verb Agreement. Verb-nya 'are' (jamak), jadi subjek harus jamak. 'The flowers (jamak) of the tea plant'."
+        },
+        {
+            "id": "S146",
+            "sectionType": "structure",
+            "questionText": "The tetracyclines, ______ antibiotics, are used to treat infections.",
+            "options": [
+                "are a family of",
+                "being a family",
+                "a family of",
+                "their family is"
+            ],
+            "answerIndex": 2,
+            "explanation": "Appositive. Frasa 'a family of antibiotics' menjelaskan subjek 'The tetracyclines' tanpa membutuhkan verb baru."
+        },
+        {
+            "id": "S147",
+            "sectionType": "structure",
+            "questionText": "Any possible academic assistance from taking stimulants ______ marginal at best.",
+            "options": [
+                "it is",
+                "there is",
+                "is",
+                "as"
+            ],
+            "answerIndex": 2,
+            "explanation": "Simple Sentence. Subjek utamanya 'assistance' (tunggal), verb-nya 'is'."
+        },
+        {
+            "id": "S148",
+            "sectionType": "structure",
+            "questionText": "Henry Adams, born in Boston, ______ famous as a historian and novelist.",
+            "options": [
+                "became",
+                "and became",
+                "he was",
+                "and he became"
+            ],
+            "answerIndex": 0,
+            "explanation": "Main Verb. Kalimat sudah punya subjek 'Henry Adams' dan modifier 'born in Boston'. Butuh verb utama 'became'."
+        },
+        {
+            "id": "S149",
+            "sectionType": "structure",
+            "questionText": "The major cause ______ the pull of the Moon on the Earth.",
+            "options": [
+                "the ocean tides are",
+                "of ocean tides is",
+                "of the tides in the ocean",
+                "the oceans' tides"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subject Completion. 'The major cause (of ocean tides) is...'. Pola Noun + Prepositional Phrase + Verb."
+        },
+        {
+            "id": "S150",
+            "sectionType": "structure",
+            "questionText": "Still a novelty in the late nineteenth century, ______ limited to the rich.",
+            "options": [
+                "was photography",
+                "photography was",
+                "it was photography",
+                "photography"
+            ],
+            "answerIndex": 1,
+            "explanation": "Modifier. Frasa awal menjelaskan subjek. Subjek yang dijelaskan adalah 'photography'."
+        },
+        {
+            "id": "S151",
+            "sectionType": "structure",
+            "questionText": "The reactor core of a nuclear power plant is enclosed in concrete ______ radiation.",
+            "options": [
+                "prevent",
+                "prevents",
+                "to prevent",
+                "prevention"
+            ],
+            "answerIndex": 2,
+            "explanation": "Infinitive of Purpose. 'To prevent' (untuk mencegah)."
+        },
+        {
+            "id": "S152",
+            "sectionType": "structure",
+            "questionText": "______ political party in the United States.",
+            "options": [
+                "No",
+                "Not",
+                "None",
+                "Never"
+            ],
+            "answerIndex": 0,
+            "explanation": "Negative Adjective. 'No' digunakan sebelum noun phrase."
+        },
+        {
+            "id": "S153",
+            "sectionType": "structure",
+            "questionText": "The committee has met and ______.",
+            "options": [
+                "they have reached a decision",
+                "it has formulated some opinions",
+                "its decision was reached",
+                "it has reached a decision"
+            ],
+            "answerIndex": 3,
+            "explanation": "Parallel Structure. 'Has met and (has) reached'. Subjek 'committee' dianggap tunggal (it) di sini."
+        },
+        {
+            "id": "S154",
+            "sectionType": "structure",
+            "questionText": "Juana Ines de la Cruz ______ a nun in 1667 to devote her life to writing.",
+            "options": [
+                "who became",
+                "became",
+                "becoming",
+                "she became"
+            ],
+            "answerIndex": 1,
+            "explanation": "Simple Past. Butuh verb utama 'became' untuk subjek 'Juana...'."
+        },
+        {
+            "id": "S155",
+            "sectionType": "structure",
+            "questionText": "A premise is a statement ______ as a basis for reasoning.",
+            "options": [
+                "serving",
+                "serves",
+                "that serve",
+                "served"
+            ],
+            "answerIndex": 0,
+            "explanation": "Reduced Adjective Clause. 'Which serves' menjadi 'serving'."
+        },
+        {
+            "id": "S156",
+            "sectionType": "structure",
+            "questionText": "Of all the cereals, rice is the one ______ food for more people than any other grain.",
+            "options": [
+                "it provides",
+                "that providing",
+                "provides",
+                "that provides"
+            ],
+            "answerIndex": 3,
+            "explanation": "Adjective Clause. 'The one that provides...'."
+        },
+        {
+            "id": "S157",
+            "sectionType": "structure",
+            "questionText": "______ wooden buildings helps to protect them from damage due to weather.",
+            "options": [
+                "Painting",
+                "Painted",
+                "The paint",
+                "By painting"
+            ],
+            "answerIndex": 0,
+            "explanation": "Gerund as Subject. 'Painting... helps...'."
+        },
+        {
+            "id": "S158",
+            "sectionType": "structure",
+            "questionText": "Not only ______ shade and beauty, but they also reduce carbon dioxide.",
+            "options": [
+                "trees provide",
+                "provide trees",
+                "do trees provide",
+                "trees do provide"
+            ],
+            "answerIndex": 2,
+            "explanation": "Inversion. 'Not only' di awal kalimat -> 'do trees provide'."
+        },
+        {
+            "id": "S159",
+            "sectionType": "structure",
+            "questionText": "______ in the atmosphere is the temperature falling below freezing.",
+            "options": [
+                "Frost is produced",
+                "Frost produces",
+                "What produces frost",
+                "What is frost produced"
+            ],
+            "answerIndex": 2,
+            "explanation": "Noun Clause Subject. 'What produces frost' adalah subjek kalimat."
+        },
+        {
+            "id": "S160",
+            "sectionType": "structure",
+            "questionText": "Lambert's sunfish, a small freshwater fish, ______ for the distinctive red spot on its ear.",
+            "options": [
+                "naming",
+                "is named",
+                "named",
+                "names"
+            ],
+            "answerIndex": 1,
+            "explanation": "Passive Voice. 'Is named' (dinamai)."
+        },
+        {
+            "id": "S161",
+            "sectionType": "structure",
+            "questionText": "Unless protected areas are established, the Bengal tiger ______ extinct.",
+            "options": [
+                "possible become",
+                "creates to be",
+                "might become",
+                "becoming"
+            ],
+            "answerIndex": 2,
+            "explanation": "Conditional/Modal. 'Might become' menunjukkan kemungkinan."
+        },
+        {
+            "id": "S162",
+            "sectionType": "structure",
+            "questionText": "Before the 1800s, ______ of cotton was done by hand.",
+            "options": [
+                "the pick",
+                "picking",
+                "the picking",
+                "picked"
+            ],
+            "answerIndex": 2,
+            "explanation": "Gerund/Noun Phrase. 'The picking of cotton' adalah subjek."
+        },
+        {
+            "id": "S163",
+            "sectionType": "structure",
+            "questionText": "Unlike the Earth, which rotates once every twenty-four hours, ______ once every ten hours.",
+            "options": [
+                "Jupiter rotates",
+                "Jupiter rotating",
+                "rotation of Jupiter",
+                "Jupiter rotate"
+            ],
+            "answerIndex": 0,
+            "explanation": "Comparison. Membandingkan 'The Earth' dengan 'Jupiter'. Struktur S + V ('Jupiter rotates')."
+        },
+        {
+            "id": "S164",
+            "sectionType": "structure",
+            "questionText": "Jacksonville, Florida, ______ to be the largest city in the United States.",
+            "options": [
+                "claiming",
+                "claims",
+                "that claims",
+                "is claiming"
+            ],
+            "answerIndex": 1,
+            "explanation": "Main Verb. 'Jacksonville... claims...'."
+        },
+        {
+            "id": "S165",
+            "sectionType": "structure",
+            "questionText": "The skull of a mammal ______ of different bones.",
+            "options": [
+                "is made up",
+                "makes up",
+                "made up",
+                "making up"
+            ],
+            "answerIndex": 0,
+            "explanation": "Passive Phrasal Verb. 'Is made up of' (terdiri dari)."
+        },
+        {
+            "id": "S166",
+            "sectionType": "structure",
+            "questionText": "Using a globe can be ______ to visualize the geography of the world.",
+            "options": [
+                "easy",
+                "easier",
+                "easily",
+                "easiest"
+            ],
+            "answerIndex": 1,
+            "explanation": "Comparative (Implied). Lebih mudah (daripada peta datar). 'Easier'."
+        },
+        {
+            "id": "S167",
+            "sectionType": "structure",
+            "questionText": "Only when the ground is kept moist ______ germinate.",
+            "options": [
+                "grass seeds will",
+                "will grass seeds",
+                "grass seeds does",
+                "does grass seeds"
+            ],
+            "answerIndex": 1,
+            "explanation": "Inversion. 'Only when...' -> 'will grass seeds germinate'."
+        },
+        {
+            "id": "S168",
+            "sectionType": "structure",
+            "questionText": "Glass that has been tempered may be up to ______.",
+            "options": [
+                "five times as hard as ordinary glass",
+                "as hard as ordinary glass five times",
+                "harder as ordinary glass five times",
+                "ordinary glass as hard as five times"
+            ],
+            "answerIndex": 0,
+            "explanation": "Multiple Number Comparison. 'Five times as hard as...'."
+        },
+        {
+            "id": "S169",
+            "sectionType": "structure",
+            "questionText": "Arizona ______ a very dry climate.",
+            "options": [
+                "has",
+                "being",
+                "having",
+                "with"
+            ],
+            "answerIndex": 0,
+            "explanation": "Simple Sentence. 'Arizona (S) has (V)'."
+        },
+        {
+            "id": "S170",
+            "sectionType": "structure",
+            "questionText": "One of the most important tools ______ by geologists is the hammer.",
+            "options": [
+                "are used",
+                "used",
+                "is used",
+                "using"
+            ],
+            "answerIndex": 1,
+            "explanation": "Reduced Adjective Clause. 'Tools (which are) used...'."
+        },
+        {
+            "id": "S171",
+            "sectionType": "structure",
+            "questionText": "Native American languages are often ______ than European languages.",
+            "options": [
+                "complex",
+                "more complex",
+                "most complex",
+                "complexity"
+            ],
+            "answerIndex": 1,
+            "explanation": "Comparative. Ada 'than', jadi 'more complex'."
+        },
+        {
+            "id": "S172",
+            "sectionType": "structure",
+            "questionText": "Duncan Mayo, ______ of the early west, was actually born in Scotland.",
+            "options": [
+                "was a famous explorer",
+                "a famous explorer",
+                "he was a famous explorer",
+                "explorer was famous"
+            ],
+            "answerIndex": 1,
+            "explanation": "Appositive. Frasa benda yang menjelaskan subjek."
+        },
+        {
+            "id": "S173",
+            "sectionType": "structure",
+            "questionText": "X-rays are able to pass through objects ______ visible light cannot.",
+            "options": [
+                "that",
+                "which",
+                "where",
+                "whose"
+            ],
+            "answerIndex": 0,
+            "explanation": "Relative Pronoun/Connector. 'That' menghubungkan dua klausa yang kontras."
+        },
+        {
+            "id": "S174",
+            "sectionType": "structure",
+            "questionText": "______ to the Moon, the Apollo astronauts took many photographs.",
+            "options": [
+                "While",
+                "During",
+                "On their way",
+                "The way"
+            ],
+            "answerIndex": 2,
+            "explanation": "Prepositional Phrase. 'On their way to the Moon' (Dalam perjalanan mereka ke Bulan)."
+        },
+        {
+            "id": "S175",
+            "sectionType": "structure",
+            "questionText": "Gunpowder, in some ways the most effective of all the explosive substances, ______ a mixture of potassium nitrate, charcoal, and sulfur.",
+            "options": [
+                "is",
+                "are",
+                "were",
+                "being"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subject-Verb Agreement. Subjek 'Gunpowder' (tunggal) -> 'is'."
+        },
+        {
+            "id": "S176",
+            "sectionType": "structure",
+            "questionText": "If water is heated to 212 degrees Fahrenheit, ______ as steam.",
+            "options": [
+                "it boils and escapes",
+                "it is boiling and escaping",
+                "it boil and escape",
+                "boils and escapes"
+            ],
+            "answerIndex": 0,
+            "explanation": "Conditional Type 0/1. 'It boils and escapes' (General Truth)."
+        },
+        {
+            "id": "S177",
+            "sectionType": "structure",
+            "questionText": "The North Platte River ______ from Wyoming into Nebraska.",
+            "options": [
+                "it flowed",
+                "flows",
+                "flowing",
+                "with flowing water"
+            ],
+            "answerIndex": 1,
+            "explanation": "Simple Present. 'The river (S) flows (V)'."
+        },
+        {
+            "id": "S178",
+            "sectionType": "structure",
+            "questionText": "______ Biloxi received its name from a Sioux word meaning 'first people'.",
+            "options": [
+                "The city of",
+                "Located in",
+                "It is in",
+                "The tour included"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subject Completion. 'The city of Biloxi' (Kota Biloxi)."
+        },
+        {
+            "id": "S179",
+            "sectionType": "structure",
+            "questionText": "A pride of lions ______ up to forty lions.",
+            "options": [
+                "can contain",
+                "it contains",
+                "contain",
+                "containing"
+            ],
+            "answerIndex": 0,
+            "explanation": "Modal Verb. 'A pride (S) can contain (V)'."
+        },
+        {
+            "id": "S180",
+            "sectionType": "structure",
+            "questionText": "A computer is usually chosen because of its simplicity of operation and ease of maintenance ______ its capacity to store information.",
+            "options": [
+                "the same as",
+                "the same",
+                "as well as",
+                "as well"
+            ],
+            "answerIndex": 2,
+            "explanation": "Conjunction. 'As well as' (dan juga/serta) menghubungkan frasa benda setara."
+        },
+        {
+            "id": "S181",
+            "sectionType": "structure",
+            "questionText": "In a basketball game a player ______ bounce the ball.",
+            "options": [
+                "must",
+                "needs",
+                "should to",
+                "ought"
+            ],
+            "answerIndex": 0,
+            "explanation": "Modal Verb. 'Must' diikuti bare infinitive 'bounce'. 'Needs' butuh 'to', 'Ought' butuh 'to'."
+        },
+        {
+            "id": "S182",
+            "sectionType": "structure",
+            "questionText": "______ gene in the human genome is unique.",
+            "options": [
+                "Every",
+                "All",
+                "Many",
+                "Some"
+            ],
+            "answerIndex": 0,
+            "explanation": "Quantifier. 'Gene' tunggal, gunakan 'Every'."
+        },
+        {
+            "id": "S183",
+            "sectionType": "structure",
+            "questionText": "The moon ______ around the earth.",
+            "options": [
+                "revolve",
+                "revolves",
+                "revolving",
+                "revolution"
+            ],
+            "answerIndex": 1,
+            "explanation": "Simple Present. Subjek tunggal 'The moon' -> 'revolves'."
+        },
+        {
+            "id": "S184",
+            "sectionType": "structure",
+            "questionText": "______ created the first nuclear reactor.",
+            "options": [
+                "Enrico Fermi",
+                "It was Enrico Fermi",
+                "Enrico Fermi who",
+                "That Enrico Fermi"
+            ],
+            "answerIndex": 0,
+            "explanation": "Simple Sentence. Butuh subjek orang 'Enrico Fermi'."
+        },
+        {
+            "id": "S185",
+            "sectionType": "structure",
+            "questionText": "Pandas ______ bamboo.",
+            "options": [
+                "eat mainly",
+                "mainly eat",
+                "eating mainly",
+                "main eat"
+            ],
+            "answerIndex": 1,
+            "explanation": "Adverb Position. Adverb 'mainly' sebelum verb 'eat'."
+        },
+        {
+            "id": "S186",
+            "sectionType": "structure",
+            "questionText": "The temperature at which water boils ______ with altitude.",
+            "options": [
+                "varies",
+                "vary",
+                "varying",
+                "variety"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subject-Verb Agreement. Subjek 'The temperature' (tunggal) -> 'varies'."
+        },
+        {
+            "id": "S187",
+            "sectionType": "structure",
+            "questionText": "______ light travels faster than sound is a well-known fact.",
+            "options": [
+                "That",
+                "Because",
+                "Since",
+                "Whether"
+            ],
+            "answerIndex": 0,
+            "explanation": "Noun Clause Subject. 'That light travels...' adalah subjek."
+        },
+        {
+            "id": "S188",
+            "sectionType": "structure",
+            "questionText": "The United States consists of fifty states, ______ has its own government.",
+            "options": [
+                "each of which",
+                "each of them",
+                "they each",
+                "each one"
+            ],
+            "answerIndex": 0,
+            "explanation": "Adjective Clause / Quantifier. 'Each of which' menghubungkan dua klausa dan merujuk pada 'states'."
+        },
+        {
+            "id": "S189",
+            "sectionType": "structure",
+            "questionText": "______ microscopic, bacteria are essential to life.",
+            "options": [
+                "Although",
+                "Despite",
+                "Even",
+                "However"
+            ],
+            "answerIndex": 0,
+            "explanation": "Reduced Clause. 'Although (they are) microscopic...'."
+        },
+        {
+            "id": "S190",
+            "sectionType": "structure",
+            "questionText": "Oxygen, ______ nitrogen, is a gas found in the atmosphere.",
+            "options": [
+                "like",
+                "alike",
+                "as",
+                "similar"
+            ],
+            "answerIndex": 0,
+            "explanation": "Preposition. 'Like' (seperti) digunakan untuk perbandingan noun."
+        }
+    ]
+}

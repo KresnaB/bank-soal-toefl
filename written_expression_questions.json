@@ -1,0 +1,3804 @@
+{
+    "written_expression": [
+        {
+            "id": "WE001",
+            "sectionType": "written_expression",
+            "questionText": "The (A) decisions made by the committee (B) was based on (C) inaccurate data and (D) biased opinions.",
+            "underlinedParts": [
+                "decisions",
+                "was",
+                "inaccurate",
+                "biased"
+            ],
+            "options": [
+                "decisions",
+                "was",
+                "inaccurate",
+                "biased"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subject-Verb Agreement. Subjek 'decisions' jamak, jadi to be harus 'were', bukan 'was'."
+        },
+        {
+            "id": "WE002",
+            "sectionType": "written_expression",
+            "questionText": "(A) Despite of the rain, the (B) outdoor concert continued (C) as planned, much to the (D) delight of the fans.",
+            "underlinedParts": [
+                "Despite of",
+                "outdoor",
+                "as planned",
+                "delight"
+            ],
+            "options": [
+                "Despite of",
+                "outdoor",
+                "as planned",
+                "delight"
+            ],
+            "answerIndex": 0,
+            "explanation": "Preposisi salah. 'Despite' tidak diikuti 'of'. Gunakan 'Despite the rain' atau 'In spite of the rain'."
+        },
+        {
+            "id": "WE003",
+            "sectionType": "written_expression",
+            "questionText": "The (A) more harder you study for the (B) exam, the (C) better your results (D) will be.",
+            "underlinedParts": [
+                "more harder",
+                "exam",
+                "better",
+                "will be"
+            ],
+            "options": [
+                "more harder",
+                "exam",
+                "better",
+                "will be"
+            ],
+            "answerIndex": 0,
+            "explanation": "Double Comparative. 'Harder' sudah komparatif, tidak perlu 'more'. Cukup 'The harder'."
+        },
+        {
+            "id": "WE004",
+            "sectionType": "written_expression",
+            "questionText": "Elephants are (A) capable of (B) lifting heavy objects (C) with their trunks, which are (D) extreme strong.",
+            "underlinedParts": [
+                "capable of",
+                "lifting",
+                "with",
+                "extreme"
+            ],
+            "options": [
+                "capable of",
+                "lifting",
+                "with",
+                "extreme"
+            ],
+            "answerIndex": 3,
+            "explanation": "Adjective vs Adverb. 'Strong' adalah adjective, jadi harus dijelaskan oleh adverb 'extremely', bukan 'extreme'."
+        },
+        {
+            "id": "WE005",
+            "sectionType": "written_expression",
+            "questionText": "Each of the (A) students (B) are required to (C) submit their term paper (D) on time.",
+            "underlinedParts": [
+                "students",
+                "are",
+                "submit",
+                "on time"
+            ],
+            "options": [
+                "students",
+                "are",
+                "submit",
+                "on time"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subject-Verb Agreement. 'Each' adalah subjek tunggal, jadi verb harus tunggal 'is required'."
+        },
+        {
+            "id": "WE006",
+            "sectionType": "written_expression",
+            "questionText": "Usually the (A) climate in (B) mountainous areas is (C) much windy than (D) in the plains.",
+            "underlinedParts": [
+                "climate",
+                "mountainous",
+                "much windy",
+                "in the"
+            ],
+            "options": [
+                "climate",
+                "mountainous",
+                "much windy",
+                "in the"
+            ],
+            "answerIndex": 2,
+            "explanation": "Comparative. Untuk membandingkan ('than'), gunakan 'windier' atau 'much windier', bukan 'much windy'."
+        },
+        {
+            "id": "WE007",
+            "sectionType": "written_expression",
+            "questionText": "The director (A) as well as his (B) secretaries (C) were invited to the (D) annual convention.",
+            "underlinedParts": [
+                "as well as",
+                "secretaries",
+                "were",
+                "annual"
+            ],
+            "options": [
+                "as well as",
+                "secretaries",
+                "were",
+                "annual"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subject-Verb Agreement. Jika subjek dipisah 'as well as', verb mengikuti subjek pertama ('The director' = tunggal), jadi harusnya 'was invited'."
+        },
+        {
+            "id": "WE008",
+            "sectionType": "written_expression",
+            "questionText": "(A) Because of the light, the city looks (B) differently (C) from the way (D) I remember it.",
+            "underlinedParts": [
+                "Because of",
+                "differently",
+                "from",
+                "I remember"
+            ],
+            "options": [
+                "Because of",
+                "differently",
+                "from",
+                "I remember"
+            ],
+            "answerIndex": 1,
+            "explanation": "Linking Verb. 'Looks' adalah linking verb yang harus diikuti adjective, bukan adverb. Harusnya 'looks different'."
+        },
+        {
+            "id": "WE009",
+            "sectionType": "written_expression",
+            "questionText": "Before (A) to go out, remember (B) to turn off the (C) lights and (D) lock the door.",
+            "underlinedParts": [
+                "to go",
+                "to turn off",
+                "lights",
+                "lock"
+            ],
+            "options": [
+                "to go",
+                "to turn off",
+                "lights",
+                "lock"
+            ],
+            "answerIndex": 0,
+            "explanation": "Preposition + Gerund. Setelah preposisi 'Before', gunakan gerund 'going', bukan infinitive 'to go'."
+        },
+        {
+            "id": "WE010",
+            "sectionType": "written_expression",
+            "questionText": "Mathematics (A) are one of the (B) most difficult subjects (C) for many (D) students.",
+            "underlinedParts": [
+                "are",
+                "most difficult",
+                "for",
+                "students"
+            ],
+            "options": [
+                "are",
+                "most difficult",
+                "for",
+                "students"
+            ],
+            "answerIndex": 0,
+            "explanation": "Noun. 'Mathematics' meskipun berakhiran 's' adalah kata benda tunggal (nama ilmu), jadi harusnya 'is'."
+        },
+        {
+            "id": "WE011",
+            "sectionType": "written_expression",
+            "questionText": "She (A) wishes that she (B) was (C) younger and (D) more energetic.",
+            "underlinedParts": [
+                "wishes",
+                "was",
+                "younger",
+                "more energetic"
+            ],
+            "options": [
+                "wishes",
+                "was",
+                "younger",
+                "more energetic"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subjunctive. Dalam kalimat pengandaian (wish), to be untuk semua subjek adalah 'were'. Harusnya 'she were'."
+        },
+        {
+            "id": "WE012",
+            "sectionType": "written_expression",
+            "questionText": "(A) Almost all of the information (B) in the report (C) appear to be (D) outdated.",
+            "underlinedParts": [
+                "Almost all",
+                "in the",
+                "appear",
+                "outdated"
+            ],
+            "options": [
+                "Almost all",
+                "in the",
+                "appear",
+                "outdated"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subject-Verb Agreement. 'Information' adalah uncountable (tunggal), jadi verb harus 'appears'."
+        },
+        {
+            "id": "WE013",
+            "sectionType": "written_expression",
+            "questionText": "The loud noise (A) from the construction site (B) prevented me (C) to sleep (D) last night.",
+            "underlinedParts": [
+                "from",
+                "prevented",
+                "to sleep",
+                "last night"
+            ],
+            "options": [
+                "from",
+                "prevented",
+                "to sleep",
+                "last night"
+            ],
+            "answerIndex": 2,
+            "explanation": "Wrong Preposition. Pasangan kata 'prevent' adalah 'from + verb-ing'. Harusnya 'prevented me from sleeping'."
+        },
+        {
+            "id": "WE014",
+            "sectionType": "written_expression",
+            "questionText": "There (A) is (B) many reasons why (C) people choose to live (D) in big cities.",
+            "underlinedParts": [
+                "is",
+                "many",
+                "people",
+                "in"
+            ],
+            "options": [
+                "is",
+                "many",
+                "people",
+                "in"
+            ],
+            "answerIndex": 0,
+            "explanation": "Inverted Subject. Subjeknya adalah 'many reasons' (jamak), jadi harusnya 'There are'."
+        },
+        {
+            "id": "WE015",
+            "sectionType": "written_expression",
+            "questionText": "My brother (A) enjoys (B) to swim in the ocean, (C) but I prefer (D) the pool.",
+            "underlinedParts": [
+                "enjoys",
+                "to swim",
+                "but",
+                "the pool"
+            ],
+            "options": [
+                "enjoys",
+                "to swim",
+                "but",
+                "the pool"
+            ],
+            "answerIndex": 1,
+            "explanation": "Gerund. Kata kerja 'enjoy' selalu diikuti gerund (V-ing), bukan infinitive. Harusnya 'enjoys swimming'."
+        },
+        {
+            "id": "WE016",
+            "sectionType": "written_expression",
+            "questionText": "(A) Neither the teacher (B) nor the students (C) is ready for the (D) upcoming exam.",
+            "underlinedParts": [
+                "Neither",
+                "nor",
+                "is",
+                "upcoming"
+            ],
+            "options": [
+                "Neither",
+                "nor",
+                "is",
+                "upcoming"
+            ],
+            "answerIndex": 2,
+            "explanation": "Paired Conjunction. Dalam 'Neither...nor...', verb mengikuti subjek terdekat ('students' = jamak). Harusnya 'are ready'."
+        },
+        {
+            "id": "WE017",
+            "sectionType": "written_expression",
+            "questionText": "Usually, the (A) population in (B) rural areas is (C) much lower than (D) urban areas.",
+            "underlinedParts": [
+                "population",
+                "rural",
+                "much lower",
+                "urban areas"
+            ],
+            "options": [
+                "population",
+                "rural",
+                "much lower",
+                "urban areas"
+            ],
+            "answerIndex": 3,
+            "explanation": "Illogical Comparison. Kita membandingkan 'population' dengan 'population', bukan 'population' dengan 'area'. Harusnya 'than that of urban areas'."
+        },
+        {
+            "id": "WE018",
+            "sectionType": "written_expression",
+            "questionText": "The book (A) was written (B) by a famous author, (C) whom is known for (D) his mystery novels.",
+            "underlinedParts": [
+                "was written",
+                "by",
+                "whom",
+                "his"
+            ],
+            "options": [
+                "was written",
+                "by",
+                "whom",
+                "his"
+            ],
+            "answerIndex": 2,
+            "explanation": "Relative Pronoun. Pronoun berfungsi sebagai subjek dari klausa 'is known', jadi gunakan 'who', bukan 'whom'."
+        },
+        {
+            "id": "WE019",
+            "sectionType": "written_expression",
+            "questionText": "Please (A) give the message to (B) whomever is (C) sitting at the (D) front desk.",
+            "underlinedParts": [
+                "give",
+                "whomever",
+                "sitting",
+                "front"
+            ],
+            "options": [
+                "give",
+                "whomever",
+                "sitting",
+                "front"
+            ],
+            "answerIndex": 1,
+            "explanation": "Relative Pronoun. Meskipun setelah preposisi, klausa noun-nya membutuhkan subjek untuk 'is sitting'. Gunakan 'whoever'."
+        },
+        {
+            "id": "WE020",
+            "sectionType": "written_expression",
+            "questionText": "The (A) more careful (B) the workers are, (C) the less (D) mistakes they make.",
+            "underlinedParts": [
+                "more careful",
+                "the workers",
+                "the less",
+                "mistakes they"
+            ],
+            "options": [
+                "more careful",
+                "the workers",
+                "the less",
+                "mistakes they"
+            ],
+            "answerIndex": 2,
+            "explanation": "Countable Noun. 'Mistakes' adalah countable, jadi harus 'the fewer mistakes'. 'Less' digunakan untuk uncountable nouns."
+        },
+        {
+            "id": "WE021",
+            "sectionType": "written_expression",
+            "questionText": "We looked (A) forward to (B) meet you (C) at the conference (D) next week.",
+            "underlinedParts": [
+                "forward",
+                "meet",
+                "at the",
+                "next week"
+            ],
+            "options": [
+                "forward",
+                "meet",
+                "at the",
+                "next week"
+            ],
+            "answerIndex": 1,
+            "explanation": "Idiomatic Expression. 'Look forward to' diikuti oleh Gerund (V-ing) atau Noun. Harusnya 'meeting'."
+        },
+        {
+            "id": "WE022",
+            "sectionType": "written_expression",
+            "questionText": "It is (A) essential that every student (B) wears a uniform (C) during the (D) ceremony.",
+            "underlinedParts": [
+                "essential",
+                "wears",
+                "during",
+                "ceremony"
+            ],
+            "options": [
+                "essential",
+                "wears",
+                "during",
+                "ceremony"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subjunctive. Setelah 'essential that', verb harus dalam bentuk dasar (bare infinitive). Harusnya 'wear'."
+        },
+        {
+            "id": "WE023",
+            "sectionType": "written_expression",
+            "questionText": "Some people (A) enjoy watching movies, (B) while others prefer (C) to read (D) book.",
+            "underlinedParts": [
+                "enjoy",
+                "while",
+                "to read",
+                "book"
+            ],
+            "options": [
+                "enjoy",
+                "while",
+                "to read",
+                "book"
+            ],
+            "answerIndex": 3,
+            "explanation": "Singular Countable Noun. 'Book' tidak bisa berdiri sendiri tanpa determiner. Harusnya 'books' (jamak umum) atau 'a book'."
+        },
+        {
+            "id": "WE024",
+            "sectionType": "written_expression",
+            "questionText": "(A) Never before (B) I have seen (C) such a (D) beautiful sunset.",
+            "underlinedParts": [
+                "Never before",
+                "I have",
+                "such a",
+                "beautiful"
+            ],
+            "options": [
+                "Never before",
+                "I have",
+                "such a",
+                "beautiful"
+            ],
+            "answerIndex": 1,
+            "explanation": "Inversion. Jika kalimat dimulai dengan negatif ('Never before'), susunan subjek-verb dibalik. Harusnya 'have I seen'."
+        },
+        {
+            "id": "WE025",
+            "sectionType": "written_expression",
+            "questionText": "The effects of (A) cigarette smoking (B) have been (C) proven to be (D) extreme harmful.",
+            "underlinedParts": [
+                "cigarette",
+                "have been",
+                "proven",
+                "extreme"
+            ],
+            "options": [
+                "cigarette",
+                "have been",
+                "proven",
+                "extreme"
+            ],
+            "answerIndex": 3,
+            "explanation": "Adverb usage. 'Harmful' adalah adjective, jadi harus dijelaskan oleh adverb 'extremely'."
+        },
+        {
+            "id": "WE026",
+            "sectionType": "written_expression",
+            "questionText": "(A) One of the (B) most famous (C) scientist in the world (D) is Albert Einstein.",
+            "underlinedParts": [
+                "One of",
+                "most famous",
+                "scientist",
+                "is"
+            ],
+            "options": [
+                "One of",
+                "most famous",
+                "scientist",
+                "is"
+            ],
+            "answerIndex": 2,
+            "explanation": "Plural Noun. Pola 'One of the...' harus diikuti kata benda jamak. Harusnya 'scientists'."
+        },
+        {
+            "id": "WE027",
+            "sectionType": "written_expression",
+            "questionText": "(A) Unlike most birds, (B) penguins are flightless (C) and excellent (D) swimmer.",
+            "underlinedParts": [
+                "Unlike",
+                "penguins",
+                "and",
+                "swimmer"
+            ],
+            "options": [
+                "Unlike",
+                "penguins",
+                "and",
+                "swimmer"
+            ],
+            "answerIndex": 3,
+            "explanation": "Parallelism/Number. Subjek 'penguins' jamak, jadi komplemennya juga harus jamak. Harusnya 'swimmers'."
+        },
+        {
+            "id": "WE028",
+            "sectionType": "written_expression",
+            "questionText": "The (A) amount of people (B) waiting for the concert tickets (C) was (D) surprising.",
+            "underlinedParts": [
+                "amount",
+                "waiting",
+                "was",
+                "surprising"
+            ],
+            "options": [
+                "amount",
+                "waiting",
+                "was",
+                "surprising"
+            ],
+            "answerIndex": 0,
+            "explanation": "Countable Noun. 'People' adalah countable, jadi gunakan 'number', bukan 'amount'. 'The number of people'."
+        },
+        {
+            "id": "WE029",
+            "sectionType": "written_expression",
+            "questionText": "We had (A) better to (B) leave early if (C) we want to avoid (D) the traffic.",
+            "underlinedParts": [
+                "better to",
+                "leave",
+                "we",
+                "the traffic"
+            ],
+            "options": [
+                "better to",
+                "leave",
+                "we",
+                "the traffic"
+            ],
+            "answerIndex": 0,
+            "explanation": "Modal Usage. 'Had better' diikuti bare infinitive (verb 1 tanpa 'to'). Harusnya 'We had better leave'."
+        },
+        {
+            "id": "WE030",
+            "sectionType": "written_expression",
+            "questionText": "Not only (A) did he (B) forgot his wallet, (C) but he also lost (D) his keys.",
+            "underlinedParts": [
+                "did he",
+                "forgot",
+                "but",
+                "his keys"
+            ],
+            "options": [
+                "did he",
+                "forgot",
+                "but",
+                "his keys"
+            ],
+            "answerIndex": 1,
+            "explanation": "Auxiliary Verb. Setelah 'did', kata kerja harus kembali ke bentuk dasar. Harusnya 'forget'."
+        },
+        {
+            "id": "WE031",
+            "sectionType": "written_expression",
+            "questionText": "(A) The new computer system is (B) far more efficient (C) as the (D) old one.",
+            "underlinedParts": [
+                "The",
+                "far more",
+                "as",
+                "old one"
+            ],
+            "options": [
+                "The",
+                "far more",
+                "as",
+                "old one"
+            ],
+            "answerIndex": 2,
+            "explanation": "Comparative. Pasangan dari 'more efficient' adalah 'than', bukan 'as'."
+        },
+        {
+            "id": "WE032",
+            "sectionType": "written_expression",
+            "questionText": "Sarah (A) has been working (B) as a nurse (C) since (D) ten years.",
+            "underlinedParts": [
+                "has been",
+                "as",
+                "since",
+                "ten years"
+            ],
+            "options": [
+                "has been",
+                "as",
+                "since",
+                "ten years"
+            ],
+            "answerIndex": 2,
+            "explanation": "Preposition of Time. Untuk durasi waktu (ten years), gunakan 'for'. Gunakan 'since' untuk titik waktu tertentu."
+        },
+        {
+            "id": "WE033",
+            "sectionType": "written_expression",
+            "questionText": "The biology students (A) are required (B) to dissect a frog, (C) which it is (D) an unpleasant task.",
+            "underlinedParts": [
+                "are",
+                "to dissect",
+                "which it is",
+                "an"
+            ],
+            "options": [
+                "are",
+                "to dissect",
+                "which it is",
+                "an"
+            ],
+            "answerIndex": 2,
+            "explanation": "Redundancy. Relative pronoun 'which' sudah berfungsi sebagai subjek. Menambahkan 'it' membuatnya mubazir. Harusnya 'which is'."
+        },
+        {
+            "id": "WE034",
+            "sectionType": "written_expression",
+            "questionText": "(A) Because his sickness, (B) he could not (C) attend the meeting (D) held yesterday.",
+            "underlinedParts": [
+                "Because",
+                "he",
+                "attend",
+                "held"
+            ],
+            "options": [
+                "Because",
+                "he",
+                "attend",
+                "held"
+            ],
+            "answerIndex": 0,
+            "explanation": "Preposition. 'Because' adalah conjunction (diikuti kalimat). Karena 'his sickness' adalah noun phrase, gunakan 'Because of'."
+        },
+        {
+            "id": "WE035",
+            "sectionType": "written_expression",
+            "questionText": "The professor asked the students (A) not to talk (B) during the exam, (C) but they kept (D) to whisper.",
+            "underlinedParts": [
+                "not to talk",
+                "during",
+                "but",
+                "to whisper"
+            ],
+            "options": [
+                "not to talk",
+                "during",
+                "but",
+                "to whisper"
+            ],
+            "answerIndex": 3,
+            "explanation": "Gerund. Kata kerja 'keep' diikuti gerund (V-ing). Harusnya 'kept whispering'."
+        },
+        {
+            "id": "WE036",
+            "sectionType": "written_expression",
+            "questionText": "It was (A) such a cold day (B) that the water in the lake (C) freeze (D) solid.",
+            "underlinedParts": [
+                "such",
+                "that",
+                "freeze",
+                "solid"
+            ],
+            "options": [
+                "such",
+                "that",
+                "freeze",
+                "solid"
+            ],
+            "answerIndex": 2,
+            "explanation": "Tense Consistency. Kalimat awal 'It was' (Past Tense), maka kata kerja selanjutnya harus Past Tense. Harusnya 'froze'."
+        },
+        {
+            "id": "WE037",
+            "sectionType": "written_expression",
+            "questionText": "Neither the driver (A) or the passengers (B) were injured (C) in the accident (D) last night.",
+            "underlinedParts": [
+                "or",
+                "were",
+                "in",
+                "last night"
+            ],
+            "options": [
+                "or",
+                "were",
+                "in",
+                "last night"
+            ],
+            "answerIndex": 0,
+            "explanation": "Paired Conjunction. Pasangan 'Neither' adalah 'nor', bukan 'or'."
+        },
+        {
+            "id": "WE038",
+            "sectionType": "written_expression",
+            "questionText": "The team members (A) discussed about (B) the problem (C) for hours (D) without finding a solution.",
+            "underlinedParts": [
+                "discussed about",
+                "the",
+                "for",
+                "without"
+            ],
+            "options": [
+                "discussed about",
+                "the",
+                "for",
+                "without"
+            ],
+            "answerIndex": 0,
+            "explanation": "Transitive Verb. 'Discuss' langsung diikuti objek tanpa preposisi. Hapus 'about'. Harusnya 'discussed the problem'."
+        },
+        {
+            "id": "WE039",
+            "sectionType": "written_expression",
+            "questionText": "(A) Despite he is rich, he (B) lives in a (C) small house and (D) drives an old car.",
+            "underlinedParts": [
+                "Despite",
+                "lives",
+                "small",
+                "drives"
+            ],
+            "options": [
+                "Despite",
+                "lives",
+                "small",
+                "drives"
+            ],
+            "answerIndex": 0,
+            "explanation": "Conjunction vs Preposition. 'Despite' diikuti noun phrase. Karena diikuti klausa 'he is rich', gunakan conjunction 'Although'."
+        },
+        {
+            "id": "WE040",
+            "sectionType": "written_expression",
+            "questionText": "The (A) five-dollars bill (B) was found (C) on the floor (D) near the entrance.",
+            "underlinedParts": [
+                "five-dollars",
+                "was",
+                "on",
+                "near"
+            ],
+            "options": [
+                "five-dollars",
+                "was",
+                "on",
+                "near"
+            ],
+            "answerIndex": 0,
+            "explanation": "Compound Adjective. Ketika angka dan noun digabung menjadi adjective (sebelum noun lain 'bill'), noun tersebut tidak boleh jamak. Harusnya 'five-dollar'."
+        },
+        {
+            "id": "WE041",
+            "sectionType": "written_expression",
+            "questionText": "(A) Among the three candidates, John is (B) the more qualified (C) for the (D) position.",
+            "underlinedParts": [
+                "Among",
+                "the more",
+                "for",
+                "position"
+            ],
+            "options": [
+                "Among",
+                "the more",
+                "for",
+                "position"
+            ],
+            "answerIndex": 1,
+            "explanation": "Superlative. Karena ada 3 kandidat ('Among the three'), gunakan superlative 'the most qualified', bukan comparative."
+        },
+        {
+            "id": "WE042",
+            "sectionType": "written_expression",
+            "questionText": "The machinery (A) used in (B) this factory (C) needs to be (D) repairing.",
+            "underlinedParts": [
+                "used",
+                "this",
+                "needs",
+                "repairing"
+            ],
+            "options": [
+                "used",
+                "this",
+                "needs",
+                "repairing"
+            ],
+            "answerIndex": 3,
+            "explanation": "Passive Meaning. 'Needs' bisa diikuti V-ing (repairing) ATAU passive infinitive (to be repaired). Tapi pola 'needs to be repairing' salah. Harusnya 'needs repairing' atau 'needs to be repaired'. Karena ada 'to be', pilihannya 'repaired'."
+        },
+        {
+            "id": "WE043",
+            "sectionType": "written_expression",
+            "questionText": "This tea is (A) too hot (B) that I (C) cannot drink (D) it.",
+            "underlinedParts": [
+                "too",
+                "that",
+                "cannot",
+                "it"
+            ],
+            "options": [
+                "too",
+                "that",
+                "cannot",
+                "it"
+            ],
+            "answerIndex": 1,
+            "explanation": "Correlative Conjunction. Pasangan 'that' (result) adalah 'so', bukan 'too'. Harusnya 'So hot that...'."
+        },
+        {
+            "id": "WE044",
+            "sectionType": "written_expression",
+            "questionText": "My sister, (A) accompanied by her friends, (B) are going (C) to the cinema (D) tonight.",
+            "underlinedParts": [
+                "accompanied",
+                "are",
+                "to",
+                "tonight"
+            ],
+            "options": [
+                "accompanied",
+                "are",
+                "to",
+                "tonight"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subject-Verb Agreement. Frasa 'accompanied by' tidak mengubah subjek. Subjek tetap 'My sister' (tunggal). Harusnya 'is going'."
+        },
+        {
+            "id": "WE045",
+            "sectionType": "written_expression",
+            "questionText": "The manager (A) suggested that (B) we arrive (C) lately for the (D) meeting.",
+            "underlinedParts": [
+                "suggested",
+                "we",
+                "lately",
+                "meeting"
+            ],
+            "options": [
+                "suggested",
+                "we",
+                "lately",
+                "meeting"
+            ],
+            "answerIndex": 2,
+            "explanation": "Word Usage. 'Lately' artinya 'akhir-akhir ini'. Untuk 'terlambat', gunakan 'late'."
+        },
+        {
+            "id": "WE046",
+            "sectionType": "written_expression",
+            "questionText": "(A) Making a detailed schedule (B) is the best way (C) to ensure that you (D) finishing the project.",
+            "underlinedParts": [
+                "Making",
+                "is",
+                "to ensure",
+                "finishing"
+            ],
+            "options": [
+                "Making",
+                "is",
+                "to ensure",
+                "finishing"
+            ],
+            "answerIndex": 3,
+            "explanation": "Parallelism / verb form. Setelah subjek 'you', butuh finite verb, bukan participle. Harusnya 'finish'."
+        },
+        {
+            "id": "WE047",
+            "sectionType": "written_expression",
+            "questionText": "The invention (A) of the telephone (B) by Alexander Graham Bell (C) allowed people (D) communicating instantly.",
+            "underlinedParts": [
+                "of",
+                "by",
+                "allowed",
+                "communicating"
+            ],
+            "options": [
+                "of",
+                "by",
+                "allowed",
+                "communicating"
+            ],
+            "answerIndex": 3,
+            "explanation": "Infinitive. Kata 'allow' diikuti object + to infinitive. Harusnya 'allowed people to communicate'."
+        },
+        {
+            "id": "WE048",
+            "sectionType": "written_expression",
+            "questionText": "If I (A) have known (B) about the traffic, I (C) would have (D) left earlier.",
+            "underlinedParts": [
+                "have known",
+                "about",
+                "would have",
+                "left"
+            ],
+            "options": [
+                "have known",
+                "about",
+                "would have",
+                "left"
+            ],
+            "answerIndex": 0,
+            "explanation": "Conditional Type 3. Struktur 'if' past perfect: 'If I had known', bukan 'have known'."
+        },
+        {
+            "id": "WE049",
+            "sectionType": "written_expression",
+            "questionText": "Each (A) country has (B) their own (C) traditions and (D) customs.",
+            "underlinedParts": [
+                "country",
+                "their",
+                "traditions",
+                "customs"
+            ],
+            "options": [
+                "country",
+                "their",
+                "traditions",
+                "customs"
+            ],
+            "answerIndex": 1,
+            "explanation": "Pronoun Agreement. 'Each country' adalah tunggal, jadi possessive pronoun-nya harus tunggal ('its'), bukan 'their'."
+        },
+        {
+            "id": "WE050",
+            "sectionType": "written_expression",
+            "questionText": "The (A) rapid growth of the city (B) have led to (C) an increase in (D) traffic congestion.",
+            "underlinedParts": [
+                "rapid",
+                "have led",
+                "an increase",
+                "traffic"
+            ],
+            "options": [
+                "rapid",
+                "have led",
+                "an increase",
+                "traffic"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subject-Verb Agreement. Subjek intinya adalah 'growth' (tunggal), bukan 'city'. Harusnya 'has led'."
+        },
+        {
+            "id": "WE051",
+            "sectionType": "written_expression",
+            "questionText": "The (A) harder he (B) tried to solve the problem, (C) the (D) most confused he became.",
+            "underlinedParts": [
+                "harder",
+                "tried",
+                "the",
+                "most"
+            ],
+            "options": [
+                "harder",
+                "tried",
+                "the",
+                "most"
+            ],
+            "answerIndex": 3,
+            "explanation": "Double Comparative. Pola 'The more..., the more...'. Pasangan 'the harder' harusnya diikuti bentuk komparatif 'the more confused', bukan superlatif 'most'."
+        },
+        {
+            "id": "WE052",
+            "sectionType": "written_expression",
+            "questionText": "(A) Because of the approaching storm, the (B) residents were advised (C) to not (D) leave their homes.",
+            "underlinedParts": [
+                "Because of",
+                "residents",
+                "to not",
+                "leave"
+            ],
+            "options": [
+                "Because of",
+                "residents",
+                "to not",
+                "leave"
+            ],
+            "answerIndex": 2,
+            "explanation": "Split Infinitive/Negative Infinitive. Urutan yang lebih baku dan tepat secara gramatikal adalah 'not to leave', bukan 'to not leave'."
+        },
+        {
+            "id": "WE053",
+            "sectionType": "written_expression",
+            "questionText": "The curriculum (A) in this school (B) is quite different (C) from (D) that of other school.",
+            "underlinedParts": [
+                "in",
+                "is",
+                "from",
+                "that of"
+            ],
+            "options": [
+                "in",
+                "is",
+                "from",
+                "that of"
+            ],
+            "answerIndex": 3,
+            "explanation": "Logical Comparison/Noun Number. Kita membandingkan kurikulum sekolah ini dengan sekolah-sekolah lain (jamak umum). Harusnya 'other schools' atau 'another school'."
+        },
+        {
+            "id": "WE054",
+            "sectionType": "written_expression",
+            "questionText": "He (A) is (B) the only one of the (C) boys who (D) play the guitar.",
+            "underlinedParts": [
+                "is",
+                "the only",
+                "boys",
+                "play"
+            ],
+            "options": [
+                "is",
+                "the only",
+                "boys",
+                "play"
+            ],
+            "answerIndex": 3,
+            "explanation": "Subject-Verb Agreement. Klausa 'who...' merujuk pada 'the only one' (tunggal), bukan 'boys'. Harusnya 'plays'."
+        },
+        {
+            "id": "WE055",
+            "sectionType": "written_expression",
+            "questionText": "(A) Mumps (B) are a very (C) common disease (D) among children.",
+            "underlinedParts": [
+                "Mumps",
+                "are",
+                "common",
+                "among"
+            ],
+            "options": [
+                "Mumps",
+                "are",
+                "common",
+                "among"
+            ],
+            "answerIndex": 1,
+            "explanation": "Singular Noun ending in -s. 'Mumps' (gondongan) adalah nama penyakit (tunggal). Harusnya 'is'."
+        },
+        {
+            "id": "WE056",
+            "sectionType": "written_expression",
+            "questionText": "I (A) would rather (B) that you (C) do not call me (D) at work.",
+            "underlinedParts": [
+                "would rather",
+                "that",
+                "do not",
+                "at work"
+            ],
+            "options": [
+                "would rather",
+                "that",
+                "do not",
+                "at work"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subjunctive after 'Would Rather'. Jika 'would rather' diikuti subjek baru (that you...), verb harus dalam bentuk Past Tense. Harusnya 'did not call'."
+        },
+        {
+            "id": "WE057",
+            "sectionType": "written_expression",
+            "questionText": "The (A) result of the (B) studies (C) have been (D) published recently.",
+            "underlinedParts": [
+                "result",
+                "studies",
+                "have been",
+                "published"
+            ],
+            "options": [
+                "result",
+                "studies",
+                "have been",
+                "published"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subject-Verb Agreement. Subjek intinya adalah 'result' (tunggal), bukan 'studies'. Harusnya 'has been'."
+        },
+        {
+            "id": "WE058",
+            "sectionType": "written_expression",
+            "questionText": "(A) Not until (B) the war ended (C) the soldiers (D) were able to return home.",
+            "underlinedParts": [
+                "Not until",
+                "the war",
+                "the soldiers",
+                "were"
+            ],
+            "options": [
+                "Not until",
+                "the war",
+                "the soldiers",
+                "were"
+            ],
+            "answerIndex": 2,
+            "explanation": "Inversion. Frasa negatif 'Not until' di awal kalimat mengharuskan inversi pada klausa utama. Harusnya 'were the soldiers able'."
+        },
+        {
+            "id": "WE059",
+            "sectionType": "written_expression",
+            "questionText": "The (A) equipment in the laboratory (B) need to be (C) replaced (D) immediately.",
+            "underlinedParts": [
+                "equipment",
+                "need",
+                "replaced",
+                "immediately"
+            ],
+            "options": [
+                "equipment",
+                "need",
+                "replaced",
+                "immediately"
+            ],
+            "answerIndex": 1,
+            "explanation": "Uncountable Noun. 'Equipment' tidak bisa dihitung (selalu tunggal). Harusnya 'needs'."
+        },
+        {
+            "id": "WE060",
+            "sectionType": "written_expression",
+            "questionText": "(A) Despite his (B) busy schedule, he (C) managed finishing the project (D) on time.",
+            "underlinedParts": [
+                "Despite",
+                "busy",
+                "managed finishing",
+                "on time"
+            ],
+            "options": [
+                "Despite",
+                "busy",
+                "managed finishing",
+                "on time"
+            ],
+            "answerIndex": 2,
+            "explanation": "Infinitive Usage. Kata kerja 'manage' diikuti to-infinitive. Harusnya 'managed to finish'."
+        },
+        {
+            "id": "WE061",
+            "sectionType": "written_expression",
+            "questionText": "The (A) view from the top of the mountain was (B) beautiful than (C) I (D) had expected.",
+            "underlinedParts": [
+                "view",
+                "beautiful",
+                "I",
+                "had expected"
+            ],
+            "options": [
+                "view",
+                "beautiful",
+                "I",
+                "had expected"
+            ],
+            "answerIndex": 1,
+            "explanation": "Comparative. Karena ada kata 'than', adjective harus dalam bentuk komparatif. Harusnya 'more beautiful'."
+        },
+        {
+            "id": "WE062",
+            "sectionType": "written_expression",
+            "questionText": "Every (A) man, woman, and child (B) in this town (C) are expected to attend (D) the festival.",
+            "underlinedParts": [
+                "man",
+                "in",
+                "are",
+                "the"
+            ],
+            "options": [
+                "man",
+                "in",
+                "are",
+                "the"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subject-Verb Agreement. Subjek yang diawali 'Every' selalu dianggap tunggal. Harusnya 'is expected'."
+        },
+        {
+            "id": "WE063",
+            "sectionType": "written_expression",
+            "questionText": "It was (A) him who (B) broke the vase (C) accidentally (D) yesterday morning.",
+            "underlinedParts": [
+                "him",
+                "broke",
+                "accidentally",
+                "yesterday"
+            ],
+            "options": [
+                "him",
+                "broke",
+                "accidentally",
+                "yesterday"
+            ],
+            "answerIndex": 0,
+            "explanation": "Pronoun Case. Setelah to be 'was', gunakan subject pronoun 'he', bukan object pronoun 'him'. Harusnya 'It was he who...'."
+        },
+        {
+            "id": "WE064",
+            "sectionType": "written_expression",
+            "questionText": "The antique table, (A) which was (B) sold at the auction, (C) it was worth (D) a fortune.",
+            "underlinedParts": [
+                "which",
+                "sold",
+                "it was",
+                "fortune"
+            ],
+            "options": [
+                "which",
+                "sold",
+                "it was",
+                "fortune"
+            ],
+            "answerIndex": 2,
+            "explanation": "Double Subject. 'The antique table' adalah subjek dari 'was worth'. Kata 'it' berlebihan (redundant). Hapus 'it'."
+        },
+        {
+            "id": "WE065",
+            "sectionType": "written_expression",
+            "questionText": "(A) Buying clothes (B) are often (C) a very time-consuming practice (D) because those clothes that a person likes are rarely the ones that fit him or her.",
+            "underlinedParts": [
+                "Buying",
+                "are",
+                "time-consuming",
+                "because"
+            ],
+            "options": [
+                "Buying",
+                "are",
+                "time-consuming",
+                "because"
+            ],
+            "answerIndex": 1,
+            "explanation": "Gerund as Subject. 'Buying clothes' adalah frase gerund (tunggal). Harusnya 'is'."
+        },
+        {
+            "id": "WE066",
+            "sectionType": "written_expression",
+            "questionText": "Neither the (A) professor nor his assistants (B) was able to (C) solve the (D) mystery.",
+            "underlinedParts": [
+                "professor",
+                "was",
+                "solve",
+                "mystery"
+            ],
+            "options": [
+                "professor",
+                "was",
+                "solve",
+                "mystery"
+            ],
+            "answerIndex": 1,
+            "explanation": "Paired Conjunction Agreement. Pada 'Neither...nor', verb mengikuti subjek terdekat ('assistants' = jamak). Harusnya 'were able'."
+        },
+        {
+            "id": "WE067",
+            "sectionType": "written_expression",
+            "questionText": "The (A) number of students (B) attending the lecture (C) are (D) increasing.",
+            "underlinedParts": [
+                "number",
+                "attending",
+                "are",
+                "increasing"
+            ],
+            "options": [
+                "number",
+                "attending",
+                "are",
+                "increasing"
+            ],
+            "answerIndex": 2,
+            "explanation": "The number vs A number. 'The number' (jumlah spesifik) selalu tunggal. Harusnya 'is increasing'."
+        },
+        {
+            "id": "WE068",
+            "sectionType": "written_expression",
+            "questionText": "If it (A) will rain tomorrow, we (B) will have (C) to cancel (D) the picnic.",
+            "underlinedParts": [
+                "will rain",
+                "will have",
+                "to cancel",
+                "the picnic"
+            ],
+            "options": [
+                "will rain",
+                "will have",
+                "to cancel",
+                "the picnic"
+            ],
+            "answerIndex": 0,
+            "explanation": "Conditional Type 1. Klausa 'If' menggunakan Simple Present, bukan Future. Harusnya 'If it rains'."
+        },
+        {
+            "id": "WE069",
+            "sectionType": "written_expression",
+            "questionText": "The doctor suggested that (A) he (B) stops smoking (C) immediately (D) for his health.",
+            "underlinedParts": [
+                "he",
+                "stops",
+                "immediately",
+                "for"
+            ],
+            "options": [
+                "he",
+                "stops",
+                "immediately",
+                "for"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subjunctive. Setelah 'suggested that', verb harus bare infinitive (bentuk dasar). Harusnya 'he stop'."
+        },
+        {
+            "id": "WE070",
+            "sectionType": "written_expression",
+            "questionText": "There is (A) too many (B) pollution in the (C) air (D) today.",
+            "underlinedParts": [
+                "too many",
+                "pollution",
+                "air",
+                "today"
+            ],
+            "options": [
+                "too many",
+                "pollution",
+                "air",
+                "today"
+            ],
+            "answerIndex": 0,
+            "explanation": "Quantifier. 'Pollution' adalah uncountable noun. Gunakan 'too much', bukan 'too many'."
+        },
+        {
+            "id": "WE071",
+            "sectionType": "written_expression",
+            "questionText": "(A) Alike my friends, I (B) enjoy (C) playing video games (D) on weekends.",
+            "underlinedParts": [
+                "Alike",
+                "enjoy",
+                "playing",
+                "on"
+            ],
+            "options": [
+                "Alike",
+                "enjoy",
+                "playing",
+                "on"
+            ],
+            "answerIndex": 0,
+            "explanation": "Word Usage. 'Alike' adalah adjective/adverb (biasanya di akhir). Untuk preposisi 'seperti', gunakan 'Like'."
+        },
+        {
+            "id": "WE072",
+            "sectionType": "written_expression",
+            "questionText": "The manager, (A) together with (B) his employees, (C) are going to the (D) conference.",
+            "underlinedParts": [
+                "together with",
+                "his",
+                "are",
+                "conference"
+            ],
+            "options": [
+                "together with",
+                "his",
+                "are",
+                "conference"
+            ],
+            "answerIndex": 2,
+            "explanation": "Intervening Phrase. Frasa 'together with' tidak mengubah jumlah subjek utama 'The manager' (tunggal). Harusnya 'is going'."
+        },
+        {
+            "id": "WE073",
+            "sectionType": "written_expression",
+            "questionText": "By the time (A) he arrives, we (B) will finish (C) the (D) work.",
+            "underlinedParts": [
+                "he arrives",
+                "will finish",
+                "the",
+                "work"
+            ],
+            "options": [
+                "he arrives",
+                "will finish",
+                "the",
+                "work"
+            ],
+            "answerIndex": 1,
+            "explanation": "Future Perfect. Aksi akan 'sudah selesai' sebelum waktu tertentu di masa depan. Harusnya 'will have finished'."
+        },
+        {
+            "id": "WE074",
+            "sectionType": "written_expression",
+            "questionText": "(A) Those kind of movies (B) always (C) makes me (D) cry.",
+            "underlinedParts": [
+                "Those kind",
+                "always",
+                "makes",
+                "cry"
+            ],
+            "options": [
+                "Those kind",
+                "always",
+                "makes",
+                "cry"
+            ],
+            "answerIndex": 0,
+            "explanation": "Demonstrative Agreement. 'Kind' tunggal, jadi harusnya 'That kind' atau 'Those kinds'."
+        },
+        {
+            "id": "WE075",
+            "sectionType": "written_expression",
+            "questionText": "We (A) discussed about (B) the plans for the (C) upcoming (D) holidays.",
+            "underlinedParts": [
+                "discussed about",
+                "the plans",
+                "upcoming",
+                "holidays"
+            ],
+            "options": [
+                "discussed about",
+                "the plans",
+                "upcoming",
+                "holidays"
+            ],
+            "answerIndex": 0,
+            "explanation": "Redundant Preposition. 'Discuss' adalah transitive verb, langsung objek. Hapus 'about'. Harusnya 'discussed the plans'."
+        },
+        {
+            "id": "WE076",
+            "sectionType": "written_expression",
+            "questionText": "The (A) effects of the earthquake (B) were (C) felt (D) wide.",
+            "underlinedParts": [
+                "effects",
+                "were",
+                "felt",
+                "wide"
+            ],
+            "options": [
+                "effects",
+                "were",
+                "felt",
+                "wide"
+            ],
+            "answerIndex": 3,
+            "explanation": "Adverb vs Adjective. Untuk menjelaskan verb 'felt', butuh adverb. Harusnya 'widely'."
+        },
+        {
+            "id": "WE077",
+            "sectionType": "written_expression",
+            "questionText": "I (A) look forward (B) to hear from (C) you (D) soon.",
+            "underlinedParts": [
+                "look forward",
+                "to hear",
+                "you",
+                "soon"
+            ],
+            "options": [
+                "look forward",
+                "to hear",
+                "you",
+                "soon"
+            ],
+            "answerIndex": 1,
+            "explanation": "Idiom. 'Look forward to' harus diikuti Gerund (V-ing). Harusnya 'to hearing'."
+        },
+        {
+            "id": "WE078",
+            "sectionType": "written_expression",
+            "questionText": "(A) Making (B) friends (C) are more difficult (D) than I thought.",
+            "underlinedParts": [
+                "Making",
+                "friends",
+                "are",
+                "than"
+            ],
+            "options": [
+                "Making",
+                "friends",
+                "are",
+                "than"
+            ],
+            "answerIndex": 2,
+            "explanation": "Gerund Subject. Subjeknya adalah aktivitas 'Making' (tunggal), bukan 'friends'. Harusnya 'is'."
+        },
+        {
+            "id": "WE079",
+            "sectionType": "written_expression",
+            "questionText": "She is (A) interesting (B) in learning (C) how to play (D) the piano.",
+            "underlinedParts": [
+                "interesting",
+                "in",
+                "how",
+                "the"
+            ],
+            "options": [
+                "interesting",
+                "in",
+                "how",
+                "the"
+            ],
+            "answerIndex": 0,
+            "explanation": "Participle Adjective. Dia 'tertarik' (perasaan yang diterima), bukan 'menarik'. Harusnya 'interested'."
+        },
+        {
+            "id": "WE080",
+            "sectionType": "written_expression",
+            "questionText": "The (A) five-years-old boy (B) can play (C) chess (D) very well.",
+            "underlinedParts": [
+                "five-years-old",
+                "can",
+                "chess",
+                "very well"
+            ],
+            "options": [
+                "five-years-old",
+                "can",
+                "chess",
+                "very well"
+            ],
+            "answerIndex": 0,
+            "explanation": "Compound Adjective. Saat angka menjadi adjektiva sebelum noun, jangan jamakkan. Harusnya 'five-year-old'."
+        },
+        {
+            "id": "WE081",
+            "sectionType": "written_expression",
+            "questionText": "We (A) arrived (B) at the airport (C) lately (D) due to traffic.",
+            "underlinedParts": [
+                "arrived",
+                "at",
+                "lately",
+                "due to"
+            ],
+            "options": [
+                "arrived",
+                "at",
+                "lately",
+                "due to"
+            ],
+            "answerIndex": 2,
+            "explanation": "Word Meaning. 'Lately' = akhir-akhir ini. 'Late' = terlambat. Harusnya 'late'."
+        },
+        {
+            "id": "WE082",
+            "sectionType": "written_expression",
+            "questionText": "The man (A) whom (B) I spoke to (C) him was (D) very helpful.",
+            "underlinedParts": [
+                "whom",
+                "I",
+                "him",
+                "very"
+            ],
+            "options": [
+                "whom",
+                "I",
+                "him",
+                "very"
+            ],
+            "answerIndex": 2,
+            "explanation": "Redundant Pronoun. 'Whom' sudah menggantikan objek. 'Him' tidak diperlukan lagi. Hapus 'him'."
+        },
+        {
+            "id": "WE083",
+            "sectionType": "written_expression",
+            "questionText": "(A) Almost all of the (B) water (C) have evaporated (D) from the glass.",
+            "underlinedParts": [
+                "Almost all",
+                "water",
+                "have",
+                "from"
+            ],
+            "options": [
+                "Almost all",
+                "water",
+                "have",
+                "from"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subject-Verb Agreement. 'Water' adalah uncountable noun (tunggal). Harusnya 'has evaporated'."
+        },
+        {
+            "id": "WE084",
+            "sectionType": "written_expression",
+            "questionText": "If I (A) was you, I (B) would study (C) harder for (D) the test.",
+            "underlinedParts": [
+                "was",
+                "would",
+                "harder",
+                "the"
+            ],
+            "options": [
+                "was",
+                "would",
+                "harder",
+                "the"
+            ],
+            "answerIndex": 0,
+            "explanation": "Conditional Type 2. Untuk pengandaian, 'to be' selalu 'were' untuk semua subjek. Harusnya 'If I were you'."
+        },
+        {
+            "id": "WE085",
+            "sectionType": "written_expression",
+            "questionText": "The (A) rich (B) has a responsibility (C) to help the (D) poor.",
+            "underlinedParts": [
+                "rich",
+                "has",
+                "to help",
+                "poor"
+            ],
+            "options": [
+                "rich",
+                "has",
+                "to help",
+                "poor"
+            ],
+            "answerIndex": 1,
+            "explanation": "The + Adjective. 'The rich' merujuk pada 'orang-orang kaya' (jamak). Harusnya 'have'."
+        },
+        {
+            "id": "WE086",
+            "sectionType": "written_expression",
+            "questionText": "She (A) cannot (B) hardly wait (C) to see (D) her parents.",
+            "underlinedParts": [
+                "cannot",
+                "hardly",
+                "to see",
+                "her"
+            ],
+            "options": [
+                "cannot",
+                "hardly",
+                "to see",
+                "her"
+            ],
+            "answerIndex": 0,
+            "explanation": "Double Negative. 'Hardly' sudah bermakna negatif. Jangan gunakan 'cannot' dan 'hardly' bersamaan. Harusnya 'can hardly wait'."
+        },
+        {
+            "id": "WE087",
+            "sectionType": "written_expression",
+            "questionText": "This is the (A) house (B) where (C) I was (D) born in.",
+            "underlinedParts": [
+                "house",
+                "where",
+                "was",
+                "born in"
+            ],
+            "options": [
+                "house",
+                "where",
+                "was",
+                "born in"
+            ],
+            "answerIndex": 3,
+            "explanation": "Redundant Preposition. 'Where' sudah mencakup makna tempat ('in which'). Jangan gunakan 'in' lagi di akhir. Atau ganti 'where' dengan 'which'. Jika 'where' dipakai, hapus 'in'."
+        },
+        {
+            "id": "WE088",
+            "sectionType": "written_expression",
+            "questionText": "The (A) reason (B) because he (C) failed was his (D) lack of effort.",
+            "underlinedParts": [
+                "reason",
+                "because",
+                "failed",
+                "lack of"
+            ],
+            "options": [
+                "reason",
+                "because",
+                "failed",
+                "lack of"
+            ],
+            "answerIndex": 1,
+            "explanation": "Redundancy. 'The reason' pasangannya adalah 'that', bukan 'because'. Harusnya 'The reason that he failed...'."
+        },
+        {
+            "id": "WE089",
+            "sectionType": "written_expression",
+            "questionText": "Of the two (A) sisters, Sarah is (B) the (C) most beautiful.",
+            "underlinedParts": [
+                "sisters",
+                "the",
+                "most",
+                "beautiful"
+            ],
+            "options": [
+                "sisters",
+                "the",
+                "most",
+                "beautiful"
+            ],
+            "answerIndex": 2,
+            "explanation": "Comparative vs Superlative. Jika hanya ada dua benda/orang, gunakan komparatif. Harusnya 'more'."
+        },
+        {
+            "id": "WE090",
+            "sectionType": "written_expression",
+            "questionText": "I (A) prefer coffee (B) than (C) tea in (D) the morning.",
+            "underlinedParts": [
+                "prefer",
+                "than",
+                "tea",
+                "the"
+            ],
+            "options": [
+                "prefer",
+                "than",
+                "tea",
+                "the"
+            ],
+            "answerIndex": 1,
+            "explanation": "Prefer usage. Pasangan 'prefer' adalah 'to', bukan 'than'. Harusnya 'prefer coffee to tea'."
+        },
+        {
+            "id": "WE091",
+            "sectionType": "written_expression",
+            "questionText": "(A) Had I (B) known the answer, I (C) would tell (D) you.",
+            "underlinedParts": [
+                "Had",
+                "known",
+                "would tell",
+                "you"
+            ],
+            "options": [
+                "Had",
+                "known",
+                "would tell",
+                "you"
+            ],
+            "answerIndex": 2,
+            "explanation": "Conditional Type 3 (Inverted). 'Had I known' (Past Perfect) harus diikuti 'would have told' (Perfect Conditional). Harusnya 'would have told'."
+        },
+        {
+            "id": "WE092",
+            "sectionType": "written_expression",
+            "questionText": "We (A) object to (B) leave the (C) meeting (D) early.",
+            "underlinedParts": [
+                "object to",
+                "leave",
+                "meeting",
+                "early"
+            ],
+            "options": [
+                "object to",
+                "leave",
+                "meeting",
+                "early"
+            ],
+            "answerIndex": 1,
+            "explanation": "Gerund after Preposition. 'Object to' adalah frasa preposisi, diikuti V-ing. Harusnya 'leaving'."
+        },
+        {
+            "id": "WE093",
+            "sectionType": "written_expression",
+            "questionText": "The (A) police (B) is investigating (C) the (D) crime.",
+            "underlinedParts": [
+                "police",
+                "is",
+                "the",
+                "crime"
+            ],
+            "options": [
+                "police",
+                "is",
+                "the",
+                "crime"
+            ],
+            "answerIndex": 1,
+            "explanation": "Collective Noun. 'Police' selalu dianggap jamak. Harusnya 'are investigating'."
+        },
+        {
+            "id": "WE094",
+            "sectionType": "written_expression",
+            "questionText": "It is (A) important that (B) she (C) remembers to (D) lock the door.",
+            "underlinedParts": [
+                "important",
+                "she",
+                "remembers",
+                "lock"
+            ],
+            "options": [
+                "important",
+                "she",
+                "remembers",
+                "lock"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subjunctive. Setelah adjective of importance (important that), verb harus bare infinitive. Harusnya 'remember'."
+        },
+        {
+            "id": "WE095",
+            "sectionType": "written_expression",
+            "questionText": "The (A) informations (B) given (C) by the teacher (D) were incorrect.",
+            "underlinedParts": [
+                "informations",
+                "given",
+                "by",
+                "were"
+            ],
+            "options": [
+                "informations",
+                "given",
+                "by",
+                "were"
+            ],
+            "answerIndex": 0,
+            "explanation": "Uncountable Noun. 'Information' tidak bisa dijamakkan dengan 's'. Harusnya 'information'."
+        },
+        {
+            "id": "WE096",
+            "sectionType": "written_expression",
+            "questionText": "He (A) works (B) as a (C) dentist (D) since 2010.",
+            "underlinedParts": [
+                "works",
+                "as",
+                "dentist",
+                "since"
+            ],
+            "options": [
+                "works",
+                "as",
+                "dentist",
+                "since"
+            ],
+            "answerIndex": 0,
+            "explanation": "Tense. Karena ada penanda waktu 'since 2010', gunakan Present Perfect. Harusnya 'has worked'."
+        },
+        {
+            "id": "WE097",
+            "sectionType": "written_expression",
+            "questionText": "She is (A) used to (B) wake up (C) early (D) in the morning.",
+            "underlinedParts": [
+                "used to",
+                "wake up",
+                "early",
+                "in"
+            ],
+            "options": [
+                "used to",
+                "wake up",
+                "early",
+                "in"
+            ],
+            "answerIndex": 1,
+            "explanation": "Be Used To + V-ing. 'Be used to' (terbiasa) diikuti gerund. Harusnya 'waking up'."
+        },
+        {
+            "id": "WE098",
+            "sectionType": "written_expression",
+            "questionText": "(A) Other people (B) might agree (C) with you, but (D) another don't.",
+            "underlinedParts": [
+                "Other",
+                "might",
+                "with",
+                "another"
+            ],
+            "options": [
+                "Other",
+                "might",
+                "with",
+                "another"
+            ],
+            "answerIndex": 3,
+            "explanation": "Pronoun Usage. 'Another' biasanya tunggal. Untuk menggantikan 'other people' (jamak), gunakan 'others'."
+        },
+        {
+            "id": "WE099",
+            "sectionType": "written_expression",
+            "questionText": "The (A) scissors (B) is (C) on the (D) table.",
+            "underlinedParts": [
+                "scissors",
+                "is",
+                "on",
+                "table"
+            ],
+            "options": [
+                "scissors",
+                "is",
+                "on",
+                "table"
+            ],
+            "answerIndex": 1,
+            "explanation": "Plural Noun. Benda berpasangan seperti 'scissors', 'pants', 'glasses' dianggap jamak. Harusnya 'are'."
+        },
+        {
+            "id": "WE100",
+            "sectionType": "written_expression",
+            "questionText": "(A) Whomever (B) wants to come (C) to the party (D) is welcome.",
+            "underlinedParts": [
+                "Whomever",
+                "wants",
+                "to",
+                "is"
+            ],
+            "options": [
+                "Whomever",
+                "wants",
+                "to",
+                "is"
+            ],
+            "answerIndex": 0,
+            "explanation": "Pronoun Case. Kata ganti ini berfungsi sebagai subjek dari 'wants'. Gunakan 'Whoever', bukan 'Whomever'."
+        },
+        {
+            "id": "WE101",
+            "sectionType": "written_expression",
+            "questionText": "The (A) develop of the (B) new policy (C) took longer (D) than expected.",
+            "underlinedParts": [
+                "develop",
+                "new",
+                "took",
+                "than"
+            ],
+            "options": [
+                "develop",
+                "new",
+                "took",
+                "than"
+            ],
+            "answerIndex": 0,
+            "explanation": "Word Form. Dibutuhkan kata benda (noun) sebagai subjek, bukan kata kerja. Harusnya 'development'."
+        },
+        {
+            "id": "WE102",
+            "sectionType": "written_expression",
+            "questionText": "She (A) hardly never (B) goes to (C) the cinema (D) alone.",
+            "underlinedParts": [
+                "hardly never",
+                "goes",
+                "the",
+                "alone"
+            ],
+            "options": [
+                "hardly never",
+                "goes",
+                "the",
+                "alone"
+            ],
+            "answerIndex": 0,
+            "explanation": "Double Negative. 'Hardly' dan 'never' keduanya bermakna negatif. Harusnya 'hardly ever'."
+        },
+        {
+            "id": "WE103",
+            "sectionType": "written_expression",
+            "questionText": "Please (A) write me (B) as soon as (C) you (D) will arrive.",
+            "underlinedParts": [
+                "write",
+                "as soon as",
+                "you",
+                "will arrive"
+            ],
+            "options": [
+                "write",
+                "as soon as",
+                "you",
+                "will arrive"
+            ],
+            "answerIndex": 3,
+            "explanation": "Time Clause. Dalam klausa waktu ('as soon as...'), gunakan Present Tense untuk masa depan, bukan Future Tense. Harusnya 'arrive'."
+        },
+        {
+            "id": "WE104",
+            "sectionType": "written_expression",
+            "questionText": "The (A) most (B) importantest thing (C) is to (D) remain calm.",
+            "underlinedParts": [
+                "most",
+                "importantest",
+                "is",
+                "remain"
+            ],
+            "options": [
+                "most",
+                "importantest",
+                "is",
+                "remain"
+            ],
+            "answerIndex": 1,
+            "explanation": "Double Superlative. Adjective panjang 'important' menggunakan 'most', tidak perlu akhiran '-est'. Harusnya 'important'."
+        },
+        {
+            "id": "WE105",
+            "sectionType": "written_expression",
+            "questionText": "Neither of the (A) two candidates (B) are (C) suitable for (D) the job.",
+            "underlinedParts": [
+                "two",
+                "are",
+                "suitable",
+                "the"
+            ],
+            "options": [
+                "two",
+                "are",
+                "suitable",
+                "the"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subject-Verb Agreement. 'Neither of' (tanpa 'nor') dianggap tunggal. Harusnya 'is'."
+        },
+        {
+            "id": "WE106",
+            "sectionType": "written_expression",
+            "questionText": "I (A) enjoyed (B) to watch (C) the performance (D) last night.",
+            "underlinedParts": [
+                "enjoyed",
+                "to watch",
+                "the",
+                "last night"
+            ],
+            "options": [
+                "enjoyed",
+                "to watch",
+                "the",
+                "last night"
+            ],
+            "answerIndex": 1,
+            "explanation": "Gerund. Kata kerja 'enjoy' selalu diikuti V-ing. Harusnya 'watching'."
+        },
+        {
+            "id": "WE107",
+            "sectionType": "written_expression",
+            "questionText": "(A) A number of (B) students (C) has (D) withdrawn from the class.",
+            "underlinedParts": [
+                "A number of",
+                "students",
+                "has",
+                "withdrawn"
+            ],
+            "options": [
+                "A number of",
+                "students",
+                "has",
+                "withdrawn"
+            ],
+            "answerIndex": 2,
+            "explanation": "A Number vs The Number. 'A number of' bermakna 'beberapa' (jamak). Harusnya 'have'."
+        },
+        {
+            "id": "WE108",
+            "sectionType": "written_expression",
+            "questionText": "The (A) man (B) which lives (C) next door is (D) a dentist.",
+            "underlinedParts": [
+                "man",
+                "which",
+                "next door",
+                "a dentist"
+            ],
+            "options": [
+                "man",
+                "which",
+                "next door",
+                "a dentist"
+            ],
+            "answerIndex": 1,
+            "explanation": "Relative Pronoun. Untuk orang ('man'), gunakan 'who', bukan 'which'."
+        },
+        {
+            "id": "WE109",
+            "sectionType": "written_expression",
+            "questionText": "They (A) asked (B) us (C) not make (D) so much noise.",
+            "underlinedParts": [
+                "asked",
+                "us",
+                "not make",
+                "so much"
+            ],
+            "options": [
+                "asked",
+                "us",
+                "not make",
+                "so much"
+            ],
+            "answerIndex": 2,
+            "explanation": "Negative Infinitive. Struktur 'ask + object + to infinitive'. Harusnya 'not to make'."
+        },
+        {
+            "id": "WE110",
+            "sectionType": "written_expression",
+            "questionText": "It is (A) necessary that (B) he (C) signs the contract (D) before noon.",
+            "underlinedParts": [
+                "necessary",
+                "he",
+                "signs",
+                "before"
+            ],
+            "options": [
+                "necessary",
+                "he",
+                "signs",
+                "before"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subjunctive. Setelah 'necessary that', verb harus bare infinitive. Harusnya 'sign'."
+        },
+        {
+            "id": "WE111",
+            "sectionType": "written_expression",
+            "questionText": "The (A) news (B) were (C) shocking to (D) everyone.",
+            "underlinedParts": [
+                "news",
+                "were",
+                "shocking",
+                "everyone"
+            ],
+            "options": [
+                "news",
+                "were",
+                "shocking",
+                "everyone"
+            ],
+            "answerIndex": 1,
+            "explanation": "Uncountable Noun. 'News' adalah kata benda tunggal. Harusnya 'was'."
+        },
+        {
+            "id": "WE112",
+            "sectionType": "written_expression",
+            "questionText": "I (A) wish I (B) have (C) more time (D) to study.",
+            "underlinedParts": [
+                "wish",
+                "have",
+                "more",
+                "to study"
+            ],
+            "options": [
+                "wish",
+                "have",
+                "more",
+                "to study"
+            ],
+            "answerIndex": 1,
+            "explanation": "Wish Structure. Untuk harapan di masa sekarang (present wish), gunakan Past Tense. Harusnya 'had'."
+        },
+        {
+            "id": "WE113",
+            "sectionType": "written_expression",
+            "questionText": "(A) Beside mathematics, (B) she (C) enjoys (D) physics and chemistry.",
+            "underlinedParts": [
+                "Beside",
+                "she",
+                "enjoys",
+                "physics"
+            ],
+            "options": [
+                "Beside",
+                "she",
+                "enjoys",
+                "physics"
+            ],
+            "answerIndex": 0,
+            "explanation": "Preposition Meaning. 'Beside' = di samping. 'Besides' = selain/di samping itu. Konteks ini butuh 'Besides'."
+        },
+        {
+            "id": "WE114",
+            "sectionType": "written_expression",
+            "questionText": "The (A) harder (B) you practice, the (C) best (D) you become.",
+            "underlinedParts": [
+                "harder",
+                "you",
+                "best",
+                "you become"
+            ],
+            "options": [
+                "harder",
+                "you",
+                "best",
+                "you become"
+            ],
+            "answerIndex": 2,
+            "explanation": "Double Comparative. Pola 'The more..., the more...'. Pasangan 'harder' adalah komparatif 'better', bukan superlatif 'best'."
+        },
+        {
+            "id": "WE115",
+            "sectionType": "written_expression",
+            "questionText": "Everyone (A) are (B) expected (C) to arrive (D) by 9:00 AM.",
+            "underlinedParts": [
+                "are",
+                "expected",
+                "to arrive",
+                "by"
+            ],
+            "options": [
+                "are",
+                "expected",
+                "to arrive",
+                "by"
+            ],
+            "answerIndex": 0,
+            "explanation": "Indefinite Pronoun. 'Everyone' selalu dianggap tunggal. Harusnya 'is'."
+        },
+        {
+            "id": "WE116",
+            "sectionType": "written_expression",
+            "questionText": "We (A) have visited (B) the museum (C) yesterday (D) afternoon.",
+            "underlinedParts": [
+                "have visited",
+                "the",
+                "yesterday",
+                "afternoon"
+            ],
+            "options": [
+                "have visited",
+                "the",
+                "yesterday",
+                "afternoon"
+            ],
+            "answerIndex": 0,
+            "explanation": "Tense. Ada penanda waktu lampau spesifik ('yesterday afternoon'), gunakan Simple Past, bukan Present Perfect. Harusnya 'visited'."
+        },
+        {
+            "id": "WE117",
+            "sectionType": "written_expression",
+            "questionText": "The (A) children (B) was playing (C) in the (D) park.",
+            "underlinedParts": [
+                "children",
+                "was",
+                "in",
+                "park"
+            ],
+            "options": [
+                "children",
+                "was",
+                "in",
+                "park"
+            ],
+            "answerIndex": 1,
+            "explanation": "Plural Noun. 'Children' adalah jamak dari 'child'. Harusnya 'were'."
+        },
+        {
+            "id": "WE118",
+            "sectionType": "written_expression",
+            "questionText": "I (A) am not (B) used to (C) drive (D) on the left side of the road.",
+            "underlinedParts": [
+                "am not",
+                "used to",
+                "drive",
+                "on"
+            ],
+            "options": [
+                "am not",
+                "used to",
+                "drive",
+                "on"
+            ],
+            "answerIndex": 2,
+            "explanation": "Be Used To. Struktur 'be used to' (terbiasa) diikuti V-ing. Harusnya 'driving'."
+        },
+        {
+            "id": "WE119",
+            "sectionType": "written_expression",
+            "questionText": "(A) Despite of his (B) illness, he (C) went to (D) work.",
+            "underlinedParts": [
+                "Despite of",
+                "illness",
+                "went to",
+                "work"
+            ],
+            "options": [
+                "Despite of",
+                "illness",
+                "went to",
+                "work"
+            ],
+            "answerIndex": 0,
+            "explanation": "Preposition. 'Despite' tidak pakai 'of'. Gunakan 'Despite' saja atau 'In spite of'."
+        },
+        {
+            "id": "WE120",
+            "sectionType": "written_expression",
+            "questionText": "The (A) population of (B) China is (C) larger than (D) the United States.",
+            "underlinedParts": [
+                "population",
+                "China",
+                "larger than",
+                "the United States"
+            ],
+            "options": [
+                "population",
+                "China",
+                "larger than",
+                "the United States"
+            ],
+            "answerIndex": 3,
+            "explanation": "Logical Comparison. Membandingkan populasi dengan populasi, bukan populasi dengan negara. Harusnya 'than that of the United States'."
+        },
+        {
+            "id": "WE121",
+            "sectionType": "written_expression",
+            "questionText": "He (A) works (B) hardly (C) to support (D) his family.",
+            "underlinedParts": [
+                "works",
+                "hardly",
+                "to support",
+                "his"
+            ],
+            "options": [
+                "works",
+                "hardly",
+                "to support",
+                "his"
+            ],
+            "answerIndex": 1,
+            "explanation": "Adverb Meaning. 'Hardly' = hampir tidak. 'Hard' = keras/giat. Harusnya 'works hard'."
+        },
+        {
+            "id": "WE122",
+            "sectionType": "written_expression",
+            "questionText": "(A) Each of the (B) student (C) has a (D) book.",
+            "underlinedParts": [
+                "Each",
+                "student",
+                "has",
+                "book"
+            ],
+            "options": [
+                "Each",
+                "student",
+                "has",
+                "book"
+            ],
+            "answerIndex": 1,
+            "explanation": "Each of + Plural Noun. Setelah 'each of the', kata bendanya harus jamak. Harusnya 'students'."
+        },
+        {
+            "id": "WE123",
+            "sectionType": "written_expression",
+            "questionText": "The (A) effects of (B) pollution (C) is (D) harmful.",
+            "underlinedParts": [
+                "effects",
+                "pollution",
+                "is",
+                "harmful"
+            ],
+            "options": [
+                "effects",
+                "pollution",
+                "is",
+                "harmful"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subject-Verb Agreement. Subjek utama 'effects' (jamak). Harusnya 'are'."
+        },
+        {
+            "id": "WE124",
+            "sectionType": "written_expression",
+            "questionText": "I (A) would rather (B) to stay (C) home (D) tonight.",
+            "underlinedParts": [
+                "would rather",
+                "to stay",
+                "home",
+                "tonight"
+            ],
+            "options": [
+                "would rather",
+                "to stay",
+                "home",
+                "tonight"
+            ],
+            "answerIndex": 1,
+            "explanation": "Would Rather. Diikuti bare infinitive (V1 tanpa to). Harusnya 'stay'."
+        },
+        {
+            "id": "WE125",
+            "sectionType": "written_expression",
+            "questionText": "The (A) movie was (B) so boring (C) as (D) I fell asleep.",
+            "underlinedParts": [
+                "movie",
+                "so",
+                "as",
+                "fell asleep"
+            ],
+            "options": [
+                "movie",
+                "so",
+                "as",
+                "fell asleep"
+            ],
+            "answerIndex": 2,
+            "explanation": "Correlative Conjunction. Pasangan 'so... that...', bukan 'so... as...'. Harusnya 'that'."
+        },
+        {
+            "id": "WE126",
+            "sectionType": "written_expression",
+            "questionText": "She (A) speaks (B) English (C) gooder than (D) I do.",
+            "underlinedParts": [
+                "speaks",
+                "English",
+                "gooder",
+                "I do"
+            ],
+            "options": [
+                "speaks",
+                "English",
+                "gooder",
+                "I do"
+            ],
+            "answerIndex": 2,
+            "explanation": "Irregular Comparative. Komparatif dari 'well' (adverb) atau 'good' (adjective) adalah 'better', bukan 'gooder'."
+        },
+        {
+            "id": "WE127",
+            "sectionType": "written_expression",
+            "questionText": "Only (A) rarely (B) I have (C) seen such (D) beauty.",
+            "underlinedParts": [
+                "rarely",
+                "I have",
+                "seen",
+                "beauty"
+            ],
+            "options": [
+                "rarely",
+                "I have",
+                "seen",
+                "beauty"
+            ],
+            "answerIndex": 1,
+            "explanation": "Inversion. Kalimat diawali adverb negatif/restriktif ('Only rarely') harus diinversi. Harusnya 'have I'."
+        },
+        {
+            "id": "WE128",
+            "sectionType": "written_expression",
+            "questionText": "The (A) reason (B) why he left (C) is (D) because he was ill.",
+            "underlinedParts": [
+                "reason",
+                "why",
+                "is",
+                "because"
+            ],
+            "options": [
+                "reason",
+                "why",
+                "is",
+                "because"
+            ],
+            "answerIndex": 3,
+            "explanation": "Redundancy. 'The reason... is that...', bukan 'because'. Harusnya 'that'."
+        },
+        {
+            "id": "WE129",
+            "sectionType": "written_expression",
+            "questionText": "We (A) ran (B) out of (C) breads at the (D) bakery.",
+            "underlinedParts": [
+                "ran",
+                "out of",
+                "breads",
+                "bakery"
+            ],
+            "options": [
+                "ran",
+                "out of",
+                "breads",
+                "bakery"
+            ],
+            "answerIndex": 2,
+            "explanation": "Uncountable Noun. 'Bread' tidak bisa dihitung (uncountable). Gunakan 'bread' atau 'loaves of bread'."
+        },
+        {
+            "id": "WE130",
+            "sectionType": "written_expression",
+            "questionText": "(A) Due to the weather (B) was bad, (C) the flight (D) was canceled.",
+            "underlinedParts": [
+                "Due to",
+                "was bad",
+                "the flight",
+                "was canceled"
+            ],
+            "options": [
+                "Due to",
+                "was bad",
+                "the flight",
+                "was canceled"
+            ],
+            "answerIndex": 0,
+            "explanation": "Preposition vs Conjunction. 'Due to' diikuti noun phrase. Karena diikuti klausa 'the weather was bad', gunakan 'Because'."
+        },
+        {
+            "id": "WE131",
+            "sectionType": "written_expression",
+            "questionText": "He (A) stopped (B) to smoke (C) because it was (D) bad for his health.",
+            "underlinedParts": [
+                "stopped",
+                "to smoke",
+                "because",
+                "bad"
+            ],
+            "options": [
+                "stopped",
+                "to smoke",
+                "because",
+                "bad"
+            ],
+            "answerIndex": 1,
+            "explanation": "Gerund Meaning. 'Stop to smoke' = berhenti (kegiatan lain) untuk merokok. 'Stop smoking' = berhenti merokok. Harusnya 'smoking'."
+        },
+        {
+            "id": "WE132",
+            "sectionType": "written_expression",
+            "questionText": "The (A) scissors (B) is (C) sharp enough (D) to cut the cloth.",
+            "underlinedParts": [
+                "scissors",
+                "is",
+                "sharp",
+                "to cut"
+            ],
+            "options": [
+                "scissors",
+                "is",
+                "sharp",
+                "to cut"
+            ],
+            "answerIndex": 1,
+            "explanation": "Plural Noun. 'Scissors' selalu jamak. Harusnya 'are'."
+        },
+        {
+            "id": "WE133",
+            "sectionType": "written_expression",
+            "questionText": "She (A) is (B) married (C) with (D) a doctor.",
+            "underlinedParts": [
+                "is",
+                "married",
+                "with",
+                "a doctor"
+            ],
+            "options": [
+                "is",
+                "married",
+                "with",
+                "a doctor"
+            ],
+            "answerIndex": 2,
+            "explanation": "Preposition. Pasangan 'married' adalah 'to', bukan 'with'. Harusnya 'to'."
+        },
+        {
+            "id": "WE134",
+            "sectionType": "written_expression",
+            "questionText": "There (A) is (B) many (C) cars on the (D) road today.",
+            "underlinedParts": [
+                "is",
+                "many",
+                "cars",
+                "road"
+            ],
+            "options": [
+                "is",
+                "many",
+                "cars",
+                "road"
+            ],
+            "answerIndex": 0,
+            "explanation": "Existential 'There'. Subjeknya 'many cars' (jamak). Harusnya 'There are'."
+        },
+        {
+            "id": "WE135",
+            "sectionType": "written_expression",
+            "questionText": "He is (A) capability (B) of (C) solving (D) the problem.",
+            "underlinedParts": [
+                "capability",
+                "of",
+                "solving",
+                "the problem"
+            ],
+            "options": [
+                "capability",
+                "of",
+                "solving",
+                "the problem"
+            ],
+            "answerIndex": 0,
+            "explanation": "Word Form. Setelah to be 'is', butuh adjective, bukan noun. Harusnya 'capable'."
+        },
+        {
+            "id": "WE136",
+            "sectionType": "written_expression",
+            "questionText": "(A) Not only (B) the students but also (C) the teacher (D) are present.",
+            "underlinedParts": [
+                "Not only",
+                "the students",
+                "the teacher",
+                "are"
+            ],
+            "options": [
+                "Not only",
+                "the students",
+                "the teacher",
+                "are"
+            ],
+            "answerIndex": 3,
+            "explanation": "Paired Conjunction Agreement. Verb mengikuti subjek kedua/terdekat ('the teacher' = tunggal). Harusnya 'is'."
+        },
+        {
+            "id": "WE137",
+            "sectionType": "written_expression",
+            "questionText": "The (A) informations (B) provided (C) were (D) incorrect.",
+            "underlinedParts": [
+                "informations",
+                "provided",
+                "were",
+                "incorrect"
+            ],
+            "options": [
+                "informations",
+                "provided",
+                "were",
+                "incorrect"
+            ],
+            "answerIndex": 0,
+            "explanation": "Uncountable Noun. 'Information' tidak bisa ditambah 's'. Harusnya 'information'."
+        },
+        {
+            "id": "WE138",
+            "sectionType": "written_expression",
+            "questionText": "We (A) look forward (B) to (C) meet (D) you.",
+            "underlinedParts": [
+                "look",
+                "to",
+                "meet",
+                "you"
+            ],
+            "options": [
+                "look",
+                "to",
+                "meet",
+                "you"
+            ],
+            "answerIndex": 2,
+            "explanation": "Phrase Structure. 'Look forward to' diikuti V-ing. Harusnya 'meeting'."
+        },
+        {
+            "id": "WE139",
+            "sectionType": "written_expression",
+            "questionText": "(A) Almost (B) students (C) passed (D) the exam.",
+            "underlinedParts": [
+                "Almost",
+                "students",
+                "passed",
+                "the"
+            ],
+            "options": [
+                "Almost",
+                "students",
+                "passed",
+                "the"
+            ],
+            "answerIndex": 0,
+            "explanation": "Quantifier Usage. 'Almost' adalah adverb. Butuh determiner seperti 'Almost all (of) the students' atau 'Most students'."
+        },
+        {
+            "id": "WE140",
+            "sectionType": "written_expression",
+            "questionText": "It was (A) such (B) expensive car (C) that I couldn't (D) buy it.",
+            "underlinedParts": [
+                "such",
+                "expensive",
+                "that",
+                "buy"
+            ],
+            "options": [
+                "such",
+                "expensive",
+                "that",
+                "buy"
+            ],
+            "answerIndex": 1,
+            "explanation": "Article Usage. 'Car' adalah singular countable noun, butuh artikel 'an'. Harusnya 'such an expensive car'."
+        },
+        {
+            "id": "WE141",
+            "sectionType": "written_expression",
+            "questionText": "I (A) have been (B) waiting (C) for you (D) since two hours.",
+            "underlinedParts": [
+                "have been",
+                "waiting",
+                "for",
+                "since"
+            ],
+            "options": [
+                "have been",
+                "waiting",
+                "for",
+                "since"
+            ],
+            "answerIndex": 3,
+            "explanation": "Time Preposition. Untuk durasi, gunakan 'for', bukan 'since'. Harusnya 'for two hours'."
+        },
+        {
+            "id": "WE142",
+            "sectionType": "written_expression",
+            "questionText": "The (A) five-stars (B) hotel (C) is (D) very luxurious.",
+            "underlinedParts": [
+                "five-stars",
+                "hotel",
+                "is",
+                "very"
+            ],
+            "options": [
+                "five-stars",
+                "hotel",
+                "is",
+                "very"
+            ],
+            "answerIndex": 0,
+            "explanation": "Compound Adjective. Noun dalam compound adjective harus tunggal. Harusnya 'five-star'."
+        },
+        {
+            "id": "WE143",
+            "sectionType": "written_expression",
+            "questionText": "(A) Making (B) mistakes (C) are (D) a part of learning.",
+            "underlinedParts": [
+                "Making",
+                "mistakes",
+                "are",
+                "a part"
+            ],
+            "options": [
+                "Making",
+                "mistakes",
+                "are",
+                "a part"
+            ],
+            "answerIndex": 2,
+            "explanation": "Gerund Subject. Subjek kalimat adalah 'Making' (tunggal). Harusnya 'is'."
+        },
+        {
+            "id": "WE144",
+            "sectionType": "written_expression",
+            "questionText": "He is (A) interesting (B) in (C) history (D) books.",
+            "underlinedParts": [
+                "interesting",
+                "in",
+                "history",
+                "books"
+            ],
+            "options": [
+                "interesting",
+                "in",
+                "history",
+                "books"
+            ],
+            "answerIndex": 0,
+            "explanation": "Participle Adjective. Dia 'tertarik', bukan 'menarik'. Harusnya 'interested'."
+        },
+        {
+            "id": "WE145",
+            "sectionType": "written_expression",
+            "questionText": "The (A) police (B) is (C) looking for (D) the suspect.",
+            "underlinedParts": [
+                "police",
+                "is",
+                "looking",
+                "suspect"
+            ],
+            "options": [
+                "police",
+                "is",
+                "looking",
+                "suspect"
+            ],
+            "answerIndex": 1,
+            "explanation": "Collective Noun. 'Police' selalu jamak. Harusnya 'are'."
+        },
+        {
+            "id": "WE146",
+            "sectionType": "written_expression",
+            "questionText": "You (A) had better (B) to study (C) if you want (D) to pass.",
+            "underlinedParts": [
+                "had better",
+                "to study",
+                "if",
+                "to pass"
+            ],
+            "options": [
+                "had better",
+                "to study",
+                "if",
+                "to pass"
+            ],
+            "answerIndex": 1,
+            "explanation": "Modal Phrase. 'Had better' diikuti bare infinitive. Harusnya 'study'."
+        },
+        {
+            "id": "WE147",
+            "sectionType": "written_expression",
+            "questionText": "(A) Whom (B) is (C) knocking at (D) the door?",
+            "underlinedParts": [
+                "Whom",
+                "is",
+                "knocking",
+                "the"
+            ],
+            "options": [
+                "Whom",
+                "is",
+                "knocking",
+                "the"
+            ],
+            "answerIndex": 0,
+            "explanation": "Interrogative Pronoun. Dibutuhkan subjek untuk verb 'is knocking'. Harusnya 'Who'."
+        },
+        {
+            "id": "WE148",
+            "sectionType": "written_expression",
+            "questionText": "I (A) prefer (B) walking (C) than (D) driving.",
+            "underlinedParts": [
+                "prefer",
+                "walking",
+                "than",
+                "driving"
+            ],
+            "options": [
+                "prefer",
+                "walking",
+                "than",
+                "driving"
+            ],
+            "answerIndex": 2,
+            "explanation": "Prefer usage. 'Prefer... to...', bukan 'than'. Harusnya 'to'."
+        },
+        {
+            "id": "WE149",
+            "sectionType": "written_expression",
+            "questionText": "The (A) amount of (B) students (C) is (D) increasing.",
+            "underlinedParts": [
+                "amount",
+                "students",
+                "is",
+                "increasing"
+            ],
+            "options": [
+                "amount",
+                "students",
+                "is",
+                "increasing"
+            ],
+            "answerIndex": 0,
+            "explanation": "Countable Noun. 'Students' bisa dihitung. Gunakan 'number', bukan 'amount'."
+        },
+        {
+            "id": "WE150",
+            "sectionType": "written_expression",
+            "questionText": "If I (A) was (B) rich, I (C) would travel (D) the world.",
+            "underlinedParts": [
+                "was",
+                "rich",
+                "would",
+                "the world"
+            ],
+            "options": [
+                "was",
+                "rich",
+                "would",
+                "the world"
+            ],
+            "answerIndex": 0,
+            "explanation": "Conditional Type 2. Untuk pengandaian, 'be' selalu 'were'. Harusnya 'were'."
+        },
+        {
+            "id": "WE151",
+            "sectionType": "written_expression",
+            "questionText": "The (A) harder you (B) study, the (C) most (D) you learn.",
+            "underlinedParts": [
+                "harder",
+                "study",
+                "most",
+                "you learn"
+            ],
+            "options": [
+                "harder",
+                "study",
+                "most",
+                "you learn"
+            ],
+            "answerIndex": 2,
+            "explanation": "Double Comparative. Pola 'The more..., the more...'. Pasangan 'the harder' harusnya 'the more', bukan 'the most'."
+        },
+        {
+            "id": "WE152",
+            "sectionType": "written_expression",
+            "questionText": "(A) Because the weather (B) was cold, (C) so we stayed (D) indoors.",
+            "underlinedParts": [
+                "Because",
+                "was",
+                "so",
+                "indoors"
+            ],
+            "options": [
+                "Because",
+                "was",
+                "so",
+                "indoors"
+            ],
+            "answerIndex": 2,
+            "explanation": "Redundancy. Jangan gunakan 'Because' dan 'so' dalam satu kalimat majemuk. Hapus 'so'."
+        },
+        {
+            "id": "WE153",
+            "sectionType": "written_expression",
+            "questionText": "The (A) athlete (B) which won the (C) race is (D) my brother.",
+            "underlinedParts": [
+                "athlete",
+                "which",
+                "race",
+                "my brother"
+            ],
+            "options": [
+                "athlete",
+                "which",
+                "race",
+                "my brother"
+            ],
+            "answerIndex": 1,
+            "explanation": "Relative Pronoun. Untuk orang ('athlete'), gunakan 'who', bukan 'which'."
+        },
+        {
+            "id": "WE154",
+            "sectionType": "written_expression",
+            "questionText": "She (A) has (B) lived in London (C) since (D) five years.",
+            "underlinedParts": [
+                "has",
+                "lived",
+                "since",
+                "five years"
+            ],
+            "options": [
+                "has",
+                "lived",
+                "since",
+                "five years"
+            ],
+            "answerIndex": 2,
+            "explanation": "Preposition of Time. Untuk durasi waktu ('five years'), gunakan 'for', bukan 'since'."
+        },
+        {
+            "id": "WE155",
+            "sectionType": "written_expression",
+            "questionText": "The (A) information (B) were (C) confusing to (D) the students.",
+            "underlinedParts": [
+                "information",
+                "were",
+                "confusing",
+                "the"
+            ],
+            "options": [
+                "information",
+                "were",
+                "confusing",
+                "the"
+            ],
+            "answerIndex": 1,
+            "explanation": "Uncountable Noun. 'Information' adalah tunggal. Harusnya 'was'."
+        },
+        {
+            "id": "WE156",
+            "sectionType": "written_expression",
+            "questionText": "I (A) suggest that (B) he (C) goes to the (D) doctor.",
+            "underlinedParts": [
+                "suggest",
+                "he",
+                "goes",
+                "doctor"
+            ],
+            "options": [
+                "suggest",
+                "he",
+                "goes",
+                "doctor"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subjunctive. Setelah 'suggest that', verb harus bare infinitive (bentuk dasar). Harusnya 'go'."
+        },
+        {
+            "id": "WE157",
+            "sectionType": "written_expression",
+            "questionText": "(A) Unlike his brother, (B) who is tall, (C) John is (D) very shortly.",
+            "underlinedParts": [
+                "Unlike",
+                "who",
+                "John is",
+                "shortly"
+            ],
+            "options": [
+                "Unlike",
+                "who",
+                "John is",
+                "shortly"
+            ],
+            "answerIndex": 3,
+            "explanation": "Adjective usage. 'Shortly' adalah adverb (artinya 'segera'). Untuk tinggi badan, gunakan adjective 'short'."
+        },
+        {
+            "id": "WE158",
+            "sectionType": "written_expression",
+            "questionText": "The (A) number of (B) people (C) are (D) increasing.",
+            "underlinedParts": [
+                "number",
+                "people",
+                "are",
+                "increasing"
+            ],
+            "options": [
+                "number",
+                "people",
+                "are",
+                "increasing"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subject-Verb Agreement. 'The number' selalu diikuti verb tunggal. Harusnya 'is'."
+        },
+        {
+            "id": "WE159",
+            "sectionType": "written_expression",
+            "questionText": "He (A) didn't (B) pass the exam, and (C) so did (D) his friend.",
+            "underlinedParts": [
+                "didn't",
+                "pass",
+                "so did",
+                "his"
+            ],
+            "options": [
+                "didn't",
+                "pass",
+                "so did",
+                "his"
+            ],
+            "answerIndex": 2,
+            "explanation": "Negative Agreement. Karena kalimat pertama negatif ('didn't'), gunakan 'neither did', bukan 'so did'."
+        },
+        {
+            "id": "WE160",
+            "sectionType": "written_expression",
+            "questionText": "The (A) dog (B) wagged (C) it's (D) tail.",
+            "underlinedParts": [
+                "dog",
+                "wagged",
+                "it's",
+                "tail"
+            ],
+            "options": [
+                "dog",
+                "wagged",
+                "it's",
+                "tail"
+            ],
+            "answerIndex": 2,
+            "explanation": "Possessive Pronoun. 'It's' = 'It is'. Untuk kepemilikan, gunakan 'its' (tanpa apostrof)."
+        },
+        {
+            "id": "WE161",
+            "sectionType": "written_expression",
+            "questionText": "She (A) is (B) capable to (C) drive (D) a car.",
+            "underlinedParts": [
+                "is",
+                "capable",
+                "drive",
+                "a car"
+            ],
+            "options": [
+                "is",
+                "capable",
+                "drive",
+                "a car"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom. Pasangan 'capable' adalah 'of + V-ing'. Harusnya 'capable of driving'."
+        },
+        {
+            "id": "WE162",
+            "sectionType": "written_expression",
+            "questionText": "(A) Every students (B) must (C) bring (D) their own lunch.",
+            "underlinedParts": [
+                "Every",
+                "must",
+                "bring",
+                "their"
+            ],
+            "options": [
+                "Every",
+                "must",
+                "bring",
+                "their"
+            ],
+            "answerIndex": 0,
+            "explanation": "Noun Number. Setelah 'Every', noun harus tunggal. Harusnya 'Every student'."
+        },
+        {
+            "id": "WE163",
+            "sectionType": "written_expression",
+            "questionText": "I (A) am thinking (B) to go (C) to Paris (D) next year.",
+            "underlinedParts": [
+                "am thinking",
+                "to go",
+                "to Paris",
+                "next year"
+            ],
+            "options": [
+                "am thinking",
+                "to go",
+                "to Paris",
+                "next year"
+            ],
+            "answerIndex": 1,
+            "explanation": "Preposition + Gerund. 'Think of/about' diikuti gerund. Harusnya 'of going'."
+        },
+        {
+            "id": "WE164",
+            "sectionType": "written_expression",
+            "questionText": "The (A) police (B) officer (C) gave me (D) an advice.",
+            "underlinedParts": [
+                "police",
+                "officer",
+                "gave",
+                "an advice"
+            ],
+            "options": [
+                "police",
+                "officer",
+                "gave",
+                "an advice"
+            ],
+            "answerIndex": 3,
+            "explanation": "Uncountable Noun. 'Advice' tidak bisa pakai artikel 'an'. Gunakan 'some advice' atau 'a piece of advice'."
+        },
+        {
+            "id": "WE165",
+            "sectionType": "written_expression",
+            "questionText": "We (A) discussed (B) regarding the (C) matter (D) yesterday.",
+            "underlinedParts": [
+                "discussed",
+                "regarding",
+                "matter",
+                "yesterday"
+            ],
+            "options": [
+                "discussed",
+                "regarding",
+                "matter",
+                "yesterday"
+            ],
+            "answerIndex": 1,
+            "explanation": "Redundancy. 'Discuss' langsung diikuti objek. Hapus 'regarding' atau ganti 'discussed' dengan 'talked about'."
+        },
+        {
+            "id": "WE166",
+            "sectionType": "written_expression",
+            "questionText": "The (A) machinery (B) needs to (C) be (D) repair.",
+            "underlinedParts": [
+                "machinery",
+                "needs",
+                "be",
+                "repair"
+            ],
+            "options": [
+                "machinery",
+                "needs",
+                "be",
+                "repair"
+            ],
+            "answerIndex": 3,
+            "explanation": "Passive Voice. Setelah 'to be', gunakan past participle. Harusnya 'repaired'."
+        },
+        {
+            "id": "WE167",
+            "sectionType": "written_expression",
+            "questionText": "(A) Whom (B) is (C) playing the (D) piano?",
+            "underlinedParts": [
+                "Whom",
+                "is",
+                "playing",
+                "piano"
+            ],
+            "options": [
+                "Whom",
+                "is",
+                "playing",
+                "piano"
+            ],
+            "answerIndex": 0,
+            "explanation": "Pronoun Case. Subjek kalimat harus 'Who', bukan 'Whom'."
+        },
+        {
+            "id": "WE168",
+            "sectionType": "written_expression",
+            "questionText": "There (A) is (B) a few (C) cookies left (D) in the jar.",
+            "underlinedParts": [
+                "is",
+                "a few",
+                "cookies",
+                "in"
+            ],
+            "options": [
+                "is",
+                "a few",
+                "cookies",
+                "in"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subject-Verb Agreement. Subjek 'a few cookies' jamak. Harusnya 'There are'."
+        },
+        {
+            "id": "WE169",
+            "sectionType": "written_expression",
+            "questionText": "She (A) looks (B) beautifully (C) in that (D) dress.",
+            "underlinedParts": [
+                "looks",
+                "beautifully",
+                "in",
+                "dress"
+            ],
+            "options": [
+                "looks",
+                "beautifully",
+                "in",
+                "dress"
+            ],
+            "answerIndex": 1,
+            "explanation": "Linking Verb. 'Looks' diikuti adjective, bukan adverb. Harusnya 'beautiful'."
+        },
+        {
+            "id": "WE170",
+            "sectionType": "written_expression",
+            "questionText": "The (A) price of (B) gold has (C) risen (D) fastly.",
+            "underlinedParts": [
+                "price",
+                "gold",
+                "risen",
+                "fastly"
+            ],
+            "options": [
+                "price",
+                "gold",
+                "risen",
+                "fastly"
+            ],
+            "answerIndex": 3,
+            "explanation": "Adverb Form. Tidak ada kata 'fastly'. Adverb dari 'fast' tetap 'fast'."
+        },
+        {
+            "id": "WE171",
+            "sectionType": "written_expression",
+            "questionText": "I (A) would (B) like (C) buying (D) a new car.",
+            "underlinedParts": [
+                "would",
+                "like",
+                "buying",
+                "new"
+            ],
+            "options": [
+                "would",
+                "like",
+                "buying",
+                "new"
+            ],
+            "answerIndex": 2,
+            "explanation": "Would Like. Struktur 'would like' diikuti to-infinitive. Harusnya 'to buy'."
+        },
+        {
+            "id": "WE172",
+            "sectionType": "written_expression",
+            "questionText": "The (A) news (B) about the (C) accident (D) are terrible.",
+            "underlinedParts": [
+                "news",
+                "about",
+                "accident",
+                "are"
+            ],
+            "options": [
+                "news",
+                "about",
+                "accident",
+                "are"
+            ],
+            "answerIndex": 3,
+            "explanation": "Uncountable Noun. 'News' tunggal. Harusnya 'is'."
+        },
+        {
+            "id": "WE173",
+            "sectionType": "written_expression",
+            "questionText": "He (A) is (B) knowing (C) the answer (D) now.",
+            "underlinedParts": [
+                "is",
+                "knowing",
+                "the",
+                "now"
+            ],
+            "options": [
+                "is",
+                "knowing",
+                "the",
+                "now"
+            ],
+            "answerIndex": 1,
+            "explanation": "Stative Verb. Kata kerja 'know' tidak digunakan dalam bentuk continuous (V-ing). Harusnya 'knows'."
+        },
+        {
+            "id": "WE174",
+            "sectionType": "written_expression",
+            "questionText": "(A) Despite (B) it was raining, (C) we went (D) out.",
+            "underlinedParts": [
+                "Despite",
+                "it was",
+                "went",
+                "out"
+            ],
+            "options": [
+                "Despite",
+                "it was",
+                "went",
+                "out"
+            ],
+            "answerIndex": 0,
+            "explanation": "Conjunction vs Preposition. 'Despite' diikuti noun. Karena ada klausa 'it was raining', gunakan 'Although'."
+        },
+        {
+            "id": "WE175",
+            "sectionType": "written_expression",
+            "questionText": "The (A) scissors (B) cuts (C) the paper (D) easily.",
+            "underlinedParts": [
+                "scissors",
+                "cuts",
+                "the",
+                "easily"
+            ],
+            "options": [
+                "scissors",
+                "cuts",
+                "the",
+                "easily"
+            ],
+            "answerIndex": 1,
+            "explanation": "Plural Noun. 'Scissors' jamak. Harusnya 'cut'."
+        },
+        {
+            "id": "WE176",
+            "sectionType": "written_expression",
+            "questionText": "I (A) have (B) never (C) saw (D) such a thing.",
+            "underlinedParts": [
+                "have",
+                "never",
+                "saw",
+                "such"
+            ],
+            "options": [
+                "have",
+                "never",
+                "saw",
+                "such"
+            ],
+            "answerIndex": 2,
+            "explanation": "Present Perfect. Setelah auxiliary 'have', gunakan past participle (V3). Harusnya 'seen'."
+        },
+        {
+            "id": "WE177",
+            "sectionType": "written_expression",
+            "questionText": "The (A) team (B) are (C) winning (D) the game.",
+            "underlinedParts": [
+                "team",
+                "are",
+                "winning",
+                "the"
+            ],
+            "options": [
+                "team",
+                "are",
+                "winning",
+                "the"
+            ],
+            "answerIndex": 1,
+            "explanation": "Collective Noun. 'Team' sebagai satu unit dianggap tunggal. Harusnya 'is'. (Kecuali menekankan individu, tapi di TOEFL umumnya tunggal)."
+        },
+        {
+            "id": "WE178",
+            "sectionType": "written_expression",
+            "questionText": "(A) Between you and (B) I, (C) this is (D) a secret.",
+            "underlinedParts": [
+                "Between",
+                "I",
+                "this",
+                "secret"
+            ],
+            "options": [
+                "Between",
+                "I",
+                "this",
+                "secret"
+            ],
+            "answerIndex": 1,
+            "explanation": "Object Pronoun. Setelah preposisi 'between', gunakan object pronoun 'me', bukan 'I'. Harusnya 'Between you and me'."
+        },
+        {
+            "id": "WE179",
+            "sectionType": "written_expression",
+            "questionText": "One (A) of the (B) student (C) is (D) absent.",
+            "underlinedParts": [
+                "of",
+                "student",
+                "is",
+                "absent"
+            ],
+            "options": [
+                "of",
+                "student",
+                "is",
+                "absent"
+            ],
+            "answerIndex": 1,
+            "explanation": "One of + Plural. Setelah 'One of the', noun harus jamak. Harusnya 'students'."
+        },
+        {
+            "id": "WE180",
+            "sectionType": "written_expression",
+            "questionText": "She (A) needs (B) finish (C) her (D) homework.",
+            "underlinedParts": [
+                "needs",
+                "finish",
+                "her",
+                "homework"
+            ],
+            "options": [
+                "needs",
+                "finish",
+                "her",
+                "homework"
+            ],
+            "answerIndex": 1,
+            "explanation": "Infinitive. 'Need' diikuti to-infinitive. Harusnya 'to finish'."
+        },
+        {
+            "id": "WE181",
+            "sectionType": "written_expression",
+            "questionText": "The (A) car (B) cost (C) ten (D) thousand dollar.",
+            "underlinedParts": [
+                "car",
+                "cost",
+                "ten",
+                "thousand dollar"
+            ],
+            "options": [
+                "car",
+                "cost",
+                "ten",
+                "thousand dollar"
+            ],
+            "answerIndex": 3,
+            "explanation": "Plural Noun. Setelah angka jamak (ten thousand), noun harus jamak. Harusnya 'dollars'."
+        },
+        {
+            "id": "WE182",
+            "sectionType": "written_expression",
+            "questionText": "He (A) laid (B) down (C) on the bed (D) to rest.",
+            "underlinedParts": [
+                "laid",
+                "down",
+                "on",
+                "to rest"
+            ],
+            "options": [
+                "laid",
+                "down",
+                "on",
+                "to rest"
+            ],
+            "answerIndex": 0,
+            "explanation": "Lay vs Lie. Untuk arti 'berbaring' (intransitive), Past Tense-nya adalah 'lay'. Tapi Present-nya 'lie'. Kalimat ini Past Tense? Jika Past Tense, 'He lay down'. Jika Present, 'He lies down'. Kata 'laid' adalah past tense dari 'lay' (meletakkan). Di sini dia berbaring, jadi harusnya 'lay' (jika lampau) atau 'lies'. Dalam error recognition, 'laid' pasti salah untuk arti berbaring."
+        },
+        {
+            "id": "WE183",
+            "sectionType": "written_expression",
+            "questionText": "The (A) effects of (B) the drug (C) was (D) unknown.",
+            "underlinedParts": [
+                "effects",
+                "the",
+                "was",
+                "unknown"
+            ],
+            "options": [
+                "effects",
+                "the",
+                "was",
+                "unknown"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subject-Verb Agreement. Subjek 'effects' jamak. Harusnya 'were'."
+        },
+        {
+            "id": "WE184",
+            "sectionType": "written_expression",
+            "questionText": "I (A) prefer (B) tea (C) than (D) coffee.",
+            "underlinedParts": [
+                "prefer",
+                "tea",
+                "than",
+                "coffee"
+            ],
+            "options": [
+                "prefer",
+                "tea",
+                "than",
+                "coffee"
+            ],
+            "answerIndex": 2,
+            "explanation": "Prefer. Pasangannya 'to', bukan 'than'. Harusnya 'tea to coffee'."
+        },
+        {
+            "id": "WE185",
+            "sectionType": "written_expression",
+            "questionText": "(A) Not only (B) did he (C) study, but (D) he also work.",
+            "underlinedParts": [
+                "Not only",
+                "did he",
+                "but",
+                "work"
+            ],
+            "options": [
+                "Not only",
+                "did he",
+                "but",
+                "work"
+            ],
+            "answerIndex": 3,
+            "explanation": "Parallelism/Tense. Kalimat pertama pakai 'did' (Past), maka kalimat kedua juga harus Past. Harusnya 'worked'."
+        },
+        {
+            "id": "WE186",
+            "sectionType": "written_expression",
+            "questionText": "The (A) building (B) was (C) destroy (D) by the fire.",
+            "underlinedParts": [
+                "building",
+                "was",
+                "destroy",
+                "by"
+            ],
+            "options": [
+                "building",
+                "was",
+                "destroy",
+                "by"
+            ],
+            "answerIndex": 2,
+            "explanation": "Passive Voice. To be + V3. Harusnya 'destroyed'."
+        },
+        {
+            "id": "WE187",
+            "sectionType": "written_expression",
+            "questionText": "He is (A) taller (B) from (C) his (D) father.",
+            "underlinedParts": [
+                "taller",
+                "from",
+                "his",
+                "father"
+            ],
+            "options": [
+                "taller",
+                "from",
+                "his",
+                "father"
+            ],
+            "answerIndex": 1,
+            "explanation": "Comparative. Pasangan 'taller' adalah 'than', bukan 'from'."
+        },
+        {
+            "id": "WE188",
+            "sectionType": "written_expression",
+            "questionText": "She (A) enjoys (B) to read (C) mystery (D) novels.",
+            "underlinedParts": [
+                "enjoys",
+                "to read",
+                "mystery",
+                "novels"
+            ],
+            "options": [
+                "enjoys",
+                "to read",
+                "mystery",
+                "novels"
+            ],
+            "answerIndex": 1,
+            "explanation": "Gerund. 'Enjoy' diikuti V-ing. Harusnya 'reading'."
+        },
+        {
+            "id": "WE189",
+            "sectionType": "written_expression",
+            "questionText": "The (A) reason (B) that he (C) failed is (D) because he didn't study.",
+            "underlinedParts": [
+                "reason",
+                "that",
+                "is",
+                "because"
+            ],
+            "options": [
+                "reason",
+                "that",
+                "is",
+                "because"
+            ],
+            "answerIndex": 3,
+            "explanation": "Redundancy. 'The reason... is that...'. Jangan gunakan 'because' lagi. Harusnya 'that'."
+        },
+        {
+            "id": "WE190",
+            "sectionType": "written_expression",
+            "questionText": "I (A) have (B) lived here (C) since (D) three years.",
+            "underlinedParts": [
+                "have",
+                "lived",
+                "since",
+                "three years"
+            ],
+            "options": [
+                "have",
+                "lived",
+                "since",
+                "three years"
+            ],
+            "answerIndex": 2,
+            "explanation": "Preposition. Untuk durasi, gunakan 'for'. Harusnya 'for three years'."
+        },
+        {
+            "id": "WE191",
+            "sectionType": "written_expression",
+            "questionText": "The (A) children (B) was (C) excited (D) about the trip.",
+            "underlinedParts": [
+                "children",
+                "was",
+                "excited",
+                "about"
+            ],
+            "options": [
+                "children",
+                "was",
+                "excited",
+                "about"
+            ],
+            "answerIndex": 1,
+            "explanation": "Plural Subject. 'Children' jamak. Harusnya 'were'."
+        },
+        {
+            "id": "WE192",
+            "sectionType": "written_expression",
+            "questionText": "(A) Making (B) friends (C) are (D) important.",
+            "underlinedParts": [
+                "Making",
+                "friends",
+                "are",
+                "important"
+            ],
+            "options": [
+                "Making",
+                "friends",
+                "are",
+                "important"
+            ],
+            "answerIndex": 2,
+            "explanation": "Gerund Subject. 'Making' adalah subjek tunggal. Harusnya 'is'."
+        },
+        {
+            "id": "WE193",
+            "sectionType": "written_expression",
+            "questionText": "He (A) works (B) as (C) a engineer (D) in the city.",
+            "underlinedParts": [
+                "works",
+                "as",
+                "a",
+                "in"
+            ],
+            "options": [
+                "works",
+                "as",
+                "a",
+                "in"
+            ],
+            "answerIndex": 2,
+            "explanation": "Article. 'Engineer' diawali bunyi vokal, gunakan 'an'."
+        },
+        {
+            "id": "WE194",
+            "sectionType": "written_expression",
+            "questionText": "They (A) returned (B) back (C) to the (D) hotel.",
+            "underlinedParts": [
+                "returned",
+                "back",
+                "to",
+                "hotel"
+            ],
+            "options": [
+                "returned",
+                "back",
+                "to",
+                "hotel"
+            ],
+            "answerIndex": 1,
+            "explanation": "Redundancy. 'Return' sudah berarti kembali. Hapus 'back'."
+        },
+        {
+            "id": "WE195",
+            "sectionType": "written_expression",
+            "questionText": "The (A) baby (B) crying (C) loudly (D) last night.",
+            "underlinedParts": [
+                "baby",
+                "crying",
+                "loudly",
+                "last night"
+            ],
+            "options": [
+                "baby",
+                "crying",
+                "loudly",
+                "last night"
+            ],
+            "answerIndex": 1,
+            "explanation": "Missing Verb. Kalimat ini butuh finite verb. Harusnya 'cried' atau 'was crying'."
+        },
+        {
+            "id": "WE196",
+            "sectionType": "written_expression",
+            "questionText": "She (A) can (B) speaks (C) three (D) languages.",
+            "underlinedParts": [
+                "can",
+                "speaks",
+                "three",
+                "languages"
+            ],
+            "options": [
+                "can",
+                "speaks",
+                "three",
+                "languages"
+            ],
+            "answerIndex": 1,
+            "explanation": "Modal Verb. Setelah modal 'can', verb harus bare infinitive (tanpa 's'). Harusnya 'speak'."
+        },
+        {
+            "id": "WE197",
+            "sectionType": "written_expression",
+            "questionText": "The (A) homework (B) was (C) so difficult (D) for I.",
+            "underlinedParts": [
+                "homework",
+                "was",
+                "so",
+                "for I"
+            ],
+            "options": [
+                "homework",
+                "was",
+                "so",
+                "for I"
+            ],
+            "answerIndex": 3,
+            "explanation": "Object Pronoun. Setelah preposisi 'for', gunakan object pronoun 'me'. Harusnya 'for me'."
+        },
+        {
+            "id": "WE198",
+            "sectionType": "written_expression",
+            "questionText": "We (A) enjoyed (B) ours (C) time (D) at the beach.",
+            "underlinedParts": [
+                "enjoyed",
+                "ours",
+                "time",
+                "at"
+            ],
+            "options": [
+                "enjoyed",
+                "ours",
+                "time",
+                "at"
+            ],
+            "answerIndex": 1,
+            "explanation": "Possessive Adjective. Sebelum noun 'time', gunakan 'our'. 'Ours' adalah possessive pronoun yang berdiri sendiri."
+        },
+        {
+            "id": "WE199",
+            "sectionType": "written_expression",
+            "questionText": "If I (A) have (B) time, I (C) would help (D) you.",
+            "underlinedParts": [
+                "have",
+                "time",
+                "would",
+                "you"
+            ],
+            "options": [
+                "have",
+                "time",
+                "would",
+                "you"
+            ],
+            "answerIndex": 0,
+            "explanation": "Conditional Mixed. Jika result clause pakai 'would' (Type 2), if clause harus Past Tense. Harusnya 'had'. Atau ubah belakangnya jadi 'will help'."
+        },
+        {
+            "id": "WE200",
+            "sectionType": "written_expression",
+            "questionText": "The (A) teacher (B) explained (C) the lesson (D) clear.",
+            "underlinedParts": [
+                "teacher",
+                "explained",
+                "lesson",
+                "clear"
+            ],
+            "options": [
+                "teacher",
+                "explained",
+                "lesson",
+                "clear"
+            ],
+            "answerIndex": 3,
+            "explanation": "Adverb. Untuk menjelaskan verb 'explained', gunakan adverb. Harusnya 'clearly'."
+        }
+    ]
+}

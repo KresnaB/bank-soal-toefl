@@ -1,0 +1,618 @@
+{
+    "listening": [
+        {
+            "id": "L001",
+            "sectionType": "listening",
+            "audioFile": "audio_l1.mp3",
+            "questionText": "What does the woman suggest?",
+            "options": [
+                "Going to the library",
+                "Studying at home",
+                "Meeting after class",
+                "Canceling the study session"
+            ],
+            "answerIndex": 2,
+            "explanation": "The woman says 'Why don't we meet after class?', which suggests meeting after class."
+        },
+        {
+            "id": "L002",
+            "sectionType": "listening",
+            "audioFile": "audio_l2.mp3",
+            "questionText": "What is the man's problem?",
+            "options": [
+                "He lost his textbook",
+                "He missed the deadline",
+                "He forgot his assignment",
+                "He is late for class"
+            ],
+            "answerIndex": 1,
+            "explanation": "The man expresses concern about missing the submission deadline."
+        },
+        {
+            "id": "L003",
+            "sectionType": "listening",
+            "audioFile": "audio_l3.mp3",
+            "questionText": "What will the speakers probably do next?",
+            "options": [
+                "Go to the cafeteria",
+                "Attend a lecture",
+                "Return some books",
+                "Take a break"
+            ],
+            "answerIndex": 0,
+            "explanation": "Based on the conversation, they agree to get lunch at the cafeteria."
+        }
+    ],
+    "structure": [
+        {
+            "id": "S001",
+            "sectionType": "structure",
+            "questionText": "The North Platte River ______ from Wyoming into Nebraska.",
+            "options": [
+                "it flowed",
+                "flows",
+                "flowing",
+                "with flowing water"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kalimat ini membutuhkan kata kerja utama (main verb). 'Flows' adalah satu-satunya kata kerja tunggal yang tepat untuk subjek 'The North Platte River'."
+        },
+        {
+            "id": "S002",
+            "sectionType": "structure",
+            "questionText": "______ Biloxi received its name from a Sioux word meaning 'first people'.",
+            "options": [
+                "The city of",
+                "Located in",
+                "It is in",
+                "The tour included"
+            ],
+            "answerIndex": 0,
+            "explanation": "Kalimat ini membutuhkan subjek. 'The city of' melengkapi subjek 'Biloxi' menjadi frasa benda yang utuh."
+        },
+        {
+            "id": "S003",
+            "sectionType": "structure",
+            "questionText": "A pride of lions ______ up to forty lions, including one to three males, several females, and cubs.",
+            "options": [
+                "can contain",
+                "it contains",
+                "contain",
+                "containing"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subjek kalimat adalah 'A pride' (tunggal). 'Can contain' adalah kata kerja modal yang benar."
+        },
+        {
+            "id": "S004",
+            "sectionType": "structure",
+            "questionText": "______ tea plant are small and white.",
+            "options": [
+                "The",
+                "On the",
+                "Having flowers the",
+                "The flowers of the"
+            ],
+            "answerIndex": 3,
+            "explanation": "Predikatnya adalah 'are' (jamak), jadi subjeknya harus jamak. 'The flowers of the' menyediakan subjek jamak ('flowers')."
+        },
+        {
+            "id": "S005",
+            "sectionType": "structure",
+            "questionText": "The tetracyclines, ______ antibiotics, are used to treat infections.",
+            "options": [
+                "are a family of",
+                "being a family",
+                "a family of",
+                "their family is"
+            ],
+            "answerIndex": 2,
+            "explanation": "Ini adalah bentuk Appositive. Struktur yang benar adalah 'Subject, Appositive, Verb'. 'A family of' berfungsi sebagai appositive."
+        },
+        {
+            "id": "S006",
+            "sectionType": "structure",
+            "questionText": "Any possible academic assistance from taking stimulants ______ marginal at best.",
+            "options": [
+                "it is",
+                "there is",
+                "is",
+                "as"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subjek utamanya adalah 'Any possible academic assistance' (tunggal). Maka kata kerjanya adalah 'is'."
+        },
+        {
+            "id": "S007",
+            "sectionType": "structure",
+            "questionText": "Henry Adams, born in Boston, ______ famous as a historian and novelist.",
+            "options": [
+                "became",
+                "and became",
+                "he was",
+                "and he became"
+            ],
+            "answerIndex": 0,
+            "explanation": "Kalimat ini sudah memiliki subjek 'Henry Adams' dan modifier. Yang dibutuhkan hanya kata kerja utama: 'became'."
+        },
+        {
+            "id": "S008",
+            "sectionType": "structure",
+            "questionText": "The major cause ______ the pull of the Moon on the Earth.",
+            "options": [
+                "the ocean tides are",
+                "of ocean tides is",
+                "of the tides in the ocean",
+                "the oceans' tides"
+            ],
+            "answerIndex": 1,
+            "explanation": "Struktur kalimat: Subject + Verb + Object. 'The major cause of ocean tides' adalah subjek lengkap, dan 'is' adalah kata kerjanya."
+        },
+        {
+            "id": "S009",
+            "sectionType": "structure",
+            "questionText": "Still a novelty in the late nineteenth century, ______ limited to the rich.",
+            "options": [
+                "was photography",
+                "photography was",
+                "it was photography",
+                "photography"
+            ],
+            "answerIndex": 1,
+            "explanation": "Frasa di awal adalah modifier. Setelah koma, harus diikuti langsung oleh subjek yang dijelaskan (photography) lalu kata kerja (was)."
+        },
+        {
+            "id": "S010",
+            "sectionType": "structure",
+            "questionText": "A computerized map of the freeways using information gathered by sensors ______ on a local cable channel during rush hours.",
+            "options": [
+                "airs",
+                "airing",
+                "air",
+                "to air"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subjek utamanya adalah 'A computerized map' (tunggal). Maka kata kerjanya harus tunggal: 'airs'."
+        },
+        {
+            "id": "S011",
+            "sectionType": "structure",
+            "questionText": "Usually, the more skilled an athlete, ______ the more money he or she earns.",
+            "options": [
+                "that",
+                "is",
+                "the",
+                "and"
+            ],
+            "answerIndex": 2,
+            "explanation": "Ini adalah bentuk 'Double Comparative': The more..., the more... (Semakin..., semakin...)."
+        },
+        {
+            "id": "S012",
+            "sectionType": "structure",
+            "questionText": "______ the mass of the object is difficult without a scale.",
+            "options": [
+                "Determine",
+                "To determine",
+                "Determined",
+                "For determining"
+            ],
+            "answerIndex": 1,
+            "explanation": "Infinitive 'To determine' dapat berfungsi sebagai subjek kalimat."
+        },
+        {
+            "id": "S013",
+            "sectionType": "structure",
+            "questionText": "The reactor core of a nuclear power plant is enclosed in concrete ______ radiation.",
+            "options": [
+                "prevent",
+                "prevents",
+                "to prevent",
+                "prevention"
+            ],
+            "answerIndex": 2,
+            "explanation": "Gunakan 'to + verb' (infinitive of purpose) untuk menunjukkan tujuan. 'To prevent' (untuk mencegah)."
+        },
+        {
+            "id": "S014",
+            "sectionType": "structure",
+            "questionText": "______ political party in the United States.",
+            "options": [
+                "No",
+                "Not",
+                "None",
+                "Never"
+            ],
+            "answerIndex": 0,
+            "explanation": "'No' digunakan sebelum kata benda (noun phrase) untuk menunjukkan ketiadaan."
+        },
+        {
+            "id": "S015",
+            "sectionType": "structure",
+            "questionText": "The committee has met and ______.",
+            "options": [
+                "they have reached a decision",
+                "it has formulated some opinions",
+                "its decision was reached",
+                "it has reached a decision"
+            ],
+            "answerIndex": 3,
+            "explanation": "'The committee' dianggap tunggal (collective noun), jadi gunakan 'it'. Struktur harus paralel: 'has met and (has) reached'."
+        },
+        {
+            "id": "S016",
+            "sectionType": "structure",
+            "questionText": "Alfred Adams has not ______ lived lonelinessly in times of sorrow.",
+            "options": [
+                "only",
+                "alone",
+                "solely",
+                "lone"
+            ],
+            "answerIndex": 0,
+            "explanation": "Pola 'not only... but also'. Di sini konteksnya mengarah pada 'not only'."
+        },
+        {
+            "id": "S017",
+            "sectionType": "structure",
+            "questionText": "Juana Ines de la Cruz ______ a nun in 1667 to devote her life to writing.",
+            "options": [
+                "who became",
+                "became",
+                "becoming",
+                "she became"
+            ],
+            "answerIndex": 1,
+            "explanation": "Dibutuhkan kata kerja utama bentuk lampau (past tense) untuk subjek 'Juana Ines de la Cruz'. Jawabannya 'became'."
+        },
+        {
+            "id": "S018",
+            "sectionType": "structure",
+            "questionText": "A premise is a statement ______ as a basis for reasoning.",
+            "options": [
+                "serving",
+                "serves",
+                "that serve",
+                "served"
+            ],
+            "answerIndex": 0,
+            "explanation": "Ini adalah reduksi dari adjective clause 'which serves'. Menjadi 'serving' (Active participle)."
+        },
+        {
+            "id": "S019",
+            "sectionType": "structure",
+            "questionText": "Of all the cereals, rice is the one ______ food for more people than any other grain.",
+            "options": [
+                "it provides",
+                "that providing",
+                "provides",
+                "that provides"
+            ],
+            "answerIndex": 3,
+            "explanation": "Dibutuhkan relative pronoun 'that' + verb untuk menjelaskan 'the one'."
+        },
+        {
+            "id": "S020",
+            "sectionType": "structure",
+            "questionText": "______ wooden buildings helps to protect them from damage due to weather.",
+            "options": [
+                "Painting",
+                "Painted",
+                "The paint",
+                "By painting"
+            ],
+            "answerIndex": 0,
+            "explanation": "Gerund ('Painting') dapat berfungsi sebagai subjek kalimat."
+        },
+        {
+            "id": "S021",
+            "sectionType": "structure",
+            "questionText": "Not only ______ shade and beauty, but they also reduce carbon dioxide.",
+            "options": [
+                "trees provide",
+                "provide trees",
+                "do trees provide",
+                "trees do provide"
+            ],
+            "answerIndex": 2,
+            "explanation": "Jika kalimat dimulai dengan 'Not only', maka harus terjadi Inversi (Auxiliary + Subject + Verb). 'Do trees provide' adalah inversi yang benar."
+        },
+        {
+            "id": "S022",
+            "sectionType": "structure",
+            "questionText": "______ in the atmosphere is the temperature falling below freezing.",
+            "options": [
+                "Frost is produced",
+                "Frost produces",
+                "What produces frost",
+                "What is frost produced"
+            ],
+            "answerIndex": 2,
+            "explanation": "Noun clause 'What produces frost' berfungsi sebagai subjek kalimat."
+        },
+        {
+            "id": "S023",
+            "sectionType": "structure",
+            "questionText": "Lambert's sunfish, a small freshwater fish, ______ for the distinctive red spot on its ear.",
+            "options": [
+                "naming",
+                "is named",
+                "named",
+                "names"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kalimat pasif. Ikan tersebut 'dinamai' (is named)."
+        },
+        {
+            "id": "S024",
+            "sectionType": "structure",
+            "questionText": "Unless protected areas are established, the Bengal tiger ______ extinct.",
+            "options": [
+                "possible become",
+                "creates to be",
+                "might become",
+                "becoming"
+            ],
+            "answerIndex": 2,
+            "explanation": "Conditional sentence. 'Might become' menunjukkan kemungkinan di masa depan."
+        },
+        {
+            "id": "S025",
+            "sectionType": "structure",
+            "questionText": "Before the 1800s, ______ of cotton was done by hand.",
+            "options": [
+                "the pick",
+                "picking",
+                "the picking",
+                "picked"
+            ],
+            "answerIndex": 2,
+            "explanation": "Dibutuhkan noun phrase sebagai subjek. 'The picking' (proses pemetikan) adalah yang paling tepat."
+        },
+        {
+            "id": "S026",
+            "sectionType": "structure",
+            "questionText": "Unlike the Earth, which rotates once every twenty-four hours, ______ once every ten hours.",
+            "options": [
+                "Jupiter rotates",
+                "Jupiter rotating",
+                "rotation of Jupiter",
+                "Jupiter rotate"
+            ],
+            "answerIndex": 0,
+            "explanation": "Setelah frasa pembanding 'Unlike...', harus diikuti oleh subjek yang dibandingkan (Jupiter) dan kata kerja (rotates)."
+        },
+        {
+            "id": "S027",
+            "sectionType": "structure",
+            "questionText": "Jacksonville, Florida, ______ to be the largest city in the United States.",
+            "options": [
+                "claiming",
+                "claims",
+                "that claims",
+                "is claiming"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subjek 'Jacksonville' membutuhkan kata kerja utama. 'Claims' adalah simple present tense yang tepat."
+        },
+        {
+            "id": "S028",
+            "sectionType": "structure",
+            "questionText": "The skull of a mammal ______ of different bones.",
+            "options": [
+                "is made up",
+                "makes up",
+                "made up",
+                "making up"
+            ],
+            "answerIndex": 0,
+            "explanation": "Kalimat pasif. Tengkorak 'is made up of' (terdiri dari/dibuat dari) tulang."
+        },
+        {
+            "id": "S029",
+            "sectionType": "structure",
+            "questionText": "Using a globe can be ______ to visualize the geography of the world.",
+            "options": [
+                "easy",
+                "easier",
+                "easily",
+                "easiest"
+            ],
+            "answerIndex": 1,
+            "explanation": "Dalam konteks ini, seringkali membandingkan dengan metode lain (implisit), jadi comparative 'easier' sering digunakan."
+        },
+        {
+            "id": "S030",
+            "sectionType": "structure",
+            "questionText": "Only when the ground is kept moist ______ germinate.",
+            "options": [
+                "grass seeds will",
+                "will grass seeds",
+                "grass seeds does",
+                "does grass seeds"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kalimat dimulai dengan 'Only when...', menuntut Inversi di klausa utama: Auxiliary (will) + Subject (grass seeds)."
+        },
+        {
+            "id": "S031",
+            "sectionType": "structure",
+            "questionText": "______ widely used in the chemical industry, sodium carbonate is a principal ingredient in soap.",
+            "options": [
+                "It is",
+                "Is",
+                "Though",
+                "To be"
+            ],
+            "answerIndex": 2,
+            "explanation": "Dibutuhkan konjungsi. 'Though (it is) widely used...'."
+        },
+        {
+            "id": "S032",
+            "sectionType": "structure",
+            "questionText": "Glass that has been tempered may be up to ______.",
+            "options": [
+                "five times as hard as ordinary glass",
+                "as hard as ordinary glass five times",
+                "harder as ordinary glass five times",
+                "ordinary glass as hard as five times"
+            ],
+            "answerIndex": 0,
+            "explanation": "Urutan perbandingan: Multiple number + times + as + adjective + as + noun."
+        },
+        {
+            "id": "S033",
+            "sectionType": "structure",
+            "questionText": "Arizona ______ a very dry climate.",
+            "options": [
+                "has",
+                "being",
+                "having",
+                "with"
+            ],
+            "answerIndex": 0,
+            "explanation": "Kalimat sederhana Subject + Verb. Arizona has (memiliki)."
+        },
+        {
+            "id": "S034",
+            "sectionType": "structure",
+            "questionText": "One of the most important tools ______ by geologists is the hammer.",
+            "options": [
+                "are used",
+                "used",
+                "is used",
+                "using"
+            ],
+            "answerIndex": 1,
+            "explanation": "Reduced adjective clause. Aslinya: '...tools (which are) used by...'."
+        },
+        {
+            "id": "S035",
+            "sectionType": "structure",
+            "questionText": "Native American languages are often ______ than European languages.",
+            "options": [
+                "complex",
+                "more complex",
+                "most complex",
+                "complexity"
+            ],
+            "answerIndex": 1,
+            "explanation": "Comparative adjective. Karena ada 'than', gunakan 'more complex'."
+        },
+        {
+            "id": "S036",
+            "sectionType": "structure",
+            "questionText": "Duncan Mayo, ______ of the early west, was actually born in Scotland.",
+            "options": [
+                "was a famous explorer",
+                "a famous explorer",
+                "he was a famous explorer",
+                "explorer was famous"
+            ],
+            "answerIndex": 1,
+            "explanation": "Appositive phrase. Menjelaskan subjek 'Duncan Mayo' tanpa perlu kata kerja baru."
+        },
+        {
+            "id": "S037",
+            "sectionType": "structure",
+            "questionText": "X-rays are able to pass through objects ______ visible light cannot.",
+            "options": [
+                "that",
+                "which",
+                "where",
+                "whose"
+            ],
+            "answerIndex": 0,
+            "explanation": "Relative clause menjelaskan 'objects'. 'That' digunakan sebagai konektor/objek."
+        },
+        {
+            "id": "S038",
+            "sectionType": "structure",
+            "questionText": "______ to the Moon, the Apollo astronauts took many photographs.",
+            "options": [
+                "While",
+                "During",
+                "On their way",
+                "The way"
+            ],
+            "answerIndex": 2,
+            "explanation": "Frasa preposisi 'On their way to the Moon' berfungsi sebagai keterangan yang tepat."
+        },
+        {
+            "id": "S039",
+            "sectionType": "structure",
+            "questionText": "Gunpowder, in some ways the most effective of all the explosive substances, ______ a mixture of potassium nitrate, charcoal, and sulfur.",
+            "options": [
+                "is",
+                "are",
+                "were",
+                "being"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subjeknya 'Gunpowder' (tunggal/uncountable), jadi verb-nya 'is'."
+        },
+        {
+            "id": "S040",
+            "sectionType": "structure",
+            "questionText": "If water is heated to 212 degrees Fahrenheit, ______ as steam.",
+            "options": [
+                "it boils and escapes",
+                "it is boiling and escaping",
+                "it boil and escape",
+                "boils and escapes"
+            ],
+            "answerIndex": 0,
+            "explanation": "Conditional sentence type 0/1 (General truth). Subject (it) + Verb (boils)."
+        }
+    ],
+    "reading": [
+        {
+            "id": "R001",
+            "sectionType": "reading",
+            "passageId": 1,
+            "readingPassageTitle": "The History of Coffee",
+            "readingPassage": "Coffee is one of the most popular beverages in the world today. Its origins can be traced back to Ethiopia, where legend has it that a goat herder named Kaldi discovered the coffee plant around 850 AD. Kaldi noticed that his goats became unusually energetic after eating berries from a certain tree.\n\nFrom Ethiopia, coffee spread to the Arabian Peninsula, where it was first cultivated and traded. By the 15th century, coffee was being grown in the Yemeni district of Arabia. The word 'coffee' itself is derived from the Arabic word 'qahwah.'\n\nCoffeehouses began appearing in cities across the Near East during the 16th century. These establishments became important social gathering places where people would engage in conversation, listen to music, and watch performances. Coffee eventually made its way to Europe in the 17th century, where it quickly gained popularity despite initial resistance from some religious groups.",
+            "questionText": "According to the passage, where did coffee originate?",
+            "options": [
+                "Yemen",
+                "Arabia",
+                "Ethiopia",
+                "Europe"
+            ],
+            "answerIndex": 2,
+            "explanation": "The passage states 'Its origins can be traced back to Ethiopia.'"
+        },
+        {
+            "id": "R002",
+            "sectionType": "reading",
+            "passageId": 1,
+            "readingPassageTitle": "The History of Coffee",
+            "readingPassage": "Coffee is one of the most popular beverages in the world today. Its origins can be traced back to Ethiopia, where legend has it that a goat herder named Kaldi discovered the coffee plant around 850 AD. Kaldi noticed that his goats became unusually energetic after eating berries from a certain tree.\n\nFrom Ethiopia, coffee spread to the Arabian Peninsula, where it was first cultivated and traded. By the 15th century, coffee was being grown in the Yemeni district of Arabia. The word 'coffee' itself is derived from the Arabic word 'qahwah.'\n\nCoffeehouses began appearing in cities across the Near East during the 16th century. These establishments became important social gathering places where people would engage in conversation, listen to music, and watch performances. Coffee eventually made its way to Europe in the 17th century, where it quickly gained popularity despite initial resistance from some religious groups.",
+            "questionText": "What function did coffeehouses serve in the Near East?",
+            "options": [
+                "Religious ceremonies",
+                "Agricultural markets",
+                "Social gathering places",
+                "Government offices"
+            ],
+            "answerIndex": 2,
+            "explanation": "The passage describes coffeehouses as 'important social gathering places.'"
+        },
+        {
+            "id": "R003",
+            "sectionType": "reading",
+            "passageId": 1,
+            "readingPassageTitle": "The History of Coffee",
+            "readingPassage": "Coffee is one of the most popular beverages in the world today. Its origins can be traced back to Ethiopia, where legend has it that a goat herder named Kaldi discovered the coffee plant around 850 AD. Kaldi noticed that his goats became unusually energetic after eating berries from a certain tree.\n\nFrom Ethiopia, coffee spread to the Arabian Peninsula, where it was first cultivated and traded. By the 15th century, coffee was being grown in the Yemeni district of Arabia. The word 'coffee' itself is derived from the Arabic word 'qahwah.'\n\nCoffeehouses began appearing in cities across the Near East during the 16th century. These establishments became important social gathering places where people would engage in conversation, listen to music, and watch performances. Coffee eventually made its way to Europe in the 17th century, where it quickly gained popularity despite initial resistance from some religious groups.",
+            "questionText": "The word 'qahwah' is mentioned to show:",
+            "options": [
+                "The cost of coffee in ancient times",
+                "The origin of the English word 'coffee'",
+                "A type of coffee bean",
+                "An ancient coffee recipe"
+            ],
+            "answerIndex": 1,
+            "explanation": "The passage explains that 'The word coffee itself is derived from the Arabic word qahwah.'"
+        }
+    ]
+}
