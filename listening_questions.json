@@ -279,7 +279,287 @@
             ],
             "answerIndex": 2,
             "explanation": "The speaker states that the process 'allows the animal to conserve energy'."
-        }
+        },
+        {
+        "id": "L073",
+        "sectionType": "listening",
+        "audioFile": "audio_l073.mp3",
+        "questionText": "What does the woman imply?",
+        "options": [
+            "The library is closed",
+            "The library is very close",
+            "The man has a long way to walk",
+            "The stadium is behind the library"
+        ],
+        "answerIndex": 2,
+        "explanation": "The woman says 'You have quite a walk ahead of you' and mentions it is on the other side of campus, implying it is far."
+    },
+    {
+        "id": "L074",
+        "sectionType": "listening",
+        "audioFile": "audio_l074.mp3",
+        "questionText": "What does the man suggest the woman do?",
+        "options": [
+            "Cancel the presentation",
+            "Write the speech down",
+            "Practice speaking in front of a mirror",
+            "Look at herself in the mirror"
+        ],
+        "answerIndex": 2,
+        "explanation": "The man explicitly says 'run through it a few times in front of a mirror'."
+    },
+    {
+        "id": "L075",
+        "sectionType": "listening",
+        "audioFile": "audio_l075.mp3",
+        "questionText": "What will the woman probably do tonight?",
+        "options": [
+            "Go to the movies with the man",
+            "Eat at a restaurant",
+            "Work at the restaurant",
+            "Stay home and rest"
+        ],
+        "answerIndex": 2,
+        "explanation": "She says she has to 'cover a shift', which means she has to work."
+    },
+    {
+        "id": "L076",
+        "sectionType": "listening",
+        "audioFile": "audio_l076.mp3",
+        "questionText": "What does the man ask for?",
+        "options": [
+            "The shirt",
+            "The money",
+            "Proof of purchase",
+            "The credit card"
+        ],
+        "answerIndex": 2,
+        "explanation": "The man asks for the 'receipt', which is the proof of purchase required for returns."
+    },
+    {
+        "id": "L077",
+        "sectionType": "listening",
+        "audioFile": "audio_l077.mp3",
+        "questionText": "What does the woman mean?",
+        "options": [
+            "The interview was very difficult",
+            "The weather was windy",
+            "The interview was very easy",
+            "She didn't go to the interview"
+        ],
+        "answerIndex": 2,
+        "explanation": "The idiom 'It was a breeze' means something was very easy."
+    },
+    {
+        "id": "L078",
+        "sectionType": "listening",
+        "audioFile": "audio_l078.mp3",
+        "questionText": "What does the man imply?",
+        "options": [
+            "He wants a cup of tea",
+            "He likes the painting very much",
+            "He is thirsty",
+            "He does not like the painting"
+        ],
+        "answerIndex": 3,
+        "explanation": "The idiom 'not my cup of tea' means that someone does not like or is not interested in something."
+    },
+    {
+        "id": "L079",
+        "sectionType": "listening",
+        "audioFile": "audio_l079.mp3",
+        "questionText": "What does the woman mean?",
+        "options": [
+            "She wants the man to repeat himself",
+            "She strongly agrees with the man",
+            "She thinks the service is fast",
+            "She wants more coffee"
+        ],
+        "answerIndex": 1,
+        "explanation": "The expression 'You can say that again' is used to show strong agreement with what was just said."
+    },
+    {
+        "id": "L080",
+        "sectionType": "listening",
+        "audioFile": "audio_l080.mp3",
+        "questionText": "What does the man mean?",
+        "options": [
+            "The book is definitely on the shelf",
+            "He found the book immediately",
+            "The book might be lost or in the wrong place",
+            "He did not look for the book"
+        ],
+        "answerIndex": 2,
+        "explanation": "He says he looked but couldn't find it, suggesting it might be 'misplaced' (put in the wrong location)."
+    },
+    {
+        "id": "L081",
+        "sectionType": "listening",
+        "audioFile": "audio_l081.mp3",
+        "questionText": "What does the woman think is the problem?",
+        "options": [
+            "The car is out of gas",
+            "The battery is dead",
+            "The lights are broken",
+            "The key is broken"
+        ],
+        "answerIndex": 1,
+        "explanation": "She suggests he 'drained the battery' by leaving the lights on."
+    },
+    {
+        "id": "L082",
+        "sectionType": "listening",
+        "audioFile": "audio_l082.mp3",
+        "questionText": "What is the man's reaction?",
+        "options": [
+            "He wants the woman to leave town",
+            "He is angry",
+            "He is surprised and happy",
+            "He does not believe her"
+        ],
+        "answerIndex": 2,
+        "explanation": "The idiom 'Get out of town!' expresses shock or surprise, usually in a positive context here given the news."
+    },
+    {
+        "id": "L083",
+        "sectionType": "listening",
+        "audioFile": "audio_l083.mp3",
+        "questionText": "What does the woman imply?",
+        "options": [
+            "The man should run faster",
+            "It is a good time to jog",
+            "It is going to storm",
+            "She wants to go with him"
+        ],
+        "answerIndex": 2,
+        "explanation": "She mentions hearing 'thunder' and suggests waiting, implying bad weather (a storm) is approaching."
+    },
+    {
+        "id": "L084",
+        "sectionType": "listening",
+        "audioFile": "audio_l084.mp3",
+        "questionText": "What does the man mean?",
+        "options": [
+            "He finished the report early",
+            "He is on schedule",
+            "He has not done enough work yet",
+            "He needs more data"
+        ],
+        "answerIndex": 2,
+        "explanation": "Being 'behind schedule' means he has not completed as much work as he should have by this time."
+    },
+    {
+        "id": "L085",
+        "sectionType": "listening",
+        "audioFile": "audio_l085.mp3",
+        "questionText": "What is the woman probably going to do?",
+        "options": [
+            "Go for a run",
+            "Rest and hydrate",
+            "See a doctor immediately",
+            "Continue working"
+        ],
+        "answerIndex": 1,
+        "explanation": "She says she needs to 'sit down and drink some water', which means resting and hydrating."
+    },
+    {
+        "id": "L086",
+        "sectionType": "listening",
+        "audioFile": "audio_l086.mp3",
+        "questionText": "What does the man say about the haircut?",
+        "options": [
+            "It was very cheap",
+            "He doesn't like it",
+            "It was very expensive",
+            "The barber was unskilled"
+        ],
+        "answerIndex": 2,
+        "explanation": "The idiom 'cost a fortune' means it was very expensive."
+    },
+    {
+        "id": "L087",
+        "sectionType": "listening",
+        "audioFile": "audio_l087.mp3",
+        "questionText": "What will the woman do?",
+        "options": [
+            "Stay at home",
+            "Visit her sister in town",
+            "Travel abroad",
+            "Take summer classes"
+        ],
+        "answerIndex": 2,
+        "explanation": "She plans to 'backpack through Europe', which entails traveling abroad."
+    },
+    {
+        "id": "L088",
+        "sectionType": "listening",
+        "audioFile": "audio_l088.mp3",
+        "questionText": "What does the man mean?",
+        "options": [
+            "He understood the lecture perfectly",
+            "He was taller than the professor",
+            "He did not understand the lecture",
+            "He left the lecture early"
+        ],
+        "answerIndex": 2,
+        "explanation": "The idiom 'went right over my head' means the information was too difficult to understand."
+    },
+    {
+        "id": "L089",
+        "sectionType": "listening",
+        "audioFile": "audio_l089.mp3",
+        "questionText": "Why does the woman choose tea?",
+        "options": [
+            "She doesn't like the taste of coffee",
+            "Coffee makes her nervous or shaky",
+            "Tea is cheaper",
+            "She is allergic to coffee"
+        ],
+        "answerIndex": 1,
+        "explanation": "She says coffee makes her 'jittery' (nervous/shaking), which is why she avoids it."
+    },
+    {
+        "id": "L090",
+        "sectionType": "listening",
+        "audioFile": "audio_l090.mp3",
+        "questionText": "What does the man suggest?",
+        "options": [
+            "Buying the coat immediately",
+            "Asking for a discount now",
+            "Waiting for a better price",
+            "Buying a different coat"
+        ],
+        "answerIndex": 2,
+        "explanation": "He suggests waiting until next week for the 'big sale', which implies waiting for a better price."
+    },
+    {
+        "id": "L091",
+        "sectionType": "listening",
+        "audioFile": "audio_l091.mp3",
+        "questionText": "What does the woman suggest the man do?",
+        "options": [
+            "Call the police",
+            "Buy earplugs",
+            "Talk to his neighbor",
+            "Move to a new house"
+        ],
+        "answerIndex": 2,
+        "explanation": "She suggests: 'go over there and politely ask him', which means talking to the neighbor directly."
+    },
+    {
+        "id": "L092",
+        "sectionType": "listening",
+        "audioFile": "audio_l092.mp3",
+        "questionText": "What does the man mean?",
+        "options": [
+            "He is happy to help",
+            "He is going swimming",
+            "He is too busy to help",
+            "He doesn't want to help"
+        ],
+        "answerIndex": 2,
+        "explanation": "The idiom 'swamped with work' means he is overwhelmed with work and therefore too busy."
+    }
     ],
     "long_sets": [
         {
