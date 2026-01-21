@@ -2469,6 +2469,527 @@
             ],
             "answerIndex": 0,
             "explanation": "Preposition. 'Like' (seperti) digunakan untuk perbandingan noun."
-        }
+        },
+        {
+        "id": "S191",
+        "sectionType": "structure",
+        "questionText": "The North Platte River ______ from Wyoming into Nebraska.",
+        "options": [
+            "it flowed",
+            "flows",
+            "flowing",
+            "with flowing"
+        ],
+        "answerIndex": 1,
+        "explanation": "Missing Verb. Kalimat ini membutuhkan kata kerja utama (verb) untuk subjek 'The North Platte River'. 'Flows' adalah verb yang tepat."
+    },
+    {
+        "id": "S192",
+        "sectionType": "structure",
+        "questionText": "______ Biloxi received its name from a Sioux word meaning 'first people'.",
+        "options": [
+            "The city of",
+            "Located in",
+            "It is in",
+            "The tour included"
+        ],
+        "answerIndex": 0,
+        "explanation": "Missing Subject. Kalimat ini sudah memiliki verb 'received', sehingga membutuhkan subjek di awal kalimat. 'The city of' berfungsi sebagai subjek."
+    },
+    {
+        "id": "S193",
+        "sectionType": "structure",
+        "questionText": "A pride of lions ______ up to forty lions, including one to three males, several females, and cubs.",
+        "options": [
+            "can contain",
+            "it contains",
+            "contain",
+            "containing"
+        ],
+        "answerIndex": 0,
+        "explanation": "Missing Verb. Subjek 'A pride' (singular) membutuhkan verb. 'Can contain' adalah verb phrase yang benar."
+    },
+    {
+        "id": "S194",
+        "sectionType": "structure",
+        "questionText": "_______ tea plant are small and white.",
+        "options": [
+            "The",
+            "On the",
+            "Having flowers the",
+            "The flowers of the"
+        ],
+        "answerIndex": 3,
+        "explanation": "Missing Subject. Verb-nya adalah 'are' (plural), jadi kita butuh subjek plural. 'The flowers of the' menyediakan subjek 'flowers' yang sesuai."
+    },
+    {
+        "id": "S195",
+        "sectionType": "structure",
+        "questionText": "The tetracyclines, _______ antibiotics, are used to treat infections.",
+        "options": [
+            "are a family of",
+            "being a family",
+            "a family of",
+            "their family is"
+        ],
+        "answerIndex": 2,
+        "explanation": "Appositive. Frasa di antara koma menjelaskan subjek 'The tetracyclines'. Dibutuhkan noun phrase (appositive), bukan verb utuh."
+    },
+    {
+        "id": "S196",
+        "sectionType": "structure",
+        "questionText": "Any possible solution to the Irish question not only _______ on the good will of the British but also on the patience of the Irish.",
+        "options": [
+            "to depend",
+            "depending",
+            "depends",
+            "is depended"
+        ],
+        "answerIndex": 2,
+        "explanation": "Subject-Verb Agreement. Subjek 'Any possible solution' (singular) memerlukan verb singular. 'Depends' adalah pilihan yang tepat."
+    },
+    {
+        "id": "S197",
+        "sectionType": "structure",
+        "questionText": "The stronger the magnet, _______.",
+        "options": [
+            "the greater the magnetic field",
+            "the magnetic field is greater",
+            "greater is the magnetic field",
+            "the magnetic field greater"
+        ],
+        "answerIndex": 0,
+        "explanation": "Double Comparative. Pola 'The + comparative ..., the + comparative ...'. Jawaban yang mengikuti pola ini adalah 'the greater the magnetic field'."
+    },
+    {
+        "id": "S198",
+        "sectionType": "structure",
+        "questionText": "Scientists are now beginning to conduct experiments on ______ trigger different sorts of health risks.",
+        "options": [
+            "noise pollution can",
+            "that noise pollution",
+            "how noise pollution",
+            "how noise pollution can"
+        ],
+        "answerIndex": 3,
+        "explanation": "Noun Clause. Setelah preposisi 'on', dibutuhkan noun clause. 'How noise pollution can' membentuk noun clause yang benar sebagai objek preposisi."
+    },
+    {
+        "id": "S199",
+        "sectionType": "structure",
+        "questionText": "The knee is the joint ______ the thigh bone meets the large bone of the lower leg.",
+        "options": [
+            "when",
+            "where",
+            "why",
+            "which"
+        ],
+        "answerIndex": 1,
+        "explanation": "Adjective Clause Connector. Mengacu pada tempat (the joint), konektor yang tepat adalah 'where'."
+    },
+    {
+        "id": "S200",
+        "sectionType": "structure",
+        "questionText": "Burning coal and oil releases poisonous gases into the air, _______ the earth's atmosphere.",
+        "options": [
+            "to pollute",
+            "polluted",
+            "pollute",
+            "polluting"
+        ],
+        "answerIndex": 3,
+        "explanation": "Present Participle Phrase. Digunakan untuk menunjukkan hasil atau aksi bersamaan dari klausa utama. 'Polluting' menjelaskan efek dari 'releases poisonous gases'."
+    },
+    {
+        "id": "S201",
+        "sectionType": "structure",
+        "questionText": "_______ several years for bamboo seeds to grow into plants that can be used for commercial purposes.",
+        "options": [
+            "To be taken",
+            "It takes",
+            "By taking",
+            "Although taking"
+        ],
+        "answerIndex": 1,
+        "explanation": "It takes expression. Pola umum untuk menyatakan durasi waktu adalah 'It takes + time + to verb'."
+    },
+    {
+        "id": "S202",
+        "sectionType": "structure",
+        "questionText": "Arthur Miller’s play Death of a Salesman is the tragic story of a man destroyed by his own hollow values and _______ .",
+        "options": [
+            "the useless dreams",
+            "useless dreams",
+            "to have useless dreams",
+            "by useless dreams"
+        ],
+        "answerIndex": 1,
+        "explanation": "Parallel Structure. 'hollow values' adalah noun phrase, jadi pasangannya setelah 'and' juga harus noun phrase tanpa preposisi tambahan."
+    },
+    {
+        "id": "S203",
+        "sectionType": "structure",
+        "questionText": "During the 19th century, heat was considered _______ a substance called caloric.",
+        "options": [
+            "to be",
+            "being",
+            "which is",
+            "as being"
+        ],
+        "answerIndex": 0,
+        "explanation": "Verb Pattern. Kata kerja 'considered' sering diikuti oleh to infinitive 'to be' (considered to be)."
+    },
+    {
+        "id": "S204",
+        "sectionType": "structure",
+        "questionText": "Not only _______ generate energy, but it also produces fuel for other fission reactors.",
+        "options": [
+            "a nuclear breeder reactor",
+            "it is a nuclear breeder reactor",
+            "does a nuclear breeder reactor",
+            "is a nuclear breeder reactor"
+        ],
+        "answerIndex": 2,
+        "explanation": "Inversion. Kalimat dimulai dengan 'Not only', sehingga memerlukan inversi (Auxiliary + Subject + Verb). 'does a nuclear breeder reactor' adalah bentuk yang benar."
+    },
+    {
+        "id": "S205",
+        "sectionType": "structure",
+        "questionText": "D.W. Griffith pioneered many of the stylistic features and filmmaking techniques _______ as the Hollywood standard.",
+        "options": [
+            "that established",
+            "that became established",
+            "what established",
+            "which became established"
+        ],
+        "answerIndex": 1,
+        "explanation": "Adjective Clause. 'That became established' menjelaskan 'techniques'. Pilihan 'what' tidak bisa digunakan sebagai adjective clause connector untuk noun."
+    },
+    {
+        "id": "S206",
+        "sectionType": "structure",
+        "questionText": "_______ be needed, the water basin would need to be dammed.",
+        "options": [
+            "Hydroelectric power should",
+            "When hydroelectric power",
+            "Should hydroelectric power",
+            "Hydroelectric power"
+        ],
+        "answerIndex": 2,
+        "explanation": "Conditionals (Inversion). Ini adalah bentuk inversi dari 'If hydroelectric power should be needed'. 'If' dihilangkan dan 'Should' dipindah ke depan."
+    },
+    {
+        "id": "S207",
+        "sectionType": "structure",
+        "questionText": "_______ in the atmosphere is the temperature falling below freezing.",
+        "options": [
+            "Frost is produced",
+            "Frost produces",
+            "What produces frost",
+            "What is produced"
+        ],
+        "answerIndex": 2,
+        "explanation": "Noun Clause as Subject. Kalimat ini membutuhkan subjek. 'What produces frost' berfungsi sebagai subjek klausa (Noun Clause)."
+    },
+    {
+        "id": "S208",
+        "sectionType": "structure",
+        "questionText": "Mallard ducks are known _______ and to build their nests near water.",
+        "options": [
+            "to fly",
+            "they fly",
+            "flying",
+            "flown"
+        ],
+        "answerIndex": 0,
+        "explanation": "Parallel Structure / Verb Pattern. 'Are known' diikuti to infinitive ('to fly'), yang juga paralel dengan 'to build' setelah 'and'."
+    },
+    {
+        "id": "S209",
+        "sectionType": "structure",
+        "questionText": "The discovery of the halftone process in 1881 made it _______ for photographs to be reproduced in books and newspapers.",
+        "options": [
+            "the possible",
+            "possible",
+            "possibility",
+            "possibly"
+        ],
+        "answerIndex": 1,
+        "explanation": "Adjective usage. Pola 'made it + adjective + for someone/something'. Adjective 'possible' adalah kata yang tepat."
+    },
+    {
+        "id": "S210",
+        "sectionType": "structure",
+        "questionText": "Only in the last few years ______ to use home computers.",
+        "options": [
+            "people have begun",
+            "when people began",
+            "have people begun",
+            "beginning people"
+        ],
+        "answerIndex": 2,
+        "explanation": "Inversion. Kalimat dimulai dengan 'Only in...', expression of place/time yang membatasi, sehingga memerlukan inversi (Aux + S + V)."
+    },
+        {
+        "id": "S211",
+        "sectionType": "structure",
+        "questionText": "Not until the discovery of fire _______ to cook food.",
+        "options": [
+            "people learned",
+            "people learn",
+            "did people learn",
+            "learned people"
+        ],
+        "answerIndex": 2,
+        "explanation": "Inversion. Kalimat dimulai dengan frasa negatif 'Not until', sehingga memerlukan inversi (Auxiliary + Subject + Verb). 'did people learn' adalah bentuk yang benar."
+    },
+    {
+        "id": "S212",
+        "sectionType": "structure",
+        "questionText": "The director of the program advised the students _______ on time.",
+        "options": [
+            "to be",
+            "be",
+            "being",
+            "are"
+        ],
+        "answerIndex": 0,
+        "explanation": "Infinitive. Kata kerja 'advise' diikuti oleh object + to infinitive. Polanya adalah 'advise someone to do something'."
+    },
+    {
+        "id": "S213",
+        "sectionType": "structure",
+        "questionText": "_______ business managers plan the tasks that their employees are to carry out.",
+        "options": [
+            "It is the",
+            "They are",
+            "The",
+            "__"
+        ],
+        "answerIndex": 3,
+        "explanation": "Zero Article/Generalization. 'Business managers' di sini merujuk pada manajer secara umum (plural noun), jadi tidak membutuhkan artikel 'The' atau subjek tambahan 'It is/They are' karena kalimat sudah memiliki struktur yang lengkap."
+    },
+    {
+        "id": "S214",
+        "sectionType": "structure",
+        "questionText": "The giant panda resembles the bear, _______ that it creates a distinct family of its own.",
+        "options": [
+            "but many zoologists believe",
+            "many zoologists believe it",
+            "belief of many zoologists",
+            "many zoologists’ belief"
+        ],
+        "answerIndex": 0,
+        "explanation": "Compound Sentence. Dibutuhkan konjungsi (but) dan klausa lengkap (subject + verb) untuk menghubungkan dua ide yang bertentangan."
+    },
+    {
+        "id": "S215",
+        "sectionType": "structure",
+        "questionText": "_______ of the loud noise, the students could not concentrate on their exam.",
+        "options": [
+            "Because",
+            "Since",
+            "Because it was",
+            "Because of"
+        ],
+        "answerIndex": 3,
+        "explanation": "Preposition. 'The loud noise' adalah noun phrase, bukan klausa. Oleh karena itu, kita membutuhkan preposisi 'Because of', bukan konjungsi 'Because'."
+    },
+    {
+        "id": "S216",
+        "sectionType": "structure",
+        "questionText": "To generate income, magazine publishers must decide whether to increase the subscription price or _______.",
+        "options": [
+            "to sell advertising",
+            "selling advertising",
+            "should sell advertising",
+            "sold advertising"
+        ],
+        "answerIndex": 0,
+        "explanation": "Parallel Structure. Setelah 'whether', ada 'to increase' (to infinitive). Maka setelah 'or', bentuknya juga harus 'to sell' (to infinitive)."
+    },
+    {
+        "id": "S217",
+        "sectionType": "structure",
+        "questionText": "The Great Barrier Reef is _______ in the world.",
+        "options": [
+            "the larger coral reef",
+            "the largest coral reef",
+            "larger than coral reef",
+            "largest coral reef"
+        ],
+        "answerIndex": 1,
+        "explanation": "Superlative. Untuk menyatakan 'paling' di dunia, gunakan 'the + superlative adjective'. 'The largest' adalah bentuk yang tepat."
+    },
+    {
+        "id": "S218",
+        "sectionType": "structure",
+        "questionText": "_______ a bridge involves a complex balance of materials, physics, and design.",
+        "options": [
+            "Building",
+            "Builds",
+            "Build",
+            "Built"
+        ],
+        "answerIndex": 0,
+        "explanation": "Gerund as Subject. Subjek kalimat ini adalah sebuah aktivitas, jadi menggunakan Gerund (V-ing) 'Building' adalah yang paling tepat."
+    },
+    {
+        "id": "S219",
+        "sectionType": "structure",
+        "questionText": "If the oxygen supply in the atmosphere _______ plentiful, life as we know it would not exist.",
+        "options": [
+            "were not",
+            "was not",
+            "is not",
+            "had not been"
+        ],
+        "answerIndex": 0,
+        "explanation": "Conditional Sentence Type 2. Untuk pengandaian fakta saat ini (unreal present), 'be' selalu menjadi 'were' untuk semua subjek."
+    },
+    {
+        "id": "S220",
+        "sectionType": "structure",
+        "questionText": "Lasers are indispensable tools in medicine, _______ for delicate eye surgeries.",
+        "options": [
+            "they are used",
+            "used",
+            "are used",
+            "using"
+        ],
+        "answerIndex": 1,
+        "explanation": "Reduced Adjective Clause (Past Participle). Kalimat aslinya adalah 'which are used'. Dalam bentuk reduced, 'which are' dihilangkan, menyisakan 'used'."
+    },
+    {
+        "id": "S221",
+        "sectionType": "structure",
+        "questionText": "Alexander Graham Bell meant _______ a hearing aid but invented the telephone instead.",
+        "options": [
+            "inventing",
+            "invent",
+            "to invent",
+            "for invention"
+        ],
+        "answerIndex": 2,
+        "explanation": "Verb Pattern. Kata kerja 'mean' (bermaksud) diikuti oleh to infinitive. 'Meant to invent'."
+    },
+    {
+        "id": "S222",
+        "sectionType": "structure",
+        "questionText": "_______ is indispensable to the functioning of the ecosystem.",
+        "options": [
+            "Water",
+            "The water",
+            "A water",
+            "Waters"
+        ],
+        "answerIndex": 0,
+        "explanation": "Uncountable Noun. 'Water' sebagai zat umum (generalization) tidak memerlukan artikel 'the' atau 'a', dan tidak berbentuk jamak."
+    },
+    {
+        "id": "S223",
+        "sectionType": "structure",
+        "questionText": "The harder you study, _______ you will likely perform on the test.",
+        "options": [
+            "the better",
+            "better",
+            "the best",
+            "best"
+        ],
+        "answerIndex": 0,
+        "explanation": "Double Comparative. Pola 'The + comparative, the + comparative'. Pasangan 'The harder' adalah 'the better'."
+    },
+    {
+        "id": "S224",
+        "sectionType": "structure",
+        "questionText": "_______ native to North America, the tomato is now cultivated worldwide.",
+        "options": [
+            "Although",
+            "Despite",
+            "In spite of",
+            "However"
+        ],
+        "answerIndex": 0,
+        "explanation": "Reduced Clause Connector. 'Although (it is) native...'. 'Although' adalah conjunction yang tepat untuk diikuti adjektiva/klausa tereduksi. 'Despite' harus diikuti noun phrase."
+    },
+    {
+        "id": "S225",
+        "sectionType": "structure",
+        "questionText": "The committee suggested that the regulations _______ immediately.",
+        "options": [
+            "enforced",
+            "be enforced",
+            "to be enforced",
+            "enforcing"
+        ],
+        "answerIndex": 1,
+        "explanation": "Subjunctive. Verb seperti 'suggest' diikuti 'that' clause menggunakan verb dasar (bare infinitive). Bentuk pasifnya adalah 'be + V3' (be enforced)."
+    },
+    {
+        "id": "S226",
+        "sectionType": "structure",
+        "questionText": "Rarely _______ such a spectacular sunset as the one we saw yesterday.",
+        "options": [
+            "we see",
+            "do we see",
+            "we do see",
+            "did we see"
+        ],
+        "answerIndex": 3,
+        "explanation": "Inversion. Kata negatif 'Rarely' di awal kalimat memicu inversi. Karena kejadiannya lampau (saw yesterday), gunakan 'did we see'."
+    },
+    {
+        "id": "S227",
+        "sectionType": "structure",
+        "questionText": "The Statue of Liberty was a gift of friendship _______ the people of France to the people of the United States.",
+        "options": [
+            "from",
+            "by",
+            "in",
+            "of"
+        ],
+        "answerIndex": 0,
+        "explanation": "Preposition. Pasangan yang tepat untuk menunjukkan asal pemberian adalah 'from ... to ...'."
+    },
+    {
+        "id": "S228",
+        "sectionType": "structure",
+        "questionText": "_______ primarily a plant-eater, the grizzly bear also eats flesh.",
+        "options": [
+            "It is",
+            "Although",
+            "There is",
+            "That"
+        ],
+        "answerIndex": 1,
+        "explanation": "Conjunction/Reduced Clause. Dibutuhkan kata hubung pertentangan untuk menghubungkan 'plant-eater' dan 'eats flesh'. 'Although (it is)...' adalah pilihan tepat."
+    },
+    {
+        "id": "S229",
+        "sectionType": "structure",
+        "questionText": "Only after the invention of the microscope _______ capable of understanding the structure of cells.",
+        "options": [
+            "scientists became",
+            "did scientists become",
+            "were scientists become",
+            "scientists did become"
+        ],
+        "answerIndex": 1,
+        "explanation": "Inversion. Frasa 'Only after...' di awal kalimat memicu inversi (Aux + S + V). 'did scientists become' adalah struktur yang benar."
+    },
+    {
+        "id": "S230",
+        "sectionType": "structure",
+        "questionText": "It is generally believed that an MBA degree _______ a good stepping stone for a career in management.",
+        "options": [
+            "is",
+            "as",
+            "to be",
+            "being"
+        ],
+        "answerIndex": 0,
+        "explanation": "Subject-Verb. Klausa 'that an MBA degree...' membutuhkan verb utama. Subjeknya 'an MBA degree' (singular), maka verb-nya 'is'."
+    }
     ]
+
 }
