@@ -12,7 +12,7 @@
                 "The chemistry paper is difficult"
             ],
             "answerIndex": 2,
-            "explanation": "The woman says 'the deadline isn't until next month', implying there is no need to hurry."
+            "explanation": "Wanita itu menyatakan bahwa batas waktu masih bulan depan ('the deadline isn't until next month'), sehingga tidak perlu terburu-buru."
         },
         {
             "id": "L002",
@@ -26,7 +26,7 @@
                 "Wait for the book to be returned"
             ],
             "answerIndex": 2,
-            "explanation": "The man suggests checking with the librarian at the reserve desk."
+            "explanation": "Pria itu menyarankan untuk bertanya kepada pustakawan di meja reservasi."
         },
         {
             "id": "L003",
@@ -40,7 +40,7 @@
                 "She didn't check the forecast"
             ],
             "answerIndex": 1,
-            "explanation": "The woman says it will 'clear up by noon', meaning the weather will get better."
+            "explanation": "Wanita itu berkata 'clear up by noon', yang berarti cuaca akan membaik."
         },
         {
             "id": "L004",
@@ -54,7 +54,7 @@
                 "She doesn't like soup"
             ],
             "answerIndex": 2,
-            "explanation": "The woman explicitly states 'This soup is freezing cold'."
+            "explanation": "Wanita itu secara eksplisit menyatakan 'This soup is freezing cold'."
         },
         {
             "id": "L005",
@@ -68,7 +68,7 @@
                 "Different types of organisms"
             ],
             "answerIndex": 1,
-            "explanation": "The professor starts by saying 'Today we are going to discuss photosynthesis'."
+            "explanation": "Profesor memulai dengan mengatakan 'Today we are going to discuss photosynthesis'."
         },
         {
             "id": "L006",
@@ -82,7 +82,7 @@
                 "The location"
             ],
             "answerIndex": 3,
-            "explanation": "The speaker says the orientation 'has been moved to the gymnasium', which indicates a change in location."
+            "explanation": "Lokasi orientasi berubah karena telah dipindahkan ke gedung olahraga ('has been moved to the gymnasium')."
         },
         {
             "id": "L007",
@@ -96,7 +96,7 @@
                 "Report the ID stolen"
             ],
             "answerIndex": 1,
-            "explanation": "The woman suggests checking the 'Lost and Found section', implying he should go back to look for it."
+            "explanation": "Wanita itu menyarankan untuk memeriksa 'Lost and Found section', yang mengisyaratkan dia harus kembali untuk mencarinya."
         },
         {
             "id": "L008",
@@ -110,7 +110,7 @@
                 "He does not know where the office is"
             ],
             "answerIndex": 1,
-            "explanation": "Since office hours start at 2:00, the implication is that she must wait until then to see him."
+            "explanation": "Karena jam kantor dimulai pukul 2:00, implikasinya adalah dia harus menunggu sampai waktu tersebut untuk bertemu dengannya."
         },
         {
             "id": "L009",
@@ -124,7 +124,7 @@
                 "Sleep during the day"
             ],
             "answerIndex": 2,
-            "explanation": "She explicitly suggests 'talking to him' or 'buying some earplugs'."
+            "explanation": "Dia secara eksplisit menyarankan 'talking to him' atau 'buying some earplugs'."
         },
         {
             "id": "L010",
@@ -138,7 +138,7 @@
                 "Her friend is taking it"
             ],
             "answerIndex": 2,
-            "explanation": "She says, 'I don't mind writing if the content is interesting.'"
+            "explanation": "Dia berkata, 'I don't mind writing if the content is interesting.'"
         },
         {
             "id": "L011",
@@ -152,7 +152,7 @@
                 "Ice caps found by the rover"
             ],
             "answerIndex": 2,
-            "explanation": "The professor mentions 'geological evidence, such as dried-up riverbeds'."
+            "explanation": "Profesor menyebutkan 'geological evidence, such as dried-up riverbeds'."
         },
         {
             "id": "L012",
@@ -166,7 +166,7 @@
                 "The circulation desk"
             ],
             "answerIndex": 1,
-            "explanation": "The guide states: 'Group study rooms are available on the second floor'."
+            "explanation": "Pemandu menyatakan: 'Group study rooms are available on the second floor'."
         },
         {
             "id": "L013",
@@ -180,7 +180,7 @@
                 "Indifferent about being late"
             ],
             "answerIndex": 1,
-            "explanation": "He says 'We should have just taken the subway', expressing regret over their choice of transport."
+            "explanation": "Pria tersebut merasa menyesal memilih bus daripada kereta bawah tanah: 'We should have just taken the subway'."
         },
         {
             "id": "L014",
@@ -194,7 +194,7 @@
                 "A decrease in migration"
             ],
             "answerIndex": 2,
-            "explanation": "The speaker mentions it 'led to the rapid growth of cities like San Francisco'."
+            "explanation": "Pembicara menyebutkan 'led to the rapid growth of cities like San Francisco'."
         },
         {
             "id": "L015",
@@ -208,7 +208,7 @@
                 "It is located off-campus"
             ],
             "answerIndex": 1,
-            "explanation": "The woman mentions 'the student store offers a discount if you show your ID'."
+            "explanation": "Wanita itu menyebutkan 'the student store offers a discount if you show your ID', yang menjelaskan keuntungan berupa potongan harga bagi pelajar."
         },
         {
             "id": "L016",
@@ -222,7 +222,7 @@
                 "He studied too hard"
             ],
             "answerIndex": 1,
-            "explanation": "The man says, 'I think I caught that flu going around'."
+            "explanation": "Pria itu berkata, 'I think I caught that flu going around'."
         },
         {
             "id": "L017",
@@ -236,7 +236,7 @@
                 "Skipping lunch today"
             ],
             "answerIndex": 2,
-            "explanation": "The woman mentions a 'new sandwich shop across the street' and suggests it is good."
+            "explanation": "Wanita itu menyebutkan 'new sandwich shop across the street' sebagai saran tempat makan siang baru yang berkualitas baik."
         },
         {
             "id": "L018",
@@ -250,7 +250,7 @@
                 "Practice with him"
             ],
             "answerIndex": 1,
-            "explanation": "The man explicitly asks, 'Why don't you try practicing in front of a mirror?'"
+            "explanation": "Pria itu secara eksplisit bertanya, 'Why don't you try practicing in front of a mirror?'"
         },
         {
             "id": "L019",
@@ -264,7 +264,7 @@
                 "Ask someone else to mail it"
             ],
             "answerIndex": 1,
-            "explanation": "She explains that the post office can handle it without stamps, implying he should go there."
+            "explanation": "Dia menjelaskan bahwa kantor pos bisa menanganinya tanpa perangko, yang mengisyaratkan dia harus pergi ke sana."
         },
         {
             "id": "L020",
@@ -278,288 +278,288 @@
                 "To increase their body temperature"
             ],
             "answerIndex": 2,
-            "explanation": "The speaker states that the process 'allows the animal to conserve energy'."
+            "explanation": "Pembicara menyatakan bahwa proses ini 'allows the animal to conserve energy'."
         },
         {
-        "id": "L073",
-        "sectionType": "listening",
-        "audioFile": "audio_l073.mp3",
-        "questionText": "What does the woman imply?",
-        "options": [
-            "The library is closed",
-            "The library is very close",
-            "The man has a long way to walk",
-            "The stadium is behind the library"
-        ],
-        "answerIndex": 2,
-        "explanation": "The woman says 'You have quite a walk ahead of you' and mentions it is on the other side of campus, implying it is far."
-    },
-    {
-        "id": "L074",
-        "sectionType": "listening",
-        "audioFile": "audio_l074.mp3",
-        "questionText": "What does the man suggest the woman do?",
-        "options": [
-            "Cancel the presentation",
-            "Write the speech down",
-            "Practice speaking in front of a mirror",
-            "Look at herself in the mirror"
-        ],
-        "answerIndex": 2,
-        "explanation": "The man explicitly says 'run through it a few times in front of a mirror'."
-    },
-    {
-        "id": "L075",
-        "sectionType": "listening",
-        "audioFile": "audio_l075.mp3",
-        "questionText": "What will the woman probably do tonight?",
-        "options": [
-            "Go to the movies with the man",
-            "Eat at a restaurant",
-            "Work at the restaurant",
-            "Stay home and rest"
-        ],
-        "answerIndex": 2,
-        "explanation": "She says she has to 'cover a shift', which means she has to work."
-    },
-    {
-        "id": "L076",
-        "sectionType": "listening",
-        "audioFile": "audio_l076.mp3",
-        "questionText": "What does the man ask for?",
-        "options": [
-            "The shirt",
-            "The money",
-            "Proof of purchase",
-            "The credit card"
-        ],
-        "answerIndex": 2,
-        "explanation": "The man asks for the 'receipt', which is the proof of purchase required for returns."
-    },
-    {
-        "id": "L077",
-        "sectionType": "listening",
-        "audioFile": "audio_l077.mp3",
-        "questionText": "What does the woman mean?",
-        "options": [
-            "The interview was very difficult",
-            "The weather was windy",
-            "The interview was very easy",
-            "She didn't go to the interview"
-        ],
-        "answerIndex": 2,
-        "explanation": "The idiom 'It was a breeze' means something was very easy."
-    },
-    {
-        "id": "L078",
-        "sectionType": "listening",
-        "audioFile": "audio_l078.mp3",
-        "questionText": "What does the man imply?",
-        "options": [
-            "He wants a cup of tea",
-            "He likes the painting very much",
-            "He is thirsty",
-            "He does not like the painting"
-        ],
-        "answerIndex": 3,
-        "explanation": "The idiom 'not my cup of tea' means that someone does not like or is not interested in something."
-    },
-    {
-        "id": "L079",
-        "sectionType": "listening",
-        "audioFile": "audio_l079.mp3",
-        "questionText": "What does the woman mean?",
-        "options": [
-            "She wants the man to repeat himself",
-            "She strongly agrees with the man",
-            "She thinks the service is fast",
-            "She wants more coffee"
-        ],
-        "answerIndex": 1,
-        "explanation": "The expression 'You can say that again' is used to show strong agreement with what was just said."
-    },
-    {
-        "id": "L080",
-        "sectionType": "listening",
-        "audioFile": "audio_l080.mp3",
-        "questionText": "What does the man mean?",
-        "options": [
-            "The book is definitely on the shelf",
-            "He found the book immediately",
-            "The book might be lost or in the wrong place",
-            "He did not look for the book"
-        ],
-        "answerIndex": 2,
-        "explanation": "He says he looked but couldn't find it, suggesting it might be 'misplaced' (put in the wrong location)."
-    },
-    {
-        "id": "L081",
-        "sectionType": "listening",
-        "audioFile": "audio_l081.mp3",
-        "questionText": "What does the woman think is the problem?",
-        "options": [
-            "The car is out of gas",
-            "The battery is dead",
-            "The lights are broken",
-            "The key is broken"
-        ],
-        "answerIndex": 1,
-        "explanation": "She suggests he 'drained the battery' by leaving the lights on."
-    },
-    {
-        "id": "L082",
-        "sectionType": "listening",
-        "audioFile": "audio_l082.mp3",
-        "questionText": "What is the man's reaction?",
-        "options": [
-            "He wants the woman to leave town",
-            "He is angry",
-            "He is surprised and happy",
-            "He does not believe her"
-        ],
-        "answerIndex": 2,
-        "explanation": "The idiom 'Get out of town!' expresses shock or surprise, usually in a positive context here given the news."
-    },
-    {
-        "id": "L083",
-        "sectionType": "listening",
-        "audioFile": "audio_l083.mp3",
-        "questionText": "What does the woman imply?",
-        "options": [
-            "The man should run faster",
-            "It is a good time to jog",
-            "It is going to storm",
-            "She wants to go with him"
-        ],
-        "answerIndex": 2,
-        "explanation": "She mentions hearing 'thunder' and suggests waiting, implying bad weather (a storm) is approaching."
-    },
-    {
-        "id": "L084",
-        "sectionType": "listening",
-        "audioFile": "audio_l084.mp3",
-        "questionText": "What does the man mean?",
-        "options": [
-            "He finished the report early",
-            "He is on schedule",
-            "He has not done enough work yet",
-            "He needs more data"
-        ],
-        "answerIndex": 2,
-        "explanation": "Being 'behind schedule' means he has not completed as much work as he should have by this time."
-    },
-    {
-        "id": "L085",
-        "sectionType": "listening",
-        "audioFile": "audio_l085.mp3",
-        "questionText": "What is the woman probably going to do?",
-        "options": [
-            "Go for a run",
-            "Rest and hydrate",
-            "See a doctor immediately",
-            "Continue working"
-        ],
-        "answerIndex": 1,
-        "explanation": "She says she needs to 'sit down and drink some water', which means resting and hydrating."
-    },
-    {
-        "id": "L086",
-        "sectionType": "listening",
-        "audioFile": "audio_l086.mp3",
-        "questionText": "What does the man say about the haircut?",
-        "options": [
-            "It was very cheap",
-            "He doesn't like it",
-            "It was very expensive",
-            "The barber was unskilled"
-        ],
-        "answerIndex": 2,
-        "explanation": "The idiom 'cost a fortune' means it was very expensive."
-    },
-    {
-        "id": "L087",
-        "sectionType": "listening",
-        "audioFile": "audio_l087.mp3",
-        "questionText": "What will the woman do?",
-        "options": [
-            "Stay at home",
-            "Visit her sister in town",
-            "Travel abroad",
-            "Take summer classes"
-        ],
-        "answerIndex": 2,
-        "explanation": "She plans to 'backpack through Europe', which entails traveling abroad."
-    },
-    {
-        "id": "L088",
-        "sectionType": "listening",
-        "audioFile": "audio_l088.mp3",
-        "questionText": "What does the man mean?",
-        "options": [
-            "He understood the lecture perfectly",
-            "He was taller than the professor",
-            "He did not understand the lecture",
-            "He left the lecture early"
-        ],
-        "answerIndex": 2,
-        "explanation": "The idiom 'went right over my head' means the information was too difficult to understand."
-    },
-    {
-        "id": "L089",
-        "sectionType": "listening",
-        "audioFile": "audio_l089.mp3",
-        "questionText": "Why does the woman choose tea?",
-        "options": [
-            "She doesn't like the taste of coffee",
-            "Coffee makes her nervous or shaky",
-            "Tea is cheaper",
-            "She is allergic to coffee"
-        ],
-        "answerIndex": 1,
-        "explanation": "She says coffee makes her 'jittery' (nervous/shaking), which is why she avoids it."
-    },
-    {
-        "id": "L090",
-        "sectionType": "listening",
-        "audioFile": "audio_l090.mp3",
-        "questionText": "What does the man suggest?",
-        "options": [
-            "Buying the coat immediately",
-            "Asking for a discount now",
-            "Waiting for a better price",
-            "Buying a different coat"
-        ],
-        "answerIndex": 2,
-        "explanation": "He suggests waiting until next week for the 'big sale', which implies waiting for a better price."
-    },
-    {
-        "id": "L091",
-        "sectionType": "listening",
-        "audioFile": "audio_l091.mp3",
-        "questionText": "What does the woman suggest the man do?",
-        "options": [
-            "Call the police",
-            "Buy earplugs",
-            "Talk to his neighbor",
-            "Move to a new house"
-        ],
-        "answerIndex": 2,
-        "explanation": "She suggests: 'go over there and politely ask him', which means talking to the neighbor directly."
-    },
-    {
-        "id": "L092",
-        "sectionType": "listening",
-        "audioFile": "audio_l092.mp3",
-        "questionText": "What does the man mean?",
-        "options": [
-            "He is happy to help",
-            "He is going swimming",
-            "He is too busy to help",
-            "He doesn't want to help"
-        ],
-        "answerIndex": 2,
-        "explanation": "The idiom 'swamped with work' means he is overwhelmed with work and therefore too busy."
-    }
+            "id": "L073",
+            "sectionType": "listening",
+            "audioFile": "audio_l073.mp3",
+            "questionText": "What does the woman imply?",
+            "options": [
+                "The library is closed",
+                "The library is very close",
+                "The man has a long way to walk",
+                "The stadium is behind the library"
+            ],
+            "answerIndex": 2,
+            "explanation": "Wanita itu berkata 'You have quite a walk ahead of you' dan menyebutkan lokasinya di sisi lain kampus, yang mengisyaratkan jaraknya jauh."
+        },
+        {
+            "id": "L074",
+            "sectionType": "listening",
+            "audioFile": "audio_l074.mp3",
+            "questionText": "What does the man suggest the woman do?",
+            "options": [
+                "Cancel the presentation",
+                "Write the speech down",
+                "Practice speaking in front of a mirror",
+                "Look at herself in the mirror"
+            ],
+            "answerIndex": 2,
+            "explanation": "Pria itu secara eksplisit berkata 'run through it a few times in front of a mirror'."
+        },
+        {
+            "id": "L075",
+            "sectionType": "listening",
+            "audioFile": "audio_l075.mp3",
+            "questionText": "What will the woman probably do tonight?",
+            "options": [
+                "Go to the movies with the man",
+                "Eat at a restaurant",
+                "Work at the restaurant",
+                "Stay home and rest"
+            ],
+            "answerIndex": 2,
+            "explanation": "Dia berkata harus 'cover a shift', yang berarti dia harus bekerja."
+        },
+        {
+            "id": "L076",
+            "sectionType": "listening",
+            "audioFile": "audio_l076.mp3",
+            "questionText": "What does the man ask for?",
+            "options": [
+                "The shirt",
+                "The money",
+                "Proof of purchase",
+                "The credit card"
+            ],
+            "answerIndex": 2,
+            "explanation": "Pria itu meminta 'receipt', yang merupakan bukti pembelian yang diperlukan untuk pengembalian barang."
+        },
+        {
+            "id": "L077",
+            "sectionType": "listening",
+            "audioFile": "audio_l077.mp3",
+            "questionText": "What does the woman mean?",
+            "options": [
+                "The interview was very difficult",
+                "The weather was windy",
+                "The interview was very easy",
+                "She didn't go to the interview"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom 'It was a breeze' berarti sesuatu sangat mudah."
+        },
+        {
+            "id": "L078",
+            "sectionType": "listening",
+            "audioFile": "audio_l078.mp3",
+            "questionText": "What does the man imply?",
+            "options": [
+                "He wants a cup of tea",
+                "He likes the painting very much",
+                "He is thirsty",
+                "He does not like the painting"
+            ],
+            "answerIndex": 3,
+            "explanation": "Idiom 'not my cup of tea' berarti seseorang tidak suka atau tidak tertarik pada sesuatu."
+        },
+        {
+            "id": "L079",
+            "sectionType": "listening",
+            "audioFile": "audio_l079.mp3",
+            "questionText": "What does the woman mean?",
+            "options": [
+                "She wants the man to repeat himself",
+                "She strongly agrees with the man",
+                "She thinks the service is fast",
+                "She wants more coffee"
+            ],
+            "answerIndex": 1,
+            "explanation": "Ekspresi 'You can say that again' digunakan untuk menunjukkan persetujuan kuat terhadap apa yang baru saja dikatakan."
+        },
+        {
+            "id": "L080",
+            "sectionType": "listening",
+            "audioFile": "audio_l080.mp3",
+            "questionText": "What does the man mean?",
+            "options": [
+                "The book is definitely on the shelf",
+                "He found the book immediately",
+                "The book might be lost or in the wrong place",
+                "He did not look for the book"
+            ],
+            "answerIndex": 2,
+            "explanation": "Dia berkata sudah mencari tapi tidak menemukannya, yang menunjukkan bukunya mungkin 'misplaced' (diletakkan di tempat yang salah)."
+        },
+        {
+            "id": "L081",
+            "sectionType": "listening",
+            "audioFile": "audio_l081.mp3",
+            "questionText": "What does the woman think is the problem?",
+            "options": [
+                "The car is out of gas",
+                "The battery is dead",
+                "The lights are broken",
+                "The key is broken"
+            ],
+            "answerIndex": 1,
+            "explanation": "Wanita tersebut menduga baterai mobil habis ('drained the battery') karena lampu dibiarkan menyala."
+        },
+        {
+            "id": "L082",
+            "sectionType": "listening",
+            "audioFile": "audio_l082.mp3",
+            "questionText": "What is the man's reaction?",
+            "options": [
+                "He wants the woman to leave town",
+                "He is angry",
+                "He is surprised and happy",
+                "He does not believe her"
+            ],
+            "answerIndex": 2,
+            "explanation": "Ekspresi 'Get out of town!' merupakan ungkapan idiomatis yang menunjukkan rasa terkejut atau tidak percaya terhadap berita yang menggembirakan."
+        },
+        {
+            "id": "L083",
+            "sectionType": "listening",
+            "audioFile": "audio_l083.mp3",
+            "questionText": "What does the woman imply?",
+            "options": [
+                "The man should run faster",
+                "It is a good time to jog",
+                "It is going to storm",
+                "She wants to go with him"
+            ],
+            "answerIndex": 2,
+            "explanation": "Dia menyebutkan mendengar 'thunder' dan menyarankan untuk menunggu, yang mengisyaratkan cuaca buruk (badai) akan datang."
+        },
+        {
+            "id": "L084",
+            "sectionType": "listening",
+            "audioFile": "audio_l084.mp3",
+            "questionText": "What does the man mean?",
+            "options": [
+                "He finished the report early",
+                "He is on schedule",
+                "He has not done enough work yet",
+                "He needs more data"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Behind schedule' berarti dia belum menyelesaikan pekerjaan sebanyak yang seharusnya pada waktu ini."
+        },
+        {
+            "id": "L085",
+            "sectionType": "listening",
+            "audioFile": "audio_l085.mp3",
+            "questionText": "What is the woman probably going to do?",
+            "options": [
+                "Go for a run",
+                "Rest and hydrate",
+                "See a doctor immediately",
+                "Continue working"
+            ],
+            "answerIndex": 1,
+            "explanation": "Dia berkata perlu 'sit down and drink some water', yang berarti istirahat dan minum air."
+        },
+        {
+            "id": "L086",
+            "sectionType": "listening",
+            "audioFile": "audio_l086.mp3",
+            "questionText": "What does the man say about the haircut?",
+            "options": [
+                "It was very cheap",
+                "He doesn't like it",
+                "It was very expensive",
+                "The barber was unskilled"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom 'cost a fortune' berarti sangat mahal."
+        },
+        {
+            "id": "L087",
+            "sectionType": "listening",
+            "audioFile": "audio_l087.mp3",
+            "questionText": "What will the woman do?",
+            "options": [
+                "Stay at home",
+                "Visit her sister in town",
+                "Travel abroad",
+                "Take summer classes"
+            ],
+            "answerIndex": 2,
+            "explanation": "Dia berencana untuk 'backpack through Europe', yang berarti bepergian ke luar negeri."
+        },
+        {
+            "id": "L088",
+            "sectionType": "listening",
+            "audioFile": "audio_l088.mp3",
+            "questionText": "What does the man mean?",
+            "options": [
+                "He understood the lecture perfectly",
+                "He was taller than the professor",
+                "He did not understand the lecture",
+                "He left the lecture early"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom 'went right over my head' berarti informasinya terlalu sulit untuk dipahami."
+        },
+        {
+            "id": "L089",
+            "sectionType": "listening",
+            "audioFile": "audio_l089.mp3",
+            "questionText": "Why does the woman choose tea?",
+            "options": [
+                "She doesn't like the taste of coffee",
+                "Coffee makes her nervous or shaky",
+                "Tea is cheaper",
+                "She is allergic to coffee"
+            ],
+            "answerIndex": 1,
+            "explanation": "Dia berkata kopi membuatnya 'jittery' (gelisah/gemetar), itulah mengapa dia menghindarinya."
+        },
+        {
+            "id": "L090",
+            "sectionType": "listening",
+            "audioFile": "audio_l090.mp3",
+            "questionText": "What does the man suggest?",
+            "options": [
+                "Buying the coat immediately",
+                "Asking for a discount now",
+                "Waiting for a better price",
+                "Buying a different coat"
+            ],
+            "answerIndex": 2,
+            "explanation": "Dia menyarankan menunggu sampai minggu depan untuk 'big sale', yang mengisyaratkan menunggu harga yang lebih baik."
+        },
+        {
+            "id": "L091",
+            "sectionType": "listening",
+            "audioFile": "audio_l091.mp3",
+            "questionText": "What does the woman suggest the man do?",
+            "options": [
+                "Call the police",
+                "Buy earplugs",
+                "Talk to his neighbor",
+                "Move to a new house"
+            ],
+            "answerIndex": 2,
+            "explanation": "Dia menyarankan: 'go over there and politely ask him', yang berarti berbicara langsung dengan tetangga."
+        },
+        {
+            "id": "L092",
+            "sectionType": "listening",
+            "audioFile": "audio_l092.mp3",
+            "questionText": "What does the man mean?",
+            "options": [
+                "He is happy to help",
+                "He is going swimming",
+                "He is too busy to help",
+                "He doesn't want to help"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom 'swamped with work' berarti dia kewalahan dengan pekerjaan dan karena itu terlalu sibuk."
+        }
     ],
     "long_sets": [
         {
@@ -577,7 +577,7 @@
                         "To complain about library hours"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The students are discussing the implementation of 'a new comprehensive recycling program on campus'."
+                    "explanation": "Para mahasiswa sedang membahas implementasi 'a new comprehensive recycling program on campus'."
                 },
                 {
                     "id": "L022",
@@ -589,7 +589,7 @@
                         "Getting approval from the administration"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The man explicitly states that 'generating interest among the student body is our greatest hurdle'."
+                    "explanation": "Pria itu secara eksplisit menyatakan bahwa 'generating interest among the student body is our greatest hurdle'."
                 },
                 {
                     "id": "L023",
@@ -601,7 +601,7 @@
                         "Making recycling mandatory"
                     ],
                     "answerIndex": 1,
-                    "explanation": "She suggests, 'What if we had a competition to see which dorm can recycle the most?'"
+                    "explanation": "Dia menyarankan, 'What if we had a competition to see which dorm can recycle the most?'"
                 },
                 {
                     "id": "L024",
@@ -613,7 +613,7 @@
                         "Quit the initiative"
                     ],
                     "answerIndex": 2,
-                    "explanation": "At the end, he says, 'I'll get started on drafting that proposal right away'."
+                    "explanation": "Di akhir, dia berkata, 'I'll get started on drafting that proposal right away'."
                 }
             ]
         },
@@ -632,7 +632,7 @@
                         "The distance from Earth to Mars"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The professor states: 'Today we are going to clarify the difference between... comets and asteroids.'"
+                    "explanation": "Profesor menyatakan bahwa kuliah hari ini akan membahas perbedaan antara komet dan asteroid: 'Today we are going to clarify the difference between... comets and asteroids.'"
                 },
                 {
                     "id": "L026",
@@ -644,7 +644,7 @@
                         "As a small planet"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The professor explicitly says: 'You can think of a comet as a dirty snowball.'"
+                    "explanation": "Profesor secara eksplisit berkata: 'You can think of a comet as a dirty snowball.'"
                 },
                 {
                     "id": "L027",
@@ -656,7 +656,7 @@
                         "Near Earth's moon"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The talk mentions: 'Most of them are found in the Asteroid Belt, a vast ring located between the orbits of Mars and Jupiter.'"
+                    "explanation": "Pembicaraan menyebutkan: 'Most of them are found in the Asteroid Belt, a vast ring located between the orbits of Mars and Jupiter.'"
                 },
                 {
                     "id": "L028",
@@ -668,7 +668,7 @@
                         "It turns into an asteroid"
                     ],
                     "answerIndex": 2,
-                    "explanation": "The professor explains that the ice heats up 'creating a glowing atmosphere and a tail'."
+                    "explanation": "Profesor menjelaskan bahwa es memanas 'creating a glowing atmosphere and a tail'."
                 }
             ]
         },
@@ -687,7 +687,7 @@
                         "They were only allowed in factories"
                     ],
                     "answerIndex": 2,
-                    "explanation": "The guide says: 'If the lifting cable snapped, the car would crash... people were afraid to use them.'"
+                    "explanation": "Pemandu menjelaskan bahwa jika kabel putus, lift akan jatuh, sehingga orang takut menggunakannya: 'If the lifting cable snapped, the car would crash... people were afraid to use them.'"
                 },
                 {
                     "id": "L030",
@@ -699,7 +699,7 @@
                         "The electric motor"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The guide clarifies: 'He invented a safety brake.'"
+                    "explanation": "Pemandu menjelaskan: 'He invented a safety brake.'"
                 },
                 {
                     "id": "L031",
@@ -711,7 +711,7 @@
                         "He dropped a heavy box from a tower"
                     ],
                     "answerIndex": 0,
-                    "explanation": "The text states: 'He stood on an elevator platform and ordered the rope to be cut.'"
+                    "explanation": "Teks menyatakan: 'He stood on an elevator platform and ordered the rope to be cut.'"
                 },
                 {
                     "id": "L032",
@@ -723,7 +723,7 @@
                         "It reduced the cost of steel"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The guide concludes: 'This invention gave architects the confidence to design tall buildings.'"
+                    "explanation": "Pemandu menyimpulkan: 'This invention gave architects the confidence to design tall buildings.'"
                 }
             ]
         },
@@ -742,7 +742,7 @@
                         "Why bees sting humans"
                     ],
                     "answerIndex": 2,
-                    "explanation": "The professor discusses how bees communicate using the 'waggle dance' to share info about food."
+                    "explanation": "Profesor membahas bagaimana lebah berkomunikasi menggunakan 'waggle dance' untuk berbagi informasi tentang makanan."
                 },
                 {
                     "id": "L034",
@@ -754,7 +754,7 @@
                         "To keep the hive warm"
                     ],
                     "answerIndex": 2,
-                    "explanation": "The professor says: 'This dance tells the other bees two things: the distance and the direction of the food.'"
+                    "explanation": "Profesor berkata: 'This dance tells the other bees two things: the distance and the direction of the food.'"
                 },
                 {
                     "id": "L035",
@@ -766,7 +766,7 @@
                         "By releasing a scent"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The talk states: 'The angle of the dance relates to the position of the sun, indicating direction.'"
+                    "explanation": "Pembicaraan menyatakan: 'The angle of the dance relates to the position of the sun, indicating direction.'"
                 },
                 {
                     "id": "L036",
@@ -778,7 +778,7 @@
                         "The speed of flight"
                     ],
                     "answerIndex": 0,
-                    "explanation": "The professor explains: 'The duration of the waggle part of the dance indicates how far away the flowers are.'"
+                    "explanation": "Profesor menjelaskan: 'The duration of the waggle part of the dance indicates how far away the flowers are.'"
                 }
             ]
         },
@@ -797,7 +797,7 @@
                         "It focused on geometric shapes"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The professor says: 'Before this, art was expected to be realistic and highly detailed.'"
+                    "explanation": "Profesor berkata: 'Before this, art was expected to be realistic and highly detailed.'"
                 },
                 {
                     "id": "L038",
@@ -821,7 +821,7 @@
                         "Painting portraits"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The professor defines it as: 'en plein air, or outdoors.'"
+                    "explanation": "Profesor mendefinisikannya sebagai: 'en plein air, or outdoors.'"
                 },
                 {
                     "id": "L040",
@@ -833,7 +833,7 @@
                         "They bought all the paintings"
                     ],
                     "answerIndex": 2,
-                    "explanation": "The text states: 'At first, critics hated it, calling the works unfinished sketches.'"
+                    "explanation": "Teks menyatakan: 'At first, critics hated it, calling the works unfinished sketches.'"
                 }
             ]
         },
@@ -864,7 +864,7 @@
                         "They do not move"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The speaker compares the speed to: 'about the same speed that your fingernails grow.'"
+                    "explanation": "Pembicara membandingkan kecepatannya dengan: 'about the same speed that your fingernails grow.'"
                 },
                 {
                     "id": "L043",
@@ -876,7 +876,7 @@
                         "The Earth stops spinning"
                     ],
                     "answerIndex": 2,
-                    "explanation": "The speaker lists results: 'they cause earthquakes, volcanic eruptions...'"
+                    "explanation": "Pembicara menyebutkan bahwa interaksi lempeng menyebabkan bencana alam: 'they cause earthquakes, volcanic eruptions...'"
                 },
                 {
                     "id": "L044",
@@ -888,7 +888,7 @@
                         "The Ring of Fire"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The speaker explicitly states: 'This theory is called Plate Tectonics.'"
+                    "explanation": "Pembicara secara eksplisit menyatakan: 'This theory is called Plate Tectonics.'"
                 }
             ]
         },
@@ -907,7 +907,7 @@
                         "To apply for a job"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The student says: 'I wanted to discuss my topic for the final research paper.'"
+                    "explanation": "Mahasiswa berkata: 'I wanted to discuss my topic for the final research paper.'"
                 },
                 {
                     "id": "L046",
@@ -919,7 +919,7 @@
                         "How to use Instagram"
                     ],
                     "answerIndex": 1,
-                    "explanation": "He proposed: 'analyzing the impact of social media on modern marketing.'"
+                    "explanation": "Dia mengusulkan: 'analyzing the impact of social media on modern marketing.'"
                 },
                 {
                     "id": "L047",
@@ -931,7 +931,7 @@
                         "The topic is perfect as is"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The professor says: 'it is also extremely broad... I suggest you narrow it down.'"
+                    "explanation": "Profesor memberikan saran untuk mempersempit topik yang terlalu luas: 'it is also extremely broad... I suggest you narrow it down.'"
                 },
                 {
                     "id": "L048",
@@ -943,7 +943,7 @@
                         "By analyzing global corporations"
                     ],
                     "answerIndex": 0,
-                    "explanation": "He suggests: 'focus specifically on how small businesses use Instagram'."
+                    "explanation": "Dia menyarankan: 'focus specifically on how small businesses use Instagram'."
                 }
             ]
         },
@@ -962,7 +962,7 @@
                         "Dead fish"
                     ],
                     "answerIndex": 2,
-                    "explanation": "The professor clarifies: 'it is actually a colony of tiny animals called polyps.'"
+                    "explanation": "Profesor menjelaskan: 'it is actually a colony of tiny animals called polyps.'"
                 },
                 {
                     "id": "L050",
@@ -974,7 +974,7 @@
                         "They compete for sunlight"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The lecture states: 'These polyps have a fascinating symbiotic relationship with microscopic algae.'"
+                    "explanation": "Kuliah menyatakan: 'These polyps have a fascinating symbiotic relationship with microscopic algae.'"
                 },
                 {
                     "id": "L051",
@@ -986,7 +986,7 @@
                         "The coral moves to colder water"
                     ],
                     "answerIndex": 0,
-                    "explanation": "The professor explains: 'corals... expel these algae. This causes the coral to turn completely white.'"
+                    "explanation": "Karang membuang alga simbiotiknya sehingga berubah menjadi putih: 'corals... expel these algae. This causes the coral to turn completely white.'"
                 },
                 {
                     "id": "L052",
@@ -998,7 +998,7 @@
                         "Tourists touching the reef"
                     ],
                     "answerIndex": 2,
-                    "explanation": "The text says: 'when water temperatures rise due to climate change...'"
+                    "explanation": "Penyebab utama pemutihan karang adalah kenaikan suhu air: 'when water temperatures rise due to climate change...'"
                 }
             ]
         },
@@ -1017,7 +1017,7 @@
                         "The anatomy of the brain"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The professor introduces the topic: 'The most common model divides memory into two main types: short-term and long-term memory.'"
+                    "explanation": "Profesor memperkenalkan topik: 'The most common model divides memory into two main types: short-term and long-term memory.'"
                 },
                 {
                     "id": "L054",
@@ -1029,7 +1029,7 @@
                         "A phone book"
                     ],
                     "answerIndex": 2,
-                    "explanation": "The professor explicitly says: 'It's like a computer's RAM.'"
+                    "explanation": "Profesor secara eksplisit berkata: 'It's like a computer's RAM.'"
                 },
                 {
                     "id": "L055",
@@ -1041,7 +1041,7 @@
                         "Forever"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The text states: 'You can hold information there for about 20 to 30 seconds.'"
+                    "explanation": "Teks menyatakan: 'You can hold information there for about 20 to 30 seconds.'"
                 },
                 {
                     "id": "L056",
@@ -1053,7 +1053,7 @@
                         "Writing it down"
                     ],
                     "answerIndex": 2,
-                    "explanation": "The professor explains: 'you need to use a process called rehearsal or encoding.'"
+                    "explanation": "Profesor menjelaskan: 'you need to use a process called rehearsal or encoding.'"
                 }
             ]
         },
@@ -1072,7 +1072,7 @@
                         "To complain about a class"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The student says: 'I'm planning to apply for summer internships, but I'm really struggling with my resume.'"
+                    "explanation": "Mahasiswa berkata: 'I'm planning to apply for summer internships, but I'm really struggling with my resume.'"
                 },
                 {
                     "id": "L058",
@@ -1084,7 +1084,7 @@
                         "The font size is too small"
                     ],
                     "answerIndex": 2,
-                    "explanation": "He mentions: 'I feel like it's too empty. I haven't had a real job before.'"
+                    "explanation": "Dia menyebutkan: 'I feel like it's too empty. I haven't had a real job before.'"
                 },
                 {
                     "id": "L059",
@@ -1096,7 +1096,7 @@
                         "It is only useful for scholarships"
                     ],
                     "answerIndex": 1,
-                    "explanation": "She reassures him: 'volunteer work counts as experience! It shows dedication and skill.'"
+                    "explanation": "Dia meyakinkannya: 'volunteer work counts as experience! It shows dedication and skill.'"
                 },
                 {
                     "id": "L060",
@@ -1108,7 +1108,7 @@
                         "Get a part-time job"
                     ],
                     "answerIndex": 2,
-                    "explanation": "She recommends: 'I recommend you attend our Resume Workshop this Thursday.'"
+                    "explanation": "Dia merekomendasikan: 'I recommend you attend our Resume Workshop this Thursday.'"
                 }
             ]
         },
@@ -1127,7 +1127,7 @@
                         "There is no difference"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The professor states: 'While Romanticism focused on emotion and idealism, Realism tried to depict life exactly as it was.'"
+                    "explanation": "Profesor menyatakan: 'While Romanticism focused on emotion and idealism, Realism tried to depict life exactly as it was.'"
                 },
                 {
                     "id": "L062",
@@ -1139,7 +1139,7 @@
                         "He lived in England"
                     ],
                     "answerIndex": 2,
-                    "explanation": "The text says: 'A central figure of this movement was Mark Twain.'"
+                    "explanation": "Teks berkata: 'A central figure of this movement was Mark Twain.'"
                 },
                 {
                     "id": "L063",
@@ -1151,7 +1151,7 @@
                         "It had no dialogue"
                     ],
                     "answerIndex": 2,
-                    "explanation": "The professor explains: 'Twain used the specific dialect of the American South... he made them speak like real people.'"
+                    "explanation": "Profesor menjelaskan penggunaan dialek lokal oleh Mark Twain agar karakter terdengar nyata: 'Twain used the specific dialect of the American South... he made them speak like real people.'"
                 },
                 {
                     "id": "L064",
@@ -1163,7 +1163,7 @@
                         "Everyday events and common people"
                     ],
                     "answerIndex": 3,
-                    "explanation": "The lecture concludes: 'Realist writers focused on everyday events, common people, and social problems.'"
+                    "explanation": "Kuliah menyimpulkan: 'Realist writers focused on everyday events, common people, and social problems.'"
                 }
             ]
         },
@@ -1182,7 +1182,7 @@
                         "Ocean waves"
                     ],
                     "answerIndex": 2,
-                    "explanation": "The speaker states: 'This energy comes from the heat stored inside the Earth.'"
+                    "explanation": "Pembicara menyatakan: 'This energy comes from the heat stored inside the Earth.'"
                 },
                 {
                     "id": "L066",
@@ -1194,7 +1194,7 @@
                         "It uses less land"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The speaker emphasizes: 'One of the biggest advantages... is consistency... available 24 hours a day.'"
+                    "explanation": "Pembicara menekankan: 'One of the biggest advantages... is consistency... available 24 hours a day.'"
                 },
                 {
                     "id": "L067",
@@ -1206,7 +1206,7 @@
                         "They don't last long"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The speaker notes: 'Solar panels don't work at night, and wind turbines stop when the air is still.'"
+                    "explanation": "Pembicara mencatat: 'Solar panels don't work at night, and wind turbines stop when the air is still.'"
                 },
                 {
                     "id": "L068",
@@ -1218,7 +1218,7 @@
                         "On top of high mountains"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The text mentions: 'found along major plate boundaries... such as the Ring of Fire.'"
+                    "explanation": "Teks menyebutkan: 'found along major plate boundaries... such as the Ring of Fire.'"
                 }
             ]
         },
@@ -1237,7 +1237,7 @@
                         "She wants a bigger room"
                     ],
                     "answerIndex": 2,
-                    "explanation": "She explains: 'my roommate and I have very different schedules... She studies late at night... and I have 8 AM classes.'"
+                    "explanation": "Dia menjelaskan: 'my roommate and I have very different schedules... She studies late at night... and I have 8 AM classes.'"
                 },
                 {
                     "id": "L070",
@@ -1249,7 +1249,7 @@
                         "A time when students must stay indoors"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The officer defines it as: 'a freeze period for the first two weeks of classes where no moves are allowed.'"
+                    "explanation": "Petugas mendefinisikannya sebagai: 'a freeze period for the first two weeks of classes where no moves are allowed.'"
                 },
                 {
                     "id": "L071",
@@ -1261,7 +1261,7 @@
                         "To clean the rooms"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The officer says: 'This gives us time to verify who actually arrived on campus.'"
+                    "explanation": "Petugas berkata: 'This gives us time to verify who actually arrived on campus.'"
                 },
                 {
                     "id": "L072",
@@ -1273,7 +1273,7 @@
                         "Leave the university"
                     ],
                     "answerIndex": 1,
-                    "explanation": "The officer concludes: 'You can fill out this transfer request form today, but we can't process the move until next Monday.'"
+                    "explanation": "Petugas menyimpulkan: 'You can fill out this transfer request form today, but we can't process the move until next Monday.'"
                 }
             ]
         }

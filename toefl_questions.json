@@ -12,7 +12,7 @@
                 "Canceling the study session"
             ],
             "answerIndex": 2,
-            "explanation": "The woman says 'Why don't we meet after class?', which suggests meeting after class."
+            "explanation": "Wanita itu berkata 'Why don't we meet after class?', yang menyarankan untuk bertemu setelah kelas."
         },
         {
             "id": "L002",
@@ -26,7 +26,7 @@
                 "He is late for class"
             ],
             "answerIndex": 1,
-            "explanation": "The man expresses concern about missing the submission deadline."
+            "explanation": "Pria itu menyatakan kekhawatiran tentang melewatkan tenggat waktu pengumpulan."
         },
         {
             "id": "L003",
@@ -40,7 +40,7 @@
                 "Take a break"
             ],
             "answerIndex": 0,
-            "explanation": "Based on the conversation, they agree to get lunch at the cafeteria."
+            "explanation": "Berdasarkan percakapan tersebut, mereka setuju untuk makan siang di kantin."
         }
     ],
     "structure": [
@@ -580,7 +580,7 @@
                 "Europe"
             ],
             "answerIndex": 2,
-            "explanation": "The passage states 'Its origins can be traced back to Ethiopia.'"
+            "explanation": "Teks menyatakan 'Its origins can be traced back to Ethiopia.'"
         },
         {
             "id": "R002",
@@ -596,7 +596,7 @@
                 "Government offices"
             ],
             "answerIndex": 2,
-            "explanation": "The passage describes coffeehouses as 'important social gathering places.'"
+            "explanation": "Teks menggambarkan kedai kopi sebagai 'important social gathering places.'"
         },
         {
             "id": "R003",
@@ -612,7 +612,7 @@
                 "An ancient coffee recipe"
             ],
             "answerIndex": 1,
-            "explanation": "The passage explains that 'The word coffee itself is derived from the Arabic word qahwah.'"
+            "explanation": "Teks menjelaskan bahwa 'The word coffee itself is derived from the Arabic word qahwah.'"
         }
     ]
 }
