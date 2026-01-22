@@ -82,13 +82,13 @@
             "questionText": "Each of the (A) students (B) are required to (C) submit their term paper (D) on time.",
             "underlinedParts": [
                 "students",
-                "are",
+                "are required to",
                 "submit",
                 "on time"
             ],
             "options": [
                 "students",
-                "are",
+                "are required to",
                 "submit",
                 "on time"
             ],
@@ -613,13 +613,13 @@
             "sectionType": "written_expression",
             "questionText": "The biology students (A) are required (B) to dissect a frog, (C) which it is (D) an unpleasant task.",
             "underlinedParts": [
-                "are",
+                "are required",
                 "to dissect",
                 "which it is",
                 "an"
             ],
             "options": [
-                "are",
+                "are required",
                 "to dissect",
                 "which it is",
                 "an"

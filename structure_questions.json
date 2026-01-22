@@ -133,7 +133,7 @@
         {
             "id": "S011",
             "sectionType": "structure",
-            "questionText": "Usually, the more skilled an athlete, ______ the more money he or she earns.",
+            "questionText": "Usually, the more skilled an athlete, ______ more money he or she earns.",
             "options": [
                 "that",
                 "is",
@@ -198,7 +198,7 @@
         {
             "id": "S016",
             "sectionType": "structure",
-            "questionText": "Alfred Adams has not ______ lived lonelinessly in times of sorrow.",
+            "questionText": "Alfred Adams has not ______ lived lonely in times of sorrow.",
             "options": [
                 "only",
                 "alone",
@@ -1043,7 +1043,7 @@
         {
             "id": "S081",
             "sectionType": "structure",
-            "questionText": "______ penicillin is known as the first antibiotic.",
+            "questionText": "______, penicillin is known as the first antibiotic.",
             "options": [
                 "Discovered by Fleming",
                 "Fleming discovered",
@@ -1862,7 +1862,7 @@
         {
             "id": "S144",
             "sectionType": "structure",
-            "questionText": "Usually, the more skilled an athlete, ______ the more money he or she earns.",
+            "questionText": "Usually, the more skilled an athlete, ______ more money he or she earns.",
             "options": [
                 "that",
                 "is",

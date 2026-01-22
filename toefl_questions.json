@@ -177,7 +177,7 @@
         {
             "id": "S011",
             "sectionType": "structure",
-            "questionText": "Usually, the more skilled an athlete, ______ the more money he or she earns.",
+            "questionText": "Usually, the more skilled an athlete, ______ more money he or she earns.",
             "options": [
                 "that",
                 "is",
@@ -242,7 +242,7 @@
         {
             "id": "S016",
             "sectionType": "structure",
-            "questionText": "Alfred Adams has not ______ lived lonelinessly in times of sorrow.",
+            "questionText": "Alfred Adams has not ______ lived lonely in times of sorrow.",
             "options": [
                 "only",
                 "alone",
