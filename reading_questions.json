@@ -2539,6 +2539,2546 @@
                     "explanation": "Hal yang krusial adalah 'finding a balance between innovation and ethical oversight'."
                 }
             ]
+        },
+        {
+            "passageId": 21,
+            "title": "The Invention of the Printing Press",
+            "content": "The invention of the printing press by Johannes Gutenberg around 1440 is widely regarded as one of the most influential events in human history. Before this invention, books were copied by hand, a laborious and expensive process that limited the spread of knowledge. Gutenberg, a goldsmith from Mainz, Germany, developed a system of movable type using metal molds, which allowed for the mass production of books at a relatively low cost.\n\nThe first major book printed using this technology was the Gutenberg Bible, completed in the 1450s. The quality and affordability of printed materials revolutionized society. It facilitated the rapid dissemination of ideas, contributing significantly to the Renaissance, the Reformation, and the Scientific Revolution. For the first time, information could travel faster than ever before, empowering individuals and challenging established authorities.\n\nThe printing press also played a crucial role in the standardization of languages. As books were printed in vernacular languages rather than just Latin, spelling and grammar rules began to stabilize. This helped foster national identities and literacy rates soared across Europe. The democratization of knowledge sparked by the printing press laid the groundwork for the modern knowledge-based economy.",
+            "questions": [
+                {
+                    "id": "R201",
+                    "questionText": "Who invented the printing press?",
+                    "options": [
+                        "Leonardo da Vinci",
+                        "Johannes Gutenberg",
+                        "Isaac Newton",
+                        "Martin Luther"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Johannes Gutenberg invented the printing press around 1440."
+                },
+                {
+                    "id": "R202",
+                    "questionText": "What was the main disadvantage of books before the printing press?",
+                    "options": [
+                        "They were too heavy",
+                        "They were copied by hand and expensive",
+                        "They were written in invisible ink",
+                        "They were only about religion"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Books were copied by hand, a laborious and expensive process."
+                },
+                {
+                    "id": "R203",
+                    "questionText": "Where was Gutenberg from?",
+                    "options": [
+                        "Paris, France",
+                        "London, England",
+                        "Mainz, Germany",
+                        "Rome, Italy"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Gutenberg was a goldsmith from Mainz, Germany."
+                },
+                {
+                    "id": "R204",
+                    "questionText": "What was the first major book printed?",
+                    "options": [
+                        "The Canterbury Tales",
+                        "The Gutenberg Bible",
+                        "The 95 Theses",
+                        "The Divine Comedy"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The first major book was the Gutenberg Bible."
+                },
+                {
+                    "id": "R205",
+                    "questionText": "How did the printing press contribute to the Reformation?",
+                    "options": [
+                        "It stopped the spread of ideas",
+                        "It facilitated the rapid dissemination of ideas",
+                        "It increased the cost of bibles",
+                        "It enforced Latin usage"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "It facilitated the rapid dissemination of ideas, contributing to the Reformation."
+                },
+                {
+                    "id": "R206",
+                    "questionText": "What effect did the printing press have on language?",
+                    "options": [
+                        "It eliminated vernacular languages",
+                        "It standardized spelling and grammar",
+                        "It made Latin the only language",
+                        "It caused languages to disappear"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Spelling and grammar rules began to stabilize."
+                },
+                {
+                    "id": "R207",
+                    "questionText": "The word 'dissemination' in paragraph 2 is closest in meaning to:",
+                    "options": [
+                        "Restriction",
+                        "Spread",
+                        "Creation",
+                        "Destruction"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Dissemination means the spread of something, especially information."
+                },
+                {
+                    "id": "R208",
+                    "questionText": "What material did Gutenberg use for his movable type?",
+                    "options": [
+                        "Wood",
+                        "Clay",
+                        "Metal",
+                        "Plastic"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "He developed a system of movable type using metal molds."
+                },
+                {
+                    "id": "R209",
+                    "questionText": "What happened to literacy rates after the invention?",
+                    "options": [
+                        "They declined",
+                        "They remained the same",
+                        "They soared",
+                        "They became irrelevant"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Literacy rates soared across Europe."
+                },
+                {
+                    "id": "R210",
+                    "questionText": "The printing press laid the groundwork for:",
+                    "options": [
+                        "The Dark Ages",
+                        "The modern knowledge-based economy",
+                        "The feudal system",
+                        "The Roman Empire"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "It laid the groundwork for the modern knowledge-based economy."
+                }
+            ]
+        },
+        {
+            "passageId": 22,
+            "title": "Marie Curie: A Pioneer in Science",
+            "content": "Marie Curie was a Polish-born physicist and chemist who conducted pioneering research on radioactivity. Born Maria Sklodowska in Warsaw in 1867, she moved to Paris to study at the Sorbonne, where she met her future husband, Pierre Curie. Together, they discovered two new elements, polonium and radium, in 1898. Marie named polonium after her homeland, Poland.\n\nIn 1903, Marie Curie became the first woman to win a Nobel Prize, sharing the Physics prize with her husband and Henri Becquerel. In 1911, she won a second Nobel Prize, this time in Chemistry, for her work in isolating pure radium. She remains the only person to win Nobel Prizes in two different scientific fields.\n\nCurie's research led to the development of X-rays in surgery. During World War I, she helped equip ambulances with X-ray equipment, which she personally drove to the front lines. Despite her immense contributions to science, her constant exposure to radiation eventually took a toll on her health. She died in 1934 from aplastic anemia, likely caused by her long-term exposure to radiation.",
+            "questions": [
+                {
+                    "id": "R211",
+                    "questionText": "Where was Marie Curie born?",
+                    "options": [
+                        "Paris",
+                        "London",
+                        "Warsaw",
+                        "Berlin"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "She was born Maria Sklodowska in Warsaw."
+                },
+                {
+                    "id": "R212",
+                    "questionText": "Which two elements did the Curies discover?",
+                    "options": [
+                        "Gold and Silver",
+                        "Polonium and Radium",
+                        "Uranium and Plutonium",
+                        "Oxygen and Hydrogen"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "They discovered two new elements, polonium and radium."
+                },
+                {
+                    "id": "R213",
+                    "questionText": "Why was polonium named that way?",
+                    "options": [
+                        "After a Greek god",
+                        "After her husband",
+                        "After her homeland, Poland",
+                        "After a chemical process"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "She named polonium after her homeland, Poland."
+                },
+                {
+                    "id": "R214",
+                    "questionText": "What distinction does Marie Curie hold regarding Nobel Prizes?",
+                    "options": [
+                        "First person to win one",
+                        "Only person to win in two different scientific fields",
+                        "Youngest winner ever",
+                        "First American winner"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "She remains the only person to win Nobel Prizes in two different scientific fields."
+                },
+                {
+                    "id": "R215",
+                    "questionText": "In which year did she win her first Nobel Prize?",
+                    "options": [
+                        "1898",
+                        "1903",
+                        "1911",
+                        "1934"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "In 1903, Marie Curie became the first woman to win a Nobel Prize."
+                },
+                {
+                    "id": "R216",
+                    "questionText": "What did she help equip ambulances with during WWI?",
+                    "options": [
+                        "Radios",
+                        "Guns",
+                        "X-ray equipment",
+                        "Antibiotics"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "She helped equip ambulances with X-ray equipment."
+                },
+                {
+                    "id": "R217",
+                    "questionText": "The word 'pioneering' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Following",
+                        "Groundbreaking",
+                        "Copying",
+                        "Dangerous"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Pioneering means involving new ideas or methods (groundbreaking)."
+                },
+                {
+                    "id": "R218",
+                    "questionText": "What caused Marie Curie's death?",
+                    "options": [
+                        "Old age",
+                        "Traffic accident",
+                        "Aplastic anemia due to radiation",
+                        "Infection"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "She died from aplastic anemia, likely caused by radiation exposure."
+                },
+                {
+                    "id": "R219",
+                    "questionText": "Where did Marie Curie study?",
+                    "options": [
+                        "Oxford",
+                        "Harvard",
+                        "The Sorbonne",
+                        "University of Warsaw"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "She moved to Paris to study at the Sorbonne."
+                },
+                {
+                    "id": "R220",
+                    "questionText": "Who shared the 1903 Nobel Prize with Marie?",
+                    "options": [
+                        "Albert Einstein",
+                        "Pierre Curie and Henri Becquerel",
+                        "Isaac Newton",
+                        "Thomas Edison"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "She shared it with her husband and Henri Becquerel."
+                }
+            ]
+        },
+        {
+            "passageId": 23,
+            "title": "The Structure of the Atom",
+            "content": "The concept of the atom has evolved significantly over centuries. The word 'atom' comes from the Greek word 'atomos', meaning indivisible. Ancient Greek philosophers like Democritus first proposed that matter was made of tiny, indestructible particles. However, it wasn't until the early 19th century that John Dalton formulated the first modern atomic theory.\n\nIn 1897, J.J. Thomson discovered the electron, revealing that atoms were divisible and contained smaller, negatively charged particles. He proposed the 'plum pudding' model. This was later disproved by Ernest Rutherford in 1911 through his gold foil experiment, which demonstrated that atoms have a small, dense, positively charged nucleus. Niels Bohr later refined this model in 1913, suggesting that electrons orbit the nucleus in specific energy levels.\n\nToday, the quantum mechanical model is the accepted description of the atom. In this model, electrons do not travel in fixed paths but exist in probability clouds called orbitals. The nucleus contains protons and neutrons, while electrons move in the vast empty space around it. Understanding atomic structure has been fundamental to developments in chemistry, physics, and nuclear energy.",
+            "questions": [
+                {
+                    "id": "R221",
+                    "questionText": "What does the word 'atomos' mean?",
+                    "options": [
+                        "Invisible",
+                        "Indivisible",
+                        "Small",
+                        "Energy"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The word 'atom' comes from 'atomos', meaning indivisible."
+                },
+                {
+                    "id": "R222",
+                    "questionText": "Who formulated the first modern atomic theory?",
+                    "options": [
+                        "Democritus",
+                        "Isaac Newton",
+                        "John Dalton",
+                        "Albert Einstein"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "John Dalton formulated the first modern atomic theory."
+                },
+                {
+                    "id": "R223",
+                    "questionText": "What particle did J.J. Thomson discover?",
+                    "options": [
+                        "Proton",
+                        "Neutron",
+                        "Electron",
+                        "Nucleus"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "In 1897, J.J. Thomson discovered the electron."
+                },
+                {
+                    "id": "R224",
+                    "questionText": "What did the gold foil experiment demonstrate?",
+                    "options": [
+                        "Atoms are solid spheres",
+                        "Atoms have a nucleus",
+                        "Electrons are positive",
+                        "Atoms cannot be split"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "It demonstrated that atoms have a small, dense, positively charged nucleus."
+                },
+                {
+                    "id": "R225",
+                    "questionText": "Who proposed that electrons orbit in specific energy levels?",
+                    "options": [
+                        "Ernest Rutherford",
+                        "J.J. Thomson",
+                        "Niels Bohr",
+                        "Marie Curie"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Niels Bohr later refined this model... suggesting electrons orbit in specific energy levels."
+                },
+                {
+                    "id": "R226",
+                    "questionText": "Which model is the accepted description today?",
+                    "options": [
+                        "Plum pudding model",
+                        "Bohr model",
+                        "Quantum mechanical model",
+                        "Dalton model"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Today, the quantum mechanical model is the accepted description."
+                },
+                {
+                    "id": "R227",
+                    "questionText": "Where are protons and neutrons located?",
+                    "options": [
+                        "In the orbitals",
+                        "In the nucleus",
+                        "Outside the atom",
+                        "In the electron cloud"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The nucleus contains protons and neutrons."
+                },
+                {
+                    "id": "R228",
+                    "questionText": "The word 'indestructible' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Cannot be seen",
+                        "Cannot be destroyed",
+                        "Very small",
+                        "Heavy"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Indestructible means cannot be destroyed."
+                },
+                {
+                    "id": "R229",
+                    "questionText": "What are electron 'orbitals' in the modern model?",
+                    "options": [
+                        "Fixed paths",
+                        "Probability clouds",
+                        "Solid shells",
+                        "Magnetic fields"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Electrons... exist in probability clouds called orbitals."
+                },
+                {
+                    "id": "R230",
+                    "questionText": "Who first proposed the idea of the atom in ancient times?",
+                    "options": [
+                        "Aristotle",
+                        "Plato",
+                        "Democritus",
+                        "Socrates"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Ancient Greek philosophers like Democritus first proposed..."
+                }
+            ]
+        },
+        {
+            "passageId": 24,
+            "title": "The Mayan Civilization",
+            "content": "The Mayan civilization was one of the most dominant indigenous societies of Mesoamerica. Known for their advanced writing system, mathematics, calendar, and astronomical systems, the Maya excelled in architecture and agriculture. Their civilization stretched across what is now southeastern Mexico, Guatemala, and Belize, flourishing during the Classic Period (250-900 AD).\n\nThe Maya built magnificent cities with grand stone pyramids, temples, and palaces without the use of metal tools, beasts of burden, or the wheel. Cities like Tikal, Palenque, and Chichen Itza were centers of power and religious ceremony. They developed a complex hieroglyphic script, which is the only fully developed writing system of the pre-Columbian Americas.\n\nAround 900 AD, many of the great cities in the southern lowlands were abandoned, a period known as the Classic Maya collapse. The reasons for this decline are still debated but likely include a combination of overpopulation, environmental degradation, warfare, and drought. Despite the collapse of their political power, the Mayan people did not disappear. Millions of Maya continue to live in the region today, preserving their languages and traditions.",
+            "questions": [
+                {
+                    "id": "R231",
+                    "questionText": "Where was the Mayan civilization located?",
+                    "options": [
+                        "South America",
+                        "Mesoamerica",
+                        "North America",
+                        "Caribbean"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The Mayan civilization was one of the most dominant indigenous societies of Mesoamerica."
+                },
+                {
+                    "id": "R232",
+                    "questionText": "The Maya flourished during which period?",
+                    "options": [
+                        "Pre-Classic",
+                        "Classic Period",
+                        "Post-Classic",
+                        "Modern Era"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Flourishing during the Classic Period (250-900 AD)."
+                },
+                {
+                    "id": "R233",
+                    "questionText": "Which of the following did the Maya NOT use for building?",
+                    "options": [
+                        "Stone",
+                        "Metal tools",
+                        "Labor",
+                        "Architectural plans"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The Maya built... without the use of metal tools."
+                },
+                {
+                    "id": "R234",
+                    "questionText": "What makes the Mayan writing system unique in pre-Columbian Americas?",
+                    "options": [
+                        "It used colors",
+                        "It was the only fully developed writing system",
+                        "It was never written down",
+                        "It used English letters"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "It is the only fully developed writing system of the pre-Columbian Americas."
+                },
+                {
+                    "id": "R235",
+                    "questionText": "What happened around 900 AD?",
+                    "options": [
+                        "The civilization began",
+                        "The Spanish arrived",
+                        "The Classic Maya collapse",
+                        "The invention of the wheel"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Around 900 AD... a period known as the Classic Maya collapse."
+                },
+                {
+                    "id": "R236",
+                    "questionText": "Which city is mentioned as a center of power?",
+                    "options": [
+                        "Tenochtitlan",
+                        "Cusco",
+                        "Tikal",
+                        "Machu Picchu"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Cities like Tikal... were centers of power."
+                },
+                {
+                    "id": "R237",
+                    "questionText": "The word 'flourishing' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Dying",
+                        "Thriving",
+                        "Moving",
+                        "Fighting"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Flourishing means growing or developing in a healthy or vigorous way (thriving)."
+                },
+                {
+                    "id": "R238",
+                    "questionText": "What is a likely cause of the Maya collapse?",
+                    "options": [
+                        "Alien invasion",
+                        "Flood",
+                        "Drought",
+                        "Ice Age"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Likely include... drought."
+                },
+                {
+                    "id": "R239",
+                    "questionText": "Are there Mayan people today?",
+                    "options": [
+                        "No, they are extinct",
+                        "Yes, millions still live in the region",
+                        "Only a few hundred",
+                        "They moved to Europe"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Millions of Maya continue to live in the region today."
+                },
+                {
+                    "id": "R240",
+                    "questionText": "What did the Maya excel in?",
+                    "options": [
+                        "Sailing",
+                        "Mathematics and astronomy",
+                        "Iron smelting",
+                        "Gunpowder"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The Maya excelled in architecture, agriculture... mathematics, calendar, and astronomical systems."
+                }
+            ]
+        },
+        {
+            "passageId": 25,
+            "title": "Honeybees and Pollination",
+            "content": "Honeybees are fascinating insects that play a vital role in the environment. They are social insects, living in colonies that can contain tens of thousands of individuals. A colony consists of a single queen, thousands of female worker bees, and a few hundred male drones. The queen's sole purpose is to lay eggs, while the workers perform all the tasks necessary to maintain the hive, such as gathering nectar, feeding larvae, and defending the colony.\n\nThe most critical contribution of honeybees to the ecosystem is pollination. As bees travel from flower to flower collecting nectar and pollen for food, they transfer pollen grains from the male part of a flower to the female part. This process allows plants to reproduce and produce fruits and seeds. It is estimated that one-third of the human food supply depends on insect pollination, most of which is done by bees.\n\nIn recent years, honeybee populations have been declining due to a phenomenon known as Colony Collapse Disorder (CCD). Factors contributing to CCD include pesticides, habitat loss, diseases, and climate change. The loss of honeybees poses a significant threat to global agriculture and biodiversity, prompting efforts to protect and restore bee habitats.",
+            "questions": [
+                {
+                    "id": "R241",
+                    "questionText": "What is the primary role of the queen bee?",
+                    "options": [
+                        "Gathering nectar",
+                        "Defending the hive",
+                        "Laying eggs",
+                        "Building the comb"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The queen's sole purpose is to lay eggs."
+                },
+                {
+                    "id": "R242",
+                    "questionText": "Who performs the maintenance tasks in the hive?",
+                    "options": [
+                        "The queen",
+                        "The drones",
+                        "The worker bees",
+                        "Other insects"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Workers perform all the tasks necessary to maintain the hive."
+                },
+                {
+                    "id": "R243",
+                    "questionText": "What is the most critical contribution of honeybees?",
+                    "options": [
+                        "Making honey",
+                        "Pollination",
+                        "Stinging predators",
+                        "Eating pests"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The most critical contribution... is pollination."
+                },
+                {
+                    "id": "R244",
+                    "questionText": "How much of the human food supply depends on insect pollination?",
+                    "options": [
+                        "One-tenth",
+                        "One-quarter",
+                        "One-third",
+                        "One-half"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "It is estimated that one-third of the human food supply depends on insect pollination."
+                },
+                {
+                    "id": "R245",
+                    "questionText": "What is CCD?",
+                    "options": [
+                        "Climate Change Disaster",
+                        "Colony Collapse Disorder",
+                        "Common Cold Disease",
+                        "Crop Circle Design"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Phenomenon known as Colony Collapse Disorder (CCD)."
+                },
+                {
+                    "id": "R246",
+                    "questionText": "Which is NOT mentioned as a factor for CCD?",
+                    "options": [
+                        "Pesticides",
+                        "Habitat loss",
+                        "Overpopulation of bees",
+                        "Diseases"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Factors include pesticides, habitat loss, diseases, and climate change. Overpopulation is not mentioned."
+                },
+                {
+                    "id": "R247",
+                    "questionText": "The word 'vital' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Optional",
+                        "Dangerous",
+                        "Essential",
+                        "Small"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Vital means absolutely necessary or important (essential)."
+                },
+                {
+                    "id": "R248",
+                    "questionText": "What do bees collect from flowers?",
+                    "options": [
+                        "Water and soil",
+                        "Nectar and pollen",
+                        "Leaves and stems",
+                        "Seeds and fruit"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Collecting nectar and pollen for food."
+                },
+                {
+                    "id": "R249",
+                    "questionText": "What are male bees called?",
+                    "options": [
+                        "Workers",
+                        "Kings",
+                        "Drones",
+                        "Soldiers"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "A few hundred male drones."
+                },
+                {
+                    "id": "R250",
+                    "questionText": "Why is the loss of honeybees a threat?",
+                    "options": [
+                        "They make less honey",
+                        "It affects agriculture and biodiversity",
+                        "They are becoming aggressive",
+                        "They eat too many plants"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Poses a significant threat to global agriculture and biodiversity."
+                }
+            ]
+        },
+        {
+            "passageId": 26,
+            "title": "The History of Photography",
+            "content": "The history of photography dates back to the early 19th century, though the principle of the camera obscura had been known for centuries. The first permanent photograph was created by Joseph Nicéphore Niépce in 1826 or 1827. He used a bitumen-coated plate and an exposure time of several hours to capture a view from his window.\n\nIn 1839, Louis Daguerre introduced the daguerreotype, a process that significantly reduced exposure time and produced sharper images. This invention made photography practical for portraits and marked the birth of commercial photography. Around the same time, William Henry Fox Talbot developed the calotype process, which used a negative to produce multiple positive prints, the basis for modern film photography.\n\nPhotography continued to evolve with the invention of flexible roll film by George Eastman in 1888, which made photography accessible to the general public through the Kodak camera. The 20th century saw the introduction of color photography and eventually the digital revolution. Today, digital cameras and smartphones have made photography an integral part of daily life, allowing billions of images to be captured and shared instantly.",
+            "questions": [
+                {
+                    "id": "R251",
+                    "questionText": "Who created the first permanent photograph?",
+                    "options": [
+                        "Louis Daguerre",
+                        "George Eastman",
+                        "Joseph Nicéphore Niépce",
+                        "William Henry Fox Talbot"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The first permanent photograph was created by Joseph Nicéphore Niépce."
+                },
+                {
+                    "id": "R252",
+                    "questionText": "What was the main drawback of Niépce's process?",
+                    "options": [
+                        "It was too expensive",
+                        "It took several hours of exposure",
+                        "It was in black and white",
+                        "It required a large camera"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "He used... an exposure time of several hours."
+                },
+                {
+                    "id": "R253",
+                    "questionText": "What did the daguerreotype achieve?",
+                    "options": [
+                        "Color images",
+                        "Reduced exposure time",
+                        "Digital storage",
+                        "Instant printing"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Significantly reduced exposure time and produced sharper images."
+                },
+                {
+                    "id": "R254",
+                    "questionText": "Who developed the calotype process?",
+                    "options": [
+                        "Niépce",
+                        "Daguerre",
+                        "Talbot",
+                        "Eastman"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "William Henry Fox Talbot developed the calotype process."
+                },
+                {
+                    "id": "R255",
+                    "questionText": "What was the advantage of the calotype?",
+                    "options": [
+                        "It was faster",
+                        "It produced multiple prints from a negative",
+                        "It was colorful",
+                        "It used glass plates"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Used a negative to produce multiple positive prints."
+                },
+                {
+                    "id": "R256",
+                    "questionText": "What did George Eastman invent?",
+                    "options": [
+                        "The digital camera",
+                        "The daguerreotype",
+                        "Flexible roll film",
+                        "The flash"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Invention of flexible roll film by George Eastman."
+                },
+                {
+                    "id": "R257",
+                    "questionText": "The word 'integral' in paragraph 3 is closest in meaning to:",
+                    "options": [
+                        "Unimportant",
+                        "Separate",
+                        "Essential",
+                        "New"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Integral means necessary to make a whole complete; essential."
+                },
+                {
+                    "id": "R258",
+                    "questionText": "When was the daguerreotype introduced?",
+                    "options": [
+                        "1826",
+                        "1839",
+                        "1888",
+                        "1900"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "In 1839, Louis Daguerre introduced the daguerreotype."
+                },
+                {
+                    "id": "R259",
+                    "questionText": "What device made photography accessible to the public in 1888?",
+                    "options": [
+                        "The iPhone",
+                        "The Kodak camera",
+                        "The Polaroid",
+                        "The Leica"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Made photography accessible... through the Kodak camera."
+                },
+                {
+                    "id": "R260",
+                    "questionText": "What is the most recent major revolution in photography mentioned?",
+                    "options": [
+                        "Color photography",
+                        "Digital revolution",
+                        "Film development",
+                        "Flash photography"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The 20th century saw... eventually the digital revolution."
+                }
+            ]
+        },
+        {
+            "passageId": 27,
+            "title": "The Gulf Stream",
+            "content": "The Gulf Stream is a powerful, warm, and swift Atlantic ocean current that originates in the Gulf of Mexico and flows north along the eastern coast of the United States before crossing the Atlantic Ocean towards Europe. It acts like a giant conveyor belt, transporting warm water from the tropics to higher latitudes.\n\nThis current has a significant influence on the climate of the east coast of North America and the west coast of Europe. Because of the warm water it carries, the Gulf Stream helps keep temperatures in Western Europe milder than they would otherwise be, given their northern latitude. For example, London is at a similar latitude to Calgary, Canada, but has a much milder climate due to the warming influence of the current.\n\nThe Gulf Stream also affects marine life. The warm waters support diverse ecosystems and migratory paths for fish. However, scientists are concerned that climate change and melting ice caps could disrupt the Gulf Stream. An influx of cold, fresh water from melting glaciers could weaken the current, potentially leading to drastic climate shifts in Europe and North America.",
+            "questions": [
+                {
+                    "id": "R261",
+                    "questionText": "Where does the Gulf Stream originate?",
+                    "options": [
+                        "The Atlantic Ocean",
+                        "The Gulf of Mexico",
+                        "The Pacific Ocean",
+                        "The North Sea"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Originates in the Gulf of Mexico."
+                },
+                {
+                    "id": "R262",
+                    "questionText": "Which direction does the Gulf Stream flow initially?",
+                    "options": [
+                        "South",
+                        "West",
+                        "North",
+                        "East"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Flows north along the eastern coast of the United States."
+                },
+                {
+                    "id": "R263",
+                    "questionText": "What effect does the Gulf Stream have on Western Europe?",
+                    "options": [
+                        "It makes it colder",
+                        "It keeps temperatures milder",
+                        "It causes droughts",
+                        "It blocks trade routes"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Helps keep temperatures in Western Europe milder."
+                },
+                {
+                    "id": "R264",
+                    "questionText": "London is compared to which city in terms of latitude?",
+                    "options": [
+                        "New York",
+                        "Paris",
+                        "Calgary",
+                        "Moscow"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "London is at a similar latitude to Calgary, Canada."
+                },
+                {
+                    "id": "R265",
+                    "questionText": "What does the Gulf Stream transport?",
+                    "options": [
+                        "Cold water",
+                        "Warm water",
+                        "Sand",
+                        "Oil"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Transporting warm water from the tropics."
+                },
+                {
+                    "id": "R266",
+                    "questionText": "How does the Gulf Stream affect marine life?",
+                    "options": [
+                        "It kills fish",
+                        "It supports diverse ecosystems",
+                        "It prevents migration",
+                        "It removes oxygen"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The warm waters support diverse ecosystems and migratory paths."
+                },
+                {
+                    "id": "R267",
+                    "questionText": "The word 'disrupt' in paragraph 3 is closest in meaning to:",
+                    "options": [
+                        "Strengthen",
+                        "Disturb",
+                        "Create",
+                        "Ignore"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Disrupt means to interrupt or disturb."
+                },
+                {
+                    "id": "R268",
+                    "questionText": "What could weaken the Gulf Stream?",
+                    "options": [
+                        "More fish",
+                        "Stronger winds",
+                        "Influx of cold, fresh water",
+                        "Volcanic eruptions"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "An influx of cold, fresh water from melting glaciers could weaken the current."
+                },
+                {
+                    "id": "R269",
+                    "questionText": "What would be a consequence of a weakened Gulf Stream?",
+                    "options": [
+                        "Warmer summers",
+                        "Drastic climate shifts",
+                        "More hurricanes",
+                        "Less rain"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Potentially leading to drastic climate shifts."
+                },
+                {
+                    "id": "R270",
+                    "questionText": "The Gulf Stream is described as acting like a:",
+                    "options": [
+                        "Giant fan",
+                        "Conveyor belt",
+                        "Wall",
+                        "Drain"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "It acts like a giant conveyor belt."
+                }
+            ]
+        },
+        {
+            "passageId": 28,
+            "title": "Impressionism in Art",
+            "content": "Impressionism was a 19th-century art movement that originated with a group of Paris-based artists. The movement is characterized by relatively small, thin, yet visible brush strokes, open composition, emphasis on accurate depiction of light in its changing qualities, and ordinary subject matter. The name of the movement is derived from the title of a Claude Monet work, 'Impression, Sunrise'.\n\nImpressionist painters, such as Monet, Pierre-Auguste Renoir, and Camille Pissarro, broke away from the traditional rules of academic painting. Instead of painting inside studios, they often painted outdoors ('en plein air') to capture the natural light and atmosphere of a specific moment. They used vibrant colors and avoided the use of black, preferring to mix complementary colors to create shadows.\n\nInitially, the Impressionists faced harsh criticism from the conventional art community, who viewed their work as unfinished sketches. However, the movement gradually gained acceptance and popularity. Impressionism paved the way for modern art, influencing subsequent movements like Post-Impressionism, Fauvism, and Cubism.",
+            "questions": [
+                {
+                    "id": "R271",
+                    "questionText": "Where did Impressionism originate?",
+                    "options": [
+                        "London",
+                        "New York",
+                        "Paris",
+                        "Rome"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Originated with a group of Paris-based artists."
+                },
+                {
+                    "id": "R272",
+                    "questionText": "Which painting gave the movement its name?",
+                    "options": [
+                        "Starry Night",
+                        "Mona Lisa",
+                        "Impression, Sunrise",
+                        "Water Lilies"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Derived from the title of a Claude Monet work, 'Impression, Sunrise'."
+                },
+                {
+                    "id": "R273",
+                    "questionText": "What is a characteristic of Impressionist painting?",
+                    "options": [
+                        "Invisible brush strokes",
+                        "Historical subjects",
+                        "Visible brush strokes and light emphasis",
+                        "Dark colors"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Characterized by... visible brush strokes, emphasis on accurate depiction of light."
+                },
+                {
+                    "id": "R274",
+                    "questionText": "What does 'en plein air' mean?",
+                    "options": [
+                        "In the studio",
+                        "Outdoors",
+                        "At night",
+                        "In silence"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "They often painted outdoors ('en plein air')."
+                },
+                {
+                    "id": "R275",
+                    "questionText": "Which artist is NOT mentioned as an Impressionist?",
+                    "options": [
+                        "Claude Monet",
+                        "Pierre-Auguste Renoir",
+                        "Camille Pissarro",
+                        "Vincent van Gogh"
+                    ],
+                    "answerIndex": 3,
+                    "explanation": "Monet, Renoir, and Pissarro are mentioned. Van Gogh is not (he was Post-Impressionist)."
+                },
+                {
+                    "id": "R276",
+                    "questionText": "How did they create shadows?",
+                    "options": [
+                        "Using black paint",
+                        "Mixing complementary colors",
+                        "Leaving canvas blank",
+                        "Using grey paint"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Preferring to mix complementary colors to create shadows."
+                },
+                {
+                    "id": "R277",
+                    "questionText": "The word 'conventional' in paragraph 3 is closest in meaning to:",
+                    "options": [
+                        "Modern",
+                        "Traditional",
+                        "Rebellious",
+                        "Young"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Conventional means based on what is generally done or believed (traditional)."
+                },
+                {
+                    "id": "R278",
+                    "questionText": "How was Impressionism initially received?",
+                    "options": [
+                        "With praise",
+                        "With harsh criticism",
+                        "With indifference",
+                        "With financial success"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Initially, the Impressionists faced harsh criticism."
+                },
+                {
+                    "id": "R279",
+                    "questionText": "What subject matter did they prefer?",
+                    "options": [
+                        "Mythological scenes",
+                        "Ordinary subject matter",
+                        "Royal portraits",
+                        "Religious icons"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "And ordinary subject matter."
+                },
+                {
+                    "id": "R280",
+                    "questionText": "Impressionism paved the way for:",
+                    "options": [
+                        "The Renaissance",
+                        "Modern art",
+                        "Classical art",
+                        "Gothic art"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Impressionism paved the way for modern art."
+                }
+            ]
+        },
+        {
+            "passageId": 29,
+            "title": "The Psychology of Dreams",
+            "content": "Dreams have fascinated humans for millennia, but the scientific study of dreams, or oneirology, is a relatively recent field. In the early 20th century, Sigmund Freud proposed that dreams were a manifestation of repressed desires and unconscious thoughts. He famously described dreams as the 'royal road to the unconscious.'\n\nModern theories offer different explanations. The Activation-Synthesis theory suggests that dreams are the brain's attempt to make sense of random neural activity that occurs during REM (Rapid Eye Movement) sleep. Another theory posits that dreaming is a form of information processing, helping the brain to consolidate memories and learn from daily experiences. Some researchers believe dreams serve a simulation function, allowing us to practice handling threatening situations in a safe environment.\n\nDespite these theories, the exact function of dreaming remains a subject of debate. What is known is that most vivid dreaming occurs during REM sleep, a stage characterized by high brain activity and muscle paralysis. Lack of REM sleep can lead to cognitive deficits and emotional instability, suggesting that dreaming plays an important role in mental health.",
+            "questions": [
+                {
+                    "id": "R281",
+                    "questionText": "What is the scientific study of dreams called?",
+                    "options": [
+                        "Psychology",
+                        "Neurology",
+                        "Oneirology",
+                        "Sleepology"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Scientific study of dreams, or oneirology."
+                },
+                {
+                    "id": "R282",
+                    "questionText": "How did Sigmund Freud view dreams?",
+                    "options": [
+                        "As random noise",
+                        "As future predictions",
+                        "As repressed desires",
+                        "As messages from gods"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Dreams were a manifestation of repressed desires."
+                },
+                {
+                    "id": "R283",
+                    "questionText": "What does the Activation-Synthesis theory suggest?",
+                    "options": [
+                        "Dreams are wish fulfillment",
+                        "Dreams are the brain making sense of random activity",
+                        "Dreams are memories",
+                        "Dreams are useless"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Brain's attempt to make sense of random neural activity."
+                },
+                {
+                    "id": "R284",
+                    "questionText": "During which sleep stage does vivid dreaming occur?",
+                    "options": [
+                        "Deep sleep",
+                        "REM sleep",
+                        "Light sleep",
+                        "Napping"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Most vivid dreaming occurs during REM sleep."
+                },
+                {
+                    "id": "R285",
+                    "questionText": "What characterizes REM sleep?",
+                    "options": [
+                        "Low brain activity",
+                        "Muscle paralysis and high brain activity",
+                        "Sleepwalking",
+                        "Snoring"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Characterized by high brain activity and muscle paralysis."
+                },
+                {
+                    "id": "R286",
+                    "questionText": "The word 'consolidate' in paragraph 2 is closest in meaning to:",
+                    "options": [
+                        "Forget",
+                        "Strengthen",
+                        "Erase",
+                        "Create"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Consolidate means to make stronger or solid (strengthen memories)."
+                },
+                {
+                    "id": "R287",
+                    "questionText": "What might happen due to lack of REM sleep?",
+                    "options": [
+                        "Improved memory",
+                        "Cognitive deficits",
+                        "Better physical health",
+                        "Less dreaming"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Can lead to cognitive deficits and emotional instability."
+                },
+                {
+                    "id": "R288",
+                    "questionText": "What is the simulation theory of dreams?",
+                    "options": [
+                        "Practicing for threats",
+                        "Watching movies",
+                        "Predicting the future",
+                        "Reliving the past"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Practice handling threatening situations."
+                },
+                {
+                    "id": "R289",
+                    "questionText": "Freud called dreams the 'royal road' to what?",
+                    "options": [
+                        "The future",
+                        "The soul",
+                        "The unconscious",
+                        "The mind"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Royal road to the unconscious."
+                },
+                {
+                    "id": "R290",
+                    "questionText": "Is there a single agreed-upon function of dreams?",
+                    "options": [
+                        "Yes, it is memory",
+                        "Yes, it is wish fulfillment",
+                        "No, it remains a subject of debate",
+                        "Yes, it is random"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The exact function of dreaming remains a subject of debate."
+                }
+            ]
+        },
+        {
+            "passageId": 30,
+            "title": "The Domestication of Dogs",
+            "content": "The dog was the first species to be domesticated by humans, long before the advent of agriculture. Genetic studies suggest that dogs diverged from an extinct species of wolf between 20,000 and 40,000 years ago. This domestication likely occurred in Eurasia, where hunter-gatherer humans and wolves may have formed a mutually beneficial relationship.\n\nWolves may have been attracted to human camps by food scraps. Over time, less aggressive and more curious wolves tolerated human presence and even helped protect the camps or assist in hunting. Humans, in turn, provided food and shelter. This process, known as self-domestication, eventually led to the evolution of the dog.\n\nSelective breeding over thousands of years has resulted in the incredible diversity of dog breeds we see today, ranging from the tiny Chihuahua to the massive Great Dane. Despite their physical differences, all dogs belong to the same species, Canis lupus familiaris. Dogs have played various roles in human society, including hunting, herding, protection, and companionship, earning them the title 'man's best friend'.",
+            "questions": [
+                {
+                    "id": "R291",
+                    "questionText": "What was the first species to be domesticated?",
+                    "options": [
+                        "Cat",
+                        "Horse",
+                        "Dog",
+                        "Cow"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The dog was the first species to be domesticated."
+                },
+                {
+                    "id": "R292",
+                    "questionText": "From which animal did dogs diverge?",
+                    "options": [
+                        "Fox",
+                        "Coyote",
+                        "Extinct species of wolf",
+                        "Jackal"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Dogs diverged from an extinct species of wolf."
+                },
+                {
+                    "id": "R293",
+                    "questionText": "When did this divergence likely occur?",
+                    "options": [
+                        "10,000 years ago",
+                        "20,000 to 40,000 years ago",
+                        "5,000 years ago",
+                        "1 million years ago"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Between 20,000 and 40,000 years ago."
+                },
+                {
+                    "id": "R294",
+                    "questionText": "Where did domestication likely occur?",
+                    "options": [
+                        "Africa",
+                        "Australia",
+                        "Eurasia",
+                        "South America"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "This domestication likely occurred in Eurasia."
+                },
+                {
+                    "id": "R295",
+                    "questionText": "What attracted wolves to human camps?",
+                    "options": [
+                        "Fire",
+                        "Food scraps",
+                        "Shelter",
+                        "Music"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Wolves may have been attracted... by food scraps."
+                },
+                {
+                    "id": "R296",
+                    "questionText": "What is 'self-domestication' in this context?",
+                    "options": [
+                        "Humans capturing wolves",
+                        "Wolves adapting to humans naturally",
+                        "Genetic engineering",
+                        "Training in schools"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Less aggressive wolves tolerated human presence... This process, known as self-domestication."
+                },
+                {
+                    "id": "R297",
+                    "questionText": "What caused the diversity of dog breeds?",
+                    "options": [
+                        "Natural selection",
+                        "Selective breeding by humans",
+                        "Climate change",
+                        "Diet"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Selective breeding over thousands of years has resulted in the incredible diversity."
+                },
+                {
+                    "id": "R298",
+                    "questionText": "The word 'diverged' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Joined",
+                        "Separated",
+                        "Fought",
+                        "Stayed"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Diverged means to separate from another route (separated)."
+                },
+                {
+                    "id": "R299",
+                    "questionText": "What is the scientific name for the dog?",
+                    "options": [
+                        "Canis lupus",
+                        "Canis familiaris",
+                        "Canis lupus familiaris",
+                        "Canis dog"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "All dogs belong to the same species, Canis lupus familiaris."
+                },
+                {
+                    "id": "R300",
+                    "questionText": "Why are dogs called 'man's best friend'?",
+                    "options": [
+                        "Because they speak",
+                        "Because of their roles and companionship",
+                        "Because they are expensive",
+                        "Because they live long"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Dogs have played various roles... and companionship, earning them the title."
+                }
+            ]
+        },
+        {
+            "passageId": 31,
+            "title": "The Aurora Borealis",
+            "content": "The Aurora Borealis, also known as the Northern Lights, is a natural light display in the Earth's sky, predominantly seen in the high-latitude regions around the Arctic and Antarctic. The phenomenon is caused by disturbances in the magnetosphere caused by solar wind. These disturbances alter the trajectories of charged particles in the magnetospheric plasma.\n\nWhen these charged particles, mainly electrons and protons, precipitate into the upper atmosphere, their energy is lost. This energy causes the ionization and excitation of atmospheric constituents, primarily oxygen and nitrogen, which then emit light of varying color and complexity. The most common color is pale green, produced by oxygen molecules located about 60 miles above the earth. Rare red auroras are produced by high-altitude oxygen, at heights of up to 200 miles.\n\nThe auroras appear in many forms, from patches or scattered clouds of light to streamers, arcs, rippling curtains, or shooting rays that light up the sky with an eerie glow. The best time to watch for the Northern Lights is during the winter months when the nights are longest and darkest. In the southern hemisphere, the phenomenon is known as the Aurora Australis.",
+            "questions": [
+                {
+                    "id": "R301",
+                    "questionText": "What is another name for the Aurora Borealis?",
+                    "options": [
+                        "Southern Lights",
+                        "Northern Lights",
+                        "Polar Glow",
+                        "Solar Wind"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Also known as the Northern Lights."
+                },
+                {
+                    "id": "R302",
+                    "questionText": "What causes the disturbances in the magnetosphere?",
+                    "options": [
+                        "The moon",
+                        "Solar wind",
+                        "Earth's rotation",
+                        "Ocean currents"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Caused by disturbances... caused by solar wind."
+                },
+                {
+                    "id": "R303",
+                    "questionText": "What is the most common color of the aurora?",
+                    "options": [
+                        "Red",
+                        "Blue",
+                        "Pale green",
+                        "Purple"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The most common color is pale green."
+                },
+                {
+                    "id": "R304",
+                    "questionText": "What produces the rare red aurora?",
+                    "options": [
+                        "Nitrogen",
+                        "Low-altitude oxygen",
+                        "High-altitude oxygen",
+                        "Carbon dioxide"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Rare red auroras are produced by high-altitude oxygen."
+                },
+                {
+                    "id": "R305",
+                    "questionText": "In which regions are auroras predominantly seen?",
+                    "options": [
+                        "Equator",
+                        "High-latitude regions",
+                        "Deserts",
+                        "Tropical islands"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Predominantly seen in the high-latitude regions."
+                },
+                {
+                    "id": "R306",
+                    "questionText": "What happens when charged particles precipitate into the atmosphere?",
+                    "options": [
+                        "They cool down",
+                        "They emit light",
+                        "They turn into rain",
+                        "They disappear"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "This energy causes... ionization... which then emit light."
+                },
+                {
+                    "id": "R307",
+                    "questionText": "The word 'constituents' in paragraph 2 is closest in meaning to:",
+                    "options": [
+                        "Colors",
+                        "Components",
+                        "Layers",
+                        "Stars"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Constituents means parts or components (oxygen and nitrogen)."
+                },
+                {
+                    "id": "R308",
+                    "questionText": "When is the best time to see the Northern Lights?",
+                    "options": [
+                        "Summer",
+                        "Winter",
+                        "Spring",
+                        "Autumn"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Best time... is during the winter months."
+                },
+                {
+                    "id": "R309",
+                    "questionText": "What is the southern counterpart of the Aurora Borealis?",
+                    "options": [
+                        "Aurora Australis",
+                        "Aurora Polaris",
+                        "Southern Cross",
+                        "Magellanic Cloud"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Known as the Aurora Australis."
+                },
+                {
+                    "id": "R310",
+                    "questionText": "Which gas is primarily responsible for the green color?",
+                    "options": [
+                        "Nitrogen",
+                        "Hydrogen",
+                        "Oxygen",
+                        "Helium"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Produced by oxygen molecules."
+                }
+            ]
+        },
+        {
+            "passageId": 32,
+            "title": "The Panama Canal",
+            "content": "The Panama Canal is an artificial waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean. It cuts across the Isthmus of Panama and is a key conduit for international maritime trade. The canal locks at each end lift ships up to Gatun Lake, an artificial lake created to reduce the amount of excavation work required for the canal, 26 meters above sea level, and then lower the ships at the other end.\n\nFrance began work on the canal in 1881, but stopped due to engineering problems and a high worker mortality rate. The United States took over the project in 1904 and opened the canal on August 15, 1914. One of the greatest obstacles was disease, particularly yellow fever and malaria. Colonel William Gorgas implemented sanitation measures that successfully controlled the mosquitoes carrying these diseases.\n\nThe canal greatly reduced the time for ships to travel between the Atlantic and Pacific oceans, avoiding the lengthy, hazardous Cape Horn route around the southernmost tip of South America. It remains one of the most strategic artificial waterways in the world.",
+            "questions": [
+                {
+                    "id": "R311",
+                    "questionText": "What two oceans does the Panama Canal connect?",
+                    "options": [
+                        "Atlantic and Indian",
+                        "Pacific and Indian",
+                        "Atlantic and Pacific",
+                        "Arctic and Pacific"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Connects the Atlantic Ocean with the Pacific Ocean."
+                },
+                {
+                    "id": "R312",
+                    "questionText": "Which country first attempted to build the canal?",
+                    "options": [
+                        "USA",
+                        "France",
+                        "Spain",
+                        "Panama"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "France began work on the canal in 1881."
+                },
+                {
+                    "id": "R313",
+                    "questionText": "Why did the French stop work?",
+                    "options": [
+                        "Lack of money",
+                        "War",
+                        "Engineering problems and disease",
+                        "Political pressure"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Stopped due to engineering problems and a high worker mortality rate."
+                },
+                {
+                    "id": "R314",
+                    "questionText": "When was the canal opened?",
+                    "options": [
+                        "1881",
+                        "1904",
+                        "1914",
+                        "1920"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Opened the canal on August 15, 1914."
+                },
+                {
+                    "id": "R315",
+                    "questionText": "What was the function of Gatun Lake?",
+                    "options": [
+                        "To provide drinking water",
+                        "To reduce excavation work",
+                        "For fishing",
+                        "For tourism"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Created to reduce the amount of excavation work required."
+                },
+                {
+                    "id": "R316",
+                    "questionText": "How were yellow fever and malaria controlled?",
+                    "options": [
+                        "Vaccines",
+                        "Sanitation measures against mosquitoes",
+                        "New hospitals",
+                        "Quarantine"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Sanitation measures that successfully controlled the mosquitoes."
+                },
+                {
+                    "id": "R317",
+                    "questionText": "The word 'conduit' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Barrier",
+                        "Channel",
+                        "Source",
+                        "Destination"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Conduit means a channel for conveying water or fluid (or trade)."
+                },
+                {
+                    "id": "R318",
+                    "questionText": "What route did ships have to take before the canal?",
+                    "options": [
+                        "Cape of Good Hope",
+                        "Cape Horn",
+                        "Suez Canal",
+                        "Northwest Passage"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Avoiding the lengthy, hazardous Cape Horn route."
+                },
+                {
+                    "id": "R319",
+                    "questionText": "How are ships raised to the level of the lake?",
+                    "options": [
+                        "By cranes",
+                        "By pumps",
+                        "By locks",
+                        "By tides"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The canal locks... lift ships."
+                },
+                {
+                    "id": "R320",
+                    "questionText": "Who implemented the sanitation measures?",
+                    "options": [
+                        "Theodore Roosevelt",
+                        "William Gorgas",
+                        "Ferdinand de Lesseps",
+                        "John Stevens"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Colonel William Gorgas implemented sanitation measures."
+                }
+            ]
+        },
+        {
+            "passageId": 33,
+            "title": "The Evolution of Whales",
+            "content": "Whales are marine mammals that evolved from land-dwelling ancestors. This transition from land to sea is one of the most remarkable examples of macroevolution. Fossil evidence suggests that whales share a common ancestor with artiodactyls, a group of even-toed ungulates that includes hippos, cows, and camels. The closest living relative to the whale is the hippopotamus.\n\nAround 50 million years ago, early ancestors like Pakicetus lived on the edges of bodies of water. Over millions of years, these animals adapted to aquatic life. Their bodies became streamlined, their front limbs evolved into flippers, and their hind limbs disappeared or became vestigial. The position of their nostrils moved to the top of their heads to form blowholes, allowing them to breathe while submerged.\n\nWhales are classified into two main groups: toothed whales (Odontoceti) and baleen whales (Mysticeti). Toothed whales, such as killer whales and dolphins, use echolocation to hunt prey. Baleen whales, like the blue whale, possess baleen plates instead of teeth, which they use to filter small organisms like krill from the water.",
+            "questions": [
+                {
+                    "id": "R321",
+                    "questionText": "Whales evolved from ancestors that lived where?",
+                    "options": [
+                        "In the deep ocean",
+                        "On land",
+                        "In the air",
+                        "In freshwater only"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Evolved from land-dwelling ancestors."
+                },
+                {
+                    "id": "R322",
+                    "questionText": "What is the closest living relative to the whale?",
+                    "options": [
+                        "Cow",
+                        "Hippo",
+                        "Seal",
+                        "Shark"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The closest living relative... is the hippopotamus."
+                },
+                {
+                    "id": "R323",
+                    "questionText": "What is Pakicetus?",
+                    "options": [
+                        "A modern whale",
+                        "An early ancestor",
+                        "A type of fish",
+                        "A plant"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Early ancestors like Pakicetus."
+                },
+                {
+                    "id": "R324",
+                    "questionText": "How did their limbs change?",
+                    "options": [
+                        "They grew wings",
+                        "Front limbs became flippers",
+                        "They grew legs",
+                        "They lost all limbs"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Front limbs evolved into flippers."
+                },
+                {
+                    "id": "R325",
+                    "questionText": "What is the function of the blowhole?",
+                    "options": [
+                        "Eating",
+                        "Hearing",
+                        "Breathing",
+                        "Smelling"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Allowing them to breathe while submerged."
+                },
+                {
+                    "id": "R326",
+                    "questionText": "Which group does the Blue Whale belong to?",
+                    "options": [
+                        "Toothed whales",
+                        "Baleen whales",
+                        "Fish",
+                        "Seals"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Baleen whales, like the blue whale."
+                },
+                {
+                    "id": "R327",
+                    "questionText": "The word 'vestigial' in paragraph 2 is closest in meaning to:",
+                    "options": [
+                        "Large",
+                        "Functional",
+                        "Rudimentary or non-functional",
+                        "Essential"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Vestigial means degenerate, rudimentary, or atrophied."
+                },
+                {
+                    "id": "R328",
+                    "questionText": "What do toothed whales use to hunt?",
+                    "options": [
+                        "Sight",
+                        "Smell",
+                        "Echolocation",
+                        "Nets"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Use echolocation to hunt prey."
+                },
+                {
+                    "id": "R329",
+                    "questionText": "What do baleen whales eat?",
+                    "options": [
+                        "Large fish",
+                        "Seals",
+                        "Small organisms like krill",
+                        "Seaweed"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Filter small organisms like krill."
+                },
+                {
+                    "id": "R330",
+                    "questionText": "When did early ancestors live?",
+                    "options": [
+                        "10 million years ago",
+                        "50 million years ago",
+                        "100 million years ago",
+                        "1 million years ago"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Around 50 million years ago."
+                }
+            ]
+        },
+        {
+            "passageId": 34,
+            "title": "Gothic Architecture",
+            "content": "Gothic architecture is a style that flourished in Europe during the High and Late Middle Ages. It evolved from Romanesque architecture and was succeeded by Renaissance architecture. Originating in 12th-century France, it lasted until the 16th century. The style is most famously applied to cathedrals and churches.\n\nKey characteristics of Gothic architecture include the pointed arch, the ribbed vault, and the flying buttress. The pointed arch allowed for taller buildings and distributed weight more efficiently. Flying buttresses transferred the weight of the roof away from the walls, allowing for thinner walls and larger windows. These windows were often filled with stained glass, creating a space filled with colored light that was meant to evoke a sense of the divine.\n\nNotre-Dame de Paris and Westminster Abbey are iconic examples of Gothic architecture. The emphasis on verticality and light was a departure from the thick, heavy walls and small windows of the Romanesque style. Gothic cathedrals were often the tallest buildings in their cities and served as major community centers.",
+            "questions": [
+                {
+                    "id": "R331",
+                    "questionText": "When did Gothic architecture flourish?",
+                    "options": [
+                        "Dark Ages",
+                        "High and Late Middle Ages",
+                        "Renaissance",
+                        "Industrial Revolution"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Flourished... during the High and Late Middle Ages."
+                },
+                {
+                    "id": "R332",
+                    "questionText": "Where did Gothic architecture originate?",
+                    "options": [
+                        "Italy",
+                        "Germany",
+                        "France",
+                        "England"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Originating in 12th-century France."
+                },
+                {
+                    "id": "R333",
+                    "questionText": "Which is a key characteristic of Gothic architecture?",
+                    "options": [
+                        "Round arch",
+                        "Pointed arch",
+                        "Thick walls",
+                        "Small windows"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Key characteristics... include the pointed arch."
+                },
+                {
+                    "id": "R334",
+                    "questionText": "What is the function of a flying buttress?",
+                    "options": [
+                        "Decoration",
+                        "To transfer weight away from walls",
+                        "To hold water",
+                        "To ring bells"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Transferred the weight of the roof away from the walls."
+                },
+                {
+                    "id": "R335",
+                    "questionText": "What did thinner walls allow for?",
+                    "options": [
+                        "More doors",
+                        "Larger windows",
+                        "Less cost",
+                        "Faster building"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Allowing for thinner walls and larger windows."
+                },
+                {
+                    "id": "R336",
+                    "questionText": "What filled the large windows?",
+                    "options": [
+                        "Wood",
+                        "Clear glass",
+                        "Stained glass",
+                        "Stone"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Windows were often filled with stained glass."
+                },
+                {
+                    "id": "R337",
+                    "questionText": "The word 'evoke' in paragraph 2 is closest in meaning to:",
+                    "options": [
+                        "Block",
+                        "Bring to mind or produce",
+                        "Destroy",
+                        "Paint"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Evoke means to bring or recall to the conscious mind."
+                },
+                {
+                    "id": "R338",
+                    "questionText": "Which building is an example of Gothic architecture?",
+                    "options": [
+                        "The Colosseum",
+                        "Notre-Dame de Paris",
+                        "The Parthenon",
+                        "St. Peter's Basilica"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Notre-Dame de Paris... iconic examples."
+                },
+                {
+                    "id": "R339",
+                    "questionText": "What style preceded Gothic architecture?",
+                    "options": [
+                        "Renaissance",
+                        "Baroque",
+                        "Romanesque",
+                        "Modern"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "It evolved from Romanesque architecture."
+                },
+                {
+                    "id": "R340",
+                    "questionText": "What was a main emphasis of Gothic design?",
+                    "options": [
+                        "Horizontal lines",
+                        "Darkness",
+                        "Verticality and light",
+                        "Simplicity"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Emphasis on verticality and light."
+                }
+            ]
+        },
+        {
+            "passageId": 35,
+            "title": "Aquifers and Groundwater",
+            "content": "Groundwater is water located beneath the Earth's surface in soil pore spaces and in the fractures of rock formations. An aquifer is a body of porous rock or sediment saturated with groundwater. Groundwater makes up about 30% of the world's fresh water, with the rest being locked in ice caps or existing as surface water.\n\nThere are two main types of aquifers: unconfined and confined. Unconfined aquifers are covered by a permeable layer of soil, allowing water to seep down directly from the surface. Confined aquifers are sandwiched between impermeable layers of rock or clay, which prevents water from seeping in directly above. Water in confined aquifers is often under pressure.\n\nHumans rely heavily on aquifers for drinking water and irrigation. Wells are drilled into aquifers to pump water to the surface. However, over-extraction can lead to depletion, where the water table drops, making wells run dry. It can also cause land subsidence, where the ground sinks because the water supporting the soil structure is removed. Sustainable management of groundwater is essential for future water security.",
+            "questions": [
+                {
+                    "id": "R341",
+                    "questionText": "What is an aquifer?",
+                    "options": [
+                        "A river",
+                        "A body of porous rock saturated with water",
+                        "A type of fish",
+                        "A water tank"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Body of porous rock or sediment saturated with groundwater."
+                },
+                {
+                    "id": "R342",
+                    "questionText": "How much of the world's fresh water is groundwater?",
+                    "options": [
+                        "10%",
+                        "30%",
+                        "50%",
+                        "70%"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Groundwater makes up about 30%."
+                },
+                {
+                    "id": "R343",
+                    "questionText": "What covers an unconfined aquifer?",
+                    "options": [
+                        "Solid rock",
+                        "Permeable soil",
+                        "Concrete",
+                        "Clay"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Covered by a permeable layer of soil."
+                },
+                {
+                    "id": "R344",
+                    "questionText": "What characterizes a confined aquifer?",
+                    "options": [
+                        "It has no water",
+                        "It is on the surface",
+                        "It is between impermeable layers",
+                        "It is full of fish"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Sandwiched between impermeable layers of rock or clay."
+                },
+                {
+                    "id": "R345",
+                    "questionText": "How do humans access aquifer water?",
+                    "options": [
+                        "By buckets",
+                        "By drilling wells",
+                        "By waiting for rain",
+                        "By evaporation"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Wells are drilled into aquifers to pump water."
+                },
+                {
+                    "id": "R346",
+                    "questionText": "What is land subsidence?",
+                    "options": [
+                        "Land rising",
+                        "Land sinking",
+                        "Land farming",
+                        "Land flooding"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Ground sinks because the water... is removed."
+                },
+                {
+                    "id": "R347",
+                    "questionText": "The word 'permeable' in paragraph 2 is closest in meaning to:",
+                    "options": [
+                        "Solid",
+                        "Allowing liquids to pass through",
+                        "Hard",
+                        "Dry"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Permeable means allowing liquids or gases to pass through."
+                },
+                {
+                    "id": "R348",
+                    "questionText": "What happens when over-extraction occurs?",
+                    "options": [
+                        "Water table rises",
+                        "Water table drops",
+                        "Water becomes salty",
+                        "Aquifer expands"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Depletion, where the water table drops."
+                },
+                {
+                    "id": "R349",
+                    "questionText": "Why is water in confined aquifers often under pressure?",
+                    "options": [
+                        "Gravity",
+                        "Trapped between layers",
+                        "Heat",
+                        "Pumps"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Confined aquifers... water... often under pressure (implied by the sandwiching)."
+                },
+                {
+                    "id": "R350",
+                    "questionText": "Where is the majority of fresh water found?",
+                    "options": [
+                        "Rivers",
+                        "Lakes",
+                        "Ice caps",
+                        "Groundwater"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Rest being locked in ice caps (implied majority since groundwater is 30% and surface is less)."
+                }
+            ]
+        },
+        {
+            "passageId": 36,
+            "title": "The Gold Rush of 1849",
+            "content": "The California Gold Rush began on January 24, 1848, when gold was found by James W. Marshall at Sutter's Mill in Coloma, California. The news of gold brought approximately 300,000 people to California from the rest of the United States and abroad. These fortune seekers, called 'forty-niners' (referring to the year 1849), traveled by sailing ship and covered wagon, facing substantial hardships on the trip.\n\nThe influx of people transformed California from a sparsely populated region into a booming state. San Francisco grew from a small settlement of about 200 residents in 1846 to a boomtown of about 36,000 by 1852. Roads, churches, schools, and other towns were built throughout California. In 1850, California became the 31st state of the Union.\n\nWhile some miners found great wealth, many returned home with little more than they started with. The Gold Rush also had negative consequences, particularly for the Native American population, who suffered from disease, starvation, and attacks. The environment was also heavily damaged by hydraulic mining techniques that washed away hillsides and clogged rivers with sediment.",
+            "questions": [
+                {
+                    "id": "R351",
+                    "questionText": "Who discovered gold at Sutter's Mill?",
+                    "options": [
+                        "John Sutter",
+                        "James W. Marshall",
+                        "Sam Brannan",
+                        "Levi Strauss"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Gold was found by James W. Marshall."
+                },
+                {
+                    "id": "R352",
+                    "questionText": "What were the gold seekers called?",
+                    "options": [
+                        "Fifty-eighters",
+                        "Forty-niners",
+                        "Gold diggers",
+                        "Californians"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Called 'forty-niners'."
+                },
+                {
+                    "id": "R353",
+                    "questionText": "How many people came to California?",
+                    "options": [
+                        "10,000",
+                        "100,000",
+                        "300,000",
+                        "1 million"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Brought approximately 300,000 people."
+                },
+                {
+                    "id": "R354",
+                    "questionText": "What happened to San Francisco?",
+                    "options": [
+                        "It was abandoned",
+                        "It burned down",
+                        "It grew rapidly",
+                        "It stayed the same"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Grew from... 200 residents... to about 36,000."
+                },
+                {
+                    "id": "R355",
+                    "questionText": "When did California become a state?",
+                    "options": [
+                        "1848",
+                        "1849",
+                        "1850",
+                        "1852"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "In 1850, California became the 31st state."
+                },
+                {
+                    "id": "R356",
+                    "questionText": "Did all miners become rich?",
+                    "options": [
+                        "Yes, everyone",
+                        "No, many returned with little",
+                        "Only the first ones",
+                        "Only the ones from abroad"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Many returned home with little more than they started with."
+                },
+                {
+                    "id": "R357",
+                    "questionText": "The word 'influx' in paragraph 2 is closest in meaning to:",
+                    "options": [
+                        "Departure",
+                        "Arrival of large numbers",
+                        "Flood",
+                        "Shortage"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Influx means an arrival or entry of large numbers of people."
+                },
+                {
+                    "id": "R358",
+                    "questionText": "How was the environment damaged?",
+                    "options": [
+                        "Fire",
+                        "Hydraulic mining",
+                        "Earthquakes",
+                        "Tornadoes"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Damaged by hydraulic mining techniques."
+                },
+                {
+                    "id": "R359",
+                    "questionText": "What was a negative consequence for Native Americans?",
+                    "options": [
+                        "They got rich",
+                        "Disease and attacks",
+                        "They moved to Europe",
+                        "They built cities"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Suffered from disease, starvation, and attacks."
+                },
+                {
+                    "id": "R360",
+                    "questionText": "Where was gold first found?",
+                    "options": [
+                        "San Francisco",
+                        "Los Angeles",
+                        "Sutter's Mill",
+                        "Sacramento"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Found... at Sutter's Mill."
+                }
+            ]
+        },
+        {
+            "passageId": 37,
+            "title": "The Ozone Layer",
+            "content": "The ozone layer is a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet (UV) radiation. It contains high concentrations of ozone (O3) in relation to other parts of the atmosphere. This layer is crucial for life on Earth because UV radiation is linked to skin cancer, cataracts, and harm to crops and marine life.\n\nIn the 1970s and 1980s, scientists discovered that the ozone layer was thinning, particularly over Antarctica, creating an 'ozone hole'. This depletion was caused by man-made chemicals called chlorofluorocarbons (CFCs), which were used in refrigeration, air conditioning, and aerosol sprays. When CFCs reach the stratosphere, they are broken down by UV light, releasing chlorine atoms that destroy ozone molecules.\n\nIn response to this threat, the international community adopted the Montreal Protocol in 1987, a treaty designed to phase out the production of ozone-depleting substances. The protocol has been highly successful. Atmospheric concentrations of CFCs have leveled off and decreased, and the ozone layer is expected to recover to 1980 levels by the middle of the 21st century.",
+            "questions": [
+                {
+                    "id": "R361",
+                    "questionText": "Where is the ozone layer located?",
+                    "options": [
+                        "Troposphere",
+                        "Stratosphere",
+                        "Mesosphere",
+                        "Thermosphere"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Region of Earth's stratosphere."
+                },
+                {
+                    "id": "R362",
+                    "questionText": "What is the chemical formula for ozone?",
+                    "options": [
+                        "O2",
+                        "O3",
+                        "CO2",
+                        "H2O"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Contains high concentrations of ozone (O3)."
+                },
+                {
+                    "id": "R363",
+                    "questionText": "Why is the ozone layer important?",
+                    "options": [
+                        "It keeps Earth warm",
+                        "It absorbs UV radiation",
+                        "It produces oxygen",
+                        "It blocks meteors"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Absorbs most of the Sun's ultraviolet (UV) radiation."
+                },
+                {
+                    "id": "R364",
+                    "questionText": "What caused ozone depletion?",
+                    "options": [
+                        "Carbon dioxide",
+                        "CFCs",
+                        "Methane",
+                        "Nitrogen"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Caused by man-made chemicals called chlorofluorocarbons (CFCs)."
+                },
+                {
+                    "id": "R365",
+                    "questionText": "Where was the 'ozone hole' discovered?",
+                    "options": [
+                        "Arctic",
+                        "Antarctica",
+                        "Equator",
+                        "Asia"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Thinning, particularly over Antarctica."
+                },
+                {
+                    "id": "R366",
+                    "questionText": "What did the Montreal Protocol aim to do?",
+                    "options": [
+                        "Ban cars",
+                        "Phase out ozone-depleting substances",
+                        "Plant trees",
+                        "Clean the oceans"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Designed to phase out the production of ozone-depleting substances."
+                },
+                {
+                    "id": "R367",
+                    "questionText": "The word 'depletion' in paragraph 2 is closest in meaning to:",
+                    "options": [
+                        "Increase",
+                        "Reduction",
+                        "Creation",
+                        "Movement"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Depletion means reduction in the number or quantity of something."
+                },
+                {
+                    "id": "R368",
+                    "questionText": "How do chlorine atoms affect ozone?",
+                    "options": [
+                        "They build it",
+                        "They destroy it",
+                        "They ignore it",
+                        "They cool it"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Releasing chlorine atoms that destroy ozone molecules."
+                },
+                {
+                    "id": "R369",
+                    "questionText": "Has the Montreal Protocol been successful?",
+                    "options": [
+                        "No, it failed",
+                        "Yes, highly successful",
+                        "It was never implemented",
+                        "It made things worse"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The protocol has been highly successful."
+                },
+                {
+                    "id": "R370",
+                    "questionText": "When is the ozone layer expected to recover?",
+                    "options": [
+                        "By 2000",
+                        "By 2020",
+                        "By mid-21st century",
+                        "Never"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Expected to recover... by the middle of the 21st century."
+                }
+            ]
+        },
+        {
+            "passageId": 38,
+            "title": "The Harlem Renaissance",
+            "content": "The Harlem Renaissance was an intellectual, social, and artistic explosion centered in Harlem, New York City, spanning the 1920s. Known at the time as the 'New Negro Movement', it marked a period when African American cultural expression was redefined. The movement included literature, music, theater, and visual arts.\n\nWriters like Langston Hughes, Zora Neale Hurston, and Claude McKay used their work to challenge racial stereotypes and express pride in their black heritage. Jazz music became the soundtrack of the era, with legends like Duke Ellington and Louis Armstrong performing at famous venues like the Cotton Club. The art of Aaron Douglas and the photography of James Van Der Zee captured the spirit and dignity of the community.\n\nThe Harlem Renaissance helped to lay the foundation for the Civil Rights Movement of the 1950s and 60s. It gave African Americans a new sense of identity and self-determination. Although the Great Depression in the 1930s slowed the momentum of the movement, its legacy continues to influence American culture and the arts today.",
+            "questions": [
+                {
+                    "id": "R371",
+                    "questionText": "Where was the Harlem Renaissance centered?",
+                    "options": [
+                        "Chicago",
+                        "New York City",
+                        "New Orleans",
+                        "Paris"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Centered in Harlem, New York City."
+                },
+                {
+                    "id": "R372",
+                    "questionText": "When did the Harlem Renaissance take place?",
+                    "options": [
+                        "1890s",
+                        "1920s",
+                        "1950s",
+                        "1980s"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Spanning the 1920s."
+                },
+                {
+                    "id": "R373",
+                    "questionText": "What was another name for the movement?",
+                    "options": [
+                        "Civil Rights Movement",
+                        "New Negro Movement",
+                        "Jazz Age",
+                        "Black Power"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Known at the time as the 'New Negro Movement'."
+                },
+                {
+                    "id": "R374",
+                    "questionText": "Who is a famous writer mentioned?",
+                    "options": [
+                        "Mark Twain",
+                        "Langston Hughes",
+                        "Ernest Hemingway",
+                        "F. Scott Fitzgerald"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Writers like Langston Hughes..."
+                },
+                {
+                    "id": "R375",
+                    "questionText": "What music genre is associated with this era?",
+                    "options": [
+                        "Rock",
+                        "Hip Hop",
+                        "Jazz",
+                        "Classical"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Jazz music became the soundtrack of the era."
+                },
+                {
+                    "id": "R376",
+                    "questionText": "Which venue is mentioned?",
+                    "options": [
+                        "Apollo Theater",
+                        "Cotton Club",
+                        "Radio City",
+                        "Carnegie Hall"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Performing at famous venues like the Cotton Club."
+                },
+                {
+                    "id": "R377",
+                    "questionText": "The word 'stereotypes' in paragraph 2 is closest in meaning to:",
+                    "options": [
+                        "Truths",
+                        "Original ideas",
+                        "Oversimplified images",
+                        "Laws"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Stereotypes are widely held but fixed and oversimplified images or ideas."
+                },
+                {
+                    "id": "R378",
+                    "questionText": "What ended the momentum of the movement?",
+                    "options": [
+                        "World War I",
+                        "The Great Depression",
+                        "Civil Rights Movement",
+                        "Prohibition"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The Great Depression... slowed the momentum."
+                },
+                {
+                    "id": "R379",
+                    "questionText": "What legacy did it leave?",
+                    "options": [
+                        "None",
+                        "Foundation for Civil Rights Movement",
+                        "caused segregation",
+                        "Ended jazz"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Lay the foundation for the Civil Rights Movement."
+                },
+                {
+                    "id": "R380",
+                    "questionText": "What did the artists express?",
+                    "options": [
+                        "Shame",
+                        "Pride in heritage",
+                        "Anger only",
+                        "Silence"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Express pride in their black heritage."
+                }
+            ]
+        },
+        {
+            "passageId": 39,
+            "title": "Bioluminescence",
+            "content": "Bioluminescence is the production and emission of light by a living organism. It is a form of chemiluminescence, where light energy is released by a chemical reaction. This phenomenon occurs widely in marine vertebrates and invertebrates, as well as in some fungi, microorganisms, and terrestrial invertebrates like fireflies.\n\nThe chemical reaction involves a light-emitting pigment called luciferin and an enzyme called luciferase. When luciferin reacts with oxygen, catalyzed by luciferase, light is produced. Unlike light bulbs which produce a lot of heat, bioluminescence is 'cold light', meaning less than 20% of the light generates thermal radiation.\n\nOrganisms use bioluminescence for various purposes. Fireflies use it to attract mates. Deep-sea fish, like the anglerfish, use it to lure prey. Others use it for camouflage (counter-illumination) to hide from predators by blending in with the light from above. Some squid release a cloud of bioluminescent fluid to confuse predators and escape. The study of these mechanisms has led to applications in medical research and biotechnology.",
+            "questions": [
+                {
+                    "id": "R381",
+                    "questionText": "What is bioluminescence?",
+                    "options": [
+                        "Absorption of light",
+                        "Emission of light by living organisms",
+                        "Reflection of light",
+                        "Heat production"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Production and emission of light by a living organism."
+                },
+                {
+                    "id": "R382",
+                    "questionText": "What chemical enzyme is involved?",
+                    "options": [
+                        "Chlorophyll",
+                        "Luciferase",
+                        "Melanin",
+                        "Insulin"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "An enzyme called luciferase."
+                },
+                {
+                    "id": "R383",
+                    "questionText": "What is 'cold light'?",
+                    "options": [
+                        "Light from ice",
+                        "Light with little heat",
+                        "Blue light",
+                        "Invisible light"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Less than 20% of the light generates thermal radiation."
+                },
+                {
+                    "id": "R384",
+                    "questionText": "How do fireflies use bioluminescence?",
+                    "options": [
+                        "To find food",
+                        "To scare predators",
+                        "To attract mates",
+                        "To see in the dark"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Fireflies use it to attract mates."
+                },
+                {
+                    "id": "R385",
+                    "questionText": "How does the anglerfish use it?",
+                    "options": [
+                        "To lure prey",
+                        "To sleep",
+                        "To swim faster",
+                        "To talk"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Use it to lure prey."
+                },
+                {
+                    "id": "R386",
+                    "questionText": "What is counter-illumination?",
+                    "options": [
+                        "Attacking with light",
+                        "Camouflage by blending with light",
+                        "Turning off light",
+                        "Heating up"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Camouflage... blending in with the light from above."
+                },
+                {
+                    "id": "R387",
+                    "questionText": "The word 'catalyzed' in paragraph 2 is closest in meaning to:",
+                    "options": [
+                        "Stopped",
+                        "Accelerated",
+                        "Colored",
+                        "Destroyed"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Catalyzed means caused or accelerated (a reaction)."
+                },
+                {
+                    "id": "R388",
+                    "questionText": "Which of these is NOT mentioned as having bioluminescence?",
+                    "options": [
+                        "Fungi",
+                        "Humans",
+                        "Squid",
+                        "Fireflies"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Fungi, squid, fireflies are mentioned. Humans are not."
+                },
+                {
+                    "id": "R389",
+                    "questionText": "What happens when luciferin reacts with oxygen?",
+                    "options": [
+                        "Explosion",
+                        "Heat",
+                        "Light",
+                        "Sound"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Light is produced."
+                },
+                {
+                    "id": "R390",
+                    "questionText": "Has bioluminescence been useful to humans?",
+                    "options": [
+                        "No",
+                        "Yes, in research",
+                        "Only for lamps",
+                        "It is dangerous"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Led to applications in medical research and biotechnology."
+                }
+            ]
+        },
+        {
+            "passageId": 40,
+            "title": "The Wright Brothers",
+            "content": "Orville and Wilbur Wright were two American aviation pioneers generally credited with inventing, building, and flying the world's first successful motor-operated airplane. From a young age, the brothers were fascinated by mechanics and flight. They ran a bicycle repair and sales shop in Dayton, Ohio, where they funded their aviation experiments and developed their mechanical skills.\n\nThe brothers focused on three main challenges: lift, propulsion, and control. While other experimenters focused on powerful engines, the Wrights realized that controlling the aircraft was the key to sustained flight. They developed 'wing-warping' to control roll, a concept they observed in birds.\n\nOn December 17, 1903, near Kitty Hawk, North Carolina, they achieved their goal. Orville piloted the first flight, which lasted 12 seconds and covered 120 feet. Wilbur piloted the fourth and final flight of the day, flying 852 feet in 59 seconds. Although their initial success was met with skepticism, their invention eventually revolutionized transportation, warfare, and global connectivity.",
+            "questions": [
+                {
+                    "id": "R391",
+                    "questionText": "What are the Wright brothers credited with?",
+                    "options": [
+                        "Inventing the car",
+                        "Inventing the first successful airplane",
+                        "Discovering electricity",
+                        "Building the first boat"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Inventing, building, and flying the world's first successful motor-operated airplane."
+                },
+                {
+                    "id": "R392",
+                    "questionText": "What business did they run?",
+                    "options": [
+                        "Car shop",
+                        "Bicycle shop",
+                        "Bakery",
+                        "Farm"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Ran a bicycle repair and sales shop."
+                },
+                {
+                    "id": "R393",
+                    "questionText": "Where were they from?",
+                    "options": [
+                        "New York",
+                        "Dayton, Ohio",
+                        "Kitty Hawk",
+                        "Chicago"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Shop in Dayton, Ohio."
+                },
+                {
+                    "id": "R394",
+                    "questionText": "What did they identify as the key to sustained flight?",
+                    "options": [
+                        "Power",
+                        "Speed",
+                        "Control",
+                        "Weight"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Realized that controlling the aircraft was the key."
+                },
+                {
+                    "id": "R395",
+                    "questionText": "What is 'wing-warping'?",
+                    "options": [
+                        "Painting wings",
+                        "Bending wings to control roll",
+                        "Breaking wings",
+                        "Making wings larger"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Developed 'wing-warping' to control roll."
+                },
+                {
+                    "id": "R396",
+                    "questionText": "When was the first flight?",
+                    "options": [
+                        "1900",
+                        "1903",
+                        "1910",
+                        "1920"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "On December 17, 1903."
+                },
+                {
+                    "id": "R397",
+                    "questionText": "Who piloted the first flight?",
+                    "options": [
+                        "Wilbur",
+                        "Orville",
+                        "Their father",
+                        "A volunteer"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Orville piloted the first flight."
+                },
+                {
+                    "id": "R398",
+                    "questionText": "How long was the first flight?",
+                    "options": [
+                        "12 seconds",
+                        "59 seconds",
+                        "1 minute",
+                        "1 hour"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Lasted 12 seconds."
+                },
+                {
+                    "id": "R399",
+                    "questionText": "The word 'skepticism' in paragraph 3 is closest in meaning to:",
+                    "options": [
+                        "Belief",
+                        "Doubt",
+                        "Anger",
+                        "Joy"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Skepticism means doubt as to the truth of something."
+                },
+                {
+                    "id": "R400",
+                    "questionText": "Where did the first flight take place?",
+                    "options": [
+                        "Dayton",
+                        "Paris",
+                        "Kitty Hawk",
+                        "Washington"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Near Kitty Hawk, North Carolina."
+                }
+            ]
         }
     ]
 }
