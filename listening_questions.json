@@ -559,6 +559,846 @@
             ],
             "answerIndex": 2,
             "explanation": "Idiom 'swamped with work' berarti dia kewalahan dengan pekerjaan dan karena itu terlalu sibuk."
+        },
+        {
+            "id": "L093",
+            "sectionType": "listening",
+            "audioFile": "audio_l093.mp3",
+            "questionText": "What does the woman imply?",
+            "options": [
+                "She is definitely going to the exhibition",
+                "She has already finished the paper",
+                "She cannot go if she doesn't finish her work",
+                "The exhibition finishes at five o'clock"
+            ],
+            "answerIndex": 2,
+            "explanation": "Conditionals. 'Not unless' means she can only go IF she finishes the paper."
+        },
+        {
+            "id": "L094",
+            "sectionType": "listening",
+            "audioFile": "audio_l094.mp3",
+            "questionText": "What does the man suggest?",
+            "options": [
+                "Fixing the car himself",
+                "Walking to the garage",
+                "Calling for professional assistance",
+                "Leaving the car on the highway"
+            ],
+            "answerIndex": 2,
+            "explanation": "He suggests calling the 'auto club' to tow it, which is professional assistance."
+        },
+        {
+            "id": "L095",
+            "sectionType": "listening",
+            "audioFile": "audio_l095.mp3",
+            "questionText": "What does the woman mean?",
+            "options": [
+                "They should go on a boat trip",
+                "She is in a similar situation as the man",
+                "She has studied a lot",
+                "She is not worried about the exam"
+            ],
+            "answerIndex": 1,
+            "explanation": "Idiom. 'In the same boat' means facing the same difficult situation or problem."
+        },
+        {
+            "id": "L096",
+            "sectionType": "listening",
+            "audioFile": "audio_l096.mp3",
+            "questionText": "Where does this conversation most likely take place?",
+            "options": [
+                "At a post office",
+                "At a bank",
+                "At a store",
+                "At a school"
+            ],
+            "answerIndex": 1,
+            "explanation": "Keywords 'deposit', 'check', 'savings account', and 'deposit slip' clearly indicate a bank."
+        },
+        {
+            "id": "L097",
+            "sectionType": "listening",
+            "audioFile": "audio_l097.mp3",
+            "questionText": "What does the woman mean?",
+            "options": [
+                "She fixed the faucet herself",
+                "The plumber broke the faucet",
+                "She paid someone else to repair it",
+                "The faucet is still leaking"
+            ],
+            "answerIndex": 2,
+            "explanation": "Causative verb structure. 'Had a plumber do it' means she arranged for a professional to do the work."
+        },
+        {
+            "id": "L098",
+            "sectionType": "listening",
+            "audioFile": "audio_l098.mp3",
+            "questionText": "What does the man imply?",
+            "options": [
+                "He will definitely visit his parents",
+                "He is not working this weekend",
+                "He needs a substitute for his job to be able to go",
+                "The bookstore is closed this weekend"
+            ],
+            "answerIndex": 2,
+            "explanation": "He says 'Only if I can get someone to cover my shift', meaning his trip depends on finding a substitute."
+        },
+        {
+            "id": "L099",
+            "sectionType": "listening",
+            "audioFile": "audio_l099.mp3",
+            "questionText": "What does the woman mean?",
+            "options": [
+                "She found the lecture interesting",
+                "She agrees that the lecture was boring",
+                "She fell asleep during the lecture",
+                "She wants the man to tell her more"
+            ],
+            "answerIndex": 1,
+            "explanation": "'You're telling me' indicates agreement. 'Struggled to stay awake' means it was boring."
+        },
+        {
+            "id": "L100",
+            "sectionType": "listening",
+            "audioFile": "audio_l100.mp3",
+            "questionText": "What does the man mean?",
+            "options": [
+                "The woman slipped on the floor",
+                "The woman changed her mind",
+                "The woman forgot about the meeting",
+                "The woman attended the meeting"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom. 'Slipped your mind' means to forget something."
+        },
+        {
+            "id": "L101",
+            "sectionType": "listening",
+            "audioFile": "audio_l101.mp3",
+            "questionText": "What does the woman imply?",
+            "options": [
+                "She will come to the party late",
+                "She cannot attend the party",
+                "She wants to bring her sister",
+                "She dislikes parties"
+            ],
+            "answerIndex": 1,
+            "explanation": "She expresses a wish about the past ('wish I hadn't promised'), implying she DID promise to babysit and thus cannot come."
+        },
+        {
+            "id": "L102",
+            "sectionType": "listening",
+            "audioFile": "audio_l102.mp3",
+            "questionText": "Who is the man?",
+            "options": [
+                "A doctor",
+                "A dentist",
+                "A pharmacist",
+                "A chef"
+            ],
+            "answerIndex": 1,
+            "explanation": "Context clues. 'Back tooth', 'pain', and 'open wide' are typical of a dentist."
+        },
+        {
+            "id": "L103",
+            "sectionType": "listening",
+            "audioFile": "audio_l103.mp3",
+            "questionText": "What does the woman warn the man about?",
+            "options": [
+                "Eating too much food",
+                "Taking on too much responsibility",
+                "Failing his classes",
+                "Graduating late"
+            ],
+            "answerIndex": 1,
+            "explanation": "Idiom. 'Bite off more than you can chew' means to take on more work or responsibility than one can handle."
+        },
+        {
+            "id": "L104",
+            "sectionType": "listening",
+            "audioFile": "audio_l104.mp3",
+            "questionText": "What happened to the man?",
+            "options": [
+                "He bought the milk",
+                "He couldn't find the store",
+                "He arrived after the store had closed",
+                "He didn't have enough money"
+            ],
+            "answerIndex": 2,
+            "explanation": "He says 'they had already locked the doors', meaning the store was closed when he arrived."
+        },
+        {
+            "id": "L105",
+            "sectionType": "listening",
+            "audioFile": "audio_l105.mp3",
+            "questionText": "What does the woman suggest?",
+            "options": [
+                "Buying a new computer",
+                "Opening the window",
+                "Resting his eyes",
+                "Continuing his work"
+            ],
+            "answerIndex": 2,
+            "explanation": "She suggests 'take a break' and 'look out the window', which are ways to rest his eyes."
+        },
+        {
+            "id": "L106",
+            "sectionType": "listening",
+            "audioFile": "audio_l106.mp3",
+            "questionText": "What does the man mean?",
+            "options": [
+                "The professor has back pain",
+                "The professor woke up late",
+                "The professor was in a bad mood",
+                "The professor fell out of bed"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom. 'Got up on the wrong side of the bed' means to be in a bad mood / irritable for the day."
+        },
+        {
+            "id": "L107",
+            "sectionType": "listening",
+            "audioFile": "audio_l107.mp3",
+            "questionText": "What does the woman imply about the bus?",
+            "options": [
+                "It is usually late",
+                "It is usually early",
+                "It is always on time",
+                "It broke down today"
+            ],
+            "answerIndex": 0,
+            "explanation": "She says it was on time 'for once', implying that being on time is rare and it is usually late."
+        },
+        {
+            "id": "L108",
+            "sectionType": "listening",
+            "audioFile": "audio_l108.mp3",
+            "questionText": "What does the man imply?",
+            "options": [
+                "He will lend her the notes",
+                "He needs the notes himself",
+                "He didn't take any notes",
+                "He failed the test"
+            ],
+            "answerIndex": 1,
+            "explanation": "He refuses politely ('I'd love to, but...') because he has a test, implying he needs the notes to study."
+        },
+        {
+            "id": "L109",
+            "sectionType": "listening",
+            "audioFile": "audio_l109.mp3",
+            "questionText": "What does the woman want to do?",
+            "options": [
+                "Go to the restaurant immediately",
+                "Check the weather",
+                "Postpone the dinner",
+                "Pay for the dinner"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom. 'Take a rain check' means to decline an invitation now but suggest doing it at a later time."
+        },
+        {
+            "id": "L110",
+            "sectionType": "listening",
+            "audioFile": "audio_l110.mp3",
+            "questionText": "How does the man feel?",
+            "options": [
+                "He is jealous",
+                "He is very pleased",
+                "He is unhappy",
+                "He is indifferent"
+            ],
+            "answerIndex": 1,
+            "explanation": "Idiom. 'I couldn't be happier' means he is extremely happy/pleased about the news."
+        },
+        {
+            "id": "L111",
+            "sectionType": "listening",
+            "audioFile": "audio_l111.mp3",
+            "questionText": "What are the speakers probably going to do?",
+            "options": [
+                "Play tennis",
+                "Go to court for a legal case",
+                "Buy new rackets",
+                "Watch a football game"
+            ],
+            "answerIndex": 0,
+            "explanation": "Keywords 'rackets' and 'courts' (reserved for sports) strongly indicate playing tennis."
+        },
+        {
+            "id": "L112",
+            "sectionType": "listening",
+            "audioFile": "audio_l112.mp3",
+            "questionText": "What does the man imply?",
+            "options": [
+                "He loves cooking",
+                "He prefers healthy food",
+                "He eats pizza for convenience",
+                "He has a lot of money"
+            ],
+            "answerIndex": 2,
+            "explanation": "He lists reasons: 'cheap', 'fast', 'don't have to cook'. These are reasons of convenience."
+        },
+        {
+            "id": "L113",
+            "sectionType": "listening",
+            "audioFile": "audio_l113.mp3",
+            "questionText": "Where does this conversation take place?",
+            "options": [
+                "At a bookstore",
+                "At a library",
+                "At a bank",
+                "At a publishing house"
+            ],
+            "answerIndex": 1,
+            "explanation": "Context clues 'overdue books' and 'fine' are specific to a library setting."
+        },
+        {
+            "id": "L114",
+            "sectionType": "listening",
+            "audioFile": "audio_l114.mp3",
+            "questionText": "What does the woman mean?",
+            "options": [
+                "She hates both subjects",
+                "She has already chosen a class",
+                "She is undecided between two choices",
+                "She wants to take both classes"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom. 'I'm torn between...' means she is finding it difficult to choose between the options."
+        },
+        {
+            "id": "L115",
+            "sectionType": "listening",
+            "audioFile": "audio_l115.mp3",
+            "questionText": "What does the man suggest?",
+            "options": [
+                "Crossing the bridge",
+                "Checking the news",
+                "Driving through the tunnel",
+                "Waiting for the traffic to clear"
+            ],
+            "answerIndex": 2,
+            "explanation": "He says 'We should probably take the tunnel instead' to avoid the accident."
+        },
+        {
+            "id": "L116",
+            "sectionType": "listening",
+            "audioFile": "audio_l116.mp3",
+            "questionText": "What does the woman suggest the man do?",
+            "options": [
+                "Start the experiment over from the beginning",
+                "Ask the professor for help",
+                "Change the measurements",
+                "Stop working on the experiment"
+            ],
+            "answerIndex": 0,
+            "explanation": "Idiom. 'Go back to square one' means to start over from the beginning."
+        },
+        {
+            "id": "L117",
+            "sectionType": "listening",
+            "audioFile": "audio_l117.mp3",
+            "questionText": "What does the man say about Tom?",
+            "options": [
+                "Tom has a skin condition",
+                "Tom likes to travel",
+                "Tom regrets quitting his job",
+                "Tom is afraid of traveling"
+            ],
+            "answerIndex": 1,
+            "explanation": "Idiom. 'Itchy feet' refers to a strong urge to travel or move from place to place."
+        },
+        {
+            "id": "L118",
+            "sectionType": "listening",
+            "audioFile": "audio_l118.mp3",
+            "questionText": "What does the woman imply?",
+            "options": [
+                "The man should buy a new jacket",
+                "The man can clean the jacket himself",
+                "The dry cleaner is closed today",
+                "The man can get his jacket cleaned quickly nearby"
+            ],
+            "answerIndex": 3,
+            "explanation": "She mentions a dry cleaner 'around the corner' with 'same-day service', implying he can get it done there quickly."
+        },
+        {
+            "id": "L119",
+            "sectionType": "listening",
+            "audioFile": "audio_l119.mp3",
+            "questionText": "What does the man mean?",
+            "options": [
+                "The lecture was about Greece",
+                "He understood the lecture perfectly",
+                "He did not understand the lecture at all",
+                "The lecturer spoke Greek"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom. 'It was all Greek to me' means something was completely unintelligible or hard to understand."
+        },
+        {
+            "id": "L120",
+            "sectionType": "listening",
+            "audioFile": "audio_l120.mp3",
+            "questionText": "What is the woman's attitude?",
+            "options": [
+                "She is angry that he is late",
+                "She is understanding and forgiving",
+                "She is worried about the bus",
+                "She is confused"
+            ],
+            "answerIndex": 1,
+            "explanation": "She says 'Better late than never' and invites him to sit, showing she is accepting of the situation."
+        },
+        {
+            "id": "L121",
+            "sectionType": "listening",
+            "audioFile": "audio_l121.mp3",
+            "questionText": "Why does the man refuse the cake?",
+            "options": [
+                "He doesn't like chocolate",
+                "He is full",
+                "He is trying to lose weight or stay fit",
+                "He is allergic to cake"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom. 'Watching my waistline' means being careful about what one eats to avoid gaining weight."
+        },
+        {
+            "id": "L122",
+            "sectionType": "listening",
+            "audioFile": "audio_l122.mp3",
+            "questionText": "How does the woman feel about the news?",
+            "options": [
+                "She is happy about the changes",
+                "She is indifferent",
+                "She is upset about the high cost",
+                "She doesn't believe the man"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom. 'Costing me an arm and a leg' means it is very expensive. She is upset about the price increase."
+        },
+        {
+            "id": "L123",
+            "sectionType": "listening",
+            "audioFile": "audio_l123.mp3",
+            "questionText": "What will the man probably do?",
+            "options": [
+                "Go to the pharmacy",
+                "Call a doctor",
+                "Look for medicine in his desk",
+                "Give the woman a glass of water"
+            ],
+            "answerIndex": 2,
+            "explanation": "He says 'I think I have a bottle in my desk drawer. Let me check.'"
+        },
+        {
+            "id": "L124",
+            "sectionType": "listening",
+            "audioFile": "audio_l124.mp3",
+            "questionText": "What does the woman mean?",
+            "options": [
+                "She is not ready yet",
+                "She needs to pack her bags",
+                "She is prepared to leave immediately",
+                "She wants to miss the flight"
+            ],
+            "answerIndex": 2,
+            "explanation": "She says 'I'm all packed and ready to go', indicating she is prepared."
+        },
+        {
+            "id": "L125",
+            "sectionType": "listening",
+            "audioFile": "audio_l125.mp3",
+            "questionText": "What does the man think is the problem?",
+            "options": [
+                "The printer is broken",
+                "The printer is not plugged in",
+                "The printer has no paper",
+                "The computer is broken"
+            ],
+            "answerIndex": 2,
+            "explanation": "He asks 'Did you check if it's out of paper?' and calls it the 'culprit' (cause of the problem)."
+        },
+        {
+            "id": "L126",
+            "sectionType": "listening",
+            "audioFile": "audio_l126.mp3",
+            "questionText": "What does the woman mean?",
+            "options": [
+                "The sofa was very heavy",
+                "It was hot outside",
+                "The task was easy for her",
+                "She is too tired to help"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom. 'No sweat' means it was easy or no problem. She confirms 'It wasn't as heavy as it looked'."
+        },
+        {
+            "id": "L127",
+            "sectionType": "listening",
+            "audioFile": "audio_l127.mp3",
+            "questionText": "What does the man mean?",
+            "options": [
+                "He definitely wants to go hiking",
+                "He will listen to the weather report",
+                "He will decide later depending on the situation",
+                "He has an ear infection"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom. 'Play it by ear' means to improvise or decide as the situation develops rather than having a fixed plan."
+        },
+        {
+            "id": "L128",
+            "sectionType": "listening",
+            "audioFile": "audio_l128.mp3",
+            "questionText": "What does the woman imply?",
+            "options": [
+                "The man will be very busy",
+                "The man needs to buy paint",
+                "The man should wash his hands",
+                "The man's brother will help him"
+            ],
+            "answerIndex": 0,
+            "explanation": "Idiom. 'Have your hands full' means to be very busy or occupied with a task."
+        },
+        {
+            "id": "L129",
+            "sectionType": "listening",
+            "audioFile": "audio_l129.mp3",
+            "questionText": "What implies about the company?",
+            "options": [
+                "The company is making a lot of profit",
+                "The company is losing money",
+                "The company is painting the office red",
+                "The company is hiring new staff"
+            ],
+            "answerIndex": 1,
+            "explanation": "Idiom. 'In the red' is a financial term meaning losing money or being in debt."
+        },
+        {
+            "id": "L130",
+            "sectionType": "listening",
+            "audioFile": "audio_l130.mp3",
+            "questionText": "What does the woman advise the man?",
+            "options": [
+                "To buy the guitar immediately",
+                "To learn how to play guitar",
+                "Not to buy the guitar",
+                "To fix the guitar himself"
+            ],
+            "answerIndex": 2,
+            "explanation": "She says 'I wouldn't if I were you', which is a way of advising against an action."
+        },
+        {
+            "id": "L131",
+            "sectionType": "listening",
+            "audioFile": "audio_l131.mp3",
+            "questionText": "What does the man suggest?",
+            "options": [
+                "Taking a nap",
+                "Giving up on the problem",
+                "Waiting until the next day to solve it",
+                "Asking someone else for help"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom. 'Sleep on it' means to delay making a decision or solving a problem until the next day, usually after resting."
+        },
+        {
+            "id": "L132",
+            "sectionType": "listening",
+            "audioFile": "audio_l132.mp3",
+            "questionText": "What does the woman mean?",
+            "options": [
+                "She failed the presentation",
+                "She used colorful slides",
+                "She performed extremely well",
+                "She flew to the presentation"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom. 'Passed with flying colors' means to pass a test or complete a task with distinction or very high success."
+        },
+        {
+            "id": "L133",
+            "sectionType": "listening",
+            "audioFile": "audio_l133.mp3",
+            "questionText": "What does the man offer to do?",
+            "options": [
+                "Refund the woman's money",
+                "Drink the cappuccino himself",
+                "Make a new drink for free",
+                "Close the shop early"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom. 'On the house' means something is provided for free. The man offers to make a fresh one for free."
+        },
+        {
+            "id": "L134",
+            "sectionType": "listening",
+            "audioFile": "audio_l134.mp3",
+            "questionText": "What does the woman suggest?",
+            "options": [
+                "Buy new keys",
+                "Check the car",
+                "Go back over his movements",
+                "Call a locksmith"
+            ],
+            "answerIndex": 2,
+            "explanation": "Phrase. 'Retracing your steps' means going back to where you came from to find something lost."
+        },
+        {
+            "id": "L135",
+            "sectionType": "listening",
+            "audioFile": "audio_l135.mp3",
+            "questionText": "What is the man's complaint?",
+            "options": [
+                "His roommate is too loud",
+                "His roommate is untidy",
+                "His roommate never pays rent",
+                "His roommate cooks bad food"
+            ],
+            "answerIndex": 1,
+            "explanation": "He calls the roommate a 'slob', which refers to a person who is untidy or messy."
+        },
+        {
+            "id": "L136",
+            "sectionType": "listening",
+            "audioFile": "audio_l136.mp3",
+            "questionText": "What does the woman mean?",
+            "options": [
+                "She does not have the book",
+                "She is reading the book",
+                "The book is unavailable",
+                "She will lend him the book"
+            ],
+            "answerIndex": 2,
+            "explanation": "She says she 'lent it to Sarah', meaning she no longer has it to lend to the man."
+        },
+        {
+            "id": "L137",
+            "sectionType": "listening",
+            "audioFile": "audio_l137.mp3",
+            "questionText": "Why did the man refuse the job?",
+            "options": [
+                "He didn't like the company",
+                "The location was bad",
+                "The salary was too low",
+                "He wants to travel"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom. 'Peanuts' is used to describe a very small amount of money."
+        },
+        {
+            "id": "L138",
+            "sectionType": "listening",
+            "audioFile": "audio_l138.mp3",
+            "questionText": "What does the woman suggest?",
+            "options": [
+                "Going to the concert alone",
+                "Giving up on the tickets",
+                "Checking online for tickets",
+                "Buying tickets at the door"
+            ],
+            "answerIndex": 2,
+            "explanation": "She mentions seeing tickets available on a 'resale website'."
+        },
+        {
+            "id": "L139",
+            "sectionType": "listening",
+            "audioFile": "audio_l139.mp3",
+            "questionText": "What does the man mean?",
+            "options": [
+                "The AC is turned off",
+                "The AC is broken",
+                "The weather is extremely hot",
+                "He likes the heat"
+            ],
+            "answerIndex": 2,
+            "explanation": "He says the AC is on 'full blast' (maximum power) but can't keep up with the 'heatwave' (extreme heat)."
+        },
+        {
+            "id": "L140",
+            "sectionType": "listening",
+            "audioFile": "audio_l140.mp3",
+            "questionText": "What does the woman imply?",
+            "options": [
+                "The man should buy a new computer",
+                "The man made a mistake by not saving copies",
+                "The man can easily recover the file",
+                "The paper was not important"
+            ],
+            "answerIndex": 1,
+            "explanation": "She says he 'learned the hard way to back up your files', implying he should have saved copies."
+        },
+        {
+            "id": "L141",
+            "sectionType": "listening",
+            "audioFile": "audio_l141.mp3",
+            "questionText": "Why won't the man join the gym?",
+            "options": [
+                "It is too far away",
+                "It is too expensive",
+                "He prefers swimming",
+                "He doesn't like exercise"
+            ],
+            "answerIndex": 1,
+            "explanation": "Idiom. 'Way out of my league' in this financial context means it is too expensive for his budget."
+        },
+        {
+            "id": "L142",
+            "sectionType": "listening",
+            "audioFile": "audio_l142.mp3",
+            "questionText": "What happened?",
+            "options": [
+                "The woman burned the dinner",
+                "The pizza arrived late",
+                "The phone is broken",
+                "The oven is broken"
+            ],
+            "answerIndex": 0,
+            "explanation": "The man smells burning and the woman says 'Oh no, the lasagna!', indicating she burnt the food."
+        },
+        {
+            "id": "L143",
+            "sectionType": "listening",
+            "audioFile": "audio_l143.mp3",
+            "questionText": "What does the man suggest?",
+            "options": [
+                "Asking a police officer",
+                "Buying a map",
+                "Using technology to find the way",
+                "Going home"
+            ],
+            "answerIndex": 2,
+            "explanation": "He suggests using the 'GPS on your phone', which is using technology."
+        },
+        {
+            "id": "L144",
+            "sectionType": "listening",
+            "audioFile": "audio_l144.mp3",
+            "questionText": "What does the woman advise the man to do?",
+            "options": [
+                "Take a different class",
+                "Talk to the professor",
+                "Sign up for the waiting list",
+                "Drop out of school"
+            ],
+            "answerIndex": 2,
+            "explanation": "She explicitly says 'You should get on the waiting list'."
+        },
+        {
+            "id": "L145",
+            "sectionType": "listening",
+            "audioFile": "audio_l145.mp3",
+            "questionText": "What will the man do this weekend?",
+            "options": [
+                "Go to the beach",
+                "Play chemistry games",
+                "Study",
+                "Visit his family"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom. 'Hit the books' means to study hard."
+        },
+        {
+            "id": "L146",
+            "sectionType": "listening",
+            "audioFile": "audio_l146.mp3",
+            "questionText": "What does the woman imply?",
+            "options": [
+                "She wants a new phone",
+                "Modern technology can be overly complicated",
+                "The man is smart",
+                "She lost her old phone"
+            ],
+            "answerIndex": 1,
+            "explanation": "She says 'simpler is better' and notes her old phone didn't give her trouble, implying the new complex one is the problem."
+        },
+        {
+            "id": "L147",
+            "sectionType": "listening",
+            "audioFile": "audio_l147.mp3",
+            "questionText": "Why was the man late?",
+            "options": [
+                "He overslept",
+                "He forgot the meeting time",
+                "Public transportation issues",
+                "He walked too slowly"
+            ],
+            "answerIndex": 2,
+            "explanation": "He blames the change in the 'bus schedule', which is a public transportation issue."
+        },
+        {
+            "id": "L148",
+            "sectionType": "listening",
+            "audioFile": "audio_l148.mp3",
+            "questionText": "What is the problem?",
+            "options": [
+                "The man is tired",
+                "It is too noisy to work",
+                "The road is closed",
+                "The woman is talking too much"
+            ],
+            "answerIndex": 1,
+            "explanation": "He says he 'can't concentrate' because of the 'drilling noise'."
+        },
+        {
+            "id": "L149",
+            "sectionType": "listening",
+            "audioFile": "audio_l149.mp3",
+            "questionText": "What is the man doing?",
+            "options": [
+                "Buying a gift",
+                "Criticizing the woman",
+                "Helping the woman make a choice",
+                "Asking for a gift"
+            ],
+            "answerIndex": 2,
+            "explanation": "He weighs the options (scarf vs necklace) to help her decide."
+        },
+        {
+            "id": "L150",
+            "sectionType": "listening",
+            "audioFile": "audio_l150.mp3",
+            "questionText": "What is the speakers' opinion of the movie?",
+            "options": [
+                "They loved it",
+                "They found it funny",
+                "They disliked it",
+                "They thought it was too short"
+            ],
+            "answerIndex": 2,
+            "explanation": "The man calls it a 'waste of time' and the woman was 'tempted to walk out', showing they disliked it."
+        },
+        {
+            "id": "L151",
+            "sectionType": "listening",
+            "audioFile": "audio_l151.mp3",
+            "questionText": "What does the man imply?",
+            "options": [
+                "The woman cannot see the dentist on Tuesday",
+                "The dentist is on vacation",
+                "Wednesday is a bad day",
+                "He is not the receptionist"
+            ],
+            "answerIndex": 0,
+            "explanation": "He says 'Tuesday is fully booked', meaning no appointments are available that day."
+        },
+        {
+            "id": "L152",
+            "sectionType": "listening",
+            "audioFile": "audio_l152.mp3",
+            "questionText": "What happened to the man?",
+            "options": [
+                "He lost his car",
+                "He received a fine",
+                "He broke the meter",
+                "He found money"
+            ],
+            "answerIndex": 1,
+            "explanation": "He says 'I just got a parking ticket', which is a fine for parking violations."
         }
     ],
     "long_sets": [
