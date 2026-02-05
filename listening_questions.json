@@ -2116,6 +2116,556 @@
                     "explanation": "Petugas menyimpulkan: 'You can fill out this transfer request form today, but we can't process the move until next Monday.'"
                 }
             ]
+        },
+        {
+            "setId": "LS014",
+            "title": "Lecture: Batesian Mimicry",
+            "audioFile": "audio_ls014.mp3",
+            "questions": [
+                {
+                    "id": "L153",
+                    "questionText": "What is the main topic of the lecture?",
+                    "options": [
+                        "The migration of butterflies",
+                        "How animals digest food",
+                        "A defense mechanism called mimicry",
+                        "The colors of the forest"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The professor introduces the topic: 'This brings us to the concept of mimicry.'"
+                },
+                {
+                    "id": "L154",
+                    "questionText": "Why do some harmless animals mimic dangerous ones?",
+                    "options": [
+                        "To attract prey",
+                        "To scare off predators",
+                        "To find a mate",
+                        "To hide in the grass"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The text states it is 'to scare off predators' by looking dangerous."
+                },
+                {
+                    "id": "L155",
+                    "questionText": "What is unique about the Viceroy butterfly?",
+                    "options": [
+                        "It is poisonous",
+                        "It mimics the toxic Monarch butterfly",
+                        "It flies faster than birds",
+                        "It lives underwater"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The professor says: 'It looks almost identical to the Monarch butterfly.'"
+                },
+                {
+                    "id": "L156",
+                    "questionText": "Why do birds avoid Monarch butterflies?",
+                    "options": [
+                        "They are too big",
+                        "They fly too fast",
+                        "They are toxic and taste terrible",
+                        "They have sharp wings"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The text explains: 'Birds avoid Monarchs because they are toxic and taste terrible.'"
+                }
+            ]
+        },
+        {
+            "setId": "LS015",
+            "title": "Lecture: The Industrial Revolution",
+            "audioFile": "audio_ls015.mp3",
+            "questions": [
+                {
+                    "id": "L157",
+                    "questionText": "What was the Industrial Revolution?",
+                    "options": [
+                        "A war between Britain and France",
+                        "The transition from hand tools to machines",
+                        "A revolution in agriculture only",
+                        "The invention of the internet"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The professor defines it as: 'the transition from creating goods by hand to using machines.'"
+                },
+                {
+                    "id": "L158",
+                    "questionText": "Where did the Industrial Revolution begin?",
+                    "options": [
+                        "In the United States",
+                        "In Britain",
+                        "In China",
+                        "In Germany"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The text states it 'began in Britain in the late 18th century.'"
+                },
+                {
+                    "id": "L159",
+                    "questionText": "Which invention is mentioned as a key factor in this revolution?",
+                    "options": [
+                        "The printing press",
+                        "The telephone",
+                        "The steam engine",
+                        "The lightbulb"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The professor says: 'The invention of the steam engine changed everything.'"
+                },
+                {
+                    "id": "L160",
+                    "questionText": "What was a social effect of the Industrial Revolution mentioned in the talk?",
+                    "options": [
+                        "People moved back to farms",
+                        "Rapid urbanization and overcrowding in cities",
+                        "Decreased production of goods",
+                        "Cleaner air in cities"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "It 'led to rapid urbanization... it also created difficult living conditions in overcrowded cities.'"
+                }
+            ]
+        },
+        {
+            "setId": "LS016",
+            "title": "Lecture: Early Photography",
+            "audioFile": "audio_ls016.mp3",
+            "questions": [
+                {
+                    "id": "L161",
+                    "questionText": "What is the main subject of the lecture?",
+                    "options": [
+                        "Modern digital cameras",
+                        "The history of the daguerreotype",
+                        "How to paint portraits",
+                        "The life of Louis Daguerre"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The professor discusses 'the first practical photographic process, known as the daguerreotype.'"
+                },
+                {
+                    "id": "L162",
+                    "questionText": "What was the major disadvantage of early photography?",
+                    "options": [
+                        "The images were blurry",
+                        "The cameras were too expensive",
+                        "The exposure time was very long",
+                        "It could only take pictures of landscapes"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The professor notes: 'the exposure time was very long. A subject had to sit perfectly still for 10 to 15 minutes.'"
+                },
+                {
+                    "id": "L163",
+                    "questionText": "Why did people in old portraits often look stiff and serious?",
+                    "options": [
+                        "They were unhappy",
+                        "It was the fashion of the time",
+                        "They had to sit still for a long time",
+                        "The camera frightened them"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The text explains: 'they just couldn't move a muscle while the camera captured the light.'"
+                },
+                {
+                    "id": "L164",
+                    "questionText": "Who introduced the daguerreotype process?",
+                    "options": [
+                        "Thomas Edison",
+                        "Louis Daguerre",
+                        "Leonardo da Vinci",
+                        "George Eastman"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The lecture states: 'Louis Daguerre introduced the first practical photographic process.'"
+                }
+            ]
+        },
+        {
+            "setId": "LS017",
+            "title": "Conversation: Library Fine",
+            "audioFile": "audio_ls017.mp3",
+            "questions": [
+                {
+                    "id": "L165",
+                    "questionText": "Why did the student go to the library?",
+                    "options": [
+                        "To borrow a new book",
+                        "To study for an exam",
+                        "Because he received an email about an overdue book",
+                        "To pay his tuition fees"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "He says: 'I received an email saying I have an overdue book.'"
+                },
+                {
+                    "id": "L166",
+                    "questionText": "Why was the student confused about the due date?",
+                    "options": [
+                        "He lost the receipt",
+                        "He didn't realize it was a Reserve book with a 24-hour limit",
+                        "The email was wrong",
+                        "He thought the library was closed"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The librarian explains: 'This book was from the Reserve section... usually just 24 hours.'"
+                },
+                {
+                    "id": "L167",
+                    "questionText": "What is the fine policy for Reserve books?",
+                    "options": [
+                        "One dollar per day",
+                        "Five dollars per day",
+                        "One dollar per hour",
+                        "There is no fine"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The librarian states: 'It is one dollar for every hour it is late.'"
+                },
+                {
+                    "id": "L168",
+                    "questionText": "What must the student do before borrowing more books?",
+                    "options": [
+                        "Return the book only",
+                        "Pay the fine",
+                        "Write an apology letter",
+                        "Speak to the dean"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The librarian says: 'You'll need to pay it before you can borrow anything else.'"
+                }
+            ]
+        },
+        {
+            "setId": "LS018",
+            "title": "Lecture: Black Holes",
+            "audioFile": "audio_ls018.mp3",
+            "questions": [
+                {
+                    "id": "L169",
+                    "questionText": "What is the defining characteristic of a black hole?",
+                    "options": [
+                        "It emits bright light",
+                        "It is made of ice",
+                        "Its gravity is so strong that light cannot escape",
+                        "It travels faster than light"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The professor defines it as a region 'where the pulling force of gravity is so strong that light is not able to escape.'"
+                },
+                {
+                    "id": "L170",
+                    "questionText": "How is a black hole formed?",
+                    "options": [
+                        "When planets collide",
+                        "When a massive star dies and collapses",
+                        "From a cloud of dust",
+                        "When a comet hits the sun"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The text says: 'This can happen when a massive star dies and collapses in on itself.'"
+                },
+                {
+                    "id": "L171",
+                    "questionText": "Why are black holes invisible to the naked eye?",
+                    "options": [
+                        "They are too small",
+                        "They are too far away",
+                        "No light can get out of them",
+                        "They are transparent"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The professor explains: 'Because no light can get out, people can't see black holes.'"
+                },
+                {
+                    "id": "L172",
+                    "questionText": "What is the 'event horizon'?",
+                    "options": [
+                        "The center of the black hole",
+                        "The boundary from which nothing can escape",
+                        "The explosion of a star",
+                        "A special telescope"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "It is described as 'The boundary around a black hole from which nothing can escape.'"
+                }
+            ]
+        },
+        {
+            "setId": "LS019",
+            "title": "Lecture: Classical Conditioning",
+            "audioFile": "audio_ls019.mp3",
+            "questions": [
+                {
+                    "id": "L173",
+                    "questionText": "Who conducted the famous experiment discussed in the lecture?",
+                    "options": [
+                        "Sigmund Freud",
+                        "B.F. Skinner",
+                        "Ivan Pavlov",
+                        "Albert Einstein"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The professor mentions: 'One of the most famous experiments... was conducted by Ivan Pavlov.'"
+                },
+                {
+                    "id": "L174",
+                    "questionText": "What animals were used in the experiment?",
+                    "options": [
+                        "Rats",
+                        "Cats",
+                        "Dogs",
+                        "Monkeys"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The text states: 'He was studying digestion in dogs.'"
+                },
+                {
+                    "id": "L175",
+                    "questionText": "What did the dogs learn to associate with food?",
+                    "options": [
+                        "The sound of a bell",
+                        "A bright light",
+                        "The smell of meat",
+                        "A specific toy"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Pavlov rang a bell, and 'Eventually, the dogs learned to associate the sound of the bell with food.'"
+                },
+                {
+                    "id": "L176",
+                    "questionText": "What is the name of this learning process?",
+                    "options": [
+                        "Operant Conditioning",
+                        "Classical Conditioning",
+                        "Social Learning",
+                        "Cognitive Mapping"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The lecture concludes: 'This process of learning through association is called Classical Conditioning.'"
+                }
+            ]
+        },
+        {
+            "setId": "LS020",
+            "title": "Talk: Desalination",
+            "audioFile": "audio_ls020.mp3",
+            "questions": [
+                {
+                    "id": "L177",
+                    "questionText": "What is desalination?",
+                    "options": [
+                        "Polluting the ocean",
+                        "Removing salt from seawater to make it drinkable",
+                        "Freezing water for storage",
+                        "Filtering rainwater"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The speaker defines it as: 'The process of removing salt and minerals from seawater to make it drinkable.'"
+                },
+                {
+                    "id": "L178",
+                    "questionText": "What is 'reverse osmosis'?",
+                    "options": [
+                        "Boiling water to remove salt",
+                        "Pushing water through a filter to catch salt",
+                        "Adding chemicals to water",
+                        "Letting water evaporate naturally"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The text explains it as: 'water is pushed through a filter that catches the salt.'"
+                },
+                {
+                    "id": "L179",
+                    "questionText": "What is a major disadvantage of desalination mentioned in the talk?",
+                    "options": [
+                        "It tastes bad",
+                        "It is too slow",
+                        "It is expensive and energy-intensive",
+                        "It causes earthquakes"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The speaker notes: 'It is very expensive and requires a massive amount of energy.'"
+                },
+                {
+                    "id": "L180",
+                    "questionText": "Where is this technology particularly critical?",
+                    "options": [
+                        "In rainforests",
+                        "In dry regions like the Middle East",
+                        "In the Arctic",
+                        "In freshwater lakes"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The text mentions it provides 'a critical water source for dry regions like the Middle East.'"
+                }
+            ]
+        },
+        {
+            "setId": "LS021",
+            "title": "Lecture: The Potlatch",
+            "audioFile": "audio_ls021.mp3",
+            "questions": [
+                {
+                    "id": "L181",
+                    "questionText": "In the Potlatch ceremony, how was wealth defined?",
+                    "options": [
+                        "By how much gold one saved",
+                        "By the size of one's house",
+                        "By how much one gave away",
+                        "By the number of children one had"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The professor states: 'wealth wasn't defined by how much you saved, but by how much you gave away.'"
+                },
+                {
+                    "id": "L182",
+                    "questionText": "Where did this custom originate?",
+                    "options": [
+                        "South America",
+                        "Pacific Northwest Coast of North America",
+                        "Southeast Asia",
+                        "Northern Europe"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The text mentions: 'indigenous cultures of the Pacific Northwest Coast of North America.'"
+                },
+                {
+                    "id": "L183",
+                    "questionText": "What happens during a Potlatch?",
+                    "options": [
+                        "A war is declared",
+                        "A host distributes gifts to guests",
+                        "People trade goods for money",
+                        "A leader is elected by voting"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The professor explains: 'A Potlatch is a lavish feast where the host distributes gifts to the guests.'"
+                },
+                {
+                    "id": "L184",
+                    "questionText": "What was the social purpose of the Potlatch?",
+                    "options": [
+                        "To establish social status and redistribute wealth",
+                        "To save food for winter",
+                        "To celebrate a birthday only",
+                        "To punish criminals"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "It was a way to 'redistribute wealth and establish social hierarchy.'"
+                }
+            ]
+        },
+        {
+            "setId": "LS022",
+            "title": "Conversation: Club Fair",
+            "audioFile": "audio_ls022.mp3",
+            "questions": [
+                {
+                    "id": "L185",
+                    "questionText": "What event are the students discussing?",
+                    "options": [
+                        "A football game",
+                        "The Student Club Fair",
+                        "A graduation ceremony",
+                        "A library tour"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The woman asks: 'Hey, are you going to the Student Club Fair today?'"
+                },
+                {
+                    "id": "L186",
+                    "questionText": "Where is the event taking place?",
+                    "options": [
+                        "In the gymnasium",
+                        "In the cafeteria",
+                        "On the main Quad",
+                        "In the auditorium"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "She says: 'It's on the main Quad, right in front of the library.'"
+                },
+                {
+                    "id": "L187",
+                    "questionText": "Which club is the woman interested in joining?",
+                    "options": [
+                        "The Chess Club",
+                        "The Photography Club",
+                        "The Drama Club",
+                        "The Debate Team"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "She states: 'I'm thinking of joining the Photography Club.'"
+                },
+                {
+                    "id": "L188",
+                    "questionText": "What does the man want to do?",
+                    "options": [
+                        "Play football",
+                        "Join a chess club",
+                        "Study in the library",
+                        "Leave campus"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "He says: 'I've been wanting to play chess again. Do you know if there's a chess club?'"
+                }
+            ]
+        },
+        {
+            "setId": "LS023",
+            "title": "Lecture: The Grand Canyon",
+            "audioFile": "audio_ls023.mp3",
+            "questions": [
+                {
+                    "id": "L189",
+                    "questionText": "What force primarily carved the Grand Canyon?",
+                    "options": [
+                        "Wind",
+                        "Glaciers",
+                        "Water (The Colorado River)",
+                        "Volcanic eruptions"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The professor states: 'it was carved primarily by a single force: water... the Colorado River.'"
+                },
+                {
+                    "id": "L190",
+                    "questionText": "Why is the Grand Canyon valuable to geologists?",
+                    "options": [
+                        "It contains gold",
+                        "The exposed rock layers provide a timeline of Earth's history",
+                        "It is the deepest hole on Earth",
+                        "It is home to rare birds"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The text explains: 'these exposed layers provide a timeline of Earth's history.'"
+                },
+                {
+                    "id": "L191",
+                    "questionText": "How old are the bottom layers of rock in the canyon?",
+                    "options": [
+                        "A few thousand years old",
+                        "Millions of years old",
+                        "Billions of years old",
+                        "They are brand new"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The professor notes: 'The bottom rocks are billions of years old.'"
+                },
+                {
+                    "id": "L192",
+                    "questionText": "How does the professor describe looking at the canyon?",
+                    "options": [
+                        "Like looking at a painting",
+                        "Like looking back in time",
+                        "Like flying",
+                        "Like looking at the moon"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The lecture concludes: 'It’s like looking back in time just by looking down.'"
+                }
+            ]
         }
     ]
 }
