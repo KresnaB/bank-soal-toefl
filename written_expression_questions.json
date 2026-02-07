@@ -4029,25 +4029,6 @@
             "explanation": "Conjunction. 'Because of' diikuti noun phrase. Karena diikuti klausa 'the weather was bad', gunakan conjunction 'Because'."
         },
         {
-            "id": "WE213",
-            "sectionType": "written_expression",
-            "questionText": "She c̲a̲n̲n̲o̲t̲ h̲a̲r̲d̲l̲y̲ wait t̲o̲ ̲s̲e̲e̲ h̲e̲r̲ parents.",
-            "underlinedParts": [
-                "cannot",
-                "hardly",
-                "to see",
-                "her"
-            ],
-            "options": [
-                "cannot",
-                "hardly",
-                "to see",
-                "her"
-            ],
-            "answerIndex": 0,
-            "explanation": "Double Negative. 'Hardly' sudah bermakna negatif (hampir tidak). Jangan gunakan 'cannot'. Hapus 'not' -> 'She can hardly wait'."
-        },
-        {
             "id": "WE214",
             "sectionType": "written_expression",
             "questionText": "The r̲e̲s̲u̲l̲t̲s̲ of the e̲x̲p̲e̲r̲i̲m̲e̲n̲t̲ are m̲o̲r̲e̲ ̲b̲e̲t̲t̲e̲r̲ t̲h̲a̲n̲ expected.",
@@ -4179,25 +4160,6 @@
             ],
             "answerIndex": 1,
             "explanation": "Plural Noun. 'Police' adalah kata benda jamak. Harusnya 'are investigating'."
-        },
-        {
-            "id": "WE221",
-            "sectionType": "written_expression",
-            "questionText": "She l̲o̲o̲k̲s̲ b̲e̲a̲u̲t̲i̲f̲u̲l̲l̲y̲ i̲n̲ that d̲r̲e̲s̲s̲.",
-            "underlinedParts": [
-                "looks",
-                "beautifully",
-                "in",
-                "dress"
-            ],
-            "options": [
-                "looks",
-                "beautifully",
-                "in",
-                "dress"
-            ],
-            "answerIndex": 1,
-            "explanation": "Linking Verb. 'Looks' diikuti adjective, bukan adverb. Harusnya 'looks beautiful'."
         },
         {
             "id": "WE222",
@@ -4369,6 +4331,424 @@
             ],
             "answerIndex": 2,
             "explanation": "Adverb. 'Speaks' adalah verb, dijelaskan oleh adverb. Harusnya 'well enough'."
+        },
+        {
+            "id": "WE231",
+            "sectionType": "written_expression",
+            "questionText": "Every student a̲n̲d̲ teacher in the school a̲r̲e̲ r̲e̲q̲u̲i̲r̲e̲d̲ ̲t̲o̲ a̲t̲t̲e̲n̲d̲ the assembly.",
+            "underlinedParts": [
+                "and",
+                "are",
+                "required to",
+                "attend"
+            ],
+            "options": [
+                "and",
+                "are",
+                "required to",
+                "attend"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subject-Verb Agreement. Subjek yang diawali dengan 'Every' selalu dianggap tunggal, meskipun ada 'and'. Harusnya 'is'."
+        },
+        {
+            "id": "WE232",
+            "sectionType": "written_expression",
+            "questionText": "The man w̲h̲i̲c̲h̲ lives next door is a f̲a̲m̲o̲u̲s̲ musician known f̲o̲r̲ his talent.",
+            "underlinedParts": [
+                "which",
+                "famous",
+                "for",
+                "talent"
+            ],
+            "options": [
+                "which",
+                "famous",
+                "for",
+                "talent"
+            ],
+            "answerIndex": 0,
+            "explanation": "Relative Pronoun. 'Which' digunakan untuk benda atau hewan. Untuk orang ('The man'), gunakan 'who'."
+        },
+        {
+            "id": "WE233",
+            "sectionType": "written_expression",
+            "questionText": "The director, a̲s̲ ̲w̲e̲l̲l̲ ̲a̲s̲ his assistants, w̲e̲r̲e̲ present a̲t̲ the d̲i̲n̲n̲e̲r̲ party.",
+            "underlinedParts": [
+                "as well as",
+                "were",
+                "at",
+                "dinner"
+            ],
+            "options": [
+                "as well as",
+                "were",
+                "at",
+                "dinner"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subject-Verb Agreement. Subjek utamanya 'The director' (singular). Frasa 'as well as...' tidak mengubah jumlah subjek. Harusnya 'was'."
+        },
+        {
+            "id": "WE234",
+            "sectionType": "written_expression",
+            "questionText": "D̲e̲s̲p̲i̲t̲e̲ the heavy rain, t̲h̲e̲ soccer game w̲a̲s̲ played a̲s̲ ̲p̲l̲a̲n̲n̲i̲n̲g̲.",
+            "underlinedParts": [
+                "Despite",
+                "the",
+                "was",
+                "as planning"
+            ],
+            "options": [
+                "Despite",
+                "the",
+                "was",
+                "as planning"
+            ],
+            "answerIndex": 3,
+            "explanation": "Idiomatic Expression/Passive. Frasa yang benar adalah 'as planned' (seperti yang direncanakan)."
+        },
+        {
+            "id": "WE235",
+            "sectionType": "written_expression",
+            "questionText": "Each of the c̲a̲r̲s̲ in the parking lot h̲a̲v̲e̲ ̲b̲e̲e̲n̲ i̲n̲s̲p̲e̲c̲t̲e̲d̲ by t̲h̲e̲ security guard.",
+            "underlinedParts": [
+                "cars",
+                "have been",
+                "inspected",
+                "the"
+            ],
+            "options": [
+                "cars",
+                "have been",
+                "inspected",
+                "the"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subject-Verb Agreement. 'Each' selalu mengambil verb tunggal. Harusnya 'has been'."
+        },
+        {
+            "id": "WE236",
+            "sectionType": "written_expression",
+            "questionText": "The new employee is n̲o̲t̲ ̲o̲n̲l̲y̲ intelligent b̲u̲t̲ a̲l̲s̲o̲ h̲a̲r̲d̲w̲o̲r̲k̲.",
+            "underlinedParts": [
+                "not only",
+                "but",
+                "also",
+                "hardwork"
+            ],
+            "options": [
+                "not only",
+                "but",
+                "also",
+                "hardwork"
+            ],
+            "answerIndex": 3,
+            "explanation": "Parallel Structure. 'Intelligent' adalah adjective, jadi pasangannya setelah 'but also' juga harus adjective. Harusnya 'hardworking'."
+        },
+        {
+            "id": "WE237",
+            "sectionType": "written_expression",
+            "questionText": "M̲a̲n̲y̲ people believe that sharks are d̲a̲n̲g̲e̲r̲o̲u̲s̲ than d̲o̲l̲p̲h̲i̲n̲s̲.",
+            "underlinedParts": [
+                "Many",
+                "dangerous",
+                "than",
+                "dolphins"
+            ],
+            "options": [
+                "Many",
+                "dangerous",
+                "than",
+                "dolphins"
+            ],
+            "answerIndex": 1,
+            "explanation": "Comparative. Karena ada kata 'than', adjective 'dangerous' harus dalam bentuk komparatif. Harusnya 'more dangerous'."
+        },
+        {
+            "id": "WE238",
+            "sectionType": "written_expression",
+            "questionText": "The student w̲h̲o̲m̲ sits in the front row i̲s̲ always a̲s̲k̲i̲n̲g̲ q̲u̲e̲s̲t̲i̲o̲n̲s̲.",
+            "underlinedParts": [
+                "whom",
+                "is",
+                "asking",
+                "questions"
+            ],
+            "options": [
+                "whom",
+                "is",
+                "asking",
+                "questions"
+            ],
+            "answerIndex": 0,
+            "explanation": "Relative Pronoun. Pronoun ini berfungsi sebagai subjek dari 'sits'. Harusnya 'who'."
+        },
+        {
+            "id": "WE239",
+            "sectionType": "written_expression",
+            "questionText": "Please remind m̲e̲ buying some milk o̲n̲ the way h̲o̲m̲e̲ f̲r̲o̲m̲ work.",
+            "underlinedParts": [
+                "me",
+                "buying",
+                "on",
+                "from"
+            ],
+            "options": [
+                "me",
+                "buying",
+                "on",
+                "from"
+            ],
+            "answerIndex": 1,
+            "explanation": "Verb Pattern. 'Remind' diikuti 'to infinitive' untuk mengingatkan melakukan sesuatu. Harusnya 'to buy'."
+        },
+        {
+            "id": "WE240",
+            "sectionType": "written_expression",
+            "questionText": "The number of students a̲t̲t̲e̲n̲d̲i̲n̲g̲ the lecture a̲r̲e̲ increasing e̲v̲e̲r̲y̲ ̲y̲e̲a̲r̲.",
+            "underlinedParts": [
+                "attending",
+                "are",
+                "increasing",
+                "every year"
+            ],
+            "options": [
+                "attending",
+                "are",
+                "increasing",
+                "every year"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subject-Verb Agreement. 'The number of...' selalu diikuti verb tunggal. (Beda dengan 'A number of...' yang jamak). Harusnya 'is'."
+        },
+        {
+            "id": "WE241",
+            "sectionType": "written_expression",
+            "questionText": "B̲e̲c̲a̲u̲s̲e̲ the weather was bad, w̲e̲ decided s̲t̲a̲y̲i̲n̲g̲ a̲t̲ home.",
+            "underlinedParts": [
+                "Because",
+                "we",
+                "staying",
+                "at"
+            ],
+            "options": [
+                "Because",
+                "we",
+                "staying",
+                "at"
+            ],
+            "answerIndex": 2,
+            "explanation": "Verb Pattern. 'Decide' selalu diikuti 'to infinitive'. Harusnya 'to stay'."
+        },
+        {
+            "id": "WE242",
+            "sectionType": "written_expression",
+            "questionText": "She is l̲o̲o̲k̲i̲n̲g̲ ̲f̲o̲r̲w̲a̲r̲d̲ t̲o̲ ̲v̲i̲s̲i̲t̲ her grandparents i̲n̲ the summer.",
+            "underlinedParts": [
+                "looking forward",
+                "to visit",
+                "her",
+                "in"
+            ],
+            "options": [
+                "looking forward",
+                "to visit",
+                "her",
+                "in"
+            ],
+            "answerIndex": 1,
+            "explanation": "Idiom/Gerund. 'Look forward to' diikuti V-ing. Harusnya 'to visiting'."
+        },
+        {
+            "id": "WE243",
+            "sectionType": "written_expression",
+            "questionText": "T̲h̲e̲r̲e̲ ̲i̲s̲ a lot of p̲r̲o̲b̲l̲e̲m̲s̲ that need t̲o̲ ̲b̲e̲ ̲s̲o̲l̲v̲e̲d̲ i̲m̲m̲e̲d̲i̲a̲t̲e̲l̲y̲.",
+            "underlinedParts": [
+                "There is",
+                "problems",
+                "to be solved",
+                "immediately"
+            ],
+            "options": [
+                "There is",
+                "problems",
+                "to be solved",
+                "immediately"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subject-Verb Agreement. Subjeknya adalah 'problems' (jamak). Harusnya 'There are'."
+        },
+        {
+            "id": "WE244",
+            "sectionType": "written_expression",
+            "questionText": "I prefer c̲o̲f̲f̲e̲e̲ t̲h̲a̲n̲ tea w̲h̲e̲n̲ I w̲a̲k̲e̲ ̲u̲p̲ in the morning.",
+            "underlinedParts": [
+                "coffee",
+                "than",
+                "when",
+                "wake up"
+            ],
+            "options": [
+                "coffee",
+                "than",
+                "when",
+                "wake up"
+            ],
+            "answerIndex": 1,
+            "explanation": "Preposition. Pasangan 'prefer' adalah 'to', bukan 'than'. 'Prefer X to Y'. Harusnya 'to'."
+        },
+        {
+            "id": "WE245",
+            "sectionType": "written_expression",
+            "questionText": "Harry Potter is o̲n̲e̲ ̲o̲f̲ the m̲o̲s̲t̲ popular b̲o̲o̲k̲ in the world.",
+            "underlinedParts": [
+                "one of",
+                "most",
+                "book",
+                "in"
+            ],
+            "options": [
+                "one of",
+                "most",
+                "book",
+                "in"
+            ],
+            "answerIndex": 2,
+            "explanation": "Plural Noun. 'One of the...' diikuti noun jamak. Harusnya 'books'."
+        },
+        {
+            "id": "WE246",
+            "sectionType": "written_expression",
+            "questionText": "If I w̲a̲s̲ you, I w̲o̲u̲l̲d̲ ̲s̲t̲u̲d̲y̲ harder f̲o̲r̲ the exam.",
+            "underlinedParts": [
+                "was",
+                "would study",
+                "harder",
+                "for"
+            ],
+            "options": [
+                "was",
+                "would study",
+                "harder",
+                "for"
+            ],
+            "answerIndex": 0,
+            "explanation": "Conditional (Subjunctive). Dalam pengandaian tipe 2, 'be' selalu 'were' untuk semua subjek. Harusnya 'were'."
+        },
+        {
+            "id": "WE247",
+            "sectionType": "written_expression",
+            "questionText": "The baby was c̲r̲y̲i̲n̲g̲ l̲o̲u̲d̲ because he was h̲u̲n̲g̲r̲y̲.",
+            "underlinedParts": [
+                "crying",
+                "loud",
+                "because",
+                "hungry"
+            ],
+            "options": [
+                "crying",
+                "loud",
+                "because",
+                "hungry"
+            ],
+            "answerIndex": 1,
+            "explanation": "Adverb. 'Loud' adalah adjective, di sini menjelaskan verb 'crying'. Harusnya adverb 'loudly'."
+        },
+        {
+            "id": "WE248",
+            "sectionType": "written_expression",
+            "questionText": "She did not k̲n̲o̲w̲ w̲h̲e̲r̲e̲ to put the furniture, so she asked her mother for a̲d̲v̲i̲c̲e̲s̲.",
+            "underlinedParts": [
+                "know",
+                "where",
+                "asked",
+                "advices"
+            ],
+            "options": [
+                "know",
+                "where",
+                "asked",
+                "advices"
+            ],
+            "answerIndex": 3,
+            "explanation": "Uncountable Noun. 'Advice' (nasihat) adalah uncountable noun, tidak ada bentuk jamaknya. Harusnya 'advice' atau 'some advice'."
+        },
+        {
+            "id": "WE249",
+            "sectionType": "written_expression",
+            "questionText": "The professor suggested that we s̲t̲o̲p̲p̲e̲d̲ t̲a̲l̲k̲i̲n̲g̲ and s̲t̲a̲r̲t̲ working on the project.",
+            "underlinedParts": [
+                "suggested",
+                "stopped",
+                "talking",
+                "start"
+            ],
+            "options": [
+                "suggested",
+                "stopped",
+                "talking",
+                "start"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subjunctive. 'Suggest that' diikuti subject + bare infinitive. Harusnya 'stop'."
+        },
+        {
+            "id": "WE250",
+            "sectionType": "written_expression",
+            "questionText": "H̲a̲r̲d̲l̲y̲ ̲h̲a̲d̲ he entered the room t̲h̲a̲n̲ the phone r̲a̲n̲g̲.",
+            "underlinedParts": [
+                "Hardly had",
+                "entered",
+                "than",
+                "rang"
+            ],
+            "options": [
+                "Hardly had",
+                "entered",
+                "than",
+                "rang"
+            ],
+            "answerIndex": 2,
+            "explanation": "Correlative Conjunction. Pasangan 'Hardly...when...', sedangkan 'No sooner...than...'. Harusnya 'when'."
+        },
+        {
+            "id": "WE251",
+            "sectionType": "written_expression",
+            "questionText": "The reason t̲h̲a̲t̲ I am late is b̲e̲c̲a̲u̲s̲e̲ my car b̲r̲o̲k̲e̲ ̲d̲o̲w̲n̲ on the highway.",
+            "underlinedParts": [
+                "that",
+                "is",
+                "because",
+                "broke down"
+            ],
+            "options": [
+                "that",
+                "is",
+                "because",
+                "broke down"
+            ],
+            "answerIndex": 2,
+            "explanation": "Redundancy. 'The reason is that...'. Menggunakan 'because' setelah 'The reason is' dianggap redundan. Harusnya 'that'."
+        },
+        {
+            "id": "WE252",
+            "sectionType": "written_expression",
+            "questionText": "Mathematics, w̲h̲i̲c̲h̲ a̲r̲e̲ my favorite subject, i̲s̲ taught by Mr. Smith.",
+            "underlinedParts": [
+                "which",
+                "are",
+                "subject",
+                "is"
+            ],
+            "options": [
+                "which",
+                "are",
+                "subject",
+                "is"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subject-Verb Agreement. 'Mathematics' tunggal, jadi verb dalam klausa adjektiva juga harus tunggal. Harusnya 'is'."
         }
     ]
 }
