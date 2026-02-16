@@ -3249,6 +3249,1306 @@
             ],
             "answerIndex": 0,
             "explanation": "Zero Article. 'Milk' is an uncountable noun used in a general sense, so no article is needed, just the adjective 'Fresh'."
+        },
+        {
+            "id": "S291",
+            "sectionType": "structure",
+            "questionText": "_______ the bad weather, the flight took off on time.",
+            "options": [
+                "Despite",
+                "Although",
+                "Even though",
+                "However"
+            ],
+            "answerIndex": 0,
+            "explanation": "'Despite' followed by a noun phrase 'the bad weather' is correct."
+        },
+        {
+            "id": "S292",
+            "sectionType": "structure",
+            "questionText": "The director suggested that she _______ the script immediately.",
+            "options": [
+                "rewrite",
+                "rewrote",
+                "rewritten",
+                "rewriting"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subjunctive mood used after 'suggest'. Base form of the verb 'rewrite' is required."
+        },
+        {
+            "id": "S293",
+            "sectionType": "structure",
+            "questionText": "Hardly _______ down when the phone rang.",
+            "options": [
+                "I had sat",
+                "had I sat",
+                "did I sit",
+                "I sat"
+            ],
+            "answerIndex": 1,
+            "explanation": "Inversion is required after 'Hardly'. 'Had I sat' is the correct past perfect inversion."
+        },
+        {
+            "id": "S294",
+            "sectionType": "structure",
+            "questionText": "The physics experiment _______ the students is complex.",
+            "options": [
+                "conducting",
+                "conducted by",
+                "conducted",
+                "was conducted"
+            ],
+            "answerIndex": 1,
+            "explanation": "Reduced relative clause. 'The experiment (which was) conducted by the students'."
+        },
+        {
+            "id": "S295",
+            "sectionType": "structure",
+            "questionText": "Not only _______ English, but he also speaks French.",
+            "options": [
+                "he speaks",
+                "does he speak",
+                "he speak",
+                "speak he"
+            ],
+            "answerIndex": 1,
+            "explanation": "Inversion required after 'Not only' at the beginning of the sentence."
+        },
+        {
+            "id": "S296",
+            "sectionType": "structure",
+            "questionText": "If I _______ you, I would take that job offer.",
+            "options": [
+                "am",
+                "was",
+                "were",
+                "be"
+            ],
+            "answerIndex": 2,
+            "explanation": "Second conditional (hypothetical). 'Were' is used for all subjects."
+        },
+        {
+            "id": "S297",
+            "sectionType": "structure",
+            "questionText": "The sooner we start, _______ we will finish.",
+            "options": [
+                "the soonest",
+                "the sooner",
+                "sooner",
+                "soon"
+            ],
+            "answerIndex": 1,
+            "explanation": "Double comparative structure: 'The sooner..., the sooner...'."
+        },
+        {
+            "id": "S298",
+            "sectionType": "structure",
+            "questionText": "_______ variety of flowers were planted in the garden.",
+            "options": [
+                "A large",
+                "Large",
+                "The large",
+                "A largely"
+            ],
+            "answerIndex": 0,
+            "explanation": "'A large variety' is the correct noun phrase."
+        },
+        {
+            "id": "S299",
+            "sectionType": "structure",
+            "questionText": "She is used to _______ early in the morning.",
+            "options": [
+                "wake up",
+                "waking up",
+                "waken up",
+                "woke up"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Be used to' is followed by a gerund (-ing form)."
+        },
+        {
+            "id": "S300",
+            "sectionType": "structure",
+            "questionText": "The committee _______ of ten members.",
+            "options": [
+                "consist",
+                "consisting",
+                "consists",
+                "is consisted"
+            ],
+            "answerIndex": 2,
+            "explanation": "Collective noun 'committee' takes a singular verb 'consists'."
+        },
+        {
+            "id": "S301",
+            "sectionType": "structure",
+            "questionText": "Unless you _______ harder, you will not pass the exam.",
+            "options": [
+                "study",
+                "will study",
+                "studied",
+                "studying"
+            ],
+            "answerIndex": 0,
+            "explanation": "Simple present is used in the 'unless' clause for future meaning."
+        },
+        {
+            "id": "S302",
+            "sectionType": "structure",
+            "questionText": "I prefer coffee _______ tea.",
+            "options": [
+                "than",
+                "to",
+                "over",
+                "from"
+            ],
+            "answerIndex": 1,
+            "explanation": "Correct structure is 'prefer X to Y'."
+        },
+        {
+            "id": "S303",
+            "sectionType": "structure",
+            "questionText": "She acted as if she _______ everything.",
+            "options": [
+                "know",
+                "knows",
+                "knew",
+                "known"
+            ],
+            "answerIndex": 2,
+            "explanation": "'As if' introduces a hypothetical situation, requiring past tense 'knew'."
+        },
+        {
+            "id": "S304",
+            "sectionType": "structure",
+            "questionText": "_______, the team continued to practice.",
+            "options": [
+                "Although raining",
+                "Despite the rain",
+                "In spite raining",
+                "Even it rained"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Despite' followed by a noun phrase 'the rain'."
+        },
+        {
+            "id": "S305",
+            "sectionType": "structure",
+            "questionText": "The book _______ I borrowed is interesting.",
+            "options": [
+                "who",
+                "whom",
+                "which",
+                "whose"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Which' is used for things (the book)."
+        },
+        {
+            "id": "S306",
+            "sectionType": "structure",
+            "questionText": "It is essential that everyone _______ calm.",
+            "options": [
+                "remain",
+                "remains",
+                "remained",
+                "remaining"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subjunctive mood: 'It is essential that' + subject + base verb."
+        },
+        {
+            "id": "S307",
+            "sectionType": "structure",
+            "questionText": "Only after the meeting _______ did they leave.",
+            "options": [
+                "ended",
+                "did end",
+                "had ended",
+                "has ended"
+            ],
+            "answerIndex": 0,
+            "explanation": "Inversion in main clause 'did they leave', but the time clause uses normal order."
+        },
+        {
+            "id": "S308",
+            "sectionType": "structure",
+            "questionText": "Neither the manager nor the employees _______ satisfied.",
+            "options": [
+                "was",
+                "were",
+                "is",
+                "be"
+            ],
+            "answerIndex": 1,
+            "explanation": "Verb agrees with the closer subject 'employees' (plural)."
+        },
+        {
+            "id": "S309",
+            "sectionType": "structure",
+            "questionText": "By next year, I _______ from university.",
+            "options": [
+                "will graduate",
+                "will have graduated",
+                "graduate",
+                "am graduating"
+            ],
+            "answerIndex": 1,
+            "explanation": "Future Perfect 'will have graduated' for action completed by a future time."
+        },
+        {
+            "id": "S310",
+            "sectionType": "structure",
+            "questionText": "_______ being tired, he finished the work.",
+            "options": [
+                "In spite of",
+                "Although",
+                "Because",
+                "Unless"
+            ],
+            "answerIndex": 0,
+            "explanation": "'In spite of' is followed by a gerund 'being'."
+        },
+        {
+            "id": "S311",
+            "sectionType": "structure",
+            "questionText": "The news _______ shocking to everyone.",
+            "options": [
+                "were",
+                "are",
+                "was",
+                "have been"
+            ],
+            "answerIndex": 2,
+            "explanation": "'News' is an uncountable singular noun."
+        },
+        {
+            "id": "S312",
+            "sectionType": "structure",
+            "questionText": "_______ Mount Everest is the highest peak in the world.",
+            "options": [
+                "The",
+                "A",
+                "-",
+                "An"
+            ],
+            "answerIndex": 2,
+            "explanation": "Individual mountain names generally do not take an article."
+        },
+        {
+            "id": "S313",
+            "sectionType": "structure",
+            "questionText": "Would you mind _______ the window?",
+            "options": [
+                "open",
+                "to open",
+                "opening",
+                "opened"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Do you mind' is followed by a gerund."
+        },
+        {
+            "id": "S314",
+            "sectionType": "structure",
+            "questionText": "The woman _______ car was stolen called the police.",
+            "options": [
+                "who",
+                "whom",
+                "whose",
+                "which"
+            ],
+            "answerIndex": 2,
+            "explanation": "Possessive relative pronoun 'whose'."
+        },
+        {
+            "id": "S315",
+            "sectionType": "structure",
+            "questionText": "_______ better if you had asked for help.",
+            "options": [
+                "It would have been",
+                "It was",
+                "It had been",
+                "It would be"
+            ],
+            "answerIndex": 0,
+            "explanation": "Third conditional result clause: 'would have + past participle'."
+        },
+        {
+            "id": "S316",
+            "sectionType": "structure",
+            "questionText": "They avoided _______ through the dark alley.",
+            "options": [
+                "walk",
+                "to walk",
+                "walking",
+                "walked"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Avoid' is followed by a gerund."
+        },
+        {
+            "id": "S317",
+            "sectionType": "structure",
+            "questionText": "The professor along with his students _______ attending the conference.",
+            "options": [
+                "are",
+                "is",
+                "were",
+                "have been"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subject is 'The professor' (singular). 'Along with' is an additive phrase, not conjunction."
+        },
+        {
+            "id": "S318",
+            "sectionType": "structure",
+            "questionText": "_______ a doctor, he knows how to treat the wound.",
+            "options": [
+                "Being",
+                "Been",
+                "To be",
+                "Be"
+            ],
+            "answerIndex": 0,
+            "explanation": "Participle phrase 'Being a doctor' acting as reason."
+        },
+        {
+            "id": "S319",
+            "sectionType": "structure",
+            "questionText": "It was _______ cold that we stayed inside.",
+            "options": [
+                "so",
+                "such",
+                "very",
+                "too"
+            ],
+            "answerIndex": 0,
+            "explanation": "'So + adjective + that' pattern."
+        },
+        {
+            "id": "S320",
+            "sectionType": "structure",
+            "questionText": "We look forward _______ you soon.",
+            "options": [
+                "to see",
+                "seeing",
+                "to seeing",
+                "see"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Look forward to' is followed by a gerund."
+        },
+        {
+            "id": "S321",
+            "sectionType": "structure",
+            "questionText": "Had I known about the traffic, I _______ earlier.",
+            "options": [
+                "would leave",
+                "would have left",
+                "will leave",
+                "left"
+            ],
+            "answerIndex": 1,
+            "explanation": "Inverted third conditional: 'If I had known' -> 'Had I known'. Result: 'would have left'."
+        },
+        {
+            "id": "S322",
+            "sectionType": "structure",
+            "questionText": "Mathematics _______ usually considered a difficult subject.",
+            "options": [
+                "are",
+                "is",
+                "were",
+                "have been"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subject names ending in -ics (Mathematics) are singular."
+        },
+        {
+            "id": "S323",
+            "sectionType": "structure",
+            "questionText": "There is _______ water left in the bottle.",
+            "options": [
+                "few",
+                "a few",
+                "little",
+                "many"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Water' is uncountable, so 'little' is used."
+        },
+        {
+            "id": "S324",
+            "sectionType": "structure",
+            "questionText": "_______ he tried hard, he failed the test.",
+            "options": [
+                "Despite",
+                "Although",
+                "However",
+                "Nevertheless"
+            ],
+            "answerIndex": 1,
+            "explanation": "Conjunction 'Although' introduces a clause (S+V)."
+        },
+        {
+            "id": "S325",
+            "sectionType": "structure",
+            "questionText": "I wish I _______ speak Spanish fluently.",
+            "options": [
+                "can",
+                "will",
+                "could",
+                "may"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Wish' generally takes past models or subjunctive forms. 'Could' is appropriate here."
+        },
+        {
+            "id": "S326",
+            "sectionType": "structure",
+            "questionText": "Each of the participants _______ given a certificate.",
+            "options": [
+                "was",
+                "were",
+                "have been",
+                "are"
+            ],
+            "answerIndex": 0,
+            "explanation": "'Each of' takes a singular verb."
+        },
+        {
+            "id": "S327",
+            "sectionType": "structure",
+            "questionText": "The number of students _______ increasing every year.",
+            "options": [
+                "are",
+                "is",
+                "were",
+                "have"
+            ],
+            "answerIndex": 1,
+            "explanation": "'The number of' takes a singular verb (referring to the count)."
+        },
+        {
+            "id": "S328",
+            "sectionType": "structure",
+            "questionText": "The jury _______ unable to reach a verdict.",
+            "options": [
+                "was",
+                "were",
+                "is",
+                "has been"
+            ],
+            "answerIndex": 1,
+            "explanation": "When individuals in a collective noun act separately, use plural verb."
+        },
+        {
+            "id": "S329",
+            "sectionType": "structure",
+            "questionText": "She is the _______ girl in the class.",
+            "options": [
+                "intelligent",
+                "more intelligent",
+                "most intelligent",
+                "intelligently"
+            ],
+            "answerIndex": 2,
+            "explanation": "Superlative form 'the most intelligent'."
+        },
+        {
+            "id": "S330",
+            "sectionType": "structure",
+            "questionText": "_______ I speak to Mr. Smith, please?",
+            "options": [
+                "May",
+                "Do",
+                "Am",
+                "Will"
+            ],
+            "answerIndex": 0,
+            "explanation": "Polite request 'May I'."
+        },
+        {
+            "id": "S331",
+            "sectionType": "structure",
+            "questionText": "The house _______ built in 1990.",
+            "options": [
+                "is",
+                "was",
+                "has been",
+                "had been"
+            ],
+            "answerIndex": 1,
+            "explanation": "Simple past passive 'was built' (specific past time 'in 1990')."
+        },
+        {
+            "id": "S332",
+            "sectionType": "structure",
+            "questionText": "He asked me where _______ going.",
+            "options": [
+                "was I",
+                "I was",
+                "am I",
+                "I am"
+            ],
+            "answerIndex": 1,
+            "explanation": "Indirect question word order is Statement order (S+V)."
+        },
+        {
+            "id": "S333",
+            "sectionType": "structure",
+            "questionText": "_______ John nor his friends are going.",
+            "options": [
+                "Either",
+                "Neither",
+                "Both",
+                "Not only"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Neither... nor' correlation."
+        },
+        {
+            "id": "S334",
+            "sectionType": "structure",
+            "questionText": "This is the place _______ we met.",
+            "options": [
+                "which",
+                "where",
+                "that",
+                "who"
+            ],
+            "answerIndex": 1,
+            "explanation": "Relative adverb 'where' for place."
+        },
+        {
+            "id": "S335",
+            "sectionType": "structure",
+            "questionText": "Let's go for a walk, _______?",
+            "options": [
+                "shall we",
+                "will we",
+                "do we",
+                "let us"
+            ],
+            "answerIndex": 0,
+            "explanation": "Tag question for 'Let's' is 'shall we'."
+        },
+        {
+            "id": "S336",
+            "sectionType": "structure",
+            "questionText": "She has been working here _______ five years.",
+            "options": [
+                "since",
+                "for",
+                "in",
+                "during"
+            ],
+            "answerIndex": 1,
+            "explanation": "'For' indicates duration."
+        },
+        {
+            "id": "S337",
+            "sectionType": "structure",
+            "questionText": "I can't help _______ at his jokes.",
+            "options": [
+                "laugh",
+                "to laugh",
+                "laughing",
+                "laughed"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom 'can't help' takes gerund."
+        },
+        {
+            "id": "S338",
+            "sectionType": "structure",
+            "questionText": "_______ arriving at the airport, he realized he forgot his passport.",
+            "options": [
+                "On",
+                "In",
+                "At",
+                "By"
+            ],
+            "answerIndex": 0,
+            "explanation": "'On' + Gerund means 'When...' or 'Upon...'."
+        },
+        {
+            "id": "S339",
+            "sectionType": "structure",
+            "questionText": "The CEO, _______ expertise is well known, will give a speech.",
+            "options": [
+                "who",
+                "whom",
+                "whose",
+                "which"
+            ],
+            "answerIndex": 2,
+            "explanation": "Possessive relative 'whose'."
+        },
+        {
+            "id": "S340",
+            "sectionType": "structure",
+            "questionText": "Not until yesterday _______ the news.",
+            "options": [
+                "I heard",
+                "did I hear",
+                "I did hear",
+                "had I heard"
+            ],
+            "answerIndex": 1,
+            "explanation": "Inversion after 'Not until': 'did I hear'."
+        },
+        {
+            "id": "S341",
+            "sectionType": "structure",
+            "questionText": "No sooner _______ entered the room than the lights went out.",
+            "options": [
+                "had he",
+                "he had",
+                "did he",
+                "he did"
+            ],
+            "answerIndex": 0,
+            "explanation": "'No sooner... than' structure takes inverted past perfect."
+        },
+        {
+            "id": "S342",
+            "sectionType": "structure",
+            "questionText": "A number of students _______ absent today.",
+            "options": [
+                "is",
+                "are",
+                "was",
+                "has been"
+            ],
+            "answerIndex": 1,
+            "explanation": "'A number of' takes a plural verb."
+        },
+        {
+            "id": "S343",
+            "sectionType": "structure",
+            "questionText": "The equipment _______ delivered tomorrow.",
+            "options": [
+                "will be",
+                "will",
+                "is",
+                "are"
+            ],
+            "answerIndex": 0,
+            "explanation": "Future passive 'will be delivered'."
+        },
+        {
+            "id": "S344",
+            "sectionType": "structure",
+            "questionText": "He failed the test _______ his hard work.",
+            "options": [
+                "although",
+                "despite",
+                "because",
+                "unless"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Despite' + Noun Phrase."
+        },
+        {
+            "id": "S345",
+            "sectionType": "structure",
+            "questionText": "I would rather you _______ now.",
+            "options": [
+                "leave",
+                "left",
+                "leaving",
+                "will leave"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Would rather' + object + past tense (subjunctive meaning)."
+        },
+        {
+            "id": "S346",
+            "sectionType": "structure",
+            "questionText": "It is time we _______ home.",
+            "options": [
+                "go",
+                "went",
+                "gone",
+                "going"
+            ],
+            "answerIndex": 1,
+            "explanation": "'It is time' + past tense (subjunctive meaning)."
+        },
+        {
+            "id": "S347",
+            "sectionType": "structure",
+            "questionText": "She is believed _______ the best singer.",
+            "options": [
+                "to be",
+                "being",
+                "be",
+                "is"
+            ],
+            "answerIndex": 0,
+            "explanation": "Passive reporting verb structure: 'is believed to be'."
+        },
+        {
+            "id": "S348",
+            "sectionType": "structure",
+            "questionText": "_______ lay the foundation for success.",
+            "options": [
+                "Hard working",
+                "Working hard",
+                "Work hard",
+                "Hard worked"
+            ],
+            "answerIndex": 1,
+            "explanation": "Gerund subject 'Working hard'."
+        },
+        {
+            "id": "S349",
+            "sectionType": "structure",
+            "questionText": "The more you practice, _______ you become.",
+            "options": [
+                "better",
+                "the better",
+                "best",
+                "the best"
+            ],
+            "answerIndex": 1,
+            "explanation": "Double comparative: 'The cleaner, the better'."
+        },
+        {
+            "id": "S350",
+            "sectionType": "structure",
+            "questionText": "Little _______ that he was being watched.",
+            "options": [
+                "he knew",
+                "did he know",
+                "knew he",
+                "knowing"
+            ],
+            "answerIndex": 1,
+            "explanation": "Negative adverb 'Little' starts sentence -> Inversion."
+        },
+        {
+            "id": "S351",
+            "sectionType": "structure",
+            "questionText": "By the time you arrive, I _______ everything.",
+            "options": [
+                "finish",
+                "will finish",
+                "will have finished",
+                "have finished"
+            ],
+            "answerIndex": 2,
+            "explanation": "Future Perfect with 'By the time'."
+        },
+        {
+            "id": "S352",
+            "sectionType": "structure",
+            "questionText": "She suggested that he _______ a doctor.",
+            "options": [
+                "see",
+                "sees",
+                "seen",
+                "saw"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subjunctive after 'suggest'."
+        },
+        {
+            "id": "S353",
+            "sectionType": "structure",
+            "questionText": "I have never seen _______ beautiful painting.",
+            "options": [
+                "so",
+                "such",
+                "such a",
+                "a such"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Such a' + adjective + noun."
+        },
+        {
+            "id": "S354",
+            "sectionType": "structure",
+            "questionText": "Either you or he _______ responsible.",
+            "options": [
+                "is",
+                "are",
+                "am",
+                "be"
+            ],
+            "answerIndex": 0,
+            "explanation": "Verb agrees with closer subject (he -> is)."
+        },
+        {
+            "id": "S355",
+            "sectionType": "structure",
+            "questionText": "_______ from the top of the mountain, the view was breathtaking.",
+            "options": [
+                "Seen",
+                "Seeing",
+                "To see",
+                "Saw"
+            ],
+            "answerIndex": 0,
+            "explanation": "Past participle 'Seen' modifying 'view' (Passive meaning)."
+        },
+        {
+            "id": "S356",
+            "sectionType": "structure",
+            "questionText": "He speaks as though he _______ the boss.",
+            "options": [
+                "is",
+                "was",
+                "were",
+                "been"
+            ],
+            "answerIndex": 2,
+            "explanation": "'As though' + past subjunctive 'were'."
+        },
+        {
+            "id": "S357",
+            "sectionType": "structure",
+            "questionText": "It is polite _______ 'thank you'.",
+            "options": [
+                "say",
+                "to say",
+                "saying",
+                "said"
+            ],
+            "answerIndex": 1,
+            "explanation": "Adjective + Infinitive structure."
+        },
+        {
+            "id": "S358",
+            "sectionType": "structure",
+            "questionText": "She had her car _______ yesterday.",
+            "options": [
+                "repair",
+                "repaired",
+                "repairing",
+                "to repair"
+            ],
+            "answerIndex": 1,
+            "explanation": "Causative 'Have something done'."
+        },
+        {
+            "id": "S359",
+            "sectionType": "structure",
+            "questionText": "The data _______ accurate.",
+            "options": [
+                "is",
+                "are",
+                "was",
+                "has"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Data' is technically plural (datum is singular), though often used as singular. In strict grammar (TOEFL), plural 'are' is safer, or singular 'is' if considered mass. Let's use 'are' as traditional plural."
+        },
+        {
+            "id": "S360",
+            "sectionType": "structure",
+            "questionText": "_______ rich, he is not happy.",
+            "options": [
+                "Despite",
+                "However",
+                "Although",
+                "In spite"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Although' + Adjective (reduced 'Although he is rich')."
+        },
+        {
+            "id": "S361",
+            "sectionType": "structure",
+            "questionText": "Rarely _______ such talent.",
+            "options": [
+                "one sees",
+                "sees one",
+                "does one see",
+                "did one see"
+            ],
+            "answerIndex": 2,
+            "explanation": "Inversion after 'Rarely'."
+        },
+        {
+            "id": "S362",
+            "sectionType": "structure",
+            "questionText": "I object to _______ processed like this.",
+            "options": [
+                "be",
+                "being",
+                "been",
+                "have been"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Object to' + Gerund."
+        },
+        {
+            "id": "S363",
+            "sectionType": "structure",
+            "questionText": "_______ of the two sisters is the taller one?",
+            "options": [
+                "Who",
+                "Which",
+                "What",
+                "Whom"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Which' implies a choice from a limited set."
+        },
+        {
+            "id": "S364",
+            "sectionType": "structure",
+            "questionText": "Five miles _______ a long distance to walk.",
+            "options": [
+                "are",
+                "is",
+                "were",
+                "have been"
+            ],
+            "answerIndex": 1,
+            "explanation": "Distance/Money/Time as a unit takes singular verb."
+        },
+        {
+            "id": "S365",
+            "sectionType": "structure",
+            "questionText": "_______ help, please let me know.",
+            "options": [
+                "Should you need",
+                "If you needed",
+                "Had you need",
+                "Did you need"
+            ],
+            "answerIndex": 0,
+            "explanation": "Inverted 1st conditional 'Should you need' (= If you should need)."
+        },
+        {
+            "id": "S366",
+            "sectionType": "structure",
+            "questionText": "He is _______ to pass the exam.",
+            "options": [
+                "likely",
+                "probable",
+                "possible",
+                "maybe"
+            ],
+            "answerIndex": 0,
+            "explanation": "'Likely' fits 'He is likely to...'."
+        },
+        {
+            "id": "S367",
+            "sectionType": "structure",
+            "questionText": "I remember _______ the door.",
+            "options": [
+                "lock",
+                "to lock",
+                "locking",
+                "locked"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Remember' + Gerund = memory of past action."
+        },
+        {
+            "id": "S368",
+            "sectionType": "structure",
+            "questionText": "_______ broken, the vase could not be repaired.",
+            "options": [
+                "Having been",
+                "Has been",
+                "Had been",
+                "Having"
+            ],
+            "answerIndex": 0,
+            "explanation": "Perfect Participle Passive 'Having been broken'."
+        },
+        {
+            "id": "S369",
+            "sectionType": "structure",
+            "questionText": "The reason _______ he left is unclear.",
+            "options": [
+                "because",
+                "why",
+                "that",
+                "which"
+            ],
+            "answerIndex": 1,
+            "explanation": "'The reason why'."
+        },
+        {
+            "id": "S370",
+            "sectionType": "structure",
+            "questionText": "The rich _______ to help the poor.",
+            "options": [
+                "has",
+                "have",
+                "is",
+                "was"
+            ],
+            "answerIndex": 1,
+            "explanation": "'The rich' = rich people (plural)."
+        },
+        {
+            "id": "S371",
+            "sectionType": "structure",
+            "questionText": "_______ finish the work on time.",
+            "options": [
+                "So that",
+                "In order to",
+                "For",
+                "Because"
+            ],
+            "answerIndex": 1,
+            "explanation": "'In order to' + Verb."
+        },
+        {
+            "id": "S372",
+            "sectionType": "structure",
+            "questionText": "She went to the market _______ buy some milk.",
+            "options": [
+                "for",
+                "to",
+                "so",
+                "that"
+            ],
+            "answerIndex": 1,
+            "explanation": "Infinitive of purpose 'to buy'."
+        },
+        {
+            "id": "S373",
+            "sectionType": "structure",
+            "questionText": "I'm looking forward to _______ from you.",
+            "options": [
+                "hear",
+                "hearing",
+                "heard",
+                "be heard"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Look forward to' + Gerund."
+        },
+        {
+            "id": "S374",
+            "sectionType": "structure",
+            "questionText": "It's no use _______ over spilt milk.",
+            "options": [
+                "cry",
+                "to cry",
+                "crying",
+                "cried"
+            ],
+            "answerIndex": 2,
+            "explanation": "Idiom 'It's no use' + Gerund."
+        },
+        {
+            "id": "S375",
+            "sectionType": "structure",
+            "questionText": "Were I in your position, I _______ accept.",
+            "options": [
+                "will",
+                "would",
+                "can",
+                "may"
+            ],
+            "answerIndex": 1,
+            "explanation": "Inverted 2nd conditional 'Were I...' takes 'would'."
+        },
+        {
+            "id": "S376",
+            "sectionType": "structure",
+            "questionText": "_______ John, everyone was there.",
+            "options": [
+                "Except",
+                "Expect",
+                "Accept",
+                "Excerpt"
+            ],
+            "answerIndex": 0,
+            "explanation": "Preposition 'Except'."
+        },
+        {
+            "id": "S377",
+            "sectionType": "structure",
+            "questionText": "She sings _______ than her sister.",
+            "options": [
+                "beautiful",
+                "beautifully",
+                "more beautiful",
+                "more beautifully"
+            ],
+            "answerIndex": 3,
+            "explanation": "Comparative adverb 'more beautifully' modifies 'sings'."
+        },
+        {
+            "id": "S378",
+            "sectionType": "structure",
+            "questionText": "_______ a teacher, she is very patient.",
+            "options": [
+                "As",
+                "Like",
+                "Same",
+                "Similar"
+            ],
+            "answerIndex": 0,
+            "explanation": "'As' = in the capacity of."
+        },
+        {
+            "id": "S379",
+            "sectionType": "structure",
+            "questionText": "He is the man _______ I spoke.",
+            "options": [
+                "who",
+                "whom",
+                "to whom",
+                "to who"
+            ],
+            "answerIndex": 2,
+            "explanation": "'To whom' is the formal structure."
+        },
+        {
+            "id": "S380",
+            "sectionType": "structure",
+            "questionText": "_______ you study, the better your grades.",
+            "options": [
+                "Harder",
+                "The harder",
+                "More hard",
+                "Hardest"
+            ],
+            "answerIndex": 1,
+            "explanation": "Double comparative 'The harder...'."
+        },
+        {
+            "id": "S381",
+            "sectionType": "structure",
+            "questionText": "She made me _______ the entire report.",
+            "options": [
+                "rewrite",
+                "to rewrite",
+                "rewriting",
+                "rewrote"
+            ],
+            "answerIndex": 0,
+            "explanation": "Causative 'Make' takes bare infinitive."
+        },
+        {
+            "id": "S382",
+            "sectionType": "structure",
+            "questionText": "He talks as if he _______ the answer.",
+            "options": [
+                "knows",
+                "knew",
+                "has known",
+                "know"
+            ],
+            "answerIndex": 1,
+            "explanation": "'As if' + past subjunctive."
+        },
+        {
+            "id": "S383",
+            "sectionType": "structure",
+            "questionText": "I would rather go to the beach _______ stay home.",
+            "options": [
+                "to",
+                "than",
+                "from",
+                "that"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Would rather... than...'."
+        },
+        {
+            "id": "S384",
+            "sectionType": "structure",
+            "questionText": "It is vital that the document _______ signed.",
+            "options": [
+                "is",
+                "be",
+                "was",
+                "were"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subjunctive 'be'."
+        },
+        {
+            "id": "S385",
+            "sectionType": "structure",
+            "questionText": "Hardly had I arrived _______ it started to rain.",
+            "options": [
+                "when",
+                "than",
+                "then",
+                "until"
+            ],
+            "answerIndex": 0,
+            "explanation": "'Hardly... when...'."
+        },
+        {
+            "id": "S386",
+            "sectionType": "structure",
+            "questionText": "Scarcely _______ sat down when the phone rang.",
+            "options": [
+                "had I",
+                "I had",
+                "did I",
+                "I did"
+            ],
+            "answerIndex": 0,
+            "explanation": "Inversion with 'Scarcely'."
+        },
+        {
+            "id": "S387",
+            "sectionType": "structure",
+            "questionText": "Only by practicing _______ improve.",
+            "options": [
+                "you can",
+                "can you",
+                "you will",
+                "did you"
+            ],
+            "answerIndex": 1,
+            "explanation": "Inversion after 'Only by...'."
+        },
+        {
+            "id": "S388",
+            "sectionType": "structure",
+            "questionText": "The problem _______ by the manager.",
+            "options": [
+                "solved",
+                "was solved",
+                "solving",
+                "solves"
+            ],
+            "answerIndex": 1,
+            "explanation": "Passive voice 'was solved'."
+        },
+        {
+            "id": "S389",
+            "sectionType": "structure",
+            "questionText": "Instead of _______ TV, he read a book.",
+            "options": [
+                "watch",
+                "watching",
+                "to watch",
+                "watched"
+            ],
+            "answerIndex": 1,
+            "explanation": "Preposition 'Instead of' + Gerund."
+        },
+        {
+            "id": "S390",
+            "sectionType": "structure",
+            "questionText": "There _______ many reasons for this.",
+            "options": [
+                "is",
+                "are",
+                "was",
+                "has"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Reasons' is plural -> 'are'."
         }
     ]
 }

@@ -5079,6 +5079,1911 @@
                     "explanation": "Near Kitty Hawk, North Carolina."
                 }
             ]
+        },
+        {
+            "passageId": 41,
+            "title": "The Great Barrier Reef",
+            "content": "The Great Barrier Reef is the world's largest coral reef system, located off the coast of Queensland, Australia. Stretching over 2,300 kilometers, it consists of over 2,900 individual reefs and 900 islands. The reef is home to an incredible diversity of life, including 1,500 species of fish, 400 types of coral, and numerous other marine organisms. It was designated as a UNESCO World Heritage Site in 1981. However, climate change poses a significant threat to this natural wonder, with rising ocean temperatures causing coral bleaching events that damage the ecosystem. Conservation efforts are underway to protect and preserve this vital marine habitat for future generations.",
+            "questions": [
+                {
+                    "id": "R401",
+                    "questionText": "Where is the Great Barrier Reef located?",
+                    "options": [
+                        "Off the coast of California",
+                        "Off the coast of Queensland, Australia",
+                        "Near Hawaii",
+                        "In the Caribbean Sea"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Located off the coast of Queensland, Australia."
+                },
+                {
+                    "id": "R402",
+                    "questionText": "How long is the Great Barrier Reef?",
+                    "options": [
+                        "1,000 kilometers",
+                        "2,300 kilometers",
+                        "3,000 kilometers",
+                        "5,000 kilometers"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Stretching over 2,300 kilometers."
+                },
+                {
+                    "id": "R403",
+                    "questionText": "How many species of fish live in the reef?",
+                    "options": [
+                        "500 species",
+                        "1,000 species",
+                        "1,500 species",
+                        "2,000 species"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Home to 1,500 species of fish."
+                },
+                {
+                    "id": "R404",
+                    "questionText": "When was it designated a UNESCO World Heritage Site?",
+                    "options": [
+                        "1975",
+                        "1981",
+                        "1990",
+                        "2000"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Designated in 1981."
+                },
+                {
+                    "id": "R405",
+                    "questionText": "What is causing coral bleaching?",
+                    "options": [
+                        "Overfishing",
+                        "Rising ocean temperatures",
+                        "Oil spills",
+                        "Plastic pollution"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Rising ocean temperatures causing coral bleaching."
+                },
+                {
+                    "id": "R406",
+                    "questionText": "What does the word 'designated' mean in paragraph 1?",
+                    "options": [
+                        "Destroyed",
+                        "Officially named or classified",
+                        "Ignored",
+                        "Moved"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Designated means officially named or classified."
+                },
+                {
+                    "id": "R407",
+                    "questionText": "How many individual reefs does the system contain?",
+                    "options": [
+                        "1,000",
+                        "2,000",
+                        "2,900",
+                        "3,500"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Consists of over 2,900 individual reefs."
+                },
+                {
+                    "id": "R408",
+                    "questionText": "What is the main threat to the Great Barrier Reef mentioned in the passage?",
+                    "options": [
+                        "Tourism",
+                        "Climate change",
+                        "Mining",
+                        "Shipping"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Climate change poses a significant threat."
+                },
+                {
+                    "id": "R409",
+                    "questionText": "The word 'diversity' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Sameness",
+                        "Variety",
+                        "Quantity",
+                        "Quality"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Diversity means variety or range of different things."
+                },
+                {
+                    "id": "R410",
+                    "questionText": "What is the purpose of conservation efforts mentioned in the passage?",
+                    "options": [
+                        "To attract more tourists",
+                        "To protect and preserve the reef",
+                        "To build new islands",
+                        "To increase fishing"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Conservation efforts are to protect and preserve this vital marine habitat."
+                }
+            ]
+        },
+        {
+            "passageId": 42,
+            "title": "Marie Curie",
+            "content": "Marie Curie was a Polish-born physicist and chemist who conducted pioneering research on radioactivity. She was the first woman to win a Nobel Prize and remains the only person to win Nobel Prizes in two different scientific fields—Physics in 1903 and Chemistry in 1911. Curie discovered two radioactive elements, polonium and radium, with her husband Pierre Curie. Despite facing significant discrimination as a woman in science, she persisted in her research. During World War I, she developed mobile radiography units to provide X-ray services to field hospitals, saving countless lives. Her work laid the foundation for modern nuclear physics and cancer treatment through radiation therapy.",
+            "questions": [
+                {
+                    "id": "R411",
+                    "questionText": "Where was Marie Curie born?",
+                    "options": [
+                        "France",
+                        "Poland",
+                        "Germany",
+                        "Russia"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Polish-born physicist and chemist."
+                },
+                {
+                    "id": "R412",
+                    "questionText": "How many Nobel Prizes did Marie Curie win?",
+                    "options": [
+                        "One",
+                        "Two",
+                        "Three",
+                        "Four"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Win Nobel Prizes in two different scientific fields."
+                },
+                {
+                    "id": "R413",
+                    "questionText": "Which two elements did Curie discover?",
+                    "options": [
+                        "Uranium and thorium",
+                        "Polonium and radium",
+                        "Gold and silver",
+                        "Oxygen and hydrogen"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Discovered polonium and radium."
+                },
+                {
+                    "id": "R414",
+                    "questionText": "In which fields did she win Nobel Prizes?",
+                    "options": [
+                        "Physics and Biology",
+                        "Chemistry and Medicine",
+                        "Physics and Chemistry",
+                        "Literature and Peace"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Physics in 1903 and Chemistry in 1911."
+                },
+                {
+                    "id": "R415",
+                    "questionText": "What did she develop during World War I?",
+                    "options": [
+                        "New weapons",
+                        "Mobile radiography units",
+                        "Vaccines",
+                        "Radio equipment"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Developed mobile radiography units."
+                },
+                {
+                    "id": "R416",
+                    "questionText": "What does the word 'pioneering' mean in paragraph 1?",
+                    "options": [
+                        "Old-fashioned",
+                        "Introducing new ideas or methods",
+                        "Copying others",
+                        "Unsuccessful"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Pioneering means introducing new ideas or methods."
+                },
+                {
+                    "id": "R417",
+                    "questionText": "Who did Marie Curie work with in her discoveries?",
+                    "options": [
+                        "Her father",
+                        "Her husband Pierre Curie",
+                        "Albert Einstein",
+                        "Her brother"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "With her husband Pierre Curie."
+                },
+                {
+                    "id": "R418",
+                    "questionText": "What challenge did Marie Curie face?",
+                    "options": [
+                        "Financial problems",
+                        "Discrimination as a woman",
+                        "Language barriers",
+                        "Poor education"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Facing significant discrimination as a woman in science."
+                },
+                {
+                    "id": "R419",
+                    "questionText": "The word 'discrimination' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Fair treatment",
+                        "Unfair treatment based on prejudice",
+                        "Helpful support",
+                        "Scientific method"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Discrimination means unfair treatment based on prejudice."
+                },
+                {
+                    "id": "R420",
+                    "questionText": "What modern application came from her work?",
+                    "options": [
+                        "Television",
+                        "Radiation therapy for cancer",
+                        "Airplanes",
+                        "Computers"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Foundation for cancer treatment through radiation therapy."
+                }
+            ]
+        },
+        {
+            "passageId": 43,
+            "title": "The Amazon Rainforest",
+            "content": "The Amazon Rainforest is the largest tropical rainforest in the world, covering approximately 5.5 million square kilometers across nine South American countries. Often called the 'lungs of the Earth,' it produces about 20% of the world's oxygen. The forest is home to an estimated 390 billion trees representing 16,000 species and approximately 10% of all known species on Earth. Indigenous peoples have lived in the Amazon for thousands of years, developing sustainable ways of life. However, deforestation for agriculture, logging, and mining threatens this ecosystem. Scientists warn that losing the Amazon could accelerate climate change and cause irreversible damage to global biodiversity.",
+            "questions": [
+                {
+                    "id": "R421",
+                    "questionText": "What is the Amazon Rainforest called?",
+                    "options": [
+                        "The heart of the Earth",
+                        "The lungs of the Earth",
+                        "The brain of the Earth",
+                        "The skin of the Earth"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Often called the 'lungs of the Earth.'"
+                },
+                {
+                    "id": "R422",
+                    "questionText": "How much of the world's oxygen does it produce?",
+                    "options": [
+                        "10%",
+                        "20%",
+                        "30%",
+                        "50%"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Produces about 20% of the world's oxygen."
+                },
+                {
+                    "id": "R423",
+                    "questionText": "How many countries does the Amazon span?",
+                    "options": [
+                        "Five",
+                        "Seven",
+                        "Nine",
+                        "Twelve"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Across nine South American countries."
+                },
+                {
+                    "id": "R424",
+                    "questionText": "Approximately how many tree species are in the Amazon?",
+                    "options": [
+                        "10,000",
+                        "16,000",
+                        "20,000",
+                        "25,000"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Representing 16,000 species."
+                },
+                {
+                    "id": "R425",
+                    "questionText": "What percentage of all known species live in the Amazon?",
+                    "options": [
+                        "5%",
+                        "10%",
+                        "15%",
+                        "20%"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Approximately 10% of all known species on Earth."
+                },
+                {
+                    "id": "R426",
+                    "questionText": "What does the word 'sustainable' mean in paragraph 1?",
+                    "options": [
+                        "Harmful to the environment",
+                        "Able to be maintained without depleting resources",
+                        "Expensive",
+                        "Temporary"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Sustainable means able to be maintained without depleting resources."
+                },
+                {
+                    "id": "R427",
+                    "questionText": "What threatens the Amazon ecosystem?",
+                    "options": [
+                        "Tourism",
+                        "Deforestation",
+                        "Earthquakes",
+                        "Floods"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Deforestation for agriculture, logging, and mining threatens this ecosystem."
+                },
+                {
+                    "id": "R428",
+                    "questionText": "Who has lived in the Amazon for thousands of years?",
+                    "options": [
+                        "European settlers",
+                        "Indigenous peoples",
+                        "Scientists",
+                        "Explorers"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Indigenous peoples have lived in the Amazon for thousands of years."
+                },
+                {
+                    "id": "R429",
+                    "questionText": "The word 'irreversible' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Reversible",
+                        "Impossible to change back",
+                        "Temporary",
+                        "Beneficial"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Irreversible means impossible to change back or undo."
+                },
+                {
+                    "id": "R430",
+                    "questionText": "What could losing the Amazon cause?",
+                    "options": [
+                        "Economic growth",
+                        "Accelerate climate change",
+                        "Population decrease",
+                        "Technological advancement"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Could accelerate climate change and cause irreversible damage."
+                }
+            ]
+        },
+        {
+            "passageId": 44,
+            "title": "The Human Brain",
+            "content": "The human brain is one of the most complex organs in the body, containing approximately 86 billion neurons. Weighing about 1.4 kilograms, it consumes 20% of the body's energy despite being only 2% of body weight. The brain is divided into several regions, each responsible for different functions. The cerebrum controls higher brain functions like thought and action, while the cerebellum coordinates movement and balance. The brainstem manages automatic functions such as breathing and heart rate. Neuroplasticity allows the brain to reorganize itself by forming new neural connections throughout life, enabling learning and recovery from injuries. Understanding the brain remains one of science's greatest challenges.",
+            "questions": [
+                {
+                    "id": "R431",
+                    "questionText": "How many neurons does the human brain contain?",
+                    "options": [
+                        "10 billion",
+                        "50 billion",
+                        "86 billion",
+                        "100 billion"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Containing approximately 86 billion neurons."
+                },
+                {
+                    "id": "R432",
+                    "questionText": "What percentage of body weight is the brain?",
+                    "options": [
+                        "1%",
+                        "2%",
+                        "5%",
+                        "10%"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Only 2% of body weight."
+                },
+                {
+                    "id": "R433",
+                    "questionText": "How much of the body's energy does the brain consume?",
+                    "options": [
+                        "10%",
+                        "20%",
+                        "30%",
+                        "50%"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Consumes 20% of the body's energy."
+                },
+                {
+                    "id": "R434",
+                    "questionText": "Which part controls higher brain functions?",
+                    "options": [
+                        "Cerebellum",
+                        "Brainstem",
+                        "Cerebrum",
+                        "Spinal cord"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The cerebrum controls higher brain functions like thought and action."
+                },
+                {
+                    "id": "R435",
+                    "questionText": "What does the cerebellum coordinate?",
+                    "options": [
+                        "Thought processes",
+                        "Movement and balance",
+                        "Breathing",
+                        "Vision"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The cerebellum coordinates movement and balance."
+                },
+                {
+                    "id": "R436",
+                    "questionText": "What does the word 'neuroplasticity' mean?",
+                    "options": [
+                        "Brain rigidity",
+                        "Ability to reorganize neural connections",
+                        "Brain disease",
+                        "Memory loss"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Neuroplasticity allows the brain to reorganize itself by forming new neural connections."
+                },
+                {
+                    "id": "R437",
+                    "questionText": "What does the brainstem manage?",
+                    "options": [
+                        "Learning",
+                        "Automatic functions like breathing",
+                        "Emotions",
+                        "Language"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The brainstem manages automatic functions such as breathing and heart rate."
+                },
+                {
+                    "id": "R438",
+                    "questionText": "What enables learning and recovery from injuries?",
+                    "options": [
+                        "Neuroplasticity",
+                        "Sleep",
+                        "Nutrition",
+                        "Exercise"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Neuroplasticity enables learning and recovery from injuries."
+                },
+                {
+                    "id": "R439",
+                    "questionText": "The word 'complex' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Simple",
+                        "Complicated",
+                        "Small",
+                        "Weak"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Complex means complicated or intricate."
+                },
+                {
+                    "id": "R440",
+                    "questionText": "How much does the human brain weigh?",
+                    "options": [
+                        "0.5 kilograms",
+                        "1.4 kilograms",
+                        "2.0 kilograms",
+                        "3.0 kilograms"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Weighing about 1.4 kilograms."
+                }
+            ]
+        },
+        {
+            "passageId": 45,
+            "title": "Ancient Egyptian Pyramids",
+            "content": "The pyramids of ancient Egypt are among the most magnificent architectural achievements in human history. Built as tombs for pharaohs during the Old and Middle Kingdom periods, the most famous are located at Giza near Cairo. The Great Pyramid of Giza, built for Pharaoh Khufu around 2560 BCE, was the tallest man-made structure in the world for over 3,800 years. Constructed from approximately 2.3 million stone blocks, each weighing an average of 2.5 tons, it demonstrates remarkable engineering precision. Historians debate how the Egyptians moved such massive stones without modern machinery. Most theories suggest they used ramps, sledges, and large workforces. The pyramids continue to fascinate archaeologists and tourists alike, representing the power and religious beliefs of ancient Egyptian civilization.",
+            "questions": [
+                {
+                    "id": "R441",
+                    "questionText": "What were the pyramids built as?",
+                    "options": [
+                        "Palaces",
+                        "Tombs for pharaohs",
+                        "Temples",
+                        "Fortresses"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Built as tombs for pharaohs."
+                },
+                {
+                    "id": "R442",
+                    "questionText": "Where are the most famous pyramids located?",
+                    "options": [
+                        "Luxor",
+                        "Giza near Cairo",
+                        "Alexandria",
+                        "Aswan"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Located at Giza near Cairo."
+                },
+                {
+                    "id": "R443",
+                    "questionText": "For which pharaoh was the Great Pyramid built?",
+                    "options": [
+                        "Tutankhamun",
+                        "Ramses II",
+                        "Khufu",
+                        "Cleopatra"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Built for Pharaoh Khufu."
+                },
+                {
+                    "id": "R444",
+                    "questionText": "When was the Great Pyramid built?",
+                    "options": [
+                        "Around 3000 BCE",
+                        "Around 2560 BCE",
+                        "Around 2000 BCE",
+                        "Around 1500 BCE"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Around 2560 BCE."
+                },
+                {
+                    "id": "R445",
+                    "questionText": "How many stone blocks were used in the Great Pyramid?",
+                    "options": [
+                        "1 million",
+                        "1.5 million",
+                        "2.3 million",
+                        "3 million"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Constructed from approximately 2.3 million stone blocks."
+                },
+                {
+                    "id": "R446",
+                    "questionText": "What does the word 'magnificent' mean in paragraph 1?",
+                    "options": [
+                        "Small and simple",
+                        "Extremely impressive and beautiful",
+                        "Old and broken",
+                        "Hidden and secret"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Magnificent means extremely impressive and beautiful."
+                },
+                {
+                    "id": "R447",
+                    "questionText": "How long was the Great Pyramid the tallest structure?",
+                    "options": [
+                        "1,000 years",
+                        "2,000 years",
+                        "3,800 years",
+                        "5,000 years"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "For over 3,800 years."
+                },
+                {
+                    "id": "R448",
+                    "questionText": "What is the average weight of each stone block?",
+                    "options": [
+                        "1 ton",
+                        "1.5 tons",
+                        "2.5 tons",
+                        "5 tons"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Each weighing an average of 2.5 tons."
+                },
+                {
+                    "id": "R449",
+                    "questionText": "The word 'precision' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Accuracy and exactness",
+                        "Speed",
+                        "Size",
+                        "Cost"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Precision means accuracy and exactness."
+                },
+                {
+                    "id": "R450",
+                    "questionText": "What do most theories suggest the Egyptians used to move stones?",
+                    "options": [
+                        "Magic",
+                        "Alien technology",
+                        "Ramps, sledges, and large workforces",
+                        "Water canals only"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Most theories suggest they used ramps, sledges, and large workforces."
+                }
+            ]
+        },
+        {
+            "passageId": 46,
+            "title": "The Industrial Revolution",
+            "content": "The Industrial Revolution was a period of major industrialization that took place during the late 1700s and early 1800s, beginning in Britain before spreading to other parts of the world. This transformation marked a shift from agrarian economies to manufacturing and industrial economies. Key innovations included the steam engine, spinning jenny, and power loom, which revolutionized production methods. The revolution brought profound social changes as people moved from rural areas to cities seeking factory work. While it increased production efficiency and created wealth, it also led to poor working conditions, child labor, and environmental pollution. The Industrial Revolution fundamentally changed how goods were produced and laid the groundwork for modern economic systems.",
+            "questions": [
+                {
+                    "id": "R451",
+                    "questionText": "When did the Industrial Revolution take place?",
+                    "options": [
+                        "1500s",
+                        "Late 1700s and early 1800s",
+                        "1900s",
+                        "2000s"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "During the late 1700s and early 1800s."
+                },
+                {
+                    "id": "R452",
+                    "questionText": "Where did the Industrial Revolution begin?",
+                    "options": [
+                        "United States",
+                        "France",
+                        "Britain",
+                        "Germany"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Beginning in Britain."
+                },
+                {
+                    "id": "R453",
+                    "questionText": "What type of economy did it shift from?",
+                    "options": [
+                        "Industrial to agrarian",
+                        "Agrarian to manufacturing",
+                        "Service to industrial",
+                        "Digital to manual"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Shift from agrarian economies to manufacturing and industrial economies."
+                },
+                {
+                    "id": "R454",
+                    "questionText": "Which of these was NOT mentioned as a key innovation?",
+                    "options": [
+                        "Steam engine",
+                        "Spinning jenny",
+                        "Power loom",
+                        "Electric light"
+                    ],
+                    "answerIndex": 3,
+                    "explanation": "Electric light was not mentioned; steam engine, spinning jenny, and power loom were mentioned."
+                },
+                {
+                    "id": "R455",
+                    "questionText": "What social change did the revolution bring?",
+                    "options": [
+                        "People moved to rural areas",
+                        "People moved from rural to cities",
+                        "People stayed in villages",
+                        "People moved to other countries"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "People moved from rural areas to cities seeking factory work."
+                },
+                {
+                    "id": "R456",
+                    "questionText": "What does the word 'profound' mean in paragraph 1?",
+                    "options": [
+                        "Shallow",
+                        "Deep and significant",
+                        "Temporary",
+                        "Minor"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Profound means deep and significant."
+                },
+                {
+                    "id": "R457",
+                    "questionText": "What negative consequence is mentioned?",
+                    "options": [
+                        "Decreased production",
+                        "Poor working conditions",
+                        "Loss of technology",
+                        "Reduced population"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Led to poor working conditions, child labor, and environmental pollution."
+                },
+                {
+                    "id": "R458",
+                    "questionText": "What did the revolution lay the groundwork for?",
+                    "options": [
+                        "Ancient systems",
+                        "Modern economic systems",
+                        "Agricultural society",
+                        "Religious movements"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Laid the groundwork for modern economic systems."
+                },
+                {
+                    "id": "R459",
+                    "questionText": "The word 'innovations' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Old traditions",
+                        "New methods or ideas",
+                        "Failures",
+                        "Natural resources"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Innovations means new methods or ideas."
+                },
+                {
+                    "id": "R460",
+                    "questionText": "What was one positive result of the Industrial Revolution?",
+                    "options": [
+                        "Decreased wealth",
+                        "Increased production efficiency",
+                        "Reduced trade",
+                        "Loss of jobs"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Increased production efficiency and created wealth."
+                }
+            ]
+        },
+        {
+            "passageId": 47,
+            "title": "Photosynthesis",
+            "content": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process occurs primarily in the chloroplasts of plant cells, specifically using chlorophyll, the green pigment that captures sunlight. The overall equation shows that carbon dioxide and water, in the presence of light, produce glucose and oxygen. This process is vital for life on Earth as it produces the oxygen we breathe and forms the base of most food chains. Photosynthesis consists of two main stages: the light-dependent reactions, which capture energy from sunlight, and the Calvin cycle, which uses that energy to convert carbon dioxide into glucose. Understanding photosynthesis is crucial for agriculture and addressing climate change.",
+            "questions": [
+                {
+                    "id": "R461",
+                    "questionText": "What is photosynthesis?",
+                    "options": [
+                        "Process of breathing",
+                        "Converting light energy into chemical energy",
+                        "Process of digestion",
+                        "Water cycle"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Converting light energy into chemical energy stored in glucose."
+                },
+                {
+                    "id": "R462",
+                    "questionText": "Where does photosynthesis primarily occur?",
+                    "options": [
+                        "In the roots",
+                        "In the chloroplasts",
+                        "In the stem",
+                        "In the flowers"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Occurs primarily in the chloroplasts of plant cells."
+                },
+                {
+                    "id": "R463",
+                    "questionText": "What pigment captures sunlight?",
+                    "options": [
+                        "Melanin",
+                        "Chlorophyll",
+                        "Carotene",
+                        "Hemoglobin"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Using chlorophyll, the green pigment that captures sunlight."
+                },
+                {
+                    "id": "R464",
+                    "questionText": "What are the raw materials for photosynthesis?",
+                    "options": [
+                        "Oxygen and glucose",
+                        "Carbon dioxide and water",
+                        "Nitrogen and hydrogen",
+                        "Proteins and fats"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Carbon dioxide and water, in the presence of light."
+                },
+                {
+                    "id": "R465",
+                    "questionText": "What are the products of photosynthesis?",
+                    "options": [
+                        "Carbon dioxide and water",
+                        "Glucose and oxygen",
+                        "Nitrogen and hydrogen",
+                        "Methane and carbon"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Produce glucose and oxygen."
+                },
+                {
+                    "id": "R466",
+                    "questionText": "What does the word 'vital' mean in paragraph 1?",
+                    "options": [
+                        "Unimportant",
+                        "Essential or necessary",
+                        "Dangerous",
+                        "Optional"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Vital means essential or necessary for life."
+                },
+                {
+                    "id": "R467",
+                    "questionText": "How many main stages does photosynthesis have?",
+                    "options": [
+                        "One",
+                        "Two",
+                        "Three",
+                        "Four"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Consists of two main stages."
+                },
+                {
+                    "id": "R468",
+                    "questionText": "What is the first stage called?",
+                    "options": [
+                        "Calvin cycle",
+                        "Light-dependent reactions",
+                        "Dark reactions",
+                        "Respiration"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The light-dependent reactions, which capture energy from sunlight."
+                },
+                {
+                    "id": "R469",
+                    "questionText": "The word 'convert' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Destroy",
+                        "Change from one form to another",
+                        "Keep the same",
+                        "Remove"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Convert means change from one form to another."
+                },
+                {
+                    "id": "R470",
+                    "questionText": "Why is understanding photosynthesis crucial?",
+                    "options": [
+                        "For building houses",
+                        "For agriculture and addressing climate change",
+                        "For making plastics",
+                        "For transportation"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Crucial for agriculture and addressing climate change."
+                }
+            ]
+        },
+        {
+            "passageId": 48,
+            "title": "The Internet",
+            "content": "The Internet is a global network of interconnected computer networks that has revolutionized communication, commerce, and information sharing. Its origins trace back to ARPANET, a military research network created by the U.S. Department of Defense in the late 1960s. The development of the World Wide Web by Tim Berners-Lee in 1989 made the Internet accessible to the general public. Today, over 5 billion people use the Internet for various purposes including email, social media, online shopping, and streaming entertainment. The Internet operates on a set of protocols called TCP/IP that standardize how data is transmitted. While it has democratized access to information and created economic opportunities, concerns about privacy, cybersecurity, and digital inequality remain significant challenges in the digital age.",
+            "questions": [
+                {
+                    "id": "R471",
+                    "questionText": "What is the Internet?",
+                    "options": [
+                        "A single computer",
+                        "A global network of interconnected computer networks",
+                        "A television network",
+                        "A telephone system"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "A global network of interconnected computer networks."
+                },
+                {
+                    "id": "R472",
+                    "questionText": "What was the Internet's origin?",
+                    "options": [
+                        "ARPANET",
+                        "NASA",
+                        "IBM",
+                        "Microsoft"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Origins trace back to ARPANET."
+                },
+                {
+                    "id": "R473",
+                    "questionText": "Who created ARPANET?",
+                    "options": [
+                        "Universities",
+                        "Private companies",
+                        "U.S. Department of Defense",
+                        "United Nations"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Created by the U.S. Department of Defense."
+                },
+                {
+                    "id": "R474",
+                    "questionText": "Who developed the World Wide Web?",
+                    "options": [
+                        "Bill Gates",
+                        "Steve Jobs",
+                        "Tim Berners-Lee",
+                        "Mark Zuckerberg"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Tim Berners-Lee in 1989."
+                },
+                {
+                    "id": "R475",
+                    "questionText": "When was the World Wide Web developed?",
+                    "options": [
+                        "1969",
+                        "1980",
+                        "1989",
+                        "1995"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Developed in 1989."
+                },
+                {
+                    "id": "R476",
+                    "questionText": "What does the word 'democratized' mean in paragraph 1?",
+                    "options": [
+                        "Made exclusive",
+                        "Made accessible to everyone",
+                        "Made expensive",
+                        "Made illegal"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Democratized means made accessible to everyone."
+                },
+                {
+                    "id": "R477",
+                    "questionText": "What protocols does the Internet operate on?",
+                    "options": [
+                        "HTTP only",
+                        "TCP/IP",
+                        "FTP only",
+                        "Bluetooth"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Operates on a set of protocols called TCP/IP."
+                },
+                {
+                    "id": "R478",
+                    "questionText": "Approximately how many people use the Internet today?",
+                    "options": [
+                        "1 billion",
+                        "3 billion",
+                        "Over 5 billion",
+                        "10 billion"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Over 5 billion people use the Internet."
+                },
+                {
+                    "id": "R479",
+                    "questionText": "The word 'interconnected' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Separate",
+                        "Connected with each other",
+                        "Broken",
+                        "Independent"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Interconnected means connected with each other."
+                },
+                {
+                    "id": "R480",
+                    "questionText": "What challenge is mentioned regarding the Internet?",
+                    "options": [
+                        "Lack of computers",
+                        "Privacy, cybersecurity, and digital inequality",
+                        "Slow speed",
+                        "High cost only"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Concerns about privacy, cybersecurity, and digital inequality."
+                }
+            ]
+        },
+        {
+            "passageId": 49,
+            "title": "The Water Cycle",
+            "content": "The water cycle, also known as the hydrologic cycle, describes the continuous movement of water on, above, and below Earth's surface. This natural process involves several key stages: evaporation, where the sun heats water and turns it into vapor; condensation, where water vapor cools and forms clouds; precipitation, where water falls as rain, snow, sleet, or hail; and collection, where water gathers in oceans, rivers, lakes, and groundwater. The water cycle is essential for maintaining life on Earth, distributing fresh water across the planet and regulating climate patterns. Human activities such as deforestation and pollution can disrupt this delicate balance, affecting water availability and quality. Understanding the water cycle is crucial for managing water resources sustainably.",
+            "questions": [
+                {
+                    "id": "R481",
+                    "questionText": "What is another name for the water cycle?",
+                    "options": [
+                        "Carbon cycle",
+                        "Hydrologic cycle",
+                        "Nitrogen cycle",
+                        "Oxygen cycle"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Also known as the hydrologic cycle."
+                },
+                {
+                    "id": "R482",
+                    "questionText": "What is the first stage of the water cycle mentioned?",
+                    "options": [
+                        "Condensation",
+                        "Evaporation",
+                        "Precipitation",
+                        "Collection"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Evaporation, where the sun heats water and turns it into vapor."
+                },
+                {
+                    "id": "R483",
+                    "questionText": "What causes evaporation?",
+                    "options": [
+                        "Wind",
+                        "The sun heating water",
+                        "Rain",
+                        "Cold temperatures"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The sun heats water and turns it into vapor."
+                },
+                {
+                    "id": "R484",
+                    "questionText": "What happens during condensation?",
+                    "options": [
+                        "Water turns to vapor",
+                        "Water vapor cools and forms clouds",
+                        "Water falls to earth",
+                        "Water freezes"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Water vapor cools and forms clouds."
+                },
+                {
+                    "id": "R485",
+                    "questionText": "Which of the following is NOT a form of precipitation?",
+                    "options": [
+                        "Rain",
+                        "Snow",
+                        "Clouds",
+                        "Hail"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Clouds are not precipitation; rain, snow, sleet, and hail are forms of precipitation."
+                },
+                {
+                    "id": "R486",
+                    "questionText": "What does the word 'delicate' mean in paragraph 1?",
+                    "options": [
+                        "Strong and robust",
+                        "Easily damaged or disrupted",
+                        "Large",
+                        "Fast"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Delicate means easily damaged or disrupted."
+                },
+                {
+                    "id": "R487",
+                    "questionText": "Where does collected water gather?",
+                    "options": [
+                        "Only in oceans",
+                        "In oceans, rivers, lakes, and groundwater",
+                        "Only in clouds",
+                        "Only in rivers"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Gathers in oceans, rivers, lakes, and groundwater."
+                },
+                {
+                    "id": "R488",
+                    "questionText": "What human activities can disrupt the water cycle?",
+                    "options": [
+                        "Recycling",
+                        "Deforestation and pollution",
+                        "Education",
+                        "Scientific research"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Deforestation and pollution can disrupt this delicate balance."
+                },
+                {
+                    "id": "R489",
+                    "questionText": "The word 'essential' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Unnecessary",
+                        "Absolutely necessary",
+                        "Optional",
+                        "Rare"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Essential means absolutely necessary."
+                },
+                {
+                    "id": "R490",
+                    "questionText": "Why is understanding the water cycle crucial?",
+                    "options": [
+                        "For space travel",
+                        "For managing water resources sustainably",
+                        "For building roads",
+                        "For cooking"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Crucial for managing water resources sustainably."
+                }
+            ]
+        },
+        {
+            "passageId": 50,
+            "title": "Shakespeare",
+            "content": "William Shakespeare is widely regarded as the greatest writer in the English language and the world's greatest dramatist. Born in Stratford-upon-Avon in 1564, he wrote approximately 39 plays and 154 sonnets during his lifetime. His works include famous tragedies like Hamlet, Othello, and Macbeth, comedies such as A Midsummer Night's Dream and Twelfth Night, and histories like Henry V. Shakespeare's writing is characterized by profound insights into human nature, masterful use of language, and universal themes that remain relevant today. He contributed thousands of words and phrases to the English language. Despite limited formal education, his understanding of history, politics, and psychology was remarkable. The Globe Theatre in London, where many of his plays were performed, has been reconstructed and continues to host performances today.",
+            "questions": [
+                {
+                    "id": "R491",
+                    "questionText": "When was Shakespeare born?",
+                    "options": [
+                        "1550",
+                        "1564",
+                        "1600",
+                        "1616"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Born in Stratford-upon-Avon in 1564."
+                },
+                {
+                    "id": "R492",
+                    "questionText": "Where was Shakespeare born?",
+                    "options": [
+                        "London",
+                        "Stratford-upon-Avon",
+                        "Oxford",
+                        "Cambridge"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Born in Stratford-upon-Avon."
+                },
+                {
+                    "id": "R493",
+                    "questionText": "How many plays did Shakespeare write?",
+                    "options": [
+                        "20",
+                        "30",
+                        "Approximately 39",
+                        "50"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Wrote approximately 39 plays."
+                },
+                {
+                    "id": "R494",
+                    "questionText": "How many sonnets did he write?",
+                    "options": [
+                        "100",
+                        "154",
+                        "200",
+                        "300"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "154 sonnets."
+                },
+                {
+                    "id": "R495",
+                    "questionText": "Which of these is mentioned as a tragedy?",
+                    "options": [
+                        "A Midsummer Night's Dream",
+                        "Twelfth Night",
+                        "Hamlet",
+                        "Henry V"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Hamlet is mentioned as a famous tragedy."
+                },
+                {
+                    "id": "R496",
+                    "questionText": "What does the word 'characterized' mean in paragraph 1?",
+                    "options": [
+                        "Hidden",
+                        "Distinguished by features",
+                        "Copied",
+                        "Ignored"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Characterized means distinguished by distinctive features."
+                },
+                {
+                    "id": "R497",
+                    "questionText": "What is Shakespeare widely regarded as?",
+                    "options": [
+                        "The greatest scientist",
+                        "The greatest writer in English",
+                        "The greatest painter",
+                        "The greatest musician"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Widely regarded as the greatest writer in the English language."
+                },
+                {
+                    "id": "R498",
+                    "questionText": "Which theatre is mentioned in the passage?",
+                    "options": [
+                        "Royal Theatre",
+                        "The Globe Theatre",
+                        "Broadway Theatre",
+                        "National Theatre"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The Globe Theatre in London."
+                },
+                {
+                    "id": "R499",
+                    "questionText": "The word 'profound' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Shallow",
+                        "Deep and insightful",
+                        "Simple",
+                        "Confusing"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Profound means deep and insightful."
+                },
+                {
+                    "id": "R500",
+                    "questionText": "What did Shakespeare contribute to English?",
+                    "options": [
+                        "New grammar rules",
+                        "Thousands of words and phrases",
+                        "Alphabet changes",
+                        "Spelling reforms"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Contributed thousands of words and phrases to the English language."
+                }
+            ]
+        },
+        {
+            "passageId": 51,
+            "title": "The Immune System",
+            "content": "The immune system is the body's defense mechanism against harmful pathogens such as bacteria, viruses, and parasites. It consists of two main components: the innate immune system, which provides immediate but general defense, and the adaptive immune system, which develops specific responses to particular pathogens. White blood cells, also called leukocytes, are the primary cells of the immune system. They include phagocytes that engulf invaders and lymphocytes that produce antibodies. The immune system has memory capabilities, allowing it to respond more effectively to previously encountered pathogens through vaccines. Autoimmune diseases occur when the immune system mistakenly attacks the body's own tissues. Maintaining a healthy immune system requires proper nutrition, adequate sleep, regular exercise, and stress management.",
+            "questions": [
+                {
+                    "id": "R501",
+                    "questionText": "What does the immune system defend against?",
+                    "options": [
+                        "Only bacteria",
+                        "Pathogens like bacteria, viruses, and parasites",
+                        "Only viruses",
+                        "Physical injuries"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Against harmful pathogens such as bacteria, viruses, and parasites."
+                },
+                {
+                    "id": "R502",
+                    "questionText": "How many main components does the immune system have?",
+                    "options": [
+                        "One",
+                        "Two",
+                        "Three",
+                        "Four"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Two main components: innate and adaptive."
+                },
+                {
+                    "id": "R503",
+                    "questionText": "What is another name for white blood cells?",
+                    "options": [
+                        "Erythrocytes",
+                        "Leukocytes",
+                        "Platelets",
+                        "Plasma cells"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Also called leukocytes."
+                },
+                {
+                    "id": "R504",
+                    "questionText": "Which cells engulf invaders?",
+                    "options": [
+                        "Lymphocytes",
+                        "Phagocytes",
+                        "Red blood cells",
+                        "Nerve cells"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Phagocytes that engulf invaders."
+                },
+                {
+                    "id": "R505",
+                    "questionText": "What do lymphocytes produce?",
+                    "options": [
+                        "Hormones",
+                        "Antibodies",
+                        "Enzymes",
+                        "Vitamins"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Lymphocytes that produce antibodies."
+                },
+                {
+                    "id": "R506",
+                    "questionText": "What does the word 'innate' mean in paragraph 1?",
+                    "options": [
+                        "Learned",
+                        "Inborn or natural",
+                        "Acquired later",
+                        "Artificial"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Innate means inborn or natural."
+                },
+                {
+                    "id": "R507",
+                    "questionText": "What capability does the immune system have?",
+                    "options": [
+                        "Memory capabilities",
+                        "Only short-term response",
+                        "No learning ability",
+                        "Instant healing"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "The immune system has memory capabilities."
+                },
+                {
+                    "id": "R508",
+                    "questionText": "What happens in autoimmune diseases?",
+                    "options": [
+                        "The immune system attacks invaders",
+                        "The immune system attacks the body's own tissues",
+                        "The immune system stops working",
+                        "The immune system becomes stronger"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Autoimmune diseases occur when the immune system mistakenly attacks the body's own tissues."
+                },
+                {
+                    "id": "R509",
+                    "questionText": "The word 'pathogens' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Helpful bacteria",
+                        "Disease-causing organisms",
+                        "Vitamins",
+                        "Body cells"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Pathogens are disease-causing organisms."
+                },
+                {
+                    "id": "R510",
+                    "questionText": "What is NOT mentioned as important for immune health?",
+                    "options": [
+                        "Proper nutrition",
+                        "Adequate sleep",
+                        "Smoking",
+                        "Stress management"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Smoking is not mentioned; proper nutrition, sleep, exercise, and stress management are mentioned."
+                }
+            ]
+        },
+        {
+            "passageId": 52,
+            "title": "The Printing Press",
+            "content": "The invention of the printing press by Johannes Gutenberg around 1440 revolutionized the spread of information in Europe. Before this invention, books were copied by hand, making them expensive and rare. Gutenberg's press used movable metal type, allowing for faster and cheaper production of texts. The first major book printed was the Gutenberg Bible, completed around 1455. This innovation facilitated the Renaissance, the Scientific Revolution, and the Protestant Reformation by making knowledge more accessible. Literacy rates increased as books became more affordable. The printing press is considered one of the most important inventions in human history, comparable to the Internet in its impact on communication. It laid the foundation for mass media and the modern knowledge economy.",
+            "questions": [
+                {
+                    "id": "R511",
+                    "questionText": "Who invented the printing press?",
+                    "options": [
+                        "Leonardo da Vinci",
+                        "Johannes Gutenberg",
+                        "Thomas Edison",
+                        "Benjamin Franklin"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Invented by Johannes Gutenberg."
+                },
+                {
+                    "id": "R512",
+                    "questionText": "When was the printing press invented?",
+                    "options": [
+                        "1300",
+                        "Around 1440",
+                        "1500",
+                        "1600"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Around 1440."
+                },
+                {
+                    "id": "R513",
+                    "questionText": "What did Gutenberg's press use?",
+                    "options": [
+                        "Wood blocks",
+                        "Movable metal type",
+                        "Hand copying",
+                        "Digital technology"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Used movable metal type."
+                },
+                {
+                    "id": "R514",
+                    "questionText": "What was the first major book printed?",
+                    "options": [
+                        "The Quran",
+                        "The Gutenberg Bible",
+                        "The Iliad",
+                        "Encyclopedia"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The first major book printed was the Gutenberg Bible."
+                },
+                {
+                    "id": "R515",
+                    "questionText": "When was the Gutenberg Bible completed?",
+                    "options": [
+                        "1440",
+                        "Around 1455",
+                        "1500",
+                        "1600"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Completed around 1455."
+                },
+                {
+                    "id": "R516",
+                    "questionText": "What does the word 'facilitated' mean in paragraph 1?",
+                    "options": [
+                        "Prevented",
+                        "Made easier or helped bring about",
+                        "Delayed",
+                        "Ignored"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Facilitated means made easier or helped bring about."
+                },
+                {
+                    "id": "R517",
+                    "questionText": "Which movement did the printing press help facilitate?",
+                    "options": [
+                        "The Industrial Revolution only",
+                        "The Renaissance",
+                        "World War I",
+                        "The Internet age"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Facilitated the Renaissance, the Scientific Revolution, and the Protestant Reformation."
+                },
+                {
+                    "id": "R518",
+                    "questionText": "What happened to literacy rates?",
+                    "options": [
+                        "They decreased",
+                        "They stayed the same",
+                        "They increased",
+                        "They disappeared"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Literacy rates increased as books became more affordable."
+                },
+                {
+                    "id": "R519",
+                    "questionText": "The word 'accessible' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Hidden",
+                        "Available or reachable",
+                        "Expensive",
+                        "Forbidden"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Accessible means available or reachable."
+                },
+                {
+                    "id": "R520",
+                    "questionText": "What is the printing press compared to in terms of impact?",
+                    "options": [
+                        "The telephone",
+                        "The Internet",
+                        "The radio",
+                        "The television"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Comparable to the Internet in its impact on communication."
+                }
+            ]
+        },
+        {
+            "passageId": 53,
+            "title": "Plate Tectonics",
+            "content": "Plate tectonics is the scientific theory explaining the movement of Earth's lithosphere, which is divided into several rigid plates that float on the semi-fluid asthenosphere beneath. This theory, developed in the 1960s, revolutionized geology by explaining continental drift, seafloor spreading, and the formation of mountains and ocean trenches. There are three types of plate boundaries: divergent boundaries where plates move apart, convergent boundaries where plates collide, and transform boundaries where plates slide past each other. Earthquakes and volcanic activity often occur at these boundaries. The theory helps scientists understand the distribution of fossils, the formation of mountain ranges like the Himalayas, and the creation of oceanic ridges. Plate tectonics continues to shape Earth's surface and will influence the planet's geography millions of years into the future.",
+            "questions": [
+                {
+                    "id": "R521",
+                    "questionText": "What does plate tectonics explain?",
+                    "options": [
+                        "Only earthquakes",
+                        "Movement of Earth's lithosphere",
+                        "Only weather patterns",
+                        "Ocean currents only"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Explaining the movement of Earth's lithosphere."
+                },
+                {
+                    "id": "R522",
+                    "questionText": "When was the theory developed?",
+                    "options": [
+                        "1900s",
+                        "1960s",
+                        "1980s",
+                        "2000s"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Developed in the 1960s."
+                },
+                {
+                    "id": "R523",
+                    "questionText": "What do the plates float on?",
+                    "options": [
+                        "Solid rock",
+                        "The semi-fluid asthenosphere",
+                        "Water",
+                        "Air"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Float on the semi-fluid asthenosphere beneath."
+                },
+                {
+                    "id": "R524",
+                    "questionText": "How many types of plate boundaries are mentioned?",
+                    "options": [
+                        "Two",
+                        "Three",
+                        "Four",
+                        "Five"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Three types of plate boundaries."
+                },
+                {
+                    "id": "R525",
+                    "questionText": "What happens at divergent boundaries?",
+                    "options": [
+                        "Plates collide",
+                        "Plates move apart",
+                        "Plates slide past each other",
+                        "Plates stop moving"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Divergent boundaries where plates move apart."
+                },
+                {
+                    "id": "R526",
+                    "questionText": "What does the word 'rigid' mean in paragraph 1?",
+                    "options": [
+                        "Flexible",
+                        "Stiff and unbending",
+                        "Soft",
+                        "Liquid"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Rigid means stiff and unbending."
+                },
+                {
+                    "id": "R527",
+                    "questionText": "Where do earthquakes often occur?",
+                    "options": [
+                        "Only in the ocean center",
+                        "At plate boundaries",
+                        "Only on continents",
+                        "Only in deserts"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Earthquakes and volcanic activity often occur at these boundaries."
+                },
+                {
+                    "id": "R528",
+                    "questionText": "Which mountain range is mentioned as an example?",
+                    "options": [
+                        "The Alps",
+                        "The Rockies",
+                        "The Himalayas",
+                        "The Andes"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Mountain ranges like the Himalayas."
+                },
+                {
+                    "id": "R529",
+                    "questionText": "The word 'lithosphere' in paragraph 1 refers to:",
+                    "options": [
+                        "The Earth's core",
+                        "The rigid outer layer of Earth",
+                        "The atmosphere",
+                        "The ocean"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "The rigid outer layer of Earth divided into plates."
+                },
+                {
+                    "id": "R530",
+                    "questionText": "What does the theory help explain about fossils?",
+                    "options": [
+                        "Their age only",
+                        "Their distribution",
+                        "Their color",
+                        "Their size only"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Helps scientists understand the distribution of fossils."
+                }
+            ]
+        },
+        {
+            "passageId": 54,
+            "title": "The Roman Empire",
+            "content": "The Roman Empire was one of the largest and most influential civilizations in ancient history, spanning from 27 BCE to 476 CE in the West. At its peak, it controlled territories across Europe, North Africa, and the Middle East, encompassing approximately 5 million square kilometers. The empire was characterized by sophisticated engineering, including roads, aqueducts, and concrete construction. Roman law, language (Latin), and governance systems influenced Western civilization profoundly. The empire was divided into Eastern and Western halves in 285 CE, with the Eastern Byzantine Empire surviving until 1453. Factors contributing to Rome's decline included military overspending, political corruption, economic troubles, and invasions by barbarian tribes. Despite its fall, Roman achievements in architecture, literature, and government continue to impact modern society.",
+            "questions": [
+                {
+                    "id": "R531",
+                    "questionText": "When did the Roman Empire begin?",
+                    "options": [
+                        "100 BCE",
+                        "27 BCE",
+                        "0 CE",
+                        "100 CE"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Spanning from 27 BCE."
+                },
+                {
+                    "id": "R532",
+                    "questionText": "When did the Western Roman Empire fall?",
+                    "options": [
+                        "285 CE",
+                        "400 CE",
+                        "476 CE",
+                        "1453 CE"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "To 476 CE in the West."
+                },
+                {
+                    "id": "R533",
+                    "questionText": "How large was the empire at its peak?",
+                    "options": [
+                        "1 million square kilometers",
+                        "3 million square kilometers",
+                        "Approximately 5 million square kilometers",
+                        "10 million square kilometers"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Approximately 5 million square kilometers."
+                },
+                {
+                    "id": "R534",
+                    "questionText": "Which of these was NOT mentioned as Roman engineering?",
+                    "options": [
+                        "Roads",
+                        "Aqueducts",
+                        "Concrete construction",
+                        "Steam engines"
+                    ],
+                    "answerIndex": 3,
+                    "explanation": "Steam engines were not mentioned; roads, aqueducts, and concrete were mentioned."
+                },
+                {
+                    "id": "R535",
+                    "questionText": "When was the empire divided into two halves?",
+                    "options": [
+                        "27 BCE",
+                        "285 CE",
+                        "476 CE",
+                        "1000 CE"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Divided into Eastern and Western halves in 285 CE."
+                },
+                {
+                    "id": "R536",
+                    "questionText": "What does the word 'sophisticated' mean in paragraph 1?",
+                    "options": [
+                        "Simple",
+                        "Advanced and complex",
+                        "Old-fashioned",
+                        "Broken"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Sophisticated means advanced and complex."
+                },
+                {
+                    "id": "R537",
+                    "questionText": "Which language was spoken in the Roman Empire?",
+                    "options": [
+                        "Greek",
+                        "Latin",
+                        "English",
+                        "German"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Language (Latin)."
+                },
+                {
+                    "id": "R538",
+                    "questionText": "When did the Eastern Byzantine Empire fall?",
+                    "options": [
+                        "476 CE",
+                        "800 CE",
+                        "1200 CE",
+                        "1453 CE"
+                    ],
+                    "answerIndex": 3,
+                    "explanation": "The Eastern Byzantine Empire surviving until 1453."
+                },
+                {
+                    "id": "R539",
+                    "questionText": "The word 'encompassing' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Excluding",
+                        "Including or covering",
+                        "Destroying",
+                        "Building"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Encompassing means including or covering."
+                },
+                {
+                    "id": "R540",
+                    "questionText": "Which factor contributed to Rome's decline?",
+                    "options": [
+                        "Peaceful neighbors",
+                        "Military overspending",
+                        "Abundant resources",
+                        "Strong leadership only"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Military overspending, political corruption, economic troubles, and invasions."
+                }
+            ]
+        },
+        {
+            "passageId": 55,
+            "title": "DNA Structure",
+            "content": "Deoxyribonucleic acid (DNA) is the molecule that carries genetic instructions for all known living organisms. Its structure, discovered by James Watson and Francis Crick in 1953, resembles a double helix—two long strands twisted around each other like a spiral staircase. Each strand consists of nucleotides containing a sugar, phosphate group, and one of four nitrogenous bases: adenine (A), thymine (T), cytosine (C), and guanine (G). The bases pair specifically: A with T, and C with G, forming rungs of the ladder. This structure allows DNA to replicate accurately during cell division. DNA contains genes that code for proteins, determining traits from eye color to disease susceptibility. Understanding DNA has revolutionized medicine, forensics, and biotechnology, enabling treatments for genetic disorders and criminal identification through DNA profiling.",
+            "questions": [
+                {
+                    "id": "R541",
+                    "questionText": "What does DNA stand for?",
+                    "options": [
+                        "Digital Nuclear Acid",
+                        "Deoxyribonucleic acid",
+                        "Dynamic Natural Acid",
+                        "Double Nucleus Acid"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Deoxyribonucleic acid (DNA)."
+                },
+                {
+                    "id": "R542",
+                    "questionText": "Who discovered DNA's structure?",
+                    "options": [
+                        "Darwin and Newton",
+                        "Watson and Crick",
+                        "Einstein and Bohr",
+                        "Pasteur and Koch"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Discovered by James Watson and Francis Crick."
+                },
+                {
+                    "id": "R543",
+                    "questionText": "When was DNA's structure discovered?",
+                    "options": [
+                        "1900",
+                        "1945",
+                        "1953",
+                        "1960"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "In 1953."
+                },
+                {
+                    "id": "R544",
+                    "questionText": "What shape does DNA resemble?",
+                    "options": [
+                        "Single circle",
+                        "Double helix",
+                        "Triple spiral",
+                        "Square"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Resembles a double helix."
+                },
+                {
+                    "id": "R545",
+                    "questionText": "How many nitrogenous bases are there?",
+                    "options": [
+                        "Two",
+                        "Three",
+                        "Four",
+                        "Five"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "One of four nitrogenous bases."
+                },
+                {
+                    "id": "R546",
+                    "questionText": "What does the word 'resemble' mean in paragraph 1?",
+                    "options": [
+                        "To differ from",
+                        "To look like or be similar to",
+                        "To destroy",
+                        "To ignore"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Resemble means to look like or be similar to."
+                },
+                {
+                    "id": "R547",
+                    "questionText": "Which base pairs with adenine?",
+                    "options": [
+                        "Cytosine",
+                        "Guanine",
+                        "Thymine",
+                        "Uracil"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "A with T (adenine with thymine)."
+                },
+                {
+                    "id": "R548",
+                    "questionText": "What does DNA contain that codes for proteins?",
+                    "options": [
+                        "Cells",
+                        "Genes",
+                        "Chromosomes only",
+                        "Enzymes"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "DNA contains genes that code for proteins."
+                },
+                {
+                    "id": "R549",
+                    "questionText": "The word 'susceptibility' in paragraph 1 is closest in meaning to:",
+                    "options": [
+                        "Resistance",
+                        "Likelihood of being affected",
+                        "Immunity",
+                        "Strength"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Susceptibility means likelihood of being affected."
+                },
+                {
+                    "id": "R550",
+                    "questionText": "Which field has DNA understanding NOT revolutionized?",
+                    "options": [
+                        "Medicine",
+                        "Forensics",
+                        "Astronomy",
+                        "Biotechnology"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Astronomy is not mentioned; medicine, forensics, and biotechnology are mentioned."
+                }
+            ]
         }
     ]
 }

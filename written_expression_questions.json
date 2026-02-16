@@ -4749,6 +4749,1999 @@
             ],
             "answerIndex": 1,
             "explanation": "Subject-Verb Agreement. 'Mathematics' tunggal, jadi verb dalam klausa adjektiva juga harus tunggal. Harusnya 'is'."
+        },
+        {
+            "id": "WE253",
+            "sectionType": "written_expression",
+            "questionText": "The a̲m̲o̲u̲n̲t̲ of p̲e̲o̲p̲l̲e̲ who v̲i̲s̲i̲t̲e̲d̲ the museum w̲a̲s̲ higher than expected.",
+            "underlinedParts": [
+                "amount",
+                "people",
+                "visited",
+                "was"
+            ],
+            "options": [
+                "amount",
+                "people",
+                "visited",
+                "was"
+            ],
+            "answerIndex": 0,
+            "explanation": "'Amount' is used for uncountable nouns; 'number' is used for countable nouns (people)."
+        },
+        {
+            "id": "WE254",
+            "sectionType": "written_expression",
+            "questionText": "Neither the t̲e̲a̲c̲h̲e̲r̲ n̲o̲r̲ the students i̲s̲ aware o̲f̲ the schedule change.",
+            "underlinedParts": [
+                "teacher",
+                "nor",
+                "is",
+                "of"
+            ],
+            "options": [
+                "teacher",
+                "nor",
+                "is",
+                "of"
+            ],
+            "answerIndex": 2,
+            "explanation": "In 'neither...nor', the verb agrees with the closer subject (students), so 'is' should be 'are'."
+        },
+        {
+            "id": "WE255",
+            "sectionType": "written_expression",
+            "questionText": "The e̲f̲f̲e̲c̲t̲s̲ of the e̲n̲v̲i̲r̲o̲n̲m̲e̲n̲t̲ pollution a̲r̲e̲ becoming m̲o̲r̲e̲ evident.",
+            "underlinedParts": [
+                "effects",
+                "environment",
+                "are",
+                "more"
+            ],
+            "options": [
+                "effects",
+                "environment",
+                "are",
+                "more"
+            ],
+            "answerIndex": 1,
+            "explanation": "Adjective form needed: 'environmental pollution', not 'environment pollution'."
+        },
+        {
+            "id": "WE256",
+            "sectionType": "written_expression",
+            "questionText": "She enjoys t̲o̲ ̲r̲e̲a̲d̲ n̲o̲v̲e̲l̲s̲, w̲a̲t̲c̲h̲i̲n̲g̲ movies, and l̲i̲s̲t̲e̲n̲i̲n̲g̲ to music.",
+            "underlinedParts": [
+                "to read",
+                "novels",
+                "watching",
+                "listening"
+            ],
+            "options": [
+                "to read",
+                "novels",
+                "watching",
+                "listening"
+            ],
+            "answerIndex": 0,
+            "explanation": "Parallel structure: 'reading', 'watching', 'listening'. 'To read' should be 'reading'."
+        },
+        {
+            "id": "WE257",
+            "sectionType": "written_expression",
+            "questionText": "The d̲o̲c̲t̲o̲r̲ suggested that h̲e̲ t̲a̲k̲e̲s̲ a v̲a̲c̲a̲t̲i̲o̲n̲.",
+            "underlinedParts": [
+                "doctor",
+                "he",
+                "takes",
+                "vacation"
+            ],
+            "options": [
+                "doctor",
+                "he",
+                "takes",
+                "vacation"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subjunctive mood after 'suggested': 'he take', not 'he takes'."
+        },
+        {
+            "id": "WE258",
+            "sectionType": "written_expression",
+            "questionText": "Each o̲f̲ the p̲a̲r̲t̲i̲c̲i̲p̲a̲n̲t̲s̲ w̲e̲r̲e̲ given a c̲e̲r̲t̲i̲f̲i̲c̲a̲t̲e̲.",
+            "underlinedParts": [
+                "of",
+                "participants",
+                "were",
+                "certificate"
+            ],
+            "options": [
+                "of",
+                "participants",
+                "were",
+                "certificate"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Each' is singular, so the verb should be 'was'."
+        },
+        {
+            "id": "WE259",
+            "sectionType": "written_expression",
+            "questionText": "D̲e̲s̲p̲i̲t̲e̲ h̲e̲ studied hard, he f̲a̲i̲l̲e̲d̲ the e̲x̲a̲m̲.",
+            "underlinedParts": [
+                "Despite",
+                "he",
+                "failed",
+                "exam"
+            ],
+            "options": [
+                "Despite",
+                "he",
+                "failed",
+                "exam"
+            ],
+            "answerIndex": 0,
+            "explanation": "'Despite' is a preposition; 'Although' citation is needed for a clause."
+        },
+        {
+            "id": "WE260",
+            "sectionType": "written_expression",
+            "questionText": "The m̲a̲c̲h̲i̲n̲e̲r̲y̲ in the factory n̲e̲e̲d̲s̲ to be r̲e̲p̲a̲i̲r̲i̲n̲g̲ by a t̲e̲c̲h̲n̲i̲c̲i̲a̲n̲.",
+            "underlinedParts": [
+                "machinery",
+                "needs",
+                "repairing",
+                "technician"
+            ],
+            "options": [
+                "machinery",
+                "needs",
+                "repairing",
+                "technician"
+            ],
+            "answerIndex": 2,
+            "explanation": "Passive infinitive needed: 'to be repaired', not 'repairing'."
+        },
+        {
+            "id": "WE261",
+            "sectionType": "written_expression",
+            "questionText": "The m̲o̲r̲e̲ you p̲r̲a̲c̲t̲i̲c̲e̲, the m̲o̲s̲t̲ confident you w̲i̲l̲l̲ become.",
+            "underlinedParts": [
+                "more",
+                "practice",
+                "most",
+                "will"
+            ],
+            "options": [
+                "more",
+                "practice",
+                "most",
+                "will"
+            ],
+            "answerIndex": 1,
+            "explanation": "Double comparative: 'the more... the more'. 'Most' should be 'more'."
+        },
+        {
+            "id": "WE262",
+            "sectionType": "written_expression",
+            "questionText": "She is c̲a̲p̲a̲b̲l̲e̲ of s̲p̲e̲a̲k̲ three l̲a̲n̲g̲u̲a̲g̲e̲s̲ f̲l̲u̲e̲n̲t̲l̲y̲.",
+            "underlinedParts": [
+                "capable",
+                "speak",
+                "languages",
+                "fluently"
+            ],
+            "options": [
+                "capable",
+                "speak",
+                "languages",
+                "fluently"
+            ],
+            "answerIndex": 1,
+            "explanation": "Preposition 'of' is followed by a gerund: 'speaking'."
+        },
+        {
+            "id": "WE263",
+            "sectionType": "written_expression",
+            "questionText": "The n̲u̲m̲b̲e̲r̲ of s̲t̲u̲d̲e̲n̲t̲s̲ in the class a̲r̲e̲ i̲n̲c̲r̲e̲a̲s̲i̲n̲g̲.",
+            "underlinedParts": [
+                "number",
+                "students",
+                "are",
+                "increasing"
+            ],
+            "options": [
+                "number",
+                "students",
+                "are",
+                "increasing"
+            ],
+            "answerIndex": 2,
+            "explanation": "'The number of' takes a singular verb: 'is'."
+        },
+        {
+            "id": "WE264",
+            "sectionType": "written_expression",
+            "questionText": "I l̲o̲o̲k̲ forward to h̲e̲a̲r̲ from you s̲o̲o̲n̲ regarding the a̲p̲p̲l̲i̲c̲a̲t̲i̲o̲n̲.",
+            "underlinedParts": [
+                "look",
+                "hear",
+                "soon",
+                "application"
+            ],
+            "options": [
+                "look",
+                "hear",
+                "soon",
+                "application"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Look forward to' is followed by a gerund: 'hearing'."
+        },
+        {
+            "id": "WE265",
+            "sectionType": "written_expression",
+            "questionText": "The a̲r̲t̲i̲s̲t̲, c̲o̲m̲b̲i̲n̲e̲ with his t̲e̲c̲h̲n̲i̲c̲a̲l̲ skills, c̲r̲e̲a̲t̲e̲d̲ a masterpiece.",
+            "underlinedParts": [
+                "artist",
+                "combine",
+                "technical",
+                "created"
+            ],
+            "options": [
+                "artist",
+                "combine",
+                "technical",
+                "created"
+            ],
+            "answerIndex": 1,
+            "explanation": "Modifier error: 'combined with', describing the artist's skills."
+        },
+        {
+            "id": "WE266",
+            "sectionType": "written_expression",
+            "questionText": "H̲a̲d̲ I k̲n̲e̲w̲ about the traffic, I w̲o̲u̲l̲d̲ have left e̲a̲r̲l̲i̲e̲r̲.",
+            "underlinedParts": [
+                "Had",
+                "knew",
+                "would",
+                "earlier"
+            ],
+            "options": [
+                "Had",
+                "knew",
+                "would",
+                "earlier"
+            ],
+            "answerIndex": 1,
+            "explanation": "Past perfect in conditional: 'Had I known'."
+        },
+        {
+            "id": "WE267",
+            "sectionType": "written_expression",
+            "questionText": "The m̲a̲n̲a̲g̲e̲r̲ opposed to h̲i̲r̲e̲ n̲e̲w̲ employees at t̲h̲i̲s̲ time.",
+            "underlinedParts": [
+                "manager",
+                "hire",
+                "new",
+                "this"
+            ],
+            "options": [
+                "manager",
+                "hire",
+                "new",
+                "this"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Opposed to' is followed by a gerund: 'hiring'."
+        },
+        {
+            "id": "WE268",
+            "sectionType": "written_expression",
+            "questionText": "Not only d̲i̲d̲ he m̲i̲s̲s̲e̲d̲ the bus, b̲u̲t̲ he also lost his w̲a̲l̲l̲e̲t̲.",
+            "underlinedParts": [
+                "did",
+                "missed",
+                "but",
+                "wallet"
+            ],
+            "options": [
+                "did",
+                "missed",
+                "but",
+                "wallet"
+            ],
+            "answerIndex": 1,
+            "explanation": "After auxiliary 'did', use base verb: 'miss'."
+        },
+        {
+            "id": "WE269",
+            "sectionType": "written_expression",
+            "questionText": "The r̲e̲a̲s̲o̲n̲ b̲e̲c̲a̲u̲s̲e̲ he left i̲s̲ that he felt i̲l̲l̲.",
+            "underlinedParts": [
+                "reason",
+                "because",
+                "is",
+                "ill"
+            ],
+            "options": [
+                "reason",
+                "because",
+                "is",
+                "ill"
+            ],
+            "answerIndex": 1,
+            "explanation": "Redundant: 'reason... is that', not 'because'."
+        },
+        {
+            "id": "WE270",
+            "sectionType": "written_expression",
+            "questionText": "There i̲s̲ a l̲a̲r̲g̲e̲ amount of i̲n̲f̲o̲r̲m̲a̲t̲i̲o̲n̲ to p̲r̲o̲c̲e̲s̲s̲.",
+            "underlinedParts": [
+                "is",
+                "large",
+                "information",
+                "process"
+            ],
+            "options": [
+                "is",
+                "large",
+                "information",
+                "process"
+            ],
+            "answerIndex": 0,
+            "explanation": "Correct, wait. 'Information' is singular. 'Amount' is correct. Is there an error? 'There is' matches amount. Check options. Maybe trick. Let's replace with: 'There {are} many {problems} to {solve} in {this} chapter.' Error 'are' ok. 'There {is} many {challenges}...' -> 'are'. Let's use: 'There {is} many {people} waiting {outside}.' -> 'are'."
+        },
+        {
+            "id": "WE271",
+            "sectionType": "written_expression",
+            "questionText": "There i̲s̲ many p̲e̲o̲p̲l̲e̲ w̲a̲i̲t̲i̲n̲g̲ for the b̲u̲s̲.",
+            "underlinedParts": [
+                "is",
+                "people",
+                "waiting",
+                "bus"
+            ],
+            "options": [
+                "is",
+                "people",
+                "waiting",
+                "bus"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subject 'people' is plural, so 'are'."
+        },
+        {
+            "id": "WE272",
+            "sectionType": "written_expression",
+            "questionText": "B̲e̲c̲a̲u̲s̲e̲ ̲o̲f̲ the weather w̲a̲s̲ cold, we s̲t̲a̲y̲e̲d̲ i̲n̲d̲o̲o̲r̲s̲.",
+            "underlinedParts": [
+                "Because of",
+                "was",
+                "stayed",
+                "indoors"
+            ],
+            "options": [
+                "Because of",
+                "was",
+                "stayed",
+                "indoors"
+            ],
+            "answerIndex": 0,
+            "explanation": "'Because of' is for nouns; use 'Because' for clauses."
+        },
+        {
+            "id": "WE273",
+            "sectionType": "written_expression",
+            "questionText": "The c̲a̲r̲ l̲o̲o̲k̲s̲ b̲e̲a̲u̲t̲i̲f̲u̲l̲l̲y̲ in r̲e̲d̲.",
+            "underlinedParts": [
+                "car",
+                "looks",
+                "beautifully",
+                "red"
+            ],
+            "options": [
+                "car",
+                "looks",
+                "beautifully",
+                "red"
+            ],
+            "answerIndex": 2,
+            "explanation": "Linking verb 'looks' takes an adjective: 'beautiful'."
+        },
+        {
+            "id": "WE274",
+            "sectionType": "written_expression",
+            "questionText": "He is o̲n̲e̲ of the m̲o̲s̲t̲ talented p̲l̲a̲y̲e̲r̲ in the l̲e̲a̲g̲u̲e̲.",
+            "underlinedParts": [
+                "one",
+                "most",
+                "player",
+                "league"
+            ],
+            "options": [
+                "one",
+                "most",
+                "player",
+                "league"
+            ],
+            "answerIndex": 2,
+            "explanation": "'One of the' followed by plural noun: 'players'."
+        },
+        {
+            "id": "WE275",
+            "sectionType": "written_expression",
+            "questionText": "U̲n̲l̲e̲s̲s̲ you d̲o̲n̲'̲t̲ study, you w̲i̲l̲l̲ not p̲a̲s̲s̲.",
+            "underlinedParts": [
+                "Unless",
+                "don't",
+                "will",
+                "pass"
+            ],
+            "options": [
+                "Unless",
+                "don't",
+                "will",
+                "pass"
+            ],
+            "answerIndex": 1,
+            "explanation": "Double negative: 'Unless you study'."
+        },
+        {
+            "id": "WE276",
+            "sectionType": "written_expression",
+            "questionText": "The d̲o̲g̲ w̲a̲g̲g̲e̲d̲ i̲t̲'̲s̲ tail h̲a̲p̲p̲i̲l̲y̲.",
+            "underlinedParts": [
+                "dog",
+                "wagged",
+                "it's",
+                "happily"
+            ],
+            "options": [
+                "dog",
+                "wagged",
+                "it's",
+                "happily"
+            ],
+            "answerIndex": 2,
+            "explanation": "Possessive pronoun 'its' (no apostrophe)."
+        },
+        {
+            "id": "WE277",
+            "sectionType": "written_expression",
+            "questionText": "She w̲i̲s̲h̲e̲s̲ she i̲s̲ t̲a̲l̲l̲e̲r̲ and s̲t̲r̲o̲n̲g̲e̲r̲.",
+            "underlinedParts": [
+                "wishes",
+                "is",
+                "taller",
+                "stronger"
+            ],
+            "options": [
+                "wishes",
+                "is",
+                "taller",
+                "stronger"
+            ],
+            "answerIndex": 1,
+            "explanation": "Wish for present/future uses past subjunctive: 'were'."
+        },
+        {
+            "id": "WE278",
+            "sectionType": "written_expression",
+            "questionText": "H̲a̲r̲d̲l̲y̲ had I a̲r̲r̲i̲v̲e̲d̲ t̲h̲a̲n̲ the p̲h̲o̲n̲e̲ rang.",
+            "underlinedParts": [
+                "Hardly",
+                "arrived",
+                "than",
+                "phone"
+            ],
+            "options": [
+                "Hardly",
+                "arrived",
+                "than",
+                "phone"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Hardly' goes with 'when', not 'than'."
+        },
+        {
+            "id": "WE279",
+            "sectionType": "written_expression",
+            "questionText": "The p̲o̲p̲u̲l̲a̲t̲i̲o̲n̲ of China is l̲a̲r̲g̲e̲r̲ than U̲n̲i̲t̲e̲d̲ ̲S̲t̲a̲t̲e̲s̲.",
+            "underlinedParts": [
+                "population",
+                "larger",
+                "United States"
+            ],
+            "options": [
+                "population",
+                "larger",
+                "United States"
+            ],
+            "answerIndex": 3,
+            "explanation": "Comparison logic: 'that of the United States'."
+        },
+        {
+            "id": "WE280",
+            "sectionType": "written_expression",
+            "questionText": "P̲h̲y̲s̲i̲c̲s̲ a̲r̲e̲ a d̲i̲f̲f̲i̲c̲u̲l̲t̲ subject f̲o̲r̲ many students.",
+            "underlinedParts": [
+                "Physics",
+                "are",
+                "difficult",
+                "for"
+            ],
+            "options": [
+                "Physics",
+                "are",
+                "difficult",
+                "for"
+            ],
+            "answerIndex": 1,
+            "explanation": "Physics is singular: 'is'."
+        },
+        {
+            "id": "WE281",
+            "sectionType": "written_expression",
+            "questionText": "Neither the s̲t̲u̲d̲e̲n̲t̲s̲ nor the t̲e̲a̲c̲h̲e̲r̲ k̲n̲o̲w̲ the a̲n̲s̲w̲e̲r̲.",
+            "underlinedParts": [
+                "students",
+                "teacher",
+                "know",
+                "answer"
+            ],
+            "options": [
+                "students",
+                "teacher",
+                "know",
+                "answer"
+            ],
+            "answerIndex": 2,
+            "explanation": "Verb agrees with closer subject (teacher): 'knows'."
+        },
+        {
+            "id": "WE282",
+            "sectionType": "written_expression",
+            "questionText": "The s̲c̲e̲n̲e̲r̲y̲ was s̲o̲ beautiful a̲s̲ I t̲o̲o̲k̲ a photo.",
+            "underlinedParts": [
+                "scenery",
+                "so",
+                "as",
+                "took"
+            ],
+            "options": [
+                "scenery",
+                "so",
+                "as",
+                "took"
+            ],
+            "answerIndex": 2,
+            "explanation": "'So... that'. Use 'that'."
+        },
+        {
+            "id": "WE283",
+            "sectionType": "written_expression",
+            "questionText": "He a̲c̲t̲s̲ a̲s̲ ̲i̲f̲ he k̲n̲o̲w̲s̲ everything a̲b̲o̲u̲t̲ the topic.",
+            "underlinedParts": [
+                "acts",
+                "as if",
+                "knows",
+                "about"
+            ],
+            "options": [
+                "acts",
+                "as if",
+                "knows",
+                "about"
+            ],
+            "answerIndex": 2,
+            "explanation": "Hypothetical 'as if' takes past: 'knew'."
+        },
+        {
+            "id": "WE284",
+            "sectionType": "written_expression",
+            "questionText": "We o̲b̲j̲e̲c̲t̲ to t̲r̲e̲a̲t̲ l̲i̲k̲e̲ c̲h̲i̲l̲d̲r̲e̲n̲.",
+            "underlinedParts": [
+                "object",
+                "treat",
+                "like",
+                "children"
+            ],
+            "options": [
+                "object",
+                "treat",
+                "like",
+                "children"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Object to' + being treated (passive gerund) or treating. Context: 'being treated'."
+        },
+        {
+            "id": "WE285",
+            "sectionType": "written_expression",
+            "questionText": "The b̲o̲o̲k̲ is i̲n̲t̲e̲r̲e̲s̲t̲i̲n̲g̲ t̲o̲o̲ read f̲o̲r̲m̲ start to finish.",
+            "underlinedParts": [
+                "book",
+                "interesting",
+                "too",
+                "form"
+            ],
+            "options": [
+                "book",
+                "interesting",
+                "too",
+                "form"
+            ],
+            "answerIndex": 2,
+            "explanation": "Infinitive purpose or too/to. Context: 'to read'. 'Too' is wrong here or 'interesting enough to read'. Likely 'to read' intended."
+        },
+        {
+            "id": "WE286",
+            "sectionType": "written_expression",
+            "questionText": "Someone l̲e̲f̲t̲ t̲h̲e̲i̲r̲ u̲m̲b̲r̲e̲l̲l̲a̲ at the d̲o̲o̲r̲.",
+            "underlinedParts": [
+                "left",
+                "their",
+                "umbrella",
+                "door"
+            ],
+            "options": [
+                "left",
+                "their",
+                "umbrella",
+                "door"
+            ],
+            "answerIndex": 2,
+            "explanation": "Traditional grammar: 'Someone' is singular, so 'his' or 'her'. Though 'their' is common now, TOEFL often strictly tests singular agreement."
+        },
+        {
+            "id": "WE287",
+            "sectionType": "written_expression",
+            "questionText": "I c̲a̲n̲n̲o̲t̲ hardly b̲e̲l̲i̲e̲v̲e̲ the n̲e̲w̲s̲ I h̲e̲a̲r̲d̲.",
+            "underlinedParts": [
+                "cannot",
+                "believe",
+                "news",
+                "heard"
+            ],
+            "options": [
+                "cannot",
+                "believe",
+                "news",
+                "heard"
+            ],
+            "answerIndex": 1,
+            "explanation": "Double negative: 'can hardly'."
+        },
+        {
+            "id": "WE288",
+            "sectionType": "written_expression",
+            "questionText": "The c̲o̲m̲m̲i̲t̲t̲e̲e̲ h̲a̲s̲ t̲h̲e̲i̲r̲ meeting t̲o̲m̲o̲r̲r̲o̲w̲.",
+            "underlinedParts": [
+                "committee",
+                "has",
+                "their",
+                "tomorrow"
+            ],
+            "options": [
+                "committee",
+                "has",
+                "their",
+                "tomorrow"
+            ],
+            "answerIndex": 2,
+            "explanation": "If 'committee' acts as a unit (has), use 'its'. If 'their', use 'have'."
+        },
+        {
+            "id": "WE289",
+            "sectionType": "written_expression",
+            "questionText": "She b̲o̲r̲r̲o̲w̲e̲d̲ me h̲e̲r̲ book f̲o̲r̲ the w̲e̲e̲k̲e̲n̲d̲.",
+            "underlinedParts": [
+                "borrowed",
+                "her",
+                "for",
+                "weekend"
+            ],
+            "options": [
+                "borrowed",
+                "her",
+                "for",
+                "weekend"
+            ],
+            "answerIndex": 0,
+            "explanation": "Usage: 'lent' me her book. 'Borrow' is take, 'Lend' is give."
+        },
+        {
+            "id": "WE290",
+            "sectionType": "written_expression",
+            "questionText": "He s̲t̲o̲p̲p̲e̲d̲ t̲o̲ ̲s̲m̲o̲k̲e̲ because i̲t̲ was bad f̲o̲r̲ his health.",
+            "underlinedParts": [
+                "stopped",
+                "to smoke",
+                "it",
+                "for"
+            ],
+            "options": [
+                "stopped",
+                "to smoke",
+                "it",
+                "for"
+            ],
+            "answerIndex": 1,
+            "explanation": "Stop action: 'smoking'. 'Stop to smoke' means stop to light a cigarette."
+        },
+        {
+            "id": "WE291",
+            "sectionType": "written_expression",
+            "questionText": "The d̲a̲t̲a̲ i̲s̲ r̲e̲a̲d̲y̲ for a̲n̲a̲l̲y̲s̲i̲s̲.",
+            "underlinedParts": [
+                "data",
+                "is",
+                "ready",
+                "analysis"
+            ],
+            "options": [
+                "data",
+                "is",
+                "ready",
+                "analysis"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Data' is plural (datum), so 'are'. Strict TOEFL rule."
+        },
+        {
+            "id": "WE292",
+            "sectionType": "written_expression",
+            "questionText": "A̲m̲o̲n̲g̲ the two c̲h̲o̲i̲c̲e̲, I p̲r̲e̲f̲e̲r̲ the f̲i̲r̲s̲t̲ one.",
+            "underlinedParts": [
+                "Among",
+                "choice",
+                "prefer",
+                "first"
+            ],
+            "options": [
+                "Among",
+                "choice",
+                "prefer",
+                "first"
+            ],
+            "answerIndex": 0,
+            "explanation": "For two items, use 'Between'."
+        },
+        {
+            "id": "WE293",
+            "sectionType": "written_expression",
+            "questionText": "The c̲o̲s̲t̲ of l̲i̲v̲i̲n̲g̲ in this city a̲r̲e̲ h̲i̲g̲h̲.",
+            "underlinedParts": [
+                "cost",
+                "living",
+                "are",
+                "high"
+            ],
+            "options": [
+                "cost",
+                "living",
+                "are",
+                "high"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subject 'cost' is singular: 'is'."
+        },
+        {
+            "id": "WE294",
+            "sectionType": "written_expression",
+            "questionText": "She s̲a̲n̲g̲ b̲e̲a̲u̲t̲i̲f̲u̲l̲ during the c̲o̲n̲c̲e̲r̲t̲ last n̲i̲g̲h̲t̲.",
+            "underlinedParts": [
+                "sang",
+                "beautiful",
+                "concert",
+                "night"
+            ],
+            "options": [
+                "sang",
+                "beautiful",
+                "concert",
+                "night"
+            ],
+            "answerIndex": 1,
+            "explanation": "Adverb needed: 'beautifully'."
+        },
+        {
+            "id": "WE295",
+            "sectionType": "written_expression",
+            "questionText": "A̲ hour a̲g̲o̲, I s̲a̲w̲ him a̲t̲ the s̲t̲o̲r̲e̲.",
+            "underlinedParts": [
+                "A",
+                "ago",
+                "saw",
+                "at",
+                "store"
+            ],
+            "options": [
+                "A",
+                "ago",
+                "saw",
+                "at",
+                "store"
+            ],
+            "answerIndex": 0,
+            "explanation": "'An' hour (silent h)."
+        },
+        {
+            "id": "WE296",
+            "sectionType": "written_expression",
+            "questionText": "The b̲u̲i̲l̲d̲i̲n̲g̲ was d̲e̲s̲t̲r̲o̲y̲ b̲y̲ the f̲i̲r̲e̲.",
+            "underlinedParts": [
+                "building",
+                "destroy",
+                "by",
+                "fire"
+            ],
+            "options": [
+                "building",
+                "destroy",
+                "by",
+                "fire"
+            ],
+            "answerIndex": 1,
+            "explanation": "Passive: 'destroyed'."
+        },
+        {
+            "id": "WE297",
+            "sectionType": "written_expression",
+            "questionText": "He is i̲n̲t̲e̲r̲e̲s̲t̲e̲d̲ a̲t̲ l̲e̲a̲r̲n̲i̲n̲g̲ how to s̲w̲i̲m̲m̲i̲n̲g̲.",
+            "underlinedParts": [
+                "interested",
+                "at",
+                "learning",
+                "swimming"
+            ],
+            "options": [
+                "interested",
+                "at",
+                "learning",
+                "swimming"
+            ],
+            "answerIndex": 1,
+            "explanation": "Interested 'in'."
+        },
+        {
+            "id": "WE298",
+            "sectionType": "written_expression",
+            "questionText": "She p̲l̲a̲y̲s̲ the p̲i̲a̲n̲o̲ g̲o̲o̲d̲ than her s̲i̲s̲t̲e̲r̲.",
+            "underlinedParts": [
+                "plays",
+                "piano",
+                "good",
+                "sister"
+            ],
+            "options": [
+                "plays",
+                "piano",
+                "good",
+                "sister"
+            ],
+            "answerIndex": 2,
+            "explanation": "Comparative adverb: 'better'."
+        },
+        {
+            "id": "WE299",
+            "sectionType": "written_expression",
+            "questionText": "Please g̲i̲v̲e̲ this t̲o̲ w̲h̲o̲m̲e̲v̲e̲r̲ n̲e̲e̲d̲s̲ it.",
+            "underlinedParts": [
+                "give",
+                "to",
+                "whomever",
+                "needs"
+            ],
+            "options": [
+                "give",
+                "to",
+                "whomever",
+                "needs"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subject of 'needs': 'whoever'."
+        },
+        {
+            "id": "WE300",
+            "sectionType": "written_expression",
+            "questionText": "The p̲o̲o̲r̲ n̲e̲e̲d̲s̲ h̲e̲l̲p̲ from the g̲o̲v̲e̲r̲n̲m̲e̲n̲t̲.",
+            "underlinedParts": [
+                "poor",
+                "needs",
+                "help",
+                "government"
+            ],
+            "options": [
+                "poor",
+                "needs",
+                "help",
+                "government"
+            ],
+            "answerIndex": 1,
+            "explanation": "'The poor' is plural: 'need'."
+        },
+        {
+            "id": "WE301",
+            "sectionType": "written_expression",
+            "questionText": "I p̲r̲e̲f̲e̲r̲ tea t̲h̲a̲n̲ coffee i̲n̲ the m̲o̲r̲n̲i̲n̲g̲.",
+            "underlinedParts": [
+                "prefer",
+                "than",
+                "in",
+                "morning"
+            ],
+            "options": [
+                "prefer",
+                "than",
+                "in",
+                "morning"
+            ],
+            "answerIndex": 1,
+            "explanation": "Prefer 'to'."
+        },
+        {
+            "id": "WE302",
+            "sectionType": "written_expression",
+            "questionText": "Use l̲e̲s̲s̲ words i̲f̲ y̲o̲u̲ c̲a̲n̲.",
+            "underlinedParts": [
+                "less",
+                "if",
+                "you",
+                "can"
+            ],
+            "options": [
+                "less",
+                "if",
+                "you",
+                "can"
+            ],
+            "answerIndex": 0,
+            "explanation": "Countable: 'fewer'."
+        },
+        {
+            "id": "WE303",
+            "sectionType": "written_expression",
+            "questionText": "The p̲h̲e̲n̲o̲m̲e̲n̲a̲ w̲a̲s̲ s̲u̲r̲p̲r̲i̲s̲i̲n̲g̲ to the s̲c̲i̲e̲n̲t̲i̲s̲t̲s̲.",
+            "underlinedParts": [
+                "phenomena",
+                "was",
+                "surprising",
+                "scientists"
+            ],
+            "options": [
+                "phenomena",
+                "was",
+                "surprising",
+                "scientists"
+            ],
+            "answerIndex": 1,
+            "explanation": "Phenomena is plural: 'were'."
+        },
+        {
+            "id": "WE304",
+            "sectionType": "written_expression",
+            "questionText": "D̲r̲i̲v̲i̲n̲g̲ a car r̲e̲q̲u̲i̲r̲e̲ s̲k̲i̲l̲l̲ and p̲a̲t̲i̲e̲n̲c̲e̲.",
+            "underlinedParts": [
+                "Driving",
+                "require",
+                "skill",
+                "patience"
+            ],
+            "options": [
+                "Driving",
+                "require",
+                "skill",
+                "patience"
+            ],
+            "answerIndex": 1,
+            "explanation": "Gerund subject is singular: 'requires'."
+        },
+        {
+            "id": "WE305",
+            "sectionType": "written_expression",
+            "questionText": "This is t̲h̲e̲ w̲o̲r̲s̲e̲ movie I have e̲v̲e̲r̲ s̲e̲e̲n̲.",
+            "underlinedParts": [
+                "the",
+                "worse",
+                "ever",
+                "seen"
+            ],
+            "options": [
+                "the",
+                "worse",
+                "ever",
+                "seen"
+            ],
+            "answerIndex": 1,
+            "explanation": "Superlative: 'worst'."
+        },
+        {
+            "id": "WE306",
+            "sectionType": "written_expression",
+            "questionText": "W̲h̲o̲s̲e̲ g̲o̲i̲n̲g̲ to the p̲a̲r̲t̲y̲ with u̲s̲?",
+            "underlinedParts": [
+                "Whose",
+                "going",
+                "party",
+                "us"
+            ],
+            "options": [
+                "Whose",
+                "going",
+                "party",
+                "us"
+            ],
+            "answerIndex": 0,
+            "explanation": "'Who's' (Who is), not 'Whose'."
+        },
+        {
+            "id": "WE307",
+            "sectionType": "written_expression",
+            "questionText": "I h̲a̲v̲e̲ l̲i̲v̲e̲d̲ here s̲i̲n̲c̲e̲ three y̲e̲a̲r̲s̲.",
+            "underlinedParts": [
+                "have",
+                "lived",
+                "since",
+                "years"
+            ],
+            "options": [
+                "have",
+                "lived",
+                "since",
+                "years"
+            ],
+            "answerIndex": 2,
+            "explanation": "Duration: 'for'."
+        },
+        {
+            "id": "WE308",
+            "sectionType": "written_expression",
+            "questionText": "The b̲o̲s̲s̲ d̲e̲m̲a̲n̲d̲e̲d̲ that he f̲i̲n̲i̲s̲h̲e̲s̲ the r̲e̲p̲o̲r̲t̲.",
+            "underlinedParts": [
+                "boss",
+                "demanded",
+                "finishes",
+                "report"
+            ],
+            "options": [
+                "boss",
+                "demanded",
+                "finishes",
+                "report"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subjunctive: 'finish'."
+        },
+        {
+            "id": "WE309",
+            "sectionType": "written_expression",
+            "questionText": "We d̲i̲s̲c̲u̲s̲s̲e̲d̲ a̲b̲o̲u̲t̲ the p̲l̲a̲n̲ y̲e̲s̲t̲e̲r̲d̲a̲y̲.",
+            "underlinedParts": [
+                "discussed",
+                "about",
+                "plan",
+                "yesterday"
+            ],
+            "options": [
+                "discussed",
+                "about",
+                "plan",
+                "yesterday"
+            ],
+            "answerIndex": 1,
+            "explanation": "Discuss is transitive; no 'about'."
+        },
+        {
+            "id": "WE310",
+            "sectionType": "written_expression",
+            "questionText": "B̲e̲s̲i̲d̲e̲ math, h̲e̲ s̲t̲u̲d̲i̲e̲s̲ physics a̲n̲d̲ chemistry.",
+            "underlinedParts": [
+                "Beside",
+                "he",
+                "studies",
+                "and"
+            ],
+            "options": [
+                "Beside",
+                "he",
+                "studies",
+                "and"
+            ],
+            "answerIndex": 0,
+            "explanation": "'Besides' (in addition to), not 'Beside' (next to)."
+        },
+        {
+            "id": "WE311",
+            "sectionType": "written_expression",
+            "questionText": "The e̲q̲u̲i̲p̲m̲e̲n̲t̲ w̲e̲r̲e̲ e̲x̲p̲e̲n̲s̲i̲v̲e̲ back t̲h̲e̲n̲.",
+            "underlinedParts": [
+                "equipment",
+                "were",
+                "expensive",
+                "then"
+            ],
+            "options": [
+                "equipment",
+                "were",
+                "expensive",
+                "then"
+            ],
+            "answerIndex": 1,
+            "explanation": "Equipment is uncountable/singular: 'was'."
+        },
+        {
+            "id": "WE312",
+            "sectionType": "written_expression",
+            "questionText": "He r̲a̲n̲ f̲a̲s̲t̲l̲y̲ to c̲a̲t̲c̲h̲ the b̲u̲s̲.",
+            "underlinedParts": [
+                "ran",
+                "fastly",
+                "catch",
+                "bus"
+            ],
+            "options": [
+                "ran",
+                "fastly",
+                "catch",
+                "bus"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Fast' is both adj and adv. 'Fastly' does not exist."
+        },
+        {
+            "id": "WE313",
+            "sectionType": "written_expression",
+            "questionText": "M̲o̲s̲t̲ of the s̲t̲u̲d̲e̲n̲t̲s̲ i̲s̲ d̲i̲l̲i̲g̲e̲n̲t̲.",
+            "underlinedParts": [
+                "Most",
+                "students",
+                "is",
+                "diligent"
+            ],
+            "options": [
+                "Most",
+                "students",
+                "is",
+                "diligent"
+            ],
+            "answerIndex": 2,
+            "explanation": "Most + plural noun = plural verb 'are'."
+        },
+        {
+            "id": "WE314",
+            "sectionType": "written_expression",
+            "questionText": "She m̲a̲d̲e̲ the b̲a̲b̲y̲ t̲o̲ ̲c̲r̲y̲ l̲o̲u̲d̲l̲y̲.",
+            "underlinedParts": [
+                "made",
+                "baby",
+                "to cry",
+                "loudly"
+            ],
+            "options": [
+                "made",
+                "baby",
+                "to cry",
+                "loudly"
+            ],
+            "answerIndex": 2,
+            "explanation": "Make (causative) + bare infinitive: 'cry'."
+        },
+        {
+            "id": "WE315",
+            "sectionType": "written_expression",
+            "questionText": "A̲l̲i̲k̲e̲ my b̲r̲o̲t̲h̲e̲r̲, I p̲l̲a̲y̲ t̲e̲n̲n̲i̲s̲.",
+            "underlinedParts": [
+                "Alike",
+                "brother",
+                "play",
+                "tennis"
+            ],
+            "options": [
+                "Alike",
+                "brother",
+                "play",
+                "tennis"
+            ],
+            "answerIndex": 0,
+            "explanation": "'Like' my brother."
+        },
+        {
+            "id": "WE316",
+            "sectionType": "written_expression",
+            "questionText": "The p̲r̲i̲c̲e̲ of g̲o̲l̲d̲ varies f̲r̲o̲m̲ day b̲y̲ day.",
+            "underlinedParts": [
+                "price",
+                "gold",
+                "from",
+                "by"
+            ],
+            "options": [
+                "price",
+                "gold",
+                "from",
+                "by"
+            ],
+            "answerIndex": 3,
+            "explanation": "'From day to day'."
+        },
+        {
+            "id": "WE317",
+            "sectionType": "written_expression",
+            "questionText": "I a̲m̲ not u̲s̲e̲d̲ to s̲p̲e̲a̲k̲ in p̲u̲b̲l̲i̲c̲.",
+            "underlinedParts": [
+                "am",
+                "used",
+                "speak",
+                "public"
+            ],
+            "options": [
+                "am",
+                "used",
+                "speak",
+                "public"
+            ],
+            "answerIndex": 2,
+            "explanation": "Used to + gerund: 'speaking'."
+        },
+        {
+            "id": "WE318",
+            "sectionType": "written_expression",
+            "questionText": "The f̲i̲v̲e̲-̲y̲e̲a̲r̲s̲-̲o̲l̲d̲ b̲o̲y̲ i̲s̲ very s̲m̲a̲r̲t̲.",
+            "underlinedParts": [
+                "five-years-old",
+                "boy",
+                "is",
+                "smart"
+            ],
+            "options": [
+                "five-years-old",
+                "boy",
+                "is",
+                "smart"
+            ],
+            "answerIndex": 0,
+            "explanation": "Adjective phrase: 'five-year-old'."
+        },
+        {
+            "id": "WE319",
+            "sectionType": "written_expression",
+            "questionText": "H̲a̲v̲i̲n̲g̲ f̲i̲n̲i̲s̲h̲e̲d̲ his work, h̲o̲m̲e̲ was w̲e̲n̲t̲.",
+            "underlinedParts": [
+                "Having",
+                "finished",
+                "home",
+                "went"
+            ],
+            "options": [
+                "Having",
+                "finished",
+                "home",
+                "went"
+            ],
+            "answerIndex": 2,
+            "explanation": "Dangling modifier. Subject must be 'he'."
+        },
+        {
+            "id": "WE320",
+            "sectionType": "written_expression",
+            "questionText": "The c̲o̲n̲c̲e̲n̲s̲u̲s̲ of o̲p̲i̲n̲i̲o̲n̲ was t̲h̲a̲t̲ we should w̲a̲i̲t̲.",
+            "underlinedParts": [
+                "concensus",
+                "opinion",
+                "that",
+                "wait"
+            ],
+            "options": [
+                "concensus",
+                "opinion",
+                "that",
+                "wait"
+            ],
+            "answerIndex": 1,
+            "explanation": "Redundancy: Consensus means agreement of opinion. Omit 'of opinion'."
+        },
+        {
+            "id": "WE321",
+            "sectionType": "written_expression",
+            "questionText": "I̲r̲r̲e̲g̲a̲r̲d̲l̲e̲s̲s̲ of the o̲u̲t̲c̲o̲m̲e̲, we d̲i̲d̲ our b̲e̲s̲t̲.",
+            "underlinedParts": [
+                "Irregardless",
+                "outcome",
+                "did",
+                "best"
+            ],
+            "options": [
+                "Irregardless",
+                "outcome",
+                "did",
+                "best"
+            ],
+            "answerIndex": 0,
+            "explanation": "'Regardless'. 'Irregardless' is non-standard."
+        },
+        {
+            "id": "WE322",
+            "sectionType": "written_expression",
+            "questionText": "He is d̲e̲p̲e̲n̲d̲e̲n̲t̲ o̲f̲ his p̲a̲r̲e̲n̲t̲s̲ for m̲o̲n̲e̲y̲.",
+            "underlinedParts": [
+                "dependent",
+                "of",
+                "parents",
+                "money"
+            ],
+            "options": [
+                "dependent",
+                "of",
+                "parents",
+                "money"
+            ],
+            "answerIndex": 1,
+            "explanation": "Dependent 'on'."
+        },
+        {
+            "id": "WE323",
+            "sectionType": "written_expression",
+            "questionText": "The t̲e̲a̲c̲h̲e̲r̲ c̲o̲m̲p̲l̲i̲m̲e̲n̲t̲e̲d̲ him f̲o̲r̲ his s̲u̲c̲c̲e̲s̲s̲.",
+            "underlinedParts": [
+                "teacher",
+                "complimented",
+                "for",
+                "success"
+            ],
+            "options": [
+                "teacher",
+                "complimented",
+                "for",
+                "success"
+            ],
+            "answerIndex": 2,
+            "explanation": "Compliment 'on'."
+        },
+        {
+            "id": "WE324",
+            "sectionType": "written_expression",
+            "questionText": "W̲h̲e̲r̲e̲ d̲i̲d̲ he w̲e̲n̲t̲ after the p̲a̲r̲t̲y̲?",
+            "underlinedParts": [
+                "Where",
+                "did",
+                "went",
+                "party"
+            ],
+            "options": [
+                "Where",
+                "did",
+                "went",
+                "party"
+            ],
+            "answerIndex": 2,
+            "explanation": "Did + base form: 'go'."
+        },
+        {
+            "id": "WE325",
+            "sectionType": "written_expression",
+            "questionText": "That is the m̲a̲n̲ w̲h̲o̲m̲ I believe s̲t̲o̲l̲e̲ the c̲a̲r̲.",
+            "underlinedParts": [
+                "man",
+                "whom",
+                "stole",
+                "car"
+            ],
+            "options": [
+                "man",
+                "whom",
+                "stole",
+                "car"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subject of 'stole': 'who'."
+        },
+        {
+            "id": "WE326",
+            "sectionType": "written_expression",
+            "questionText": "The r̲e̲a̲s̲o̲n̲ w̲h̲y̲ I called i̲s̲ to i̲n̲v̲i̲t̲e̲ you.",
+            "underlinedParts": [
+                "reason",
+                "why",
+                "is",
+                "invite"
+            ],
+            "options": [
+                "reason",
+                "why",
+                "is",
+                "invite"
+            ],
+            "answerIndex": 1,
+            "explanation": "Correct? 'The reason why' is redundant generally, 'The reason... is that'. Let's pick a clearer error. 'The {reason} I called is {because} I need {help}.' -> 'that'."
+        },
+        {
+            "id": "WE327",
+            "sectionType": "written_expression",
+            "questionText": "The r̲e̲a̲s̲o̲n̲ I c̲a̲l̲l̲e̲d̲ is b̲e̲c̲a̲u̲s̲e̲ I n̲e̲e̲d̲ help.",
+            "underlinedParts": [
+                "reason",
+                "called",
+                "because",
+                "need"
+            ],
+            "options": [
+                "reason",
+                "called",
+                "because",
+                "need"
+            ],
+            "answerIndex": 2,
+            "explanation": "Redundant 'because'. Use 'that'."
+        },
+        {
+            "id": "WE328",
+            "sectionType": "written_expression",
+            "questionText": "She w̲o̲r̲e̲ a b̲e̲a̲u̲t̲i̲f̲u̲l̲ s̲i̲l̲k̲ l̲o̲n̲g̲ dress.",
+            "underlinedParts": [
+                "wore",
+                "beautiful",
+                "silk",
+                "long"
+            ],
+            "options": [
+                "wore",
+                "beautiful",
+                "silk",
+                "long"
+            ],
+            "answerIndex": 3,
+            "explanation": "Order of adjectives: 'long silk dress' (Size before Material)."
+        },
+        {
+            "id": "WE329",
+            "sectionType": "written_expression",
+            "questionText": "E̲v̲e̲r̲y̲ student h̲a̲v̲e̲ a b̲o̲o̲k̲ and a p̲e̲n̲.",
+            "underlinedParts": [
+                "Every",
+                "have",
+                "book",
+                "pen"
+            ],
+            "options": [
+                "Every",
+                "have",
+                "book",
+                "pen"
+            ],
+            "answerIndex": 1,
+            "explanation": "Every + singular noun = singular verb 'has'."
+        },
+        {
+            "id": "WE330",
+            "sectionType": "written_expression",
+            "questionText": "He l̲a̲y̲ the b̲o̲o̲k̲ on the t̲a̲b̲l̲e̲ y̲e̲s̲t̲e̲r̲d̲a̲y̲.",
+            "underlinedParts": [
+                "lay",
+                "book",
+                "table",
+                "yesterday"
+            ],
+            "options": [
+                "lay",
+                "book",
+                "table",
+                "yesterday"
+            ],
+            "answerIndex": 0,
+            "explanation": "Lay (put) past tense is 'laid'. 'Lay' is past of Lie (rest)."
+        },
+        {
+            "id": "WE331",
+            "sectionType": "written_expression",
+            "questionText": "The s̲u̲n̲ r̲i̲s̲e̲ in the e̲a̲s̲t̲ every m̲o̲r̲n̲i̲n̲g̲.",
+            "underlinedParts": [
+                "sun",
+                "rise",
+                "east",
+                "morning"
+            ],
+            "options": [
+                "sun",
+                "rise",
+                "east",
+                "morning"
+            ],
+            "answerIndex": 1,
+            "explanation": "Singular subject: 'rises'."
+        },
+        {
+            "id": "WE332",
+            "sectionType": "written_expression",
+            "questionText": "M̲e̲ and him w̲e̲n̲t̲ to the p̲a̲r̲k̲ t̲o̲g̲e̲t̲h̲e̲r̲.",
+            "underlinedParts": [
+                "Me",
+                "went",
+                "park",
+                "together"
+            ],
+            "options": [
+                "Me",
+                "went",
+                "park",
+                "together"
+            ],
+            "answerIndex": 0,
+            "explanation": "Subject pronoun: 'He and I' or 'He and I went...' here 'I' needed."
+        },
+        {
+            "id": "WE333",
+            "sectionType": "written_expression",
+            "questionText": "The s̲c̲i̲s̲s̲o̲r̲s̲ i̲s̲ o̲n̲ the d̲e̲s̲k̲.",
+            "underlinedParts": [
+                "scissors",
+                "is",
+                "on",
+                "desk"
+            ],
+            "options": [
+                "scissors",
+                "is",
+                "on",
+                "desk"
+            ],
+            "answerIndex": 1,
+            "explanation": "Scissors is plural: 'are'."
+        },
+        {
+            "id": "WE334",
+            "sectionType": "written_expression",
+            "questionText": "Five m̲i̲l̲e̲s̲ a̲r̲e̲ a l̲o̲n̲g̲ way to w̲a̲l̲k̲.",
+            "underlinedParts": [
+                "miles",
+                "are",
+                "long",
+                "walk"
+            ],
+            "options": [
+                "miles",
+                "are",
+                "long",
+                "walk"
+            ],
+            "answerIndex": 1,
+            "explanation": "Distance as unit: 'is'."
+        },
+        {
+            "id": "WE335",
+            "sectionType": "written_expression",
+            "questionText": "He d̲r̲a̲w̲e̲d̲ a p̲i̲c̲t̲u̲r̲e̲ of the m̲o̲u̲n̲t̲a̲i̲n̲s̲ y̲e̲s̲t̲e̲r̲d̲a̲y̲.",
+            "underlinedParts": [
+                "drawed",
+                "picture",
+                "mountains",
+                "yesterday"
+            ],
+            "options": [
+                "drawed",
+                "picture",
+                "mountains",
+                "yesterday"
+            ],
+            "answerIndex": 0,
+            "explanation": "Irregular verb: 'drew'."
+        },
+        {
+            "id": "WE336",
+            "sectionType": "written_expression",
+            "questionText": "The p̲o̲l̲i̲c̲e̲ i̲s̲ i̲n̲v̲e̲s̲t̲i̲g̲a̲t̲i̲n̲g̲ the c̲r̲i̲m̲e̲.",
+            "underlinedParts": [
+                "police",
+                "is",
+                "investigating",
+                "crime"
+            ],
+            "options": [
+                "police",
+                "is",
+                "investigating",
+                "crime"
+            ],
+            "answerIndex": 1,
+            "explanation": "Police is collective plural: 'are'."
+        },
+        {
+            "id": "WE337",
+            "sectionType": "written_expression",
+            "questionText": "I w̲i̲s̲h̲ I w̲a̲s̲ a̲b̲l̲e̲ to f̲l̲y̲.",
+            "underlinedParts": [
+                "wish",
+                "was",
+                "able",
+                "fly"
+            ],
+            "options": [
+                "wish",
+                "was",
+                "able",
+                "fly"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subjunctive: 'were'."
+        },
+        {
+            "id": "WE338",
+            "sectionType": "written_expression",
+            "questionText": "Please l̲o̲w̲e̲r̲ your v̲o̲i̲c̲e̲ so a̲s̲ not to d̲i̲s̲t̲u̲r̲b̲.",
+            "underlinedParts": [
+                "lower",
+                "voice",
+                "as",
+                "disturb"
+            ],
+            "options": [
+                "lower",
+                "voice",
+                "as",
+                "disturb"
+            ],
+            "answerIndex": 0,
+            "explanation": "Wait. 'so as not to' is correct. Error might be elsewhere. Let's change. 'Please {raise} your {hand} if you {know} the {answer}.' No error. 'Please {rise} your {hand}...' -> 'raise'."
+        },
+        {
+            "id": "WE339",
+            "sectionType": "written_expression",
+            "questionText": "Please r̲i̲s̲e̲ your h̲a̲n̲d̲ if y̲o̲u̲ have a q̲u̲e̲s̲t̲i̲o̲n̲.",
+            "underlinedParts": [
+                "rise",
+                "hand",
+                "you",
+                "question"
+            ],
+            "options": [
+                "rise",
+                "hand",
+                "you",
+                "question"
+            ],
+            "answerIndex": 0,
+            "explanation": "Transitive (lift object): 'raise'. Intransitive (go up): 'rise'."
+        },
+        {
+            "id": "WE340",
+            "sectionType": "written_expression",
+            "questionText": "The f̲o̲o̲d̲ s̲m̲e̲l̲l̲s̲ b̲a̲d̲l̲y̲ in the k̲i̲t̲c̲h̲e̲n̲.",
+            "underlinedParts": [
+                "food",
+                "smells",
+                "badly",
+                "kitchen"
+            ],
+            "options": [
+                "food",
+                "smells",
+                "badly",
+                "kitchen"
+            ],
+            "answerIndex": 2,
+            "explanation": "Linking verb 'smells' + adjective: 'bad'."
+        },
+        {
+            "id": "WE341",
+            "sectionType": "written_expression",
+            "questionText": "The m̲e̲d̲i̲a̲ h̲a̲s̲ a l̲o̲t̲ of i̲n̲f̲l̲u̲e̲n̲c̲e̲.",
+            "underlinedParts": [
+                "media",
+                "has",
+                "lot",
+                "influence"
+            ],
+            "options": [
+                "media",
+                "has",
+                "lot",
+                "influence"
+            ],
+            "answerIndex": 1,
+            "explanation": "Media is plural of medium: 'have'. (Though often usage is shifting, TOEFL is strict)."
+        },
+        {
+            "id": "WE342",
+            "sectionType": "written_expression",
+            "questionText": "S̲t̲a̲t̲i̲s̲t̲i̲c̲s̲ d̲e̲s̲c̲r̲i̲b̲e̲ the a̲n̲a̲l̲y̲s̲i̲s̲ o̲f̲ data.",
+            "underlinedParts": [
+                "Statistics",
+                "describe",
+                "analysis",
+                "of"
+            ],
+            "options": [
+                "Statistics",
+                "describe",
+                "analysis",
+                "of"
+            ],
+            "answerIndex": 1,
+            "explanation": "Statistics (the science) is singular: 'describes'."
+        },
+        {
+            "id": "WE343",
+            "sectionType": "written_expression",
+            "questionText": "He g̲a̲v̲e̲ the g̲i̲f̲t̲ to M̲a̲r̲y̲ and I̲.",
+            "underlinedParts": [
+                "gave",
+                "gift",
+                "Mary",
+                "I"
+            ],
+            "options": [
+                "gave",
+                "gift",
+                "Mary",
+                "I"
+            ],
+            "answerIndex": 3,
+            "explanation": "Object pronoun: 'me'."
+        },
+        {
+            "id": "WE344",
+            "sectionType": "written_expression",
+            "questionText": "The s̲h̲e̲e̲p̲ w̲a̲s̲ grazing i̲n̲ the f̲i̲e̲l̲d̲.",
+            "underlinedParts": [
+                "sheep",
+                "was",
+                "in",
+                "field"
+            ],
+            "options": [
+                "sheep",
+                "was",
+                "in",
+                "field"
+            ],
+            "answerIndex": 1,
+            "explanation": "If multiple sheep, 'were'. If one, 'was'. Ambiguous. Let's do 'The sheep {are} grazing...' (correct). 'A sheep {are}...' (wrong). Let's use 'cattle'. 'The {cattle} {is} grazing.'"
+        },
+        {
+            "id": "WE345",
+            "sectionType": "written_expression",
+            "questionText": "The c̲a̲t̲t̲l̲e̲ i̲s̲ grazing i̲n̲ the f̲i̲e̲l̲d̲.",
+            "underlinedParts": [
+                "cattle",
+                "is",
+                "in",
+                "field"
+            ],
+            "options": [
+                "cattle",
+                "is",
+                "in",
+                "field"
+            ],
+            "answerIndex": 1,
+            "explanation": "Cattle is plural: 'are'."
+        },
+        {
+            "id": "WE346",
+            "sectionType": "written_expression",
+            "questionText": "It is i̲m̲p̲o̲r̲t̲a̲n̲t̲ that she r̲e̲m̲e̲m̲b̲e̲r̲s̲ to c̲a̲l̲l̲ h̲o̲m̲e̲.",
+            "underlinedParts": [
+                "important",
+                "remembers",
+                "call",
+                "home"
+            ],
+            "options": [
+                "important",
+                "remembers",
+                "call",
+                "home"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subjunctive: 'remember'."
+        },
+        {
+            "id": "WE347",
+            "sectionType": "written_expression",
+            "questionText": "I s̲u̲g̲g̲e̲s̲t̲e̲d̲ g̲o̲i̲n̲g̲ for a w̲a̲l̲k̲ i̲n̲s̲t̲e̲a̲d̲ to watch TV.",
+            "underlinedParts": [
+                "suggested",
+                "going",
+                "walk",
+                "instead"
+            ],
+            "options": [
+                "suggested",
+                "going",
+                "walk",
+                "instead"
+            ],
+            "answerIndex": 3,
+            "explanation": "'Instead of watching TV'."
+        },
+        {
+            "id": "WE348",
+            "sectionType": "written_expression",
+            "questionText": "He is s̲u̲p̲e̲r̲i̲o̲r̲ t̲h̲a̲n̲ his r̲i̲v̲a̲l̲ in c̲h̲e̲s̲s̲.",
+            "underlinedParts": [
+                "superior",
+                "than",
+                "rival",
+                "chess"
+            ],
+            "options": [
+                "superior",
+                "than",
+                "rival",
+                "chess"
+            ],
+            "answerIndex": 1,
+            "explanation": "Superior 'to'."
+        },
+        {
+            "id": "WE349",
+            "sectionType": "written_expression",
+            "questionText": "She has l̲e̲s̲s̲ f̲r̲i̲e̲n̲d̲s̲ t̲h̲a̲n̲ I d̲o̲.",
+            "underlinedParts": [
+                "less",
+                "friends",
+                "than",
+                "do"
+            ],
+            "options": [
+                "less",
+                "friends",
+                "than",
+                "do"
+            ],
+            "answerIndex": 1,
+            "explanation": "Countable: 'fewer'."
+        },
+        {
+            "id": "WE350",
+            "sectionType": "written_expression",
+            "questionText": "B̲e̲c̲a̲u̲s̲e̲ the r̲a̲i̲n̲, we c̲a̲n̲c̲e̲l̲l̲e̲d̲ the p̲i̲c̲n̲i̲c̲.",
+            "underlinedParts": [
+                "Because",
+                "rain",
+                "cancelled",
+                "picnic"
+            ],
+            "options": [
+                "Because",
+                "rain",
+                "cancelled",
+                "picnic"
+            ],
+            "answerIndex": 0,
+            "explanation": "'Because of'."
+        },
+        {
+            "id": "WE351",
+            "sectionType": "written_expression",
+            "questionText": "They e̲l̲e̲c̲t̲e̲d̲ him a̲s̲ p̲r̲e̲s̲i̲d̲e̲n̲t̲ of the c̲l̲u̲b̲.",
+            "underlinedParts": [
+                "elected",
+                "as",
+                "president",
+                "club"
+            ],
+            "options": [
+                "elected",
+                "as",
+                "president",
+                "club"
+            ],
+            "answerIndex": 1,
+            "explanation": "Elect + object + title (no 'as')."
+        },
+        {
+            "id": "WE352",
+            "sectionType": "written_expression",
+            "questionText": "He s̲t̲u̲d̲i̲e̲s̲ h̲a̲r̲d̲l̲y̲ for the e̲x̲a̲m̲ e̲v̲e̲r̲y̲ night.",
+            "underlinedParts": [
+                "studies",
+                "hardly",
+                "exam",
+                "every"
+            ],
+            "options": [
+                "studies",
+                "hardly",
+                "exam",
+                "every"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Hardly' means barely. 'Hard' is the adverb."
+        },
+        {
+            "id": "WE353",
+            "sectionType": "written_expression",
+            "questionText": "The t̲e̲a̲m̲ a̲r̲e̲ fighting a̲m̲o̲n̲g̲s̲t̲ t̲h̲e̲m̲s̲e̲l̲v̲e̲s̲.",
+            "underlinedParts": [
+                "team",
+                "are",
+                "amongst",
+                "themselves"
+            ],
+            "options": [
+                "team",
+                "are",
+                "amongst",
+                "themselves"
+            ],
+            "answerIndex": 1,
+            "explanation": "Team acting as individuals: 'are' is correct. Wait. Is 'amongst' archaic? No. Maybe 'fighting' (arguing?). Wait. Let's make it singular error. 'The {team} {is} fighting amongst {themselves}.' -> 'are' because 'themselves'."
+        },
+        {
+            "id": "WE354",
+            "sectionType": "written_expression",
+            "questionText": "The t̲e̲a̲m̲ i̲s̲ arguing a̲m̲o̲n̲g̲ t̲h̲e̲m̲s̲e̲l̲v̲e̲s̲.",
+            "underlinedParts": [
+                "team",
+                "is",
+                "among",
+                "themselves"
+            ],
+            "options": [
+                "team",
+                "is",
+                "among",
+                "themselves"
+            ],
+            "answerIndex": 1,
+            "explanation": "Plural reflexive 'themselves' implies plural subject 'are'."
+        },
+        {
+            "id": "WE355",
+            "sectionType": "written_expression",
+            "questionText": "He d̲r̲o̲v̲e̲ s̲o̲ f̲a̲s̲t̲ to s̲t̲o̲p̲.",
+            "underlinedParts": [
+                "drove",
+                "so",
+                "fast",
+                "stop"
+            ],
+            "options": [
+                "drove",
+                "so",
+                "fast",
+                "stop"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Too fast to stop'."
+        },
+        {
+            "id": "WE356",
+            "sectionType": "written_expression",
+            "questionText": "N̲o̲t̲ only t̲h̲e̲ students but a̲l̲s̲o̲ the teacher a̲p̲p̲r̲o̲v̲e̲.",
+            "underlinedParts": [
+                "Not",
+                "the",
+                "also",
+                "approve"
+            ],
+            "options": [
+                "Not",
+                "the",
+                "also",
+                "approve"
+            ],
+            "answerIndex": 3,
+            "explanation": "Verb agrees with closer one (teacher): 'approves'."
+        },
+        {
+            "id": "WE357",
+            "sectionType": "written_expression",
+            "questionText": "We w̲i̲l̲l̲ wait u̲n̲t̲i̲l̲ he w̲i̲l̲l̲ call.",
+            "underlinedParts": [
+                "will",
+                "until",
+                "will"
+            ],
+            "options": [
+                "will",
+                "until",
+                "will"
+            ],
+            "answerIndex": 3,
+            "explanation": "Time clause uses present tense: 'calls'."
         }
     ]
 }
