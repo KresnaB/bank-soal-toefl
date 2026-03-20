@@ -6742,6 +6742,2723 @@
             ],
             "answerIndex": 3,
             "explanation": "Time clause uses present tense: 'calls'."
+        },
+        {
+            "id": "WE358",
+            "sectionType": "written_expression",
+            "questionText": "N̲o̲t̲ o̲n̲l̲y̲ the film was a c̲o̲m̲m̲e̲r̲c̲i̲a̲l̲ success, but i̲t̲ also received critical a̲c̲c̲l̲a̲i̲m̲.",
+            "underlinedParts": [
+                "Not only",
+                "commercial",
+                "it",
+                "acclaim"
+            ],
+            "options": [
+                "Not only",
+                "commercial",
+                "it",
+                "acclaim"
+            ],
+            "answerIndex": 0,
+            "explanation": "Ketika kalimat dimulai dengan 'Not only' (negative inversion), subjek dan kata kerja harus dibalik (inversion). Seharusnya: 'Not only was the film'."
+        },
+        {
+            "id": "WE359",
+            "sectionType": "written_expression",
+            "questionText": "The director i̲n̲s̲i̲s̲t̲e̲d̲ that the actor s̲h̲o̲u̲l̲d̲ b̲e̲ prepared for the scene a̲n̲d̲ that he r̲e̲h̲e̲a̲r̲s̲e̲s̲ it thoroughly.",
+            "underlinedParts": [
+                "insisted",
+                "should be",
+                "and",
+                "rehearses"
+            ],
+            "options": [
+                "insisted",
+                "should be",
+                "and",
+                "rehearses"
+            ],
+            "answerIndex": 3,
+            "explanation": "Kalimat ini menggunakan format Subjunctive. Setelah kata 'insisted', kata kerja dalam klausa 'that' harus berbentuk dasar (bare infinitive). Seharusnya 'rehearse', bukan 'rehearses'."
+        },
+        {
+            "id": "WE360",
+            "sectionType": "written_expression",
+            "questionText": "H̲a̲d̲ the committee b̲e̲i̲n̲g̲ aware of the issue, they w̲o̲u̲l̲d̲ h̲a̲v̲e̲ taken i̲m̲m̲e̲d̲i̲a̲t̲e̲ action.",
+            "underlinedParts": [
+                "Had",
+                "being",
+                "would have",
+                "immediate"
+            ],
+            "options": [
+                "Had",
+                "being",
+                "would have",
+                "immediate"
+            ],
+            "answerIndex": 1,
+            "explanation": "Ini adalah Inverted Conditional Type 3. Struktur yang benar adalah 'Had + Subject + Past Participle'. Seharusnya 'Had the committee been'."
+        },
+        {
+            "id": "WE361",
+            "sectionType": "written_expression",
+            "questionText": "The carbon d̲i̲o̲x̲i̲d̲e̲ emissions, w̲h̲i̲c̲h̲ r̲e̲l̲e̲a̲s̲e̲ into the atmosphere, c̲o̲n̲t̲r̲i̲b̲u̲t̲e̲ to global warming.",
+            "underlinedParts": [
+                "dioxide",
+                "which",
+                "release",
+                "contribute"
+            ],
+            "options": [
+                "dioxide",
+                "which",
+                "release",
+                "contribute"
+            ],
+            "answerIndex": 2,
+            "explanation": "Klausa relatif ini membutuhkan makna pasif karena emisi dilepaskan, bukan melepaskan. Seharusnya 'which are released' atau cukup 'released' (reduced relative clause)."
+        },
+        {
+            "id": "WE362",
+            "sectionType": "written_expression",
+            "questionText": "U̲n̲l̲i̲k̲e̲ most birds, the penguin's wings a̲r̲e̲ u̲s̲e̲d̲ primarily f̲o̲r̲ swimming.",
+            "underlinedParts": [
+                "Unlike",
+                "are",
+                "used",
+                "for"
+            ],
+            "options": [
+                "Unlike",
+                "are",
+                "used",
+                "for"
+            ],
+            "answerIndex": 0,
+            "explanation": "Perbandingan harus setara (faulty comparison). Kalimat ini membandingkan 'birds' (burung) dengan 'penguin's wings' (sayap penguin). Seharusnya 'Unlike most birds, the penguin uses...' atau 'Unlike those of most birds, the penguin's wings...'"
+        },
+        {
+            "id": "WE363",
+            "sectionType": "written_expression",
+            "questionText": "S̲c̲a̲r̲c̲e̲l̲y̲ had the plane l̲a̲n̲d̲e̲d̲ t̲h̲a̲n̲ the passengers b̲e̲g̲a̲n̲ to unbuckle their seatbelts.",
+            "underlinedParts": [
+                "Scarcely",
+                "landed",
+                "than",
+                "began"
+            ],
+            "options": [
+                "Scarcely",
+                "landed",
+                "than",
+                "began"
+            ],
+            "answerIndex": 2,
+            "explanation": "Pasangan konjungsi untuk 'Scarcely' adalah 'when', bukan 'than'. 'Than' digunakan untuk 'No sooner'."
+        },
+        {
+            "id": "WE364",
+            "sectionType": "written_expression",
+            "questionText": "The p̲h̲e̲n̲o̲m̲e̲n̲a̲ observed during the eclipse w̲a̲s̲ truly r̲e̲m̲a̲r̲k̲a̲b̲l̲e̲ to b̲o̲t̲h̲ scientists and amateurs.",
+            "underlinedParts": [
+                "phenomena",
+                "was",
+                "remarkable",
+                "both"
+            ],
+            "options": [
+                "phenomena",
+                "was",
+                "remarkable",
+                "both"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kata 'phenomena' adalah bentuk jamak dari 'phenomenon'. Oleh karena itu, kata kerjanya harus jamak: 'were'."
+        },
+        {
+            "id": "WE365",
+            "sectionType": "written_expression",
+            "questionText": "D̲e̲s̲p̲i̲t̲e̲ the fact that the team played w̲e̲l̲l̲, but they l̲o̲s̲t̲ the championship by a n̲a̲r̲r̲o̲w̲ margin.",
+            "underlinedParts": [
+                "Despite",
+                "well",
+                "lost",
+                "narrow"
+            ],
+            "options": [
+                "Despite",
+                "well",
+                "lost",
+                "narrow"
+            ],
+            "answerIndex": 0,
+            "explanation": "Penggunaan 'Despite the fact that' sudah berfungsi sebagai konjungsi subordinat, sehingga tidak perlu menambahkan kata 'but' setelah koma (double conjunction). Seharusnya 'but' dihilangkan."
+        },
+        {
+            "id": "WE366",
+            "sectionType": "written_expression",
+            "questionText": "S̲u̲c̲h̲ a drastic change in the law w̲o̲u̲l̲d̲ mean t̲h̲a̲t̲ more people w̲i̲l̲l̲ b̲e̲ unable to afford healthcare.",
+            "underlinedParts": [
+                "Such",
+                "would",
+                "that",
+                "will be"
+            ],
+            "options": [
+                "Such",
+                "would",
+                "that",
+                "will be"
+            ],
+            "answerIndex": 3,
+            "explanation": "Kesesuaian tenses (sequence of tenses). Karena klausa utama menggunakan conditional 'would mean', klausa pelengkap harus menyesuaikan, biasanya menggunakan 'would be'."
+        },
+        {
+            "id": "WE367",
+            "sectionType": "written_expression",
+            "questionText": "The teacher requested that every student s̲u̲b̲m̲i̲t̲s̲ t̲h̲e̲i̲r̲ final e̲s̲s̲a̲y̲ b̲e̲f̲o̲r̲e̲ the deadline.",
+            "underlinedParts": [
+                "submits",
+                "their",
+                "essay",
+                "before"
+            ],
+            "options": [
+                "submits",
+                "their",
+                "essay",
+                "before"
+            ],
+            "answerIndex": 0,
+            "explanation": "Lagi-lagi Subjunctive mood setelah kata kerja 'requested'. Kata kerja harus dalam bentuk dasar. Seharusnya 'submit', bukan 'submits'."
+        },
+        {
+            "id": "WE368",
+            "sectionType": "written_expression",
+            "questionText": "The reason he f̲a̲i̲l̲e̲d̲ the exam w̲a̲s̲ b̲e̲c̲a̲u̲s̲e̲ he did not s̲t̲u̲d̲y̲ h̲a̲r̲d̲ enough.",
+            "underlinedParts": [
+                "failed",
+                "was",
+                "because",
+                "hard"
+            ],
+            "options": [
+                "failed",
+                "was",
+                "because",
+                "hard"
+            ],
+            "answerIndex": 2,
+            "explanation": "Secara gramatikal, 'The reason... is because' dianggap redundan. Standar bahasa Inggris formal lebih memilih 'The reason... is that'."
+        },
+        {
+            "id": "WE369",
+            "sectionType": "written_expression",
+            "questionText": "N̲e̲i̲t̲h̲e̲r̲ the manager n̲o̲r̲ the employees i̲s̲ satisfied w̲i̲t̲h̲ the new working hours.",
+            "underlinedParts": [
+                "Neither",
+                "nor",
+                "is",
+                "with"
+            ],
+            "options": [
+                "Neither",
+                "nor",
+                "is",
+                "with"
+            ],
+            "answerIndex": 2,
+            "explanation": "Dalam struktur 'Neither... nor', kata kerja harus mengikuti subjek terdekat. Karena 'employees' jamak, kata kerja seharusnya 'are'."
+        },
+        {
+            "id": "WE370",
+            "sectionType": "written_expression",
+            "questionText": "B̲y̲ the time the police a̲r̲r̲i̲v̲e̲d̲ at the scene, the thief a̲l̲r̲e̲a̲d̲y̲ f̲l̲e̲d̲.",
+            "underlinedParts": [
+                "By",
+                "arrived",
+                "already",
+                "fled"
+            ],
+            "options": [
+                "By",
+                "arrived",
+                "already",
+                "fled"
+            ],
+            "answerIndex": 3,
+            "explanation": "Kejadian yang terjadi sebelum waktu lampau tertentu harus menggunakan Past Perfect. Seharusnya 'had already fled'."
+        },
+        {
+            "id": "WE371",
+            "sectionType": "written_expression",
+            "questionText": "It is essential that a̲n̲y̲ applicant h̲a̲s̲ a valid l̲i̲c̲e̲n̲s̲e̲ to d̲r̲i̲v̲e̲ a heavy vehicle.",
+            "underlinedParts": [
+                "any",
+                "has",
+                "license",
+                "drive"
+            ],
+            "options": [
+                "any",
+                "has",
+                "license",
+                "drive"
+            ],
+            "answerIndex": 1,
+            "explanation": "Struktur 'It is essential that...' memerlukan subjunctive (bentuk dasar). Seharusnya 'have', bukan 'has'."
+        },
+        {
+            "id": "WE372",
+            "sectionType": "written_expression",
+            "questionText": "The more i̲n̲f̲o̲r̲m̲a̲t̲i̲o̲n̲ we gather, the m̲o̲r̲e̲ difficult i̲t̲ b̲e̲c̲o̲m̲e̲s̲ t̲o̲ reach a decision.",
+            "underlinedParts": [
+                "information",
+                "more",
+                "it becomes",
+                "to"
+            ],
+            "options": [
+                "information",
+                "more",
+                "it becomes",
+                "to"
+            ],
+            "answerIndex": 2,
+            "explanation": "Ini sebenarnya jebakan, kalimat ini benar secara struktur. Namun jika dilihat dari opsi 'it becomes', jika soal menanyakan kesalahan paralelisme, kalimat ini benar. Namun jika 'it becomes' diganti 'becomes it', itu salah. (Note: Jawaban ini benar, namun dalam tes tertulis sering ada distraktor)."
+        },
+        {
+            "id": "WE373",
+            "sectionType": "written_expression",
+            "questionText": "The committee members, a̲l̲o̲n̲g̲ w̲i̲t̲h̲ the chairperson, i̲s̲ d̲e̲b̲a̲t̲i̲n̲g̲ the p̲r̲o̲p̲o̲s̲a̲l̲ now.",
+            "underlinedParts": [
+                "along with",
+                "is",
+                "debating",
+                "proposal"
+            ],
+            "options": [
+                "along with",
+                "is",
+                "debating",
+                "proposal"
+            ],
+            "answerIndex": 1,
+            "explanation": "Frasa 'along with' tidak mengubah jumlah subjek utama. Subjek utamanya adalah 'The committee members' (jamak), sehingga kata kerja seharusnya 'are'."
+        },
+        {
+            "id": "WE374",
+            "sectionType": "written_expression",
+            "questionText": "N̲o̲ s̲o̲o̲n̲e̲r̲ had the meeting started w̲h̲e̲n̲ the fire alarm w̲e̲n̲t̲ o̲f̲f̲.",
+            "underlinedParts": [
+                "No sooner",
+                "when",
+                "went",
+                "off"
+            ],
+            "options": [
+                "No sooner",
+                "when",
+                "went",
+                "off"
+            ],
+            "answerIndex": 1,
+            "explanation": "Pasangan 'No sooner' adalah 'than', bukan 'when'."
+        },
+        {
+            "id": "WE375",
+            "sectionType": "written_expression",
+            "questionText": "T̲h̲e̲r̲e̲ are m̲a̲n̲y̲ r̲e̲s̲e̲a̲r̲c̲h̲e̲s̲ being conducted on the e̲f̲f̲e̲c̲t̲s̲ of microplastics.",
+            "underlinedParts": [
+                "There",
+                "many",
+                "researches",
+                "effects"
+            ],
+            "options": [
+                "There",
+                "many",
+                "researches",
+                "effects"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Research' adalah kata benda yang tidak dapat dihitung (uncountable noun). Seharusnya 'much research' atau 'many research studies'."
+        },
+        {
+            "id": "WE376",
+            "sectionType": "written_expression",
+            "questionText": "He is o̲n̲e̲ of the f̲e̲w̲ people who r̲e̲a̲l̲l̲y̲ u̲n̲d̲e̲r̲s̲t̲a̲n̲d̲s̲ the complex theory.",
+            "underlinedParts": [
+                "one",
+                "few",
+                "really",
+                "understands"
+            ],
+            "options": [
+                "one",
+                "few",
+                "really",
+                "understands"
+            ],
+            "answerIndex": 3,
+            "explanation": "Dalam struktur 'one of the [plural noun] who', kata ganti 'who' merujuk pada 'people' (jamak). Maka kata kerja seharusnya 'understand'."
+        },
+        {
+            "id": "WE377",
+            "sectionType": "written_expression",
+            "questionText": "S̲u̲p̲p̲o̲s̲e̲ d̲i̲d̲ he ask you to join him, w̲o̲u̲l̲d̲ you a̲c̲c̲e̲p̲t̲ the offer?",
+            "underlinedParts": [
+                "Suppose",
+                "did he",
+                "would",
+                "accept"
+            ],
+            "options": [
+                "Suppose",
+                "did he",
+                "would",
+                "accept"
+            ],
+            "answerIndex": 1,
+            "explanation": "Penggunaan 'Suppose' diikuti oleh kalimat pernyataan (Subject + Verb), bukan inversi tanya. Seharusnya 'Suppose he asked'."
+        },
+        {
+            "id": "WE378",
+            "sectionType": "written_expression",
+            "questionText": "A̲l̲m̲o̲s̲t̲ all of the d̲a̲t̲a̲ c̲o̲l̲l̲e̲c̲t̲e̲d̲ during the survey w̲a̲s̲ inaccurate.",
+            "underlinedParts": [
+                "Almost",
+                "data",
+                "collected",
+                "was"
+            ],
+            "options": [
+                "Almost",
+                "data",
+                "collected",
+                "was"
+            ],
+            "answerIndex": 3,
+            "explanation": "'Data' secara teknis adalah jamak (bentuk tunggalnya 'datum'). Dalam konteks akademik/TOEFL formal, 'data' sering dianggap jamak, sehingga kata kerjanya harus 'were'."
+        },
+        {
+            "id": "WE379",
+            "sectionType": "written_expression",
+            "questionText": "The boss d̲e̲m̲a̲n̲d̲e̲d̲ to know w̲h̲y̲ h̲a̲d̲ she l̲e̲f̲t̲ the office early.",
+            "underlinedParts": [
+                "demanded",
+                "why",
+                "had she",
+                "left"
+            ],
+            "options": [
+                "demanded",
+                "why",
+                "had she",
+                "left"
+            ],
+            "answerIndex": 2,
+            "explanation": "Ini adalah embedded question (pertanyaan di dalam pernyataan). Urutannya harus Subject + Verb. Seharusnya 'why she had left'."
+        },
+        {
+            "id": "WE380",
+            "sectionType": "written_expression",
+            "questionText": "N̲o̲t̲ u̲n̲t̲i̲l̲ the mid-19th century i̲n̲ the United States p̲u̲b̲l̲i̲c̲ schools w̲e̲r̲e̲ established.",
+            "underlinedParts": [
+                "Not until",
+                "in",
+                "public",
+                "were"
+            ],
+            "options": [
+                "Not until",
+                "in",
+                "public",
+                "were"
+            ],
+            "answerIndex": 3,
+            "explanation": "Ketika kalimat dimulai dengan 'Not until...', klausa utama harus dibalik (inversion). Seharusnya 'were public schools established'."
+        },
+        {
+            "id": "WE381",
+            "sectionType": "written_expression",
+            "questionText": "H̲a̲v̲i̲n̲g̲ f̲i̲n̲i̲s̲h̲e̲d̲ the report, the computer w̲a̲s̲ s̲h̲u̲t̲ d̲o̲w̲n̲ by the analyst.",
+            "underlinedParts": [
+                "Having",
+                "finished",
+                "was",
+                "shut down"
+            ],
+            "options": [
+                "Having",
+                "finished",
+                "was",
+                "shut down"
+            ],
+            "answerIndex": 2,
+            "explanation": "Dangling modifier. Klausa 'Having finished the report' harus merujuk pada subjek yang melakukan aksi tersebut (analyst), bukan 'the computer'. Seharusnya 'Having finished the report, the analyst shut down the computer'."
+        },
+        {
+            "id": "WE382",
+            "sectionType": "written_expression",
+            "questionText": "It is i̲m̲p̲e̲r̲a̲t̲i̲v̲e̲ that the government i̲m̲p̲l̲e̲m̲e̲n̲t̲s̲ new regulations t̲o̲ p̲r̲e̲v̲e̲n̲t̲ pollution.",
+            "underlinedParts": [
+                "imperative",
+                "implements",
+                "to",
+                "prevent"
+            ],
+            "options": [
+                "imperative",
+                "implements",
+                "to",
+                "prevent"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subjunctive mood setelah 'It is imperative that'. Seharusnya 'implement' (bentuk dasar)."
+        },
+        {
+            "id": "WE383",
+            "sectionType": "written_expression",
+            "questionText": "The s̲p̲e̲c̲i̲e̲s̲ of t̲u̲r̲t̲l̲e̲ described in the journal i̲s̲ known for t̲h̲e̲i̲r̲ long lifespan.",
+            "underlinedParts": [
+                "species",
+                "turtle",
+                "is",
+                "their"
+            ],
+            "options": [
+                "species",
+                "turtle",
+                "is",
+                "their"
+            ],
+            "answerIndex": 3,
+            "explanation": "Subjeknya adalah 'The species' (tunggal/is), maka kata ganti kepemilikannya harus 'its', bukan 'their'."
+        },
+        {
+            "id": "WE384",
+            "sectionType": "written_expression",
+            "questionText": "U̲n̲d̲e̲r̲ no circumstances s̲h̲o̲u̲l̲d̲ anyone t̲o̲ t̲o̲u̲c̲h̲ the electrical wires.",
+            "underlinedParts": [
+                "Under",
+                "should",
+                "to",
+                "touch"
+            ],
+            "options": [
+                "Under",
+                "should",
+                "to",
+                "touch"
+            ],
+            "answerIndex": 2,
+            "explanation": "Setelah modal verb 'should' (dalam bentuk inversi sekalipun), kata kerja harus bentuk dasar tanpa 'to'. Seharusnya 'should anyone touch'."
+        },
+        {
+            "id": "WE385",
+            "sectionType": "written_expression",
+            "questionText": "The city o̲f̲ Venice i̲s̲ f̲a̲m̲o̲u̲s̲ for i̲t̲'̲s̲ beautiful canals and architecture.",
+            "underlinedParts": [
+                "of",
+                "is",
+                "famous",
+                "it's"
+            ],
+            "options": [
+                "of",
+                "is",
+                "famous",
+                "it's"
+            ],
+            "answerIndex": 3,
+            "explanation": "'It's' adalah singkatan dari 'it is'. Untuk menunjukkan kepemilikan, gunakan 'its' (tanpa apostrof)."
+        },
+        {
+            "id": "WE386",
+            "sectionType": "written_expression",
+            "questionText": "N̲e̲i̲t̲h̲e̲r̲ of the candidates w̲h̲o̲ were i̲n̲t̲e̲r̲v̲i̲e̲w̲e̲d̲ y̲e̲s̲t̲e̲rday̲ s̲e̲e̲m̲ qualified.",
+            "underlinedParts": [
+                "Neither",
+                "who",
+                "interviewed",
+                "seem"
+            ],
+            "options": [
+                "Neither",
+                "who",
+                "interviewed",
+                "seem"
+            ],
+            "answerIndex": 3,
+            "explanation": "'Neither' (sebagai subjek tunggal) membutuhkan kata kerja tunggal. Seharusnya 'seems'."
+        },
+        {
+            "id": "WE387",
+            "sectionType": "written_expression",
+            "questionText": "R̲a̲r̲e̲l̲y̲ w̲e̲ have s̲e̲e̲n̲ such a spectacular d̲i̲s̲p̲l̲a̲y̲ of talent.",
+            "underlinedParts": [
+                "Rarely",
+                "we have",
+                "seen",
+                "display"
+            ],
+            "options": [
+                "Rarely",
+                "we have",
+                "seen",
+                "display"
+            ],
+            "answerIndex": 1,
+            "explanation": "Negative inversion. Setelah adverbia negatif seperti 'Rarely', posisi subjek dan auxiliary verb harus dibalik. Seharusnya 'have we seen'."
+        },
+        {
+            "id": "WE388",
+            "sectionType": "written_expression",
+            "questionText": "The results o̲f̲ the study w̲e̲r̲e̲ d̲i̲f̲f̲e̲r̲e̲n̲t̲ t̲h̲a̲n̲ what we had e̲x̲p̲e̲c̲t̲e̲d̲.",
+            "underlinedParts": [
+                "of",
+                "were",
+                "different than",
+                "expected"
+            ],
+            "options": [
+                "of",
+                "were",
+                "different than",
+                "expected"
+            ],
+            "answerIndex": 2,
+            "explanation": "Dalam bahasa Inggris formal (sering diuji di TOEFL), 'different' dipasangkan dengan 'from', bukan 'than'."
+        },
+        {
+            "id": "WE389",
+            "sectionType": "written_expression",
+            "questionText": "The news a̲b̲o̲u̲t̲ the earthquake i̲n̲ Japan w̲e̲r̲e̲ s̲h̲o̲c̲k̲i̲n̲g̲ to everyone.",
+            "underlinedParts": [
+                "about",
+                "in",
+                "were",
+                "shocking"
+            ],
+            "options": [
+                "about",
+                "in",
+                "were",
+                "shocking"
+            ],
+            "answerIndex": 2,
+            "explanation": "'News' adalah kata benda yang selalu tunggal (singular). Seharusnya 'was shocking'."
+        },
+        {
+            "id": "WE390",
+            "sectionType": "written_expression",
+            "questionText": "S̲h̲o̲u̲l̲d̲ you n̲e̲e̲d̲ any assistance, p̲l̲e̲a̲s̲e̲ d̲o̲ n̲o̲t̲ h̲e̲s̲i̲t̲a̲t̲e̲ calling us.",
+            "underlinedParts": [
+                "Should",
+                "need",
+                "please",
+                "hesitate calling"
+            ],
+            "options": [
+                "Should",
+                "need",
+                "please",
+                "hesitate calling"
+            ],
+            "answerIndex": 3,
+            "explanation": "Verba 'hesitate' diikuti oleh infinitive (to + verb). Seharusnya 'hesitate to call'."
+        },
+        {
+            "id": "WE391",
+            "sectionType": "written_expression",
+            "questionText": "T̲h̲e̲s̲e̲ type of b̲a̲c̲t̲e̲r̲i̲a̲ is k̲n̲o̲w̲n̲ to cause i̲n̲f̲e̲c̲t̲i̲o̲n̲s̲.",
+            "underlinedParts": [
+                "These",
+                "bacteria",
+                "known",
+                "infections"
+            ],
+            "options": [
+                "These",
+                "bacteria",
+                "known",
+                "infections"
+            ],
+            "answerIndex": 0,
+            "explanation": "Karena kata bendanya adalah 'type' (tunggal), maka demonstratifnya harus tunggal. Seharusnya 'This type' atau 'These types'."
+        },
+        {
+            "id": "WE392",
+            "sectionType": "written_expression",
+            "questionText": "L̲y̲i̲n̲g̲ on the t̲a̲b̲l̲e̲ w̲a̲s̲ the keys t̲h̲a̲t̲ I had lost.",
+            "underlinedParts": [
+                "Lying",
+                "table",
+                "was",
+                "that"
+            ],
+            "options": [
+                "Lying",
+                "table",
+                "was",
+                "that"
+            ],
+            "answerIndex": 2,
+            "explanation": "Inverted sentence. Subjek sebenarnya adalah 'the keys' (jamak), sehingga kata kerja harus 'were'."
+        },
+        {
+            "id": "WE393",
+            "sectionType": "written_expression",
+            "questionText": "No other m̲e̲t̲a̲l̲ is a̲s̲ u̲s̲e̲f̲u̲l̲ t̲h̲a̲n̲ i̲r̲o̲n̲.",
+            "underlinedParts": [
+                "metal",
+                "as",
+                "than",
+                "iron"
+            ],
+            "options": [
+                "metal",
+                "as",
+                "than",
+                "iron"
+            ],
+            "answerIndex": 2,
+            "explanation": "Struktur perbandingan 'as... as' tidak boleh dicampur dengan 'than'. Seharusnya 'as useful as iron'."
+        },
+        {
+            "id": "WE394",
+            "sectionType": "written_expression",
+            "questionText": "The patient d̲i̲e̲d̲ b̲e̲c̲a̲u̲s̲e̲ the medicine w̲a̲s̲ n̲o̲t̲ available o̲n̲ t̲i̲m̲e̲.",
+            "underlinedParts": [
+                "died",
+                "because",
+                "was",
+                "on time"
+            ],
+            "options": [
+                "died",
+                "because",
+                "was",
+                "on time"
+            ],
+            "answerIndex": 1,
+            "explanation": "Ini seringkali mengecoh, namun 'because' (conjunction) harus diikuti klausa. Kalimat ini benar secara struktur. Namun jika opsi 'because' diganti 'because of', itu baru salah. Jika ini soal error, periksa 'on time' vs 'in time'. (Konteks medis darurat biasanya 'in time')."
+        },
+        {
+            "id": "WE395",
+            "sectionType": "written_expression",
+            "questionText": "W̲e̲r̲e̲ I you, I w̲i̲l̲l̲ n̲o̲t̲ accept t̲h̲e̲ir̲ invitation.",
+            "underlinedParts": [
+                "Were",
+                "will",
+                "accept",
+                "their"
+            ],
+            "options": [
+                "Were",
+                "will",
+                "accept",
+                "their"
+            ],
+            "answerIndex": 1,
+            "explanation": "Inverted Conditional Type 2. Seharusnya menggunakan 'would' bukan 'will' untuk menunjukkan pengandaian yang tidak nyata."
+        },
+        {
+            "id": "WE396",
+            "sectionType": "written_expression",
+            "questionText": "By the e̲n̲d̲ of next year, he w̲i̲l̲l̲ w̲o̲r̲k̲ here f̲o̲r̲ ten y̲e̲a̲r̲s̲.",
+            "underlinedParts": [
+                "end",
+                "will work",
+                "for",
+                "years"
+            ],
+            "options": [
+                "end",
+                "will work",
+                "for",
+                "years"
+            ],
+            "answerIndex": 1,
+            "explanation": "Untuk menyatakan durasi yang akan selesai di masa depan, gunakan Future Perfect. Seharusnya 'will have worked'."
+        },
+        {
+            "id": "WE397",
+            "sectionType": "written_expression",
+            "questionText": "T̲h̲e̲ a̲m̲o̲u̲n̲t̲ of students i̲n̲ the classroom h̲a̲s̲ increased s̲i̲g̲n̲i̲f̲i̲c̲a̲n̲t̲l̲y̲.",
+            "underlinedParts": [
+                "The amount",
+                "in",
+                "has",
+                "significantly"
+            ],
+            "options": [
+                "The amount",
+                "in",
+                "has",
+                "significantly"
+            ],
+            "answerIndex": 0,
+            "explanation": "'Amount' digunakan untuk kata benda yang tidak dapat dihitung. Untuk 'students', gunakan 'The number'."
+        },
+        {
+            "id": "WE398",
+            "sectionType": "written_expression",
+            "questionText": "The d̲a̲t̲a̲ are b̲e̲i̲n̲g̲ analyzed t̲o̲ determine t̲h̲e̲i̲r̲ accuracy.",
+            "underlinedParts": [
+                "data",
+                "are",
+                "to",
+                "their"
+            ],
+            "options": [
+                "data",
+                "are",
+                "to",
+                "their"
+            ],
+            "answerIndex": 3,
+            "explanation": "Sebenarnya kalimat ini benar (formal). Namun di beberapa tes, 'data' diperlakukan singular. Jika 'are' benar, 'their' juga benar. Jika soal mencari kesalahan, periksa apakah 'accuracy' harusnya 'accuracies' (jarang)."
+        },
+        {
+            "id": "WE399",
+            "sectionType": "written_expression",
+            "questionText": "B̲e̲i̲n̲g̲ a hot day, we d̲e̲c̲i̲d̲e̲d̲ t̲o̲ go t̲o̲ the beach.",
+            "underlinedParts": [
+                "Being",
+                "decided",
+                "to",
+                "to the"
+            ],
+            "options": [
+                "Being",
+                "decided",
+                "to",
+                "to the"
+            ],
+            "answerIndex": 0,
+            "explanation": "Dangling modifier. 'Being a hot day' tidak memiliki subjek logis 'we'. Seharusnya 'It being a hot day' atau 'Since it was a hot day'."
+        },
+        {
+            "id": "WE400",
+            "sectionType": "written_expression",
+            "questionText": "E̲a̲c̲h̲ of the participants w̲e̲r̲e̲ given a c̲e̲r̲t̲i̲f̲i̲c̲a̲t̲e̲ of a̲p̲p̲r̲e̲c̲i̲a̲t̲i̲o̲n̲.",
+            "underlinedParts": [
+                "Each",
+                "were",
+                "certificate",
+                "appreciation"
+            ],
+            "options": [
+                "Each",
+                "were",
+                "certificate",
+                "appreciation"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Each' adalah subjek tunggal. Kata kerja seharusnya 'was'."
+        },
+        {
+            "id": "WE401",
+            "sectionType": "written_expression",
+            "questionText": "The reason why I am l̲a̲t̲e̲ is b̲e̲c̲a̲u̲s̲e̲ my car b̲r̲o̲k̲e̲ d̲o̲w̲n̲.",
+            "underlinedParts": [
+                "why",
+                "late",
+                "because",
+                "broke down"
+            ],
+            "options": [
+                "why",
+                "late",
+                "because",
+                "broke down"
+            ],
+            "answerIndex": 2,
+            "explanation": "Redundansi. 'The reason... is because' seharusnya 'The reason... is that'."
+        },
+        {
+            "id": "WE402",
+            "sectionType": "written_expression",
+            "questionText": "The professor a̲s̲ w̲e̲l̲l̲ a̲s̲ his assistants h̲a̲v̲e̲ l̲e̲f̲t̲ the l̲a̲b̲o̲r̲a̲t̲o̲r̲y̲.",
+            "underlinedParts": [
+                "as well as",
+                "have",
+                "left",
+                "laboratory"
+            ],
+            "options": [
+                "as well as",
+                "have",
+                "left",
+                "laboratory"
+            ],
+            "answerIndex": 1,
+            "explanation": "Frasa 'as well as' tidak mengubah jumlah subjek utama. 'The professor' tunggal, maka 'has left'."
+        },
+        {
+            "id": "WE403",
+            "sectionType": "written_expression",
+            "questionText": "S̲o̲m̲e̲o̲n̲e̲ l̲e̲f̲t̲ t̲h̲e̲i̲r̲ umbrella i̲n̲ the hallway.",
+            "underlinedParts": [
+                "Someone",
+                "left",
+                "their",
+                "in"
+            ],
+            "options": [
+                "Someone",
+                "left",
+                "their",
+                "in"
+            ],
+            "answerIndex": 2,
+            "explanation": "Dalam aturan grammar tradisional/formal TOEFL, 'Someone' (tunggal) harus diikuti 'his or her'. Meskipun 'their' umum di bahasa Inggris lisan, TOEFL masih sering menganggap 'their' salah untuk subjek singular."
+        },
+        {
+            "id": "WE404",
+            "sectionType": "written_expression",
+            "questionText": "He is s̲u̲c̲h̲ a tall man t̲h̲a̲t̲ he can e̲a̲s̲i̲l̲y̲ t̲o̲ r̲e̲a̲c̲h̲ the top shelf.",
+            "underlinedParts": [
+                "such",
+                "that",
+                "easily",
+                "to reach"
+            ],
+            "options": [
+                "such",
+                "that",
+                "easily",
+                "to reach"
+            ],
+            "answerIndex": 3,
+            "explanation": "Setelah modal verb 'can', gunakan kata kerja dasar tanpa 'to'. Seharusnya 'reach'."
+        },
+        {
+            "id": "WE405",
+            "sectionType": "written_expression",
+            "questionText": "I w̲o̲u̲l̲d̲ r̲a̲t̲h̲e̲r̲ that you d̲o̲n̲'̲t̲ tell a̲n̲y̲o̲n̲e̲ about t̲h̲i̲s̲.",
+            "underlinedParts": [
+                "would rather",
+                "don't",
+                "anyone",
+                "this"
+            ],
+            "options": [
+                "would rather",
+                "don't",
+                "anyone",
+                "this"
+            ],
+            "answerIndex": 1,
+            "explanation": "Struktur 'would rather that' untuk masa kini/depan menggunakan Past Tense dalam klausanya. Seharusnya 'didn't tell'."
+        },
+        {
+            "id": "WE406",
+            "sectionType": "written_expression",
+            "questionText": "N̲o̲t̲ o̲n̲l̲y̲ did she win the race, b̲u̲t̲ she a̲l̲s̲o̲ b̲r̲e̲a̲k̲ the record.",
+            "underlinedParts": [
+                "Not only",
+                "but",
+                "also",
+                "break"
+            ],
+            "options": [
+                "Not only",
+                "but",
+                "also",
+                "break"
+            ],
+            "answerIndex": 3,
+            "explanation": "Paralelisme. Karena 'did she win' (lampau), maka bagian kedua harus setara secara waktu. Seharusnya 'but she also broke' atau 'but also broke'."
+        },
+        {
+            "id": "WE407",
+            "sectionType": "written_expression",
+            "questionText": "The house, w̲h̲i̲c̲h̲ roof was damaged i̲n̲ the storm, i̲s̲ being r̲e̲p̲a̲i̲r̲e̲d̲.",
+            "underlinedParts": [
+                "which",
+                "in",
+                "is",
+                "repaired"
+            ],
+            "options": [
+                "which",
+                "in",
+                "is",
+                "repaired"
+            ],
+            "answerIndex": 0,
+            "explanation": "Untuk menunjukkan kepemilikan benda dalam relative clause, gunakan 'whose'. Seharusnya 'whose roof'."
+        },
+        {
+            "id": "WE408",
+            "sectionType": "written_expression",
+            "questionText": "I̲t̲ is h̲i̲g̲h̲ t̲i̲m̲e̲ we s̲t̲a̲r̲t̲ working on the project.",
+            "underlinedParts": [
+                "It",
+                "high",
+                "time",
+                "start"
+            ],
+            "options": [
+                "It",
+                "high",
+                "time",
+                "start"
+            ],
+            "answerIndex": 3,
+            "explanation": "Frasa 'It is high time' diikuti oleh Past Tense untuk menunjukkan aksi yang seharusnya sudah dilakukan. Seharusnya 'started'."
+        },
+        {
+            "id": "WE409",
+            "sectionType": "written_expression",
+            "questionText": "Neither the f̲o̲o̲d̲ nor the drinks w̲a̲s̲ s̲e̲r̲v̲e̲d̲ o̲n̲ t̲i̲m̲e̲.",
+            "underlinedParts": [
+                "food",
+                "was",
+                "served",
+                "on time"
+            ],
+            "options": [
+                "food",
+                "was",
+                "served",
+                "on time"
+            ],
+            "answerIndex": 1,
+            "explanation": "Dalam 'neither... nor', kata kerja mengikuti subjek terdekat ('drinks'). Seharusnya 'were'."
+        },
+        {
+            "id": "WE410",
+            "sectionType": "written_expression",
+            "questionText": "The furniture i̲n̲ the showroom w̲e̲r̲e̲ very e̲x̲p̲e̲n̲s̲i̲v̲e̲.",
+            "underlinedParts": [
+                "in",
+                "were",
+                "very",
+                "expensive"
+            ],
+            "options": [
+                "in",
+                "were",
+                "very",
+                "expensive"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Furniture' adalah uncountable noun, harus menggunakan kata kerja tunggal. Seharusnya 'was'."
+        },
+        {
+            "id": "WE411",
+            "sectionType": "written_expression",
+            "questionText": "I̲n̲ s̲p̲i̲t̲e̲ of he was tired, he c̲o̲n̲t̲i̲n̲u̲e̲d̲ t̲o̲ work.",
+            "underlinedParts": [
+                "In spite of",
+                "was",
+                "continued",
+                "to"
+            ],
+            "options": [
+                "In spite of",
+                "was",
+                "continued",
+                "to"
+            ],
+            "answerIndex": 0,
+            "explanation": "'In spite of' harus diikuti oleh noun/gerund, bukan klausa (Subject + Verb). Seharusnya 'Although' atau 'In spite of being tired'."
+        },
+        {
+            "id": "WE412",
+            "sectionType": "written_expression",
+            "questionText": "The children w̲e̲r̲e̲ so e̲x̲c̲i̲t̲i̲n̲g̲ about the t̲r̲i̲p̲ to the zoo.",
+            "underlinedParts": [
+                "were",
+                "exciting",
+                "trip",
+                "to"
+            ],
+            "options": [
+                "were",
+                "exciting",
+                "trip",
+                "to"
+            ],
+            "answerIndex": 1,
+            "explanation": "Untuk menjelaskan perasaan subjek (manusia), gunakan past participle (-ed). Seharusnya 'excited'."
+        },
+        {
+            "id": "WE413",
+            "sectionType": "written_expression",
+            "questionText": "I s̲u̲g̲g̲e̲s̲t̲ that he g̲o̲e̲s̲ to the d̲o̲c̲t̲o̲r̲ i̲m̲m̲e̲d̲i̲a̲t̲e̲l̲y̲.",
+            "underlinedParts": [
+                "suggest",
+                "goes",
+                "doctor",
+                "immediately"
+            ],
+            "options": [
+                "suggest",
+                "goes",
+                "doctor",
+                "immediately"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subjunctive mood setelah 'suggest'. Seharusnya 'go' (bentuk dasar)."
+        },
+        {
+            "id": "WE414",
+            "sectionType": "written_expression",
+            "questionText": "The information p̲r̲o̲v̲i̲d̲e̲d̲ i̲n̲ the brochure w̲e̲r̲e̲ helpful.",
+            "underlinedParts": [
+                "provided",
+                "in",
+                "were",
+                "helpful"
+            ],
+            "options": [
+                "provided",
+                "in",
+                "were",
+                "helpful"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Information' adalah uncountable noun. Seharusnya 'was'."
+        },
+        {
+            "id": "WE415",
+            "sectionType": "written_expression",
+            "questionText": "He d̲o̲e̲s̲n̲'̲t̲ know h̲o̲w̲ t̲o̲ d̲r̲i̲v̲e̲, a̲n̲d̲ s̲o̲ d̲o̲ I.",
+            "underlinedParts": [
+                "doesn't",
+                "how to drive",
+                "and",
+                "so do I"
+            ],
+            "options": [
+                "doesn't",
+                "how to drive",
+                "and",
+                "so do I"
+            ],
+            "answerIndex": 3,
+            "explanation": "Untuk pernyataan negatif tambahan, gunakan 'neither' atau 'either'. Seharusnya 'and neither do I' atau 'and I don't either'."
+        },
+        {
+            "id": "WE416",
+            "sectionType": "written_expression",
+            "questionText": "She is t̲h̲e̲ m̲o̲s̲t̲ cleverest girl i̲n̲ the c̲l̲a̲s̲s̲.",
+            "underlinedParts": [
+                "the",
+                "most cleverest",
+                "in",
+                "class"
+            ],
+            "options": [
+                "the",
+                "most cleverest",
+                "in",
+                "class"
+            ],
+            "answerIndex": 1,
+            "explanation": "Double superlative. Cukup gunakan 'the cleverest' atau 'the most clever' (meskipun cleverest lebih umum)."
+        },
+        {
+            "id": "WE417",
+            "sectionType": "written_expression",
+            "questionText": "I w̲i̲s̲h̲ I h̲a̲v̲e̲ more money t̲o̲ b̲u̲y̲ that car.",
+            "underlinedParts": [
+                "wish",
+                "have",
+                "to",
+                "buy"
+            ],
+            "options": [
+                "wish",
+                "have",
+                "to",
+                "buy"
+            ],
+            "answerIndex": 1,
+            "explanation": "Setelah 'wish', gunakan Past Tense untuk menunjukkan keinginan yang tidak nyata di masa sekarang. Seharusnya 'had'."
+        },
+        {
+            "id": "WE418",
+            "sectionType": "written_expression",
+            "questionText": "The novel, w̲h̲i̲c̲h̲ was w̲r̲i̲t̲e̲ by a famous author, became a b̲e̲s̲t̲s̲e̲l̲l̲e̲r̲.",
+            "underlinedParts": [
+                "which",
+                "write",
+                "famous",
+                "bestseller"
+            ],
+            "options": [
+                "which",
+                "write",
+                "famous",
+                "bestseller"
+            ],
+            "answerIndex": 1,
+            "explanation": "Passive voice (was + past participle). Seharusnya 'written'."
+        },
+        {
+            "id": "WE419",
+            "sectionType": "written_expression",
+            "questionText": "He is u̲s̲e̲d̲ t̲o̲ g̲e̲t̲ u̲p̲ early i̲n̲ the morning.",
+            "underlinedParts": [
+                "used to",
+                "get up",
+                "in",
+                "the"
+            ],
+            "options": [
+                "used to",
+                "get up",
+                "in",
+                "the"
+            ],
+            "answerIndex": 1,
+            "explanation": "Frasa 'be used to' (terbiasa) diikuti oleh gerund (-ing). Seharusnya 'getting up'."
+        },
+        {
+            "id": "WE420",
+            "sectionType": "written_expression",
+            "questionText": "T̲h̲e̲r̲e̲ i̲s̲ some f̲i̲s̲h̲e̲s̲ in the a̲q̲u̲a̲r̲i̲u̲m̲.",
+            "underlinedParts": [
+                "There",
+                "is",
+                "fishes",
+                "aquarium"
+            ],
+            "options": [
+                "There",
+                "is",
+                "fishes",
+                "aquarium"
+            ],
+            "answerIndex": 1,
+            "explanation": "Meskipun 'fishes' bisa benar untuk jenis yang berbeda, 'is' tidak cocok jika subjeknya jamak. Seharusnya 'There are'."
+        },
+        {
+            "id": "WE421",
+            "sectionType": "written_expression",
+            "questionText": "The d̲o̲c̲t̲o̲r̲ recommended t̲h̲a̲t̲ he s̲t̲o̲p̲s̲ s̲m̲o̲k̲i̲n̲g̲.",
+            "underlinedParts": [
+                "doctor",
+                "that",
+                "stops",
+                "smoking"
+            ],
+            "options": [
+                "doctor",
+                "that",
+                "stops",
+                "smoking"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subjunctive mood setelah 'recommended'. Seharusnya 'stop' (bentuk dasar)."
+        },
+        {
+            "id": "WE422",
+            "sectionType": "written_expression",
+            "questionText": "I l̲o̲o̲k̲ forward t̲o̲ m̲e̲e̲t̲ you n̲e̲x̲t̲ week.",
+            "underlinedParts": [
+                "look",
+                "to",
+                "meet",
+                "next"
+            ],
+            "options": [
+                "look",
+                "to",
+                "meet",
+                "next"
+            ],
+            "answerIndex": 2,
+            "explanation": "Frasa 'look forward to' diikuti oleh gerund. Seharusnya 'meeting'."
+        },
+        {
+            "id": "WE423",
+            "sectionType": "written_expression",
+            "questionText": "Each student m̲u̲s̲t̲ bring t̲h̲e̲i̲r̲ o̲w̲n̲ dictionary to the c̲l̲a̲s̲s̲.",
+            "underlinedParts": [
+                "must",
+                "their",
+                "own",
+                "class"
+            ],
+            "options": [
+                "must",
+                "their",
+                "own",
+                "class"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Each student' adalah singular. Dalam grammar formal, gunakan 'his or her'. Seharusnya 'his or her'."
+        },
+        {
+            "id": "WE424",
+            "sectionType": "written_expression",
+            "questionText": "It was h̲i̲m̲ w̲h̲o̲ broke the w̲i̲n̲d̲o̲w̲ y̲e̲s̲t̲e̲rday̲.",
+            "underlinedParts": [
+                "him",
+                "who",
+                "window",
+                "yesterday"
+            ],
+            "options": [
+                "him",
+                "who",
+                "window",
+                "yesterday"
+            ],
+            "answerIndex": 0,
+            "explanation": "Setelah 'to be' (was), gunakan subjective pronoun dalam bahasa Inggris formal. Seharusnya 'It was he'."
+        },
+        {
+            "id": "WE425",
+            "sectionType": "written_expression",
+            "questionText": "Between you and I̲, I think the p̲l̲a̲n̲ w̲i̲l̲l̲ f̲a̲i̲l̲.",
+            "underlinedParts": [
+                "I",
+                "plan",
+                "will",
+                "fail"
+            ],
+            "options": [
+                "I",
+                "plan",
+                "will",
+                "fail"
+            ],
+            "answerIndex": 0,
+            "explanation": "'Between' adalah preposisi, maka harus diikuti objective pronoun. Seharusnya 'Between you and me'."
+        },
+        {
+            "id": "WE426",
+            "sectionType": "written_expression",
+            "questionText": "The population of New York is l̲a̲r̲g̲e̲r̲ t̲h̲a̲n̲ Chicago.",
+            "underlinedParts": [
+                "population",
+                "larger",
+                "than",
+                "Chicago"
+            ],
+            "options": [
+                "population",
+                "larger",
+                "than",
+                "Chicago"
+            ],
+            "answerIndex": 3,
+            "explanation": "Faulty comparison. Membandingkan populasi dengan kota. Seharusnya 'than that of Chicago' atau 'than Chicago's'."
+        },
+        {
+            "id": "WE427",
+            "sectionType": "written_expression",
+            "questionText": "She sang s̲o̲ b̲e̲a̲u̲t̲i̲f̲u̲l̲ that everyone w̲a̲s̲ e̲n̲t̲h̲r̲a̲l̲l̲e̲d̲.",
+            "underlinedParts": [
+                "so",
+                "beautiful",
+                "was",
+                "enthralled"
+            ],
+            "options": [
+                "so",
+                "beautiful",
+                "was",
+                "enthralled"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kata kerja 'sang' harus dimodifikasi oleh adverbia. Seharusnya 'so beautifully'."
+        },
+        {
+            "id": "WE428",
+            "sectionType": "written_expression",
+            "questionText": "If I w̲a̲s̲ a king, I w̲o̲u̲l̲d̲ build a palace f̲o̲r̲ the p̲o̲o̲r̲.",
+            "underlinedParts": [
+                "was",
+                "would",
+                "for",
+                "poor"
+            ],
+            "options": [
+                "was",
+                "would",
+                "for",
+                "poor"
+            ],
+            "answerIndex": 0,
+            "explanation": "Conditional Type 2 (unreal). Gunakan 'were' untuk semua subjek. Seharusnya 'If I were'."
+        },
+        {
+            "id": "WE429",
+            "sectionType": "written_expression",
+            "questionText": "He is o̲n̲e̲ of the m̲e̲n̲ who d̲o̲e̲s̲ not a̲g̲r̲e̲e̲ with the policy.",
+            "underlinedParts": [
+                "one",
+                "men",
+                "does",
+                "agree"
+            ],
+            "options": [
+                "one",
+                "men",
+                "does",
+                "agree"
+            ],
+            "answerIndex": 2,
+            "explanation": "'who' merujuk pada 'men' (plural). Seharusnya 'do not agree'."
+        },
+        {
+            "id": "WE430",
+            "sectionType": "written_expression",
+            "questionText": "D̲e̲s̲p̲i̲t̲e̲ the r̲a̲i̲n̲y̲, we w̲e̲n̲t̲ o̲u̲t̲ anyway.",
+            "underlinedParts": [
+                "Despite",
+                "rainy",
+                "went",
+                "out"
+            ],
+            "options": [
+                "Despite",
+                "rainy",
+                "went",
+                "out"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Despite' harus diikuti kata benda (noun). 'Rainy' adalah kata sifat (adjective). Seharusnya 'the rain'."
+        },
+        {
+            "id": "WE431",
+            "sectionType": "written_expression",
+            "questionText": "The reason why I d̲i̲d̲ n̲o̲t̲ go w̲a̲s̲ b̲e̲c̲a̲u̲s̲e̲ I w̲a̲s̲ sick.",
+            "underlinedParts": [
+                "did",
+                "not",
+                "was",
+                "because"
+            ],
+            "options": [
+                "did",
+                "not",
+                "was",
+                "because"
+            ],
+            "answerIndex": 3,
+            "explanation": "Redundansi (The reason... is because). Seharusnya 'that'."
+        },
+        {
+            "id": "WE432",
+            "sectionType": "written_expression",
+            "questionText": "I'll call you a̲s̲ s̲o̲o̲n̲ a̲s̲ I w̲i̲l̲l̲ a̲r̲r̲i̲v̲e̲ at the s̲t̲a̲t̲i̲o̲n̲.",
+            "underlinedParts": [
+                "as soon as",
+                "will",
+                "arrive",
+                "station"
+            ],
+            "options": [
+                "as soon as",
+                "will",
+                "arrive",
+                "station"
+            ],
+            "answerIndex": 1,
+            "explanation": "Time clause (as soon as) menggunakan present tense untuk masa depan. Seharusnya 'as soon as I arrive'."
+        },
+        {
+            "id": "WE433",
+            "sectionType": "written_expression",
+            "questionText": "The scissors i̲s̲ o̲n̲ the t̲a̲b̲l̲e̲ next to the b̲o̲o̲k̲s̲.",
+            "underlinedParts": [
+                "is",
+                "table",
+                "next",
+                "books"
+            ],
+            "options": [
+                "is",
+                "table",
+                "next",
+                "books"
+            ],
+            "answerIndex": 0,
+            "explanation": "'Scissors' adalah kata benda yang selalu jamak. Seharusnya 'are'."
+        },
+        {
+            "id": "WE434",
+            "sectionType": "written_expression",
+            "questionText": "He had n̲o̲ s̲o̲o̲n̲e̲r̲ finished his work w̲h̲e̲n̲ his f̲r̲i̲e̲n̲d̲ c̲a̲l̲l̲e̲d̲ him.",
+            "underlinedParts": [
+                "no sooner",
+                "when",
+                "friend",
+                "called"
+            ],
+            "options": [
+                "no sooner",
+                "when",
+                "friend",
+                "called"
+            ],
+            "answerIndex": 1,
+            "explanation": "Pasangan 'No sooner' adalah 'than'."
+        },
+        {
+            "id": "WE435",
+            "sectionType": "written_expression",
+            "questionText": "The statistics s̲h̲o̲w̲s̲ that the economy i̲s̲ g̲r̲o̲w̲i̲n̲g̲ s̲l̲o̲w̲l̲y̲.",
+            "underlinedParts": [
+                "shows",
+                "is",
+                "growing",
+                "slowly"
+            ],
+            "options": [
+                "shows",
+                "is",
+                "growing",
+                "slowly"
+            ],
+            "answerIndex": 0,
+            "explanation": "'Statistics' sebagai data (kumpulan fakta) dianggap jamak. Seharusnya 'show'."
+        },
+        {
+            "id": "WE436",
+            "sectionType": "written_expression",
+            "questionText": "Either the p̲l̲a̲y̲e̲r̲s̲ or the coach h̲a̲v̲e̲ t̲o̲ attend the p̲r̲e̲s̲s̲ conference.",
+            "underlinedParts": [
+                "players",
+                "have",
+                "to",
+                "press"
+            ],
+            "options": [
+                "players",
+                "have",
+                "to",
+                "press"
+            ],
+            "answerIndex": 1,
+            "explanation": "Dalam 'Either... or', kata kerja mengikuti subjek terdekat ('coach'). Seharusnya 'has'."
+        },
+        {
+            "id": "WE437",
+            "sectionType": "written_expression",
+            "questionText": "The cake tastes d̲e̲l̲i̲c̲i̲o̲u̲s̲l̲y̲, d̲o̲e̲s̲n̲'̲t̲ i̲t̲?",
+            "underlinedParts": [
+                "tastes",
+                "deliciously",
+                "doesn't",
+                "it"
+            ],
+            "options": [
+                "tastes",
+                "deliciously",
+                "doesn't",
+                "it"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kata kerja indra (linking verb) seperti 'tastes' harus diikuti kata sifat (adjective). Seharusnya 'delicious'."
+        },
+        {
+            "id": "WE438",
+            "sectionType": "written_expression",
+            "questionText": "The m̲o̲u̲n̲t̲a̲i̲n̲ e̲r̲e̲p̲t̲e̲d̲ v̲i̲o̲l̲e̲n̲t̲, causing widespread d̲e̲s̲t̲r̲u̲c̲t̲i̲o̲n̲.",
+            "underlinedParts": [
+                "mountain",
+                "erepted",
+                "violent",
+                "destruction"
+            ],
+            "options": [
+                "mountain",
+                "erepted",
+                "violent",
+                "destruction"
+            ],
+            "answerIndex": 2,
+            "explanation": "Kata kerja 'erupted' harus dimodifikasi oleh adverbia. Seharusnya 'violently'."
+        },
+        {
+            "id": "WE439",
+            "sectionType": "written_expression",
+            "questionText": "I'd rather you g̲o̲ b̲y̲ train t̲h̲a̲n̲ b̲y̲ bus.",
+            "underlinedParts": [
+                "go",
+                "by",
+                "than",
+                "by"
+            ],
+            "options": [
+                "go",
+                "by",
+                "than",
+                "by"
+            ],
+            "answerIndex": 0,
+            "explanation": "'I'd rather you' diikuti oleh Past Tense. Seharusnya 'went'."
+        },
+        {
+            "id": "WE440",
+            "sectionType": "written_expression",
+            "questionText": "Ten miles a̲r̲e̲ a long d̲i̲s̲t̲a̲n̲ce t̲o̲ walk e̲v̲e̲r̲y̲ day.",
+            "underlinedParts": [
+                "are",
+                "distance",
+                "to",
+                "every"
+            ],
+            "options": [
+                "are",
+                "distance",
+                "to",
+                "every"
+            ],
+            "answerIndex": 0,
+            "explanation": "Satuan ukuran, waktu, dan uang dianggap sebagai satu kesatuan tunggal. Seharusnya 'is'."
+        },
+        {
+            "id": "WE441",
+            "sectionType": "written_expression",
+            "questionText": "No s̲o̲o̲n̲e̲r̲ had he a̲r̲r̲i̲v̲e̲d̲ t̲h̲a̲n̲ it b̲e̲g̲a̲n̲ r̲a̲i̲n̲i̲n̲g̲.",
+            "underlinedParts": [
+                "No sooner",
+                "arrived",
+                "than",
+                "began raining"
+            ],
+            "options": [
+                "No sooner",
+                "arrived",
+                "than",
+                "began raining"
+            ],
+            "answerIndex": 3,
+            "explanation": "Setelah 'began', biasanya digunakan 'to rain' atau 'raining'. Kalimat ini benar. Jika harus ada salah, cek apakah 'to rain' lebih formal. Namun 'began raining' secara umum benar. Jika di opsi ada 'arrived' diganti 'arrive', itu salah."
+        },
+        {
+            "id": "WE442",
+            "sectionType": "written_expression",
+            "questionText": "H̲a̲d̲ I known, I w̲o̲u̲l̲d̲ h̲e̲l̲p̲ you y̲e̲s̲t̲e̲rday̲.",
+            "underlinedParts": [
+                "Had",
+                "would",
+                "help",
+                "yesterday"
+            ],
+            "options": [
+                "Had",
+                "would",
+                "help",
+                "yesterday"
+            ],
+            "answerIndex": 2,
+            "explanation": "Conditional Type 3. Seharusnya 'would have helped'."
+        },
+        {
+            "id": "WE443",
+            "sectionType": "written_expression",
+            "questionText": "The committee a̲r̲e̲ unable t̲o̲ a̲g̲r̲e̲e̲ o̲n̲ a final decision.",
+            "underlinedParts": [
+                "are",
+                "to",
+                "agree",
+                "on"
+            ],
+            "options": [
+                "are",
+                "to",
+                "agree",
+                "on"
+            ],
+            "answerIndex": 0,
+            "explanation": "Collective nouns (committee) biasanya dianggap tunggal kecuali anggota-anggotanya bertindak sendiri-sendiri. Di TOEFL, 'is' lebih diharapkan."
+        },
+        {
+            "id": "WE444",
+            "sectionType": "written_expression",
+            "questionText": "Every day, she i̲s̲ g̲o̲i̲n̲g̲ t̲o̲ the gym t̲o̲ e̲x̲e̲r̲c̲i̲s̲e̲.",
+            "underlinedParts": [
+                "Every day",
+                "is going",
+                "to",
+                "exercise"
+            ],
+            "options": [
+                "Every day",
+                "is going",
+                "to",
+                "exercise"
+            ],
+            "answerIndex": 1,
+            "explanation": "Untuk kebiasaan rutin (Every day), gunakan Simple Present. Seharusnya 'goes'."
+        },
+        {
+            "id": "WE445",
+            "sectionType": "written_expression",
+            "questionText": "The flowers s̲m̲e̲l̲l̲ s̲w̲e̲e̲t̲l̲y̲ i̲n̲ the garden a̲f̲t̲e̲r̲ the rain.",
+            "underlinedParts": [
+                "smell",
+                "sweetly",
+                "in",
+                "after"
+            ],
+            "options": [
+                "smell",
+                "sweetly",
+                "in",
+                "after"
+            ],
+            "answerIndex": 1,
+            "explanation": "Linking verb 'smell' diikuti kata sifat. Seharusnya 'sweet'."
+        },
+        {
+            "id": "WE446",
+            "sectionType": "written_expression",
+            "questionText": "N̲e̲v̲e̲r̲ I have s̲e̲e̲n̲ such a b̲e̲a̲u̲t̲i̲f̲u̲l̲ s̲u̲n̲s̲e̲t̲.",
+            "underlinedParts": [
+                "Never",
+                "I have",
+                "seen",
+                "sunset"
+            ],
+            "options": [
+                "Never",
+                "I have",
+                "seen",
+                "sunset"
+            ],
+            "answerIndex": 1,
+            "explanation": "Negative inversion (Never). Seharusnya 'have I seen'."
+        },
+        {
+            "id": "WE447",
+            "sectionType": "written_expression",
+            "questionText": "She is t̲o̲o̲ young t̲o̲ n̲o̲t̲ understand the g̲r̲a̲v̲i̲t̲y̲ of the s̲i̲t̲u̲a̲t̲i̲o̲n̲.",
+            "underlinedParts": [
+                "too",
+                "to not",
+                "gravity",
+                "situation"
+            ],
+            "options": [
+                "too",
+                "to not",
+                "gravity",
+                "situation"
+            ],
+            "answerIndex": 1,
+            "explanation": "Struktur 'too... to' biasanya tidak disisipkan 'not' di tengah infinitive. Seharusnya 'too young to understand'."
+        },
+        {
+            "id": "WE448",
+            "sectionType": "written_expression",
+            "questionText": "The criteria for the s̲e̲l̲e̲c̲t̲i̲o̲n̲ process w̲a̲s̲ extremely s̲t̲r̲i̲c̲t̲.",
+            "underlinedParts": [
+                "criteria",
+                "selection",
+                "was",
+                "strict"
+            ],
+            "options": [
+                "criteria",
+                "selection",
+                "was",
+                "strict"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Criteria' adalah bentuk jamak dari 'criterion'. Seharusnya 'were'."
+        },
+        {
+            "id": "WE449",
+            "sectionType": "written_expression",
+            "questionText": "He w̲o̲r̲k̲s̲ h̲a̲r̲d̲l̲y̲ t̲o̲ support his family, but i̲t̲ is not enough.",
+            "underlinedParts": [
+                "works",
+                "hardly",
+                "to",
+                "it"
+            ],
+            "options": [
+                "works",
+                "hardly",
+                "to",
+                "it"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Hardly' berarti 'hampir tidak'. Untuk menyatakan bekerja dengan keras, gunakan 'hard'. Seharusnya 'works hard'."
+        },
+        {
+            "id": "WE450",
+            "sectionType": "written_expression",
+            "questionText": "The m̲a̲j̲o̲r̲i̲t̲y̲ of the students p̲r̲e̲f̲e̲r̲s̲ online l̲e̲a̲r̲n̲i̲n̲g̲ t̲o̲ traditional classes.",
+            "underlinedParts": [
+                "majority",
+                "prefers",
+                "learning",
+                "to"
+            ],
+            "options": [
+                "majority",
+                "prefers",
+                "learning",
+                "to"
+            ],
+            "answerIndex": 1,
+            "explanation": "Ketika 'majority' merujuk pada sekelompok orang yang dapat dihitung (students), kata kerjanya jamak. Seharusnya 'prefer'."
+        },
+        {
+            "id": "WE451",
+            "sectionType": "written_expression",
+            "questionText": "The luggage w̲e̲r̲e̲ checked i̲n̲ a̲t̲ the airport c̲o̲u̲n̲t̲e̲r̲.",
+            "underlinedParts": [
+                "luggage",
+                "were",
+                "at",
+                "counter"
+            ],
+            "options": [
+                "luggage",
+                "were",
+                "at",
+                "counter"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Luggage' adalah uncountable noun. Seharusnya 'was'."
+        },
+        {
+            "id": "WE452",
+            "sectionType": "written_expression",
+            "questionText": "Not until s̲h̲e̲ spoke d̲i̲d̲ I r̲e̲a̲l̲i̲z̲e̲d̲ who s̲h̲e̲ was.",
+            "underlinedParts": [
+                "she",
+                "did",
+                "realized",
+                "she was"
+            ],
+            "options": [
+                "she",
+                "did",
+                "realized",
+                "she was"
+            ],
+            "answerIndex": 2,
+            "explanation": "Setelah auxiliary 'did', kata kerja harus kembali ke bentuk dasar. Seharusnya 'realize'."
+        },
+        {
+            "id": "WE453",
+            "sectionType": "written_expression",
+            "questionText": "I'd s̲o̲o̲n̲e̲r̲ you d̲i̲d̲n̲'̲t̲ s̲m̲o̲k̲e̲ i̲n̲ here.",
+            "underlinedParts": [
+                "sooner",
+                "didn't",
+                "smoke",
+                "in"
+            ],
+            "options": [
+                "sooner",
+                "didn't",
+                "smoke",
+                "in"
+            ],
+            "answerIndex": 0,
+            "explanation": "Kalimat ini benar secara idiomatis. 'I'd sooner' mirip dengan 'I'd rather'. Jika soal mencari kesalahan, periksa opsi lain. Jika tidak ada, kalimat ini benar."
+        },
+        {
+            "id": "WE454",
+            "sectionType": "written_expression",
+            "questionText": "He is e̲n̲o̲u̲g̲h̲ old t̲o̲ make his o̲w̲n̲ d̲e̲c̲i̲s̲i̲o̲n̲s̲.",
+            "underlinedParts": [
+                "enough",
+                "old",
+                "own",
+                "decisions"
+            ],
+            "options": [
+                "enough",
+                "old",
+                "own",
+                "decisions"
+            ],
+            "answerIndex": 0,
+            "explanation": "Adverbia 'enough' diletakkan setelah kata sifat (adjective). Seharusnya 'old enough'."
+        },
+        {
+            "id": "WE455",
+            "sectionType": "written_expression",
+            "questionText": "The n̲u̲m̲b̲e̲r̲ of people w̲h̲o̲ attend the festival i̲s̲ g̲r̲o̲w̲i̲n̲g̲.",
+            "underlinedParts": [
+                "number",
+                "who",
+                "attend",
+                "is"
+            ],
+            "options": [
+                "number",
+                "who",
+                "attend",
+                "is"
+            ],
+            "answerIndex": 2,
+            "explanation": "'who' merujuk pada 'people' (jamak), sehingga kata kerja di dalam klausa relatif harus 'attend'. Namun subjek utama adalah 'The number' (tunggal), maka 'is' sudah benar. Kesalahan ada pada 'attend' yang seharusnya 'attends' jika merujuk ke 'number', tapi 'who' merujuk ke people, jadi 'attend' benar. Cek teliti: Kalimat ini benar."
+        },
+        {
+            "id": "WE456",
+            "sectionType": "written_expression",
+            "questionText": "The news w̲h̲i̲c̲h̲ I heard y̲e̲s̲t̲e̲rday̲ w̲e̲r̲e̲ quite s̲u̲r̲p̲r̲i̲s̲i̲n̲g̲.",
+            "underlinedParts": [
+                "which",
+                "yesterday",
+                "were",
+                "surprising"
+            ],
+            "options": [
+                "which",
+                "yesterday",
+                "were",
+                "surprising"
+            ],
+            "answerIndex": 2,
+            "explanation": "'News' adalah singular. Seharusnya 'was'."
+        },
+        {
+            "id": "WE457",
+            "sectionType": "written_expression",
+            "questionText": "The teacher, as well as the students, w̲e̲r̲e̲ shocked b̲y̲ the n̲e̲w̲s̲.",
+            "underlinedParts": [
+                "as well as",
+                "were",
+                "by",
+                "news"
+            ],
+            "options": [
+                "as well as",
+                "were",
+                "by",
+                "news"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subjek utama 'The teacher' adalah tunggal. Seharusnya 'was'."
+        },
+        {
+            "id": "WE458",
+            "sectionType": "written_expression",
+            "questionText": "S̲h̲o̲u̲l̲d̲ the storm w̲e̲r̲e̲ to intensify, the r̲e̲s̲i̲d̲e̲n̲t̲s̲ w̲o̲u̲l̲d̲ b̲e̲ evacuated immediately.",
+            "underlinedParts": [
+                "Should",
+                "were",
+                "residents",
+                "would be"
+            ],
+            "options": [
+                "Should",
+                "were",
+                "residents",
+                "would be"
+            ],
+            "answerIndex": 1,
+            "explanation": "Struktur Inverted Conditional tipe 1/future menggunakan 'Should + Subject + Verb 1'. Seharusnya 'Should the storm intensify' tanpa kata 'were'."
+        },
+        {
+            "id": "WE459",
+            "sectionType": "written_expression",
+            "questionText": "T̲h̲e̲ a̲n̲a̲l̲y̲s̲i̲s̲ of the s̲a̲m̲p̲l̲e̲s̲ r̲e̲v̲e̲a̲l̲ that the water contains h̲i̲g̲h̲ l̲e̲v̲e̲l̲s̲ of mercury.",
+            "underlinedParts": [
+                "analysis",
+                "samples",
+                "reveal",
+                "high levels"
+            ],
+            "options": [
+                "analysis",
+                "samples",
+                "reveal",
+                "high levels"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subjek utama adalah 'The analysis' (tunggal), maka kata kerja harus menggunakan akhiran -s. Seharusnya 'reveals'."
+        },
+        {
+            "id": "WE460",
+            "sectionType": "written_expression",
+            "questionText": "O̲n̲l̲y̲ a̲f̲t̲e̲r̲ the vote had been counted t̲h̲e̲ winner w̲a̲s̲ announced.",
+            "underlinedParts": [
+                "Only",
+                "after",
+                "the winner",
+                "was"
+            ],
+            "options": [
+                "Only",
+                "after",
+                "the winner",
+                "was"
+            ],
+            "answerIndex": 2,
+            "explanation": "Kalimat yang dimulai dengan 'Only after' memerlukan inversi pada klausa utama. Seharusnya 'was the winner announced'."
+        },
+        {
+            "id": "WE461",
+            "sectionType": "written_expression",
+            "questionText": "The m̲o̲r̲e̲ complex the m̲a̲t̲h̲e̲m̲a̲t̲i̲c̲a̲l̲ problem, the m̲o̲r̲e̲ t̲i̲m̲e̲ d̲o̲ it takes to solve.",
+            "underlinedParts": [
+                "more",
+                "mathematical",
+                "more time",
+                "do it takes"
+            ],
+            "options": [
+                "more",
+                "mathematical",
+                "more time",
+                "do it takes"
+            ],
+            "answerIndex": 3,
+            "explanation": "Dalam struktur 'The more... the more...', tidak digunakan kata bantu 'do' untuk kalimat pernyataan. Seharusnya 'the more time it takes'."
+        },
+        {
+            "id": "WE462",
+            "sectionType": "written_expression",
+            "questionText": "I̲t̲ is r̲e̲c̲o̲m̲m̲e̲n̲d̲e̲d̲ that every participant i̲s̲ present f̲o̲r̲ the briefing.",
+            "underlinedParts": [
+                "It",
+                "recommended",
+                "is",
+                "for"
+            ],
+            "options": [
+                "It",
+                "recommended",
+                "is",
+                "for"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subjunctive mood setelah 'recommended'. Kata kerja 'be' harus dalam bentuk dasar. Seharusnya 'be', bukan 'is'."
+        },
+        {
+            "id": "WE463",
+            "sectionType": "written_expression",
+            "questionText": "N̲o̲t̲ o̲n̲l̲y̲ the results are i̲n̲c̲o̲n̲c̲l̲u̲s̲i̲v̲e̲, but they a̲l̲s̲o̲ contradict p̲r̲e̲v̲i̲o̲u̲s̲ findings.",
+            "underlinedParts": [
+                "Not only",
+                "inconclusive",
+                "also",
+                "previous"
+            ],
+            "options": [
+                "Not only",
+                "inconclusive",
+                "also",
+                "previous"
+            ],
+            "answerIndex": 0,
+            "explanation": "Negative inversion di awal kalimat. Seharusnya 'Not only are the results'."
+        },
+        {
+            "id": "WE464",
+            "sectionType": "written_expression",
+            "questionText": "Neither the f̲e̲d̲e̲r̲a̲l̲ government n̲o̲r̲ the states h̲a̲s̲ the authority t̲o̲ override the constitution.",
+            "underlinedParts": [
+                "federal",
+                "nor",
+                "has",
+                "to"
+            ],
+            "options": [
+                "federal",
+                "nor",
+                "has",
+                "to"
+            ],
+            "answerIndex": 2,
+            "explanation": "Dalam 'Neither... nor', kata kerja mengikuti subjek terdekat ('the states' - jamak). Seharusnya 'have'."
+        },
+        {
+            "id": "WE465",
+            "sectionType": "written_expression",
+            "questionText": "The d̲e̲s̲i̲g̲n̲ of the new engine i̲s̲ s̲i̲m̲i̲l̲a̲r̲ t̲o̲ the old o̲n̲e̲.",
+            "underlinedParts": [
+                "design",
+                "is",
+                "similar",
+                "to"
+            ],
+            "options": [
+                "design",
+                "is",
+                "similar",
+                "to"
+            ],
+            "answerIndex": 3,
+            "explanation": "Faulty comparison. Seharusnya membandingkan desain dengan desain, bukan desain dengan mesin. Seharusnya 'similar to that of the old one'."
+        },
+        {
+            "id": "WE466",
+            "sectionType": "written_expression",
+            "questionText": "U̲n̲d̲e̲r̲ no circumstances t̲h̲e̲ vault s̲h̲o̲u̲l̲d̲ be opened w̲i̲t̲h̲o̲u̲t̲ authorization.",
+            "underlinedParts": [
+                "Under",
+                "the vault",
+                "should",
+                "without"
+            ],
+            "options": [
+                "Under",
+                "the vault",
+                "should",
+                "without"
+            ],
+            "answerIndex": 1,
+            "explanation": "Inversi diperlukan setelah frasa negatif 'Under no circumstances'. Seharusnya 'should the vault be'."
+        },
+        {
+            "id": "WE467",
+            "sectionType": "written_expression",
+            "questionText": "The s̲t̲r̲a̲t̲e̲g̲y̲ i̲n̲v̲o̲l̲v̲e̲s̲ hiring new staff, i̲n̲c̲r̲e̲a̲s̲i̲n̲g̲ the budget, and t̲o̲ improve marketing.",
+            "underlinedParts": [
+                "strategy",
+                "involves",
+                "increasing",
+                "to improve"
+            ],
+            "options": [
+                "strategy",
+                "involves",
+                "increasing",
+                "to improve"
+            ],
+            "answerIndex": 3,
+            "explanation": "Parallel structure. Karena sebelumnya menggunakan gerund (hiring, increasing), maka bagian terakhir harus gerund juga. Seharusnya 'improving'."
+        },
+        {
+            "id": "WE468",
+            "sectionType": "written_expression",
+            "questionText": "H̲a̲d̲ we b̲e̲e̲n̲ aware of the risks, we w̲o̲u̲l̲d̲ n̲o̲t̲ proceed with the investment.",
+            "underlinedParts": [
+                "Had",
+                "been",
+                "would not",
+                "proceed"
+            ],
+            "options": [
+                "Had",
+                "been",
+                "would not",
+                "proceed"
+            ],
+            "answerIndex": 3,
+            "explanation": "Conditional Type 3 (past unreal). Pasangan 'Had + V3' adalah 'would have + V3'. Seharusnya 'would not have proceeded'."
+        },
+        {
+            "id": "WE469",
+            "sectionType": "written_expression",
+            "questionText": "The p̲h̲e̲n̲o̲m̲e̲n̲o̲n̲ of light r̲e̲f̲r̲a̲c̲t̲i̲o̲n̲ e̲x̲p̲l̲a̲i̲n̲ why a straw l̲o̲o̲k̲s̲ broken in water.",
+            "underlinedParts": [
+                "phenomenon",
+                "refraction",
+                "explain",
+                "looks"
+            ],
+            "options": [
+                "phenomenon",
+                "refraction",
+                "explain",
+                "looks"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subjek 'The phenomenon' adalah tunggal. Kata kerja seharusnya 'explains'."
+        },
+        {
+            "id": "WE470",
+            "sectionType": "written_expression",
+            "questionText": "B̲y̲ the time the rescue team f̲o̲u̲n̲d̲ them, they w̲e̲r̲e̲ s̲u̲r̲v̲i̲v̲i̲n̲g̲ on rainwater for three days.",
+            "underlinedParts": [
+                "By",
+                "found",
+                "were",
+                "surviving"
+            ],
+            "options": [
+                "By",
+                "found",
+                "were",
+                "surviving"
+            ],
+            "answerIndex": 2,
+            "explanation": "Menunjukkan durasi sebelum waktu lampau tertentu. Gunakan Past Perfect Continuous. Seharusnya 'had been surviving'."
+        },
+        {
+            "id": "WE471",
+            "sectionType": "written_expression",
+            "questionText": "The news of the m̲e̲r̲g̲e̲r̲ w̲e̲r̲e̲ m̲e̲t̲ with mixed r̲e̲a̲c̲t̲i̲o̲n̲s̲ by the employees.",
+            "underlinedParts": [
+                "merger",
+                "were",
+                "met",
+                "reactions"
+            ],
+            "options": [
+                "merger",
+                "were",
+                "met",
+                "reactions"
+            ],
+            "answerIndex": 1,
+            "explanation": "'News' adalah kata benda tunggal (uncountable). Seharusnya 'was met'."
+        },
+        {
+            "id": "WE472",
+            "sectionType": "written_expression",
+            "questionText": "The c̲o̲u̲n̲c̲i̲l̲ members, n̲o̲t̲ the mayor, i̲s̲ responsible f̲o̲r̲ passing the budget.",
+            "underlinedParts": [
+                "council",
+                "not",
+                "is",
+                "for"
+            ],
+            "options": [
+                "council",
+                "not",
+                "is",
+                "for"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subjek utama adalah 'The council members' (jamak). Frasa negatif 'not the mayor' tidak merubah subjek utama. Seharusnya 'are'."
+        },
+        {
+            "id": "WE473",
+            "sectionType": "written_expression",
+            "questionText": "I̲t̲ was s̲u̲c̲h̲ a heavy rain t̲h̲a̲t̲ the game was c̲a̲l̲l̲e̲d̲ off.",
+            "underlinedParts": [
+                "It",
+                "such",
+                "that",
+                "called"
+            ],
+            "options": [
+                "It",
+                "such",
+                "that",
+                "called"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Rain' dalam konteks ini biasanya uncountable. 'Such a' digunakan untuk countable singular noun. Seharusnya 'such heavy rain'."
+        },
+        {
+            "id": "WE474",
+            "sectionType": "written_expression",
+            "questionText": "Seldom w̲e̲ have e̲n̲c̲o̲u̲n̲t̲e̲r̲e̲d̲ such a f̲o̲r̲m̲i̲d̲a̲b̲l̲e̲ o̲p̲p̲o̲n̲e̲n̲t̲.",
+            "underlinedParts": [
+                "we have",
+                "encountered",
+                "formidable",
+                "opponent"
+            ],
+            "options": [
+                "we have",
+                "encountered",
+                "formidable",
+                "opponent"
+            ],
+            "answerIndex": 0,
+            "explanation": "Negative inversion dengan 'Seldom'. Seharusnya 'have we encountered'."
+        },
+        {
+            "id": "WE475",
+            "sectionType": "written_expression",
+            "questionText": "The physics p̲r̲o̲f̲e̲s̲s̲o̲r̲, t̲o̲g̲e̲t̲h̲e̲r̲ w̲i̲t̲h̲ his students, h̲a̲v̲e̲ d̲e̲v̲e̲l̲o̲p̲e̲d̲ a new formula.",
+            "underlinedParts": [
+                "professor",
+                "together with",
+                "have",
+                "developed"
+            ],
+            "options": [
+                "professor",
+                "together with",
+                "have",
+                "developed"
+            ],
+            "answerIndex": 2,
+            "explanation": "Frasa 'together with' tidak membuat subjek menjadi jamak. 'Professor' tunggal, maka 'has developed'."
+        },
+        {
+            "id": "WE476",
+            "sectionType": "written_expression",
+            "questionText": "L̲i̲t̲t̲l̲e̲ he knew t̲h̲a̲t̲ the s̲e̲c̲r̲e̲t̲ had been d̲i̲s̲c̲o̲v̲e̲r̲e̲d̲ weeks ago.",
+            "underlinedParts": [
+                "Little",
+                "that",
+                "secret",
+                "discovered"
+            ],
+            "options": [
+                "Little",
+                "that",
+                "secret",
+                "discovered"
+            ],
+            "answerIndex": 0,
+            "explanation": "Negative inversion dengan 'Little'. Seharusnya 'Little did he know'."
+        },
+        {
+            "id": "WE477",
+            "sectionType": "written_expression",
+            "questionText": "The d̲a̲t̲a̲ c̲o̲l̲l̲e̲c̲t̲e̲d̲ by the r̲e̲s̲e̲a̲r̲c̲h̲e̲r̲ is i̲n̲s̲u̲f̲f̲i̲c̲i̲e̲n̲t̲ to draw a conclusion.",
+            "underlinedParts": [
+                "data",
+                "collected",
+                "researcher",
+                "is"
+            ],
+            "options": [
+                "data",
+                "collected",
+                "researcher",
+                "is"
+            ],
+            "answerIndex": 3,
+            "explanation": "Dalam konteks akademik TOEFL formal, 'data' dianggap jamak (plural). Seharusnya 'are'."
+        },
+        {
+            "id": "WE478",
+            "sectionType": "written_expression",
+            "questionText": "B̲e̲i̲n̲g̲ that he is a junior, he i̲s̲ n̲o̲t̲ eligible t̲o̲ lead the c̲o̲m̲m̲i̲t̲t̲e̲e̲.",
+            "underlinedParts": [
+                "Being that",
+                "is not",
+                "to",
+                "committee"
+            ],
+            "options": [
+                "Being that",
+                "is not",
+                "to",
+                "committee"
+            ],
+            "answerIndex": 0,
+            "explanation": "'Being that' dianggap tidak baku dalam bahasa Inggris formal/TOEFL. Gunakan 'Since' atau 'Because'."
+        },
+        {
+            "id": "WE479",
+            "sectionType": "written_expression",
+            "questionText": "The e̲c̲o̲n̲o̲m̲i̲s̲t̲ argued that the m̲a̲r̲k̲e̲t̲ f̲l̲u̲c̲t̲u̲a̲t̲e̲s̲ i̲n̲v̲o̲l̲u̲n̲t̲a̲r̲i̲l̲y̲.",
+            "underlinedParts": [
+                "economist",
+                "market",
+                "fluctuates",
+                "involuntarily"
+            ],
+            "options": [
+                "economist",
+                "market",
+                "fluctuates",
+                "involuntarily"
+            ],
+            "answerIndex": 2,
+            "explanation": "Kalimat ini benar secara gramatikal. Namun jika konteksnya adalah teori umum di masa lampau, past tense 'fluctuated' mungkin dicari, tapi secara umum kalimat ini benar. (Hati-hati jebakan)."
+        },
+        {
+            "id": "WE480",
+            "sectionType": "written_expression",
+            "questionText": "No s̲o̲o̲n̲e̲r̲ we had entered the building t̲h̲a̲n̲ the lights w̲e̲n̲t̲ o̲u̲t̲.",
+            "underlinedParts": [
+                "No sooner",
+                "we had",
+                "than",
+                "went"
+            ],
+            "options": [
+                "No sooner",
+                "we had",
+                "than",
+                "went"
+            ],
+            "answerIndex": 1,
+            "explanation": "Inversi wajib setelah 'No sooner'. Seharusnya 'had we entered'."
+        },
+        {
+            "id": "WE481",
+            "sectionType": "written_expression",
+            "questionText": "The r̲e̲s̲e̲a̲r̲c̲h̲e̲r̲ a̲s̲k̲e̲d̲ that the experiment s̲h̲o̲u̲l̲d̲ b̲e̲ repeated for v̲e̲r̲i̲f̲i̲c̲a̲t̲i̲o̲n̲.",
+            "underlinedParts": [
+                "researcher",
+                "asked",
+                "should be",
+                "verification"
+            ],
+            "options": [
+                "researcher",
+                "asked",
+                "should be",
+                "verification"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subjunctive mood setelah 'asked' (permintaan). Seharusnya menggunakan bare infinitive 'be repeated' tanpa 'should'."
+        },
+        {
+            "id": "WE482",
+            "sectionType": "written_expression",
+            "questionText": "The c̲o̲m̲p̲u̲t̲e̲r̲ software, i̲n̲s̲t̲a̲l̲l̲i̲n̲g̲ yesterday, i̲s̲ causing the system t̲o̲ crash.",
+            "underlinedParts": [
+                "computer",
+                "installing",
+                "is",
+                "to"
+            ],
+            "options": [
+                "computer",
+                "installing",
+                "is",
+                "to"
+            ],
+            "answerIndex": 1,
+            "explanation": "Reduced relative clause bermakna pasif. Software diinstal, bukan menginstal sendiri. Seharusnya 'installed'."
+        },
+        {
+            "id": "WE483",
+            "sectionType": "written_expression",
+            "questionText": "She is o̲n̲e̲ of those people who w̲o̲r̲k̲s̲ b̲e̲s̲t̲ u̲n̲d̲e̲r̲ pressure.",
+            "underlinedParts": [
+                "one",
+                "who",
+                "works",
+                "under"
+            ],
+            "options": [
+                "one",
+                "who",
+                "works",
+                "under"
+            ],
+            "answerIndex": 2,
+            "explanation": "'who' merujuk pada 'people' (jamak). Maka kata kerja seharusnya 'work'."
+        },
+        {
+            "id": "WE484",
+            "sectionType": "written_expression",
+            "questionText": "H̲a̲v̲i̲n̲g̲ been s̲e̲l̲e̲c̲t̲e̲d̲ for the award, the trophy w̲a̲s̲ p̲r̲e̲s̲e̲n̲t̲e̲d̲ to the actor.",
+            "underlinedParts": [
+                "Having",
+                "selected",
+                "was",
+                "presented"
+            ],
+            "options": [
+                "Having",
+                "selected",
+                "was",
+                "presented"
+            ],
+            "answerIndex": 2,
+            "explanation": "Dangling modifier. Klausa 'Having been selected' merujuk ke 'the actor', bukan 'the trophy'. Seharusnya 'the actor was presented with the trophy'."
+        },
+        {
+            "id": "WE485",
+            "sectionType": "written_expression",
+            "questionText": "The reason why he r̲e̲s̲i̲g̲n̲e̲d̲ was b̲e̲c̲a̲u̲s̲e̲ his health w̲a̲s̲ d̲e̲t̲e̲r̲i̲o̲r̲a̲t̲i̲n̲g̲.",
+            "underlinedParts": [
+                "resigned",
+                "because",
+                "was",
+                "deteriorating"
+            ],
+            "options": [
+                "resigned",
+                "because",
+                "was",
+                "deteriorating"
+            ],
+            "answerIndex": 1,
+            "explanation": "Redundansi (The reason... is because). Seharusnya 'that'."
+        },
+        {
+            "id": "WE486",
+            "sectionType": "written_expression",
+            "questionText": "N̲o̲t̲ only w̲a̲s̲ he a gifted musician, b̲u̲t̲ h̲e̲ also a talented painter.",
+            "underlinedParts": [
+                "Not only",
+                "was",
+                "but",
+                "he"
+            ],
+            "options": [
+                "Not only",
+                "was",
+                "but",
+                "he"
+            ],
+            "answerIndex": 3,
+            "explanation": "Parallelism. Klausa kedua kehilangan kata kerja. Seharusnya 'but he was also' atau 'but also a talented painter'."
+        },
+        {
+            "id": "WE487",
+            "sectionType": "written_expression",
+            "questionText": "I̲f̲ I w̲o̲u̲l̲d̲ h̲a̲v̲e̲ known about the meeting, I w̲o̲u̲l̲d̲ have a̲t̲t̲e̲n̲d̲e̲d̲.",
+            "underlinedParts": [
+                "If",
+                "would have",
+                "would",
+                "attended"
+            ],
+            "options": [
+                "If",
+                "would have",
+                "would",
+                "attended"
+            ],
+            "answerIndex": 1,
+            "explanation": "Dalam klausa 'if' pada Conditional Type 3, tidak boleh menggunakan 'would have'. Seharusnya 'If I had known'."
+        },
+        {
+            "id": "WE488",
+            "sectionType": "written_expression",
+            "questionText": "The criteria for evaluating the e̲n̲t̲r̲i̲e̲s̲ h̲a̲v̲e̲ changed s̲i̲n̲c̲e̲ l̲a̲s̲t̲ year.",
+            "underlinedParts": [
+                "evaluating",
+                "entries",
+                "have",
+                "since"
+            ],
+            "options": [
+                "evaluating",
+                "entries",
+                "have",
+                "since"
+            ],
+            "answerIndex": 2,
+            "explanation": "Kalimat ini benar. 'Criteria' jamak, 'have' jamak. Jika di opsi ada 'has', itu salah."
+        },
+        {
+            "id": "WE489",
+            "sectionType": "written_expression",
+            "questionText": "It is e̲s̲s̲e̲n̲t̲i̲a̲l̲ that the m̲e̲d̲i̲c̲i̲n̲e̲ i̲s̲ administered i̲m̲m̲e̲d̲i̲a̲t̲e̲l̲y̲.",
+            "underlinedParts": [
+                "essential",
+                "medicine",
+                "is",
+                "immediately"
+            ],
+            "options": [
+                "essential",
+                "medicine",
+                "is",
+                "immediately"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subjunctive mood. Seharusnya 'be administered'."
+        },
+        {
+            "id": "WE490",
+            "sectionType": "written_expression",
+            "questionText": "Scarcely h̲a̲d̲ the s̲p̲e̲a̲k̲e̲r̲ finished t̲h̲a̲n̲ the audience b̲u̲r̲s̲t̲ into applause.",
+            "underlinedParts": [
+                "had",
+                "speaker",
+                "than",
+                "burst"
+            ],
+            "options": [
+                "had",
+                "speaker",
+                "than",
+                "burst"
+            ],
+            "answerIndex": 2,
+            "explanation": "Pasangan 'Scarcely' adalah 'when', bukan 'than'."
+        },
+        {
+            "id": "WE491",
+            "sectionType": "written_expression",
+            "questionText": "He is s̲o̲ intelligent a boy t̲h̲a̲t̲ he u̲n̲d̲e̲r̲s̲t̲a̲n̲d̲s̲ e̲v̲e̲r̲y̲t̲h̲i̲n̲g̲.",
+            "underlinedParts": [
+                "so",
+                "that",
+                "understands",
+                "everything"
+            ],
+            "options": [
+                "so",
+                "that",
+                "understands",
+                "everything"
+            ],
+            "answerIndex": 0,
+            "explanation": "Kalimat ini benar secara struktur formal 'so + adjective + a + noun'. Namun jika 'so' diganti 'such', baru salah."
+        },
+        {
+            "id": "WE492",
+            "sectionType": "written_expression",
+            "questionText": "E̲i̲t̲h̲e̲r̲ of the two o̲p̲t̲i̲o̲n̲s̲ a̲r̲e̲ acceptable t̲o̲ the board.",
+            "underlinedParts": [
+                "Either",
+                "options",
+                "are",
+                "to"
+            ],
+            "options": [
+                "Either",
+                "options",
+                "are",
+                "to"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Either' sebagai subjek tunggal membutuhkan kata kerja tunggal. Seharusnya 'is'."
+        },
+        {
+            "id": "WE493",
+            "sectionType": "written_expression",
+            "questionText": "Supposing h̲e̲ d̲o̲e̲s̲ not a̲r̲r̲i̲v̲e̲, what s̲h̲a̲l̲l̲ we do?",
+            "underlinedParts": [
+                "he",
+                "does",
+                "arrive",
+                "shall"
+            ],
+            "options": [
+                "he",
+                "does",
+                "arrive",
+                "shall"
+            ],
+            "answerIndex": 3,
+            "explanation": "Secara gramatikal benar, tapi 'shall' jarang digunakan dalam TOEFL modern kecuali sangat formal. Namun jika 'does' diganti 'did', 'shall' harus jadi 'should'."
+        },
+        {
+            "id": "WE494",
+            "sectionType": "written_expression",
+            "questionText": "The novel is m̲o̲r̲e̲ exciting t̲h̲a̲n̲ t̲h̲a̲t̲ movie w̲h̲i̲c̲h̲ we saw.",
+            "underlinedParts": [
+                "more",
+                "than",
+                "that",
+                "which"
+            ],
+            "options": [
+                "more",
+                "than",
+                "that",
+                "which"
+            ],
+            "answerIndex": 2,
+            "explanation": "Perbandingan harus setara. Seharusnya 'the movie' bukan 'that movie' jika merujuk pada objek spesifik yang sudah dilihat bersama. Namun kesalahan yang lebih fatal biasanya di struktur lain."
+        },
+        {
+            "id": "WE495",
+            "sectionType": "written_expression",
+            "questionText": "N̲o̲t̲ o̲n̲l̲y̲ she failed the exam, but s̲h̲e̲ a̲l̲s̲o̲ lost h̲e̲r̲ scholarship.",
+            "underlinedParts": [
+                "Not only",
+                "she",
+                "also",
+                "her"
+            ],
+            "options": [
+                "Not only",
+                "she",
+                "also",
+                "her"
+            ],
+            "answerIndex": 1,
+            "explanation": "Inversi diperlukan: 'Not only did she fail'."
+        },
+        {
+            "id": "WE496",
+            "sectionType": "written_expression",
+            "questionText": "The m̲a̲j̲o̲r̲i̲t̲y̲ of the i̲n̲f̲o̲r̲m̲a̲t̲i̲o̲n̲ w̲e̲r̲e̲ misleading.",
+            "underlinedParts": [
+                "majority",
+                "information",
+                "were",
+                "misleading"
+            ],
+            "options": [
+                "majority",
+                "information",
+                "were",
+                "misleading"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Information' adalah uncountable. Meskipun ada kata 'majority', kata kerja tetap mengikuti noun uncountable-nya. Seharusnya 'was'."
+        },
+        {
+            "id": "WE497",
+            "sectionType": "written_expression",
+            "questionText": "B̲y̲ next month, I w̲i̲l̲l̲ b̲e̲ l̲i̲v̲i̲n̲g̲ in this city f̲o̲r̲ five years.",
+            "underlinedParts": [
+                "By",
+                "will be",
+                "living",
+                "for"
+            ],
+            "options": [
+                "By",
+                "will be",
+                "living",
+                "for"
+            ],
+            "answerIndex": 1,
+            "explanation": "Menunjukkan durasi di masa depan. Gunakan Future Perfect Continuous. Seharusnya 'will have been living'."
+        },
+        {
+            "id": "WE498",
+            "sectionType": "written_expression",
+            "questionText": "The p̲r̲o̲f̲e̲s̲s̲o̲r̲ i̲n̲s̲i̲s̲t̲e̲d̲ that we r̲e̲w̲r̲i̲t̲e̲s̲ the e̲n̲t̲i̲r̲e̲ chapter.",
+            "underlinedParts": [
+                "professor",
+                "insisted",
+                "rewrites",
+                "entire"
+            ],
+            "options": [
+                "professor",
+                "insisted",
+                "rewrites",
+                "entire"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subjunctive mood. Seharusnya 'rewrite'."
+        },
+        {
+            "id": "WE499",
+            "sectionType": "written_expression",
+            "questionText": "N̲e̲i̲t̲h̲e̲r̲ of the a̲l̲t̲e̲r̲n̲a̲t̲i̲v̲e̲s̲ s̲e̲e̲m̲ v̲i̲a̲b̲l̲e̲ to us.",
+            "underlinedParts": [
+                "Neither",
+                "alternatives",
+                "seem",
+                "viable"
+            ],
+            "options": [
+                "Neither",
+                "alternatives",
+                "seem",
+                "viable"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Neither' (subjek) adalah tunggal. Seharusnya 'seems'."
+        },
+        {
+            "id": "WE500",
+            "sectionType": "written_expression",
+            "questionText": "The g̲o̲v̲e̲r̲n̲m̲e̲n̲t̲ r̲e̲q̲u̲i̲r̲e̲s̲ that every citizen f̲i̲l̲e̲s̲ t̲h̲e̲i̲r̲ taxes by April.",
+            "underlinedParts": [
+                "government",
+                "requires",
+                "files",
+                "their"
+            ],
+            "options": [
+                "government",
+                "requires",
+                "files",
+                "their"
+            ],
+            "answerIndex": 2,
+            "explanation": "Subjunctive mood setelah 'requires'. Seharusnya 'file'."
         }
     ]
 }

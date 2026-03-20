@@ -4549,6 +4549,1436 @@
             ],
             "answerIndex": 1,
             "explanation": "'Reasons' is plural -> 'are'."
+        },
+        {
+            "id": "S391",
+            "sectionType": "structure",
+            "questionText": "Not until the resolution was adopted _______ the full impact of the new policy.",
+            "options": [
+                "the community realized",
+                "did the community realize",
+                "the community realizing",
+                "realized the community"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kalimat yang diawali dengan ekspresi negatif seperti 'Not until' memerlukan inversi (susunan terbalik) antara subjek dan kata kerja bantu (auxiliary verb). 'Did' digunakan sebagai auxiliary verb untuk bentuk waktu lampau (simple past tense)."
+        },
+        {
+            "id": "S392",
+            "sectionType": "structure",
+            "questionText": "Internal revenue service codes _______ that all residents file a federal income tax return by April 15.",
+            "options": [
+                "mandates",
+                "mandate",
+                "mandating",
+                "mandated"
+            ],
+            "answerIndex": 1,
+            "explanation": "Subjek 'codes' adalah jamak, sehingga membutuhkan kata kerja jamak 'mandate'. Kalimat ini juga menggunakan struktur subjunctive (mandate that... file), di mana bentuk dasar kata kerja (bare infinitive) 'file' digunakan di dalam klausa kata benda."
+        },
+        {
+            "id": "S393",
+            "sectionType": "structure",
+            "questionText": "_______ for the timely intervention of the paramedics, the patient would not have survived the allergic reaction.",
+            "options": [
+                "Had it not been",
+                "If it were not",
+                "Were it not",
+                "Had not it been"
+            ],
+            "answerIndex": 0,
+            "explanation": "Ini adalah bentuk pengandaian inversi (Third Conditional) tanpa menggunakan kata 'if'. 'Had it not been for' adalah bentuk formal dari 'If it had not been for', yang digunakan untuk menggambarkan situasi masa lalu yang tidak terjadi."
+        },
+        {
+            "id": "S394",
+            "sectionType": "structure",
+            "questionText": "The generic name of a prescription drug must be printed on the label _______ by its brand name.",
+            "options": [
+                "follows",
+                "following",
+                "followed",
+                "is followed"
+            ],
+            "answerIndex": 2,
+            "explanation": "Ini adalah klausa relatif pasif yang direduksi (reduced passive relative clause). Bentuk lengkapnya adalah 'which is followed by'. Dalam bentuk reduksi, relative pronoun dan to be dihilangkan, menyisakan kata kerja bentuk ketiga (past participle) 'followed'."
+        },
+        {
+            "id": "S395",
+            "sectionType": "structure",
+            "questionText": "Rarely _______ such a combination of talent and charisma in a single performer.",
+            "options": [
+                "one sees",
+                "does one see",
+                "one do see",
+                "sees one"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kata 'Rarely' adalah kata keterangan restriktif/negatif. Jika diletakkan di awal kalimat, ia memerlukan inversi antara subjek dan kata kerja bantu. Kata kerja bantu 'does' diperlukan untuk subjek tunggal 'one'."
+        },
+        {
+            "id": "S396",
+            "sectionType": "structure",
+            "questionText": "The research committee requested that the scientist _______ the experimental data before the final presentation.",
+            "options": [
+                "verified",
+                "verifies",
+                "verify",
+                "verifying"
+            ],
+            "answerIndex": 2,
+            "explanation": "Kalimat ini menggunakan subjunctive mood, yang dipicu oleh kata kerja 'requested' diikuti oleh 'that'. Dalam bentuk subjunctive, kata kerja dasar (base form) 'verify' digunakan tanpa memandang subjeknya (meskipun subjek tunggal 'the scientist')."
+        },
+        {
+            "id": "S397",
+            "sectionType": "structure",
+            "questionText": "Archaeologists found that the ancient civilization had developed complex irrigation systems, _______ advanced architectural techniques.",
+            "options": [
+                "as well as",
+                "and also",
+                "but",
+                "despite"
+            ],
+            "answerIndex": 0,
+            "explanation": "Soal ini menguji struktur paralel. Frasa 'as well as' dengan tepat menghubungkan dua frasa kata benda yang setara, yaitu 'complex irrigation systems' dan 'advanced architectural techniques', untuk menunjukkan penambahan."
+        },
+        {
+            "id": "S398",
+            "sectionType": "structure",
+            "questionText": "_______ by the structural damage caused by the earthquake, the inspectors ordered the immediate evacuation of the building.",
+            "options": [
+                "Alarming",
+                "Alarmed",
+                "They were alarmed",
+                "To alarm"
+            ],
+            "answerIndex": 1,
+            "explanation": "Ini adalah frasa partisipial. Para inspektur adalah pihak yang merasakan emosi tersebut (makna pasif), sehingga kata kerja bentuk ketiga (past participle) 'Alarmed' digunakan untuk memodifikasi subjek utama 'the inspectors'."
+        },
+        {
+            "id": "S399",
+            "sectionType": "structure",
+            "questionText": "Only after the discovery of the Rosetta Stone _______ possible for scholars to decipher Egyptian hieroglyphs.",
+            "options": [
+                "it became",
+                "did it become",
+                "became it",
+                "becoming"
+            ],
+            "answerIndex": 1,
+            "explanation": "Frasa 'Only after...' yang diletakkan di awal kalimat memicu aturan inversi. Kata kerja bantu (auxiliary) 'did' harus ditempatkan sebelum subjek 'it'."
+        },
+        {
+            "id": "S400",
+            "sectionType": "structure",
+            "questionText": "So intense _______ the heat from the forest fire that even the surrounding lakes began to evaporate.",
+            "options": [
+                "it was",
+                "was",
+                "being",
+                "has been"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kalimat ini menggunakan inversi untuk penekanan dengan pola 'So + adjective'. Strukturnya menjadi 'So + adjective + verb + subject'. Di sini, 'was' adalah kata kerja dan 'the heat' adalah subjeknya."
+        },
+        {
+            "id": "S401",
+            "sectionType": "structure",
+            "questionText": "Under no circumstances _______ employees to use company equipment for personal ventures.",
+            "options": [
+                "are allowed",
+                "allowed",
+                "are",
+                "they are allowed"
+            ],
+            "answerIndex": 2,
+            "explanation": "Frasa preposisional negatif 'Under no circumstances' di awal kalimat mensyaratkan inversi. Kata kerja 'are' bertindak sebagai predikat utama dan ditempatkan sebelum subjek 'employees', membentuk kalimat 'are employees allowed...' (allowed merupakan bagian dari pasif namun are adalah auxiliary yang diinversi)."
+        },
+        {
+            "id": "S402",
+            "sectionType": "structure",
+            "questionText": "The more the athletes trained at high altitudes, _______ their cardiovascular endurance became.",
+            "options": [
+                "the greater",
+                "greater",
+                "the greatest",
+                "greatly"
+            ],
+            "answerIndex": 0,
+            "explanation": "Ini adalah struktur komparatif ganda (double comparative) yang menggunakan pola 'The + comparative..., the + comparative...'. 'The greater' melengkapi pola tersebut sejalan dengan 'The more'."
+        },
+        {
+            "id": "S403",
+            "sectionType": "structure",
+            "questionText": "It is imperative that the new software update _______ on all corporate devices by midnight.",
+            "options": [
+                "is installed",
+                "be installed",
+                "installed",
+                "installs"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kata sifat 'imperative' memicu penggunaan subjunctive mood dalam klausa 'that'. Karena makna kalimat adalah pasif (perangkat lunak diinstal), kita menggunakan bentuk dasar pasif, yaitu 'be + past participle' (be installed)."
+        },
+        {
+            "id": "S404",
+            "sectionType": "structure",
+            "questionText": "_______ his immense contribution to modern physics, Richard Feynman was also a gifted bongo player.",
+            "options": [
+                "Known for",
+                "Knowing for",
+                "To know",
+                "He was known for"
+            ],
+            "answerIndex": 0,
+            "explanation": "Frasa partisipial 'Known for' bertindak sebagai kata sifat (adjective) yang memodifikasi subjek 'Richard Feynman'. Karena maknanya adalah pasif ('Dikenal karena'), maka past participle digunakan."
+        },
+        {
+            "id": "S405",
+            "sectionType": "structure",
+            "questionText": "Were the central bank _______ interest rates, inflation might be curbed more effectively.",
+            "options": [
+                "raising",
+                "to raise",
+                "raised",
+                "raise"
+            ],
+            "answerIndex": 1,
+            "explanation": "Ini adalah pengandaian bersyarat tipe 2 (Second Conditional) yang mengalami inversi. Pola 'If the central bank raised...' dapat diubah menjadi inversi formal 'Were the central bank to raise...'."
+        },
+        {
+            "id": "S406",
+            "sectionType": "structure",
+            "questionText": "Among the most fascinating astronomical phenomena _______ the pulsar, a highly magnetized rotating neutron star.",
+            "options": [
+                "is",
+                "are",
+                "was",
+                "being"
+            ],
+            "answerIndex": 0,
+            "explanation": "Kalimat ini mengalami inversi lokatif/preposisional. Frasa preposisi 'Among the most fascinating astronomical phenomena' berada di depan, sehingga subjek asli 'the pulsar' (tunggal) berada di belakang predikat 'is'."
+        },
+        {
+            "id": "S407",
+            "sectionType": "structure",
+            "questionText": "The board of directors insisted that the financial discrepancies _______ immediately.",
+            "options": [
+                "investigated",
+                "are investigated",
+                "be investigated",
+                "were investigated"
+            ],
+            "answerIndex": 2,
+            "explanation": "Kata kerja 'insisted' memerlukan klausa 'that' dalam bentuk subjunctive. Karena pemeriksaannya bersifat pasif (perbedaan keuangan diperiksa), maka bentuk yang benar adalah 'be investigated' (bentuk dasar dari 'to be' + past participle)."
+        },
+        {
+            "id": "S408",
+            "sectionType": "structure",
+            "questionText": "No sooner had the expedition reached the summit _______ a fierce blizzard engulfed the mountain.",
+            "options": [
+                "when",
+                "then",
+                "than",
+                "that"
+            ],
+            "answerIndex": 2,
+            "explanation": "Pasangan korelasi waktu untuk 'No sooner' selalu 'than'. Ini menunjukkan bahwa satu kejadian terjadi segera setelah kejadian lain."
+        },
+        {
+            "id": "S409",
+            "sectionType": "structure",
+            "questionText": "_______ the intricate details of the contract, the lawyer was able to identify several loopholes.",
+            "options": [
+                "Having studied",
+                "Studied",
+                "To study",
+                "He studied"
+            ],
+            "answerIndex": 0,
+            "explanation": "Ini adalah perfect participle phrase ('Having' + past participle). Struktur ini menunjukkan bahwa tindakan (mempelajari) telah diselesaikan sebelum tindakan utama (mengidentifikasi) terjadi, dan dilakukan oleh subjek yang sama (pengacara)."
+        },
+        {
+            "id": "S410",
+            "sectionType": "structure",
+            "questionText": "The synthesis of these chemical compounds requires a precise temperature, _______ the reaction will fail.",
+            "options": [
+                "otherwise",
+                "instead",
+                "unless",
+                "moreover"
+            ],
+            "answerIndex": 0,
+            "explanation": "Kata 'otherwise' (jika tidak) berfungsi dengan tepat di sini sebagai kata penghubung untuk menunjukkan konsekuensi negatif jika kondisi yang disebutkan sebelumnya tidak terpenuhi."
+        },
+        {
+            "id": "S411",
+            "sectionType": "structure",
+            "questionText": "Seldom _______ such an innovative approach to urban planning been proposed in this decade.",
+            "options": [
+                "has",
+                "have",
+                "is",
+                "was"
+            ],
+            "answerIndex": 0,
+            "explanation": "Kata keterangan negatif 'Seldom' di awal kalimat memicu inversi. Karena subjek sebenarnya adalah 'an innovative approach' (tunggal) dan kalimat utamanya adalah present perfect ('been proposed'), kata kerja bantu tunggal yang benar adalah 'has'."
+        },
+        {
+            "id": "S412",
+            "sectionType": "structure",
+            "questionText": "The CEO's recommendation that the company _______ its overseas operations was met with strong resistance.",
+            "options": [
+                "expands",
+                "expanded",
+                "expand",
+                "expanding"
+            ],
+            "answerIndex": 2,
+            "explanation": "Kata benda 'recommendation' diikuti oleh klausa 'that' memerlukan penggunaan subjunctive. Bentuk kata kerja dasar (base form) 'expand' harus digunakan, terlepas dari subjek tunggal 'the company'."
+        },
+        {
+            "id": "S413",
+            "sectionType": "structure",
+            "questionText": "_______ a solid foundation in mathematics, students often struggle with advanced physics concepts.",
+            "options": [
+                "Without",
+                "Lacking",
+                "To lack",
+                "They lack"
+            ],
+            "answerIndex": 1,
+            "explanation": "'Lacking' bertindak sebagai present participle yang membentuk frasa partisipial, artinya 'karena tidak memiliki'. Subjek utama 'students' adalah pihak yang melakukan tindakan 'lacking' tersebut."
+        },
+        {
+            "id": "S414",
+            "sectionType": "structure",
+            "questionText": "Not only _______ to lower blood pressure, but it also improves overall cardiovascular health.",
+            "options": [
+                "regular exercise helps",
+                "does regular exercise help",
+                "regular exercise is helping",
+                "helps regular exercise"
+            ],
+            "answerIndex": 1,
+            "explanation": "Frasa 'Not only' yang diletakkan di awal kalimat memerlukan inversi subjek dan auxiliary verb. 'Does' diletakkan sebelum subjek 'regular exercise', diikuti bentuk dasar kata kerja 'help'."
+        },
+        {
+            "id": "S415",
+            "sectionType": "structure",
+            "questionText": "The manuscript, _______ for over a century, was finally discovered in the monastery's hidden archives.",
+            "options": [
+                "losing",
+                "was lost",
+                "having been lost",
+                "had lost"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Having been lost' adalah bentuk perfect passive participle. Ini mereduksi klausa relatif 'which had been lost', menandakan kondisi pasif yang terjadi sebelum penemuan naskah tersebut."
+        },
+        {
+            "id": "S416",
+            "sectionType": "structure",
+            "questionText": "_______ had the orchestra begun playing when a power outage plunged the concert hall into darkness.",
+            "options": [
+                "Hardly",
+                "No sooner",
+                "Not until",
+                "As soon as"
+            ],
+            "answerIndex": 0,
+            "explanation": "Kata 'Hardly' berpasangan dengan kata sambung 'when' untuk menunjukkan dua kejadian lampau yang terjadi nyaris bersamaan. ('No sooner' akan berpasangan dengan 'than')."
+        },
+        {
+            "id": "S417",
+            "sectionType": "structure",
+            "questionText": "It is crucial that any employee who _______ signs of illness stay home to prevent spreading the infection.",
+            "options": [
+                "exhibit",
+                "exhibits",
+                "exhibited",
+                "exhibiting"
+            ],
+            "answerIndex": 1,
+            "explanation": "Di dalam klausa relatif 'who... illness', kata kerja berikatan langsung dengan subjek relatif 'who' yang merujuk pada 'any employee' (tunggal). Jadi, 'exhibits' (tunggal) adalah benar. Kata kerja utama klausa noun 'stay' sudah benar dalam bentuk subjunctive yang dipicu oleh 'crucial'."
+        },
+        {
+            "id": "S418",
+            "sectionType": "structure",
+            "questionText": "The theory of relativity, _______ by Einstein in 1905, fundamentally altered our understanding of space and time.",
+            "options": [
+                "proposing",
+                "proposed",
+                "was proposed",
+                "which proposed"
+            ],
+            "answerIndex": 1,
+            "explanation": "Ini adalah klausa relatif yang direduksi. Bentuk lengkapnya 'which was proposed' dipersingkat dengan menghilangkan relative pronoun dan to be, menyisakan past participle 'proposed'."
+        },
+        {
+            "id": "S419",
+            "sectionType": "structure",
+            "questionText": "On the horizon _______ the faint outlines of the mountains, obscured by the morning mist.",
+            "options": [
+                "appears",
+                "appear",
+                "is appearing",
+                "has appeared"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kalimat ini menggunakan inversi lokatif. Frasa preposisional 'On the horizon' ada di awal, membalik susunan predikat dan subjek. Subjek aslinya adalah jamak, yaitu 'the faint outlines', sehingga membutuhkan kata kerja jamak 'appear'."
+        },
+        {
+            "id": "S420",
+            "sectionType": "structure",
+            "questionText": "By the time the diplomatic mission arrived, the border conflict _______ significantly.",
+            "options": [
+                "has escalated",
+                "escalated",
+                "had escalated",
+                "would escalate"
+            ],
+            "answerIndex": 2,
+            "explanation": "Frasa waktu 'By the time + simple past' menandakan bahwa suatu kejadian telah selesai sebelum kejadian lain di masa lalu. Oleh karena itu, tense yang tepat untuk klausa utama adalah past perfect tense ('had escalated')."
+        },
+        {
+            "id": "S421",
+            "sectionType": "structure",
+            "questionText": "_______ the high cost of raw materials, the manufacturer managed to maintain its profit margins.",
+            "options": [
+                "Even though",
+                "Because of",
+                "Despite",
+                "However"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Despite' adalah preposisi yang digunakan untuk menunjukkan kontras dan diikuti oleh frasa kata benda ('the high cost...'). 'Even though' memerlukan subjek dan kata kerja penuh."
+        },
+        {
+            "id": "S422",
+            "sectionType": "structure",
+            "questionText": "Scarcely _______ the door when the phone started ringing incessantly.",
+            "options": [
+                "I had closed",
+                "had I closed",
+                "did I close",
+                "I closed"
+            ],
+            "answerIndex": 1,
+            "explanation": "Seperti 'Hardly' dan 'Rarely', kata 'Scarcely' memicu inversi subjek dan auxiliary. Karena pasangannya adalah past perfect untuk menunjukkan aksi pertama selesai sebelum yang kedua, 'had I closed' adalah pilihan yang paling tepat."
+        },
+        {
+            "id": "S423",
+            "sectionType": "structure",
+            "questionText": "The professor suggested that the research paper _______ submitted no later than Friday afternoon.",
+            "options": [
+                "is",
+                "was",
+                "be",
+                "will be"
+            ],
+            "answerIndex": 2,
+            "explanation": "Kata kerja 'suggested' menuntut bentuk subjunctive untuk klausa yang mengikutinya. Karena maknanya pasif ('makalah dikumpulkan'), digunakan bentuk dasar (base form) dari 'to be', yaitu 'be'."
+        },
+        {
+            "id": "S424",
+            "sectionType": "structure",
+            "questionText": "A newly discovered species of orchid, _______ in the dense Amazon rainforest, has attracted botanists worldwide.",
+            "options": [
+                "found it",
+                "was found",
+                "finding",
+                "found"
+            ],
+            "answerIndex": 3,
+            "explanation": "Kata 'found' di sini merupakan participle pasif yang mereduksi klausa adjektif 'which was found'. Frasa ini berfungsi menjelaskan kata benda 'species'."
+        },
+        {
+            "id": "S425",
+            "sectionType": "structure",
+            "questionText": "_______ a sudden drop in atmospheric pressure, the captain warned the crew of an impending storm.",
+            "options": [
+                "Noticed",
+                "Having noticed",
+                "To notice",
+                "Notice"
+            ],
+            "answerIndex": 1,
+            "explanation": "Bentuk perfect participle 'Having noticed' menunjukkan bahwa kapten (subjek kalimat utama) telah selesai menyadari penurunan tekanan udara sebelum ia memperingatkan awak kapalnya."
+        },
+        {
+            "id": "S426",
+            "sectionType": "structure",
+            "questionText": "Only by implementing stringent conservation protocols _______ the endangered wildlife habitat.",
+            "options": [
+                "they can save",
+                "can they save",
+                "saved they",
+                "they save"
+            ],
+            "answerIndex": 1,
+            "explanation": "Frasa 'Only by + gerund' di awal kalimat mensyaratkan inversi pada klausa utamanya. Modal auxiliary 'can' diletakkan sebelum subjek 'they'."
+        },
+        {
+            "id": "S427",
+            "sectionType": "structure",
+            "questionText": "The committee dictates that every applicant _______ a thorough background check prior to employment.",
+            "options": [
+                "undergoes",
+                "undergo",
+                "underwent",
+                "is undergoing"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kata kerja 'dictates' menyatakan perintah, yang memicu subjunctive mood dalam klausa 'that'. Kata kerja dasar 'undergo' digunakan meskipun subjeknya 'every applicant' merupakan singular."
+        },
+        {
+            "id": "S428",
+            "sectionType": "structure",
+            "questionText": "_______ as a remedy for centuries, the herb is now being investigated for its pharmacological properties.",
+            "options": [
+                "Using",
+                "Having used",
+                "Used",
+                "Uses"
+            ],
+            "answerIndex": 2,
+            "explanation": "Ini merupakan participial phrase pasif. Karena ramuan (the herb) 'digunakan' dan bukan 'menggunakan', maka past participle 'Used' adalah bentuk yang tepat sebagai reduksi dari 'Having been used' atau 'Because it was used'."
+        },
+        {
+            "id": "S429",
+            "sectionType": "structure",
+            "questionText": "Should the regulatory board _______ the merger, the new conglomerate would monopolize the industry.",
+            "options": [
+                "approves",
+                "approved",
+                "approve",
+                "approving"
+            ],
+            "answerIndex": 2,
+            "explanation": "Kalimat ini adalah bentuk inversi bersyarat (First/Second conditional) untuk pengandaian menggunakan 'Should'. Setelah 'Should' sebagai auxiliary, kata kerja yang menyertainya haruslah bentuk dasar (bare infinitive) yaitu 'approve'."
+        },
+        {
+            "id": "S430",
+            "sectionType": "structure",
+            "questionText": "The more intricate the tapestry's design, _______ the time required by the artisans to complete it.",
+            "options": [
+                "the greater",
+                "greatly",
+                "is the greater",
+                "greater"
+            ],
+            "answerIndex": 0,
+            "explanation": "Pola perbandingan ganda (double comparatives) mensyaratkan 'The + comparative adjective' di kedua klausa. 'The greater' sejajar dengan 'The more intricate'."
+        },
+        {
+            "id": "S431",
+            "sectionType": "structure",
+            "questionText": "Attached to the email _______ the revised blueprints and the finalized budget proposal.",
+            "options": [
+                "is",
+                "are",
+                "was",
+                "has been"
+            ],
+            "answerIndex": 1,
+            "explanation": "Ini adalah kalimat inversi karena frasa past participle 'Attached to the email' di letakkan di awal. Subjek sesungguhnya ada di belakang predikat dan berbentuk jamak: 'the revised blueprints and the finalized budget proposal', sehingga verb yang digunakan adalah 'are'."
+        },
+        {
+            "id": "S432",
+            "sectionType": "structure",
+            "questionText": "_______ that the Earth revolves around the sun was once considered heresy by the scientific establishment.",
+            "options": [
+                "The assertion",
+                "Asserting",
+                "It is asserted",
+                "That the assertion"
+            ],
+            "answerIndex": 0,
+            "explanation": "Kalimat ini membutuhkan subjek tunggal untuk mengawali klausa '...that the Earth revolves around the sun' (appositive). 'The assertion' berfungsi sebagai subjek kalimat utama 'The assertion ... was once considered heresy'."
+        },
+        {
+            "id": "S433",
+            "sectionType": "structure",
+            "questionText": "In no way _______ responsible for the catastrophic failure of the automated system.",
+            "options": [
+                "the technicians are",
+                "are the technicians",
+                "the technicians being",
+                "was the technicians"
+            ],
+            "answerIndex": 1,
+            "explanation": "Frasa negatif 'In no way' di awal kalimat memicu inversi antara predikat (to be) dan subjek. 'are' mendahului subjek jamak 'the technicians'."
+        },
+        {
+            "id": "S434",
+            "sectionType": "structure",
+            "questionText": "The director demands that the lead actor _______ all his lines by the first dress rehearsal.",
+            "options": [
+                "memorizes",
+                "memorized",
+                "memorize",
+                "memorizing"
+            ],
+            "answerIndex": 2,
+            "explanation": "Sesuai dengan aturan subjunctive setelah kata kerja keharusan (demands), klausa 'that' harus diisi dengan kata kerja dasar 'memorize' (tanpa 's') untuk subjek 'the lead actor'."
+        },
+        {
+            "id": "S435",
+            "sectionType": "structure",
+            "questionText": "_______ the complexity of the algorithm, the software runs with remarkable efficiency.",
+            "options": [
+                "Because of",
+                "Although",
+                "Notwithstanding",
+                "However"
+            ],
+            "answerIndex": 2,
+            "explanation": "'Notwithstanding' berfungsi sebagai preposisi yang bersinonim dengan 'despite' atau 'in spite of', dan diikuti langsung oleh frasa kata benda 'the complexity...'. Ini menunjukkan kontras yang tepat."
+        },
+        {
+            "id": "S436",
+            "sectionType": "structure",
+            "questionText": "Never before _______ such a rapid escalation in global temperatures over a single decade.",
+            "options": [
+                "has there been",
+                "there has been",
+                "has it been",
+                "there was"
+            ],
+            "answerIndex": 0,
+            "explanation": "Frasa 'Never before' memaksa terjadinya inversi. Karena struktur aslinya adalah 'there has been' (existential 'there'), susunannya dibalik menjadi 'has there been'."
+        },
+        {
+            "id": "S437",
+            "sectionType": "structure",
+            "questionText": "_______ to withstand seismic activity, the bridge features a unique suspension system.",
+            "options": [
+                "Designing",
+                "Designed",
+                "It was designed",
+                "Having designed"
+            ],
+            "answerIndex": 1,
+            "explanation": "Ini adalah frasa partisipial yang berfungsi sebagai penjelas (adjective). Karena jembatan tersebut 'dirancang' (pasif), kita menggunakan past participle 'Designed'."
+        },
+        {
+            "id": "S438",
+            "sectionType": "structure",
+            "questionText": "The municipal government requires that all new commercial buildings _______ solar panels on their roofs.",
+            "options": [
+                "install",
+                "installs",
+                "installed",
+                "installing"
+            ],
+            "answerIndex": 0,
+            "explanation": "Aturan subjunctive berlaku di sini karena kata kerja 'requires that'. Oleh karenanya, bentuk dasar (base form) 'install' digunakan."
+        },
+        {
+            "id": "S439",
+            "sectionType": "structure",
+            "questionText": "So sophisticated _______ the ancient civilization's plumbing system that it rivals modern engineering.",
+            "options": [
+                "was",
+                "it was",
+                "being",
+                "has been"
+            ],
+            "answerIndex": 0,
+            "explanation": "Ini adalah bentuk penekanan inversi 'So + adjective'. Polanya mengharuskan 'was' berada sebelum subjek utamanya yaitu 'the ancient civilization's plumbing system'."
+        },
+        {
+            "id": "S440",
+            "sectionType": "structure",
+            "questionText": "_______ by the sheer volume of data, the analysts implemented an AI-driven sorting mechanism.",
+            "options": [
+                "Overwhelming",
+                "Overwhelmed",
+                "They were overwhelmed",
+                "To overwhelm"
+            ],
+            "answerIndex": 1,
+            "explanation": "Sebagai frasa partisipial, makna yang dikandung adalah pasif (merasa kewalahan). Kata kerja bentuk ketiga 'Overwhelmed' memodifikasi subjek utama 'the analysts'."
+        },
+        {
+            "id": "S441",
+            "sectionType": "structure",
+            "questionText": "Rarely _______ such a profound impact on global financial markets as the recent fluctuation in cryptocurrency values.",
+            "options": [
+                "a single event has had",
+                "has a single event had",
+                "had a single event",
+                "a single event had"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kata keterangan negatif 'Rarely' di awal kalimat mengharuskan inversi subjek dan kata kerja bantu. 'has' mendahului subjek 'a single event', membentuk susunan present perfect tense 'has... had'."
+        },
+        {
+            "id": "S442",
+            "sectionType": "structure",
+            "questionText": "It is vital that the patient _______ the full course of antibiotics even if the symptoms subside.",
+            "options": [
+                "finishes",
+                "finished",
+                "finish",
+                "is finishing"
+            ],
+            "answerIndex": 2,
+            "explanation": "Kata sifat 'vital' memicu penggunaan subjunctive mood dalam klausa 'that'. Kata kerja harus dalam bentuk dasar (bare infinitive) yaitu 'finish', tanpa mempedulikan subjek tunggal 'the patient'."
+        },
+        {
+            "id": "S443",
+            "sectionType": "structure",
+            "questionText": "_______ by the scientific community initially, the theory of plate tectonics is now universally accepted.",
+            "options": [
+                "Having been rejected",
+                "Rejecting",
+                "To reject",
+                "Having rejected"
+            ],
+            "answerIndex": 0,
+            "explanation": "Bentuk perfect participle pasif 'Having been rejected' digunakan untuk menunjukkan tindakan yang dikenai pada subjek (ditolak) dan telah selesai di masa lampau sebelum peristiwa di klausa utama."
+        },
+        {
+            "id": "S444",
+            "sectionType": "structure",
+            "questionText": "Had the management foreseen the economic downturn, they _______ the massive expansion project.",
+            "options": [
+                "would not undertake",
+                "will not have undertaken",
+                "would not have undertaken",
+                "had not undertaken"
+            ],
+            "answerIndex": 2,
+            "explanation": "Ini adalah pengandaian tipe 3 (Third Conditional) yang diinversi. Klausa 'Had the management foreseen' berpasangan dengan klausa utama 'would have + past participle'."
+        },
+        {
+            "id": "S445",
+            "sectionType": "structure",
+            "questionText": "The more rigorously the newly developed software is tested, _______ it will be to cyberattacks.",
+            "options": [
+                "the less vulnerable",
+                "less vulnerable",
+                "it is less vulnerable",
+                "the least vulnerable"
+            ],
+            "answerIndex": 0,
+            "explanation": "Struktur komparatif ganda mensyaratkan bentuk 'The + comparative' di kedua klausa. 'The less vulnerable' sejajar dengan 'The more rigorously'."
+        },
+        {
+            "id": "S446",
+            "sectionType": "structure",
+            "questionText": "_______ that the universe is expanding at an accelerating rate was a groundbreaking discovery in cosmology.",
+            "options": [
+                "The observation",
+                "Observing",
+                "That the observation",
+                "It was observed"
+            ],
+            "answerIndex": 0,
+            "explanation": "Kalimat ini membutuhkan subjek untuk predikat 'was a groundbreaking discovery'. 'The observation' berfungsi sebagai subjek utama yang diikuti oleh klausa apositif 'that the universe is expanding...'."
+        },
+        {
+            "id": "S447",
+            "sectionType": "structure",
+            "questionText": "The primary responsibilities of the auditor are to analyze financial records, evaluate internal controls, and _______ compliance with regulations.",
+            "options": [
+                "assuring",
+                "to assure",
+                "assure",
+                "assured"
+            ],
+            "answerIndex": 2,
+            "explanation": "Struktur paralel mengharuskan elemen yang setara memiliki bentuk yang sama. Pola aslinya adalah 'to analyze, (to) evaluate, and (to) assure'. Pengulangan kata 'to' opsional, sehingga bentuk dasar 'assure' adalah yang paling tepat."
+        },
+        {
+            "id": "S448",
+            "sectionType": "structure",
+            "questionText": "Beyond the dense, uncharted forest _______ the ruins of a civilization that vanished millennia ago.",
+            "options": [
+                "lies",
+                "lie",
+                "laying",
+                "laid"
+            ],
+            "answerIndex": 1,
+            "explanation": "Frasa preposisional penunjuk tempat 'Beyond the dense, uncharted forest' di awal kalimat memicu inversi lokatif. Subjeknya adalah kata benda jamak 'the ruins', sehingga membutuhkan predikat jamak 'lie'."
+        },
+        {
+            "id": "S449",
+            "sectionType": "structure",
+            "questionText": "The artifacts, _______ during the recent excavation, date back to the early Bronze Age.",
+            "options": [
+                "were unearthed",
+                "unearthing",
+                "unearthed",
+                "which unearthed"
+            ],
+            "answerIndex": 2,
+            "explanation": "Ini adalah klausa relatif pasif yang direduksi ('which were unearthed'). Kata kerja bentuk ketiga (past participle) 'unearthed' berfungsi sebagai adjektiva yang menjelaskan 'The artifacts'."
+        },
+        {
+            "id": "S450",
+            "sectionType": "structure",
+            "questionText": "Only when the external temperature drops below freezing _______ its unique crystallization process.",
+            "options": [
+                "the compound begins",
+                "does the compound begin",
+                "begins the compound",
+                "the compound beginning"
+            ],
+            "answerIndex": 1,
+            "explanation": "Frasa 'Only when...' di awal kalimat mengharuskan klausa utamanya diinversi. Auxiliary 'does' diletakkan sebelum subjek 'the compound'."
+        },
+        {
+            "id": "S451",
+            "sectionType": "structure",
+            "questionText": "The environmental agency requested that the chemical plant _______ dumping toxic waste into the river.",
+            "options": [
+                "ceases",
+                "ceased",
+                "cease",
+                "ceasing"
+            ],
+            "answerIndex": 2,
+            "explanation": "Kata 'requested' menuntut penggunaan bentuk subjunctive di dalam klausa 'that'. Kata kerja dasar 'cease' harus digunakan terlepas dari subjek tunggal 'the chemical plant'."
+        },
+        {
+            "id": "S452",
+            "sectionType": "structure",
+            "questionText": "While _______ the archaeological site, the researchers stumbled upon a hidden burial chamber.",
+            "options": [
+                "survey",
+                "surveyed",
+                "surveying",
+                "were surveying"
+            ],
+            "answerIndex": 2,
+            "explanation": "Ini adalah reduksi klausa keterangan waktu ('While they were surveying'). Saat subjek kedua klausa sama, subjek dan 'to be' dapat dihilangkan, menyisakan bentuk present participle 'surveying'."
+        },
+        {
+            "id": "S453",
+            "sectionType": "structure",
+            "questionText": "_______ the undeniable risks associated with deep-sea exploration, many private companies are heavily investing in it.",
+            "options": [
+                "Although",
+                "In spite of",
+                "Even though",
+                "However"
+            ],
+            "answerIndex": 1,
+            "explanation": "Frasa 'the undeniable risks' adalah kelompok kata benda (noun phrase). Preposisi 'In spite of' digunakan sebelum frasa kata benda untuk menunjukkan kontras, berbeda dengan 'Although' yang memerlukan klausa utuh."
+        },
+        {
+            "id": "S454",
+            "sectionType": "structure",
+            "questionText": "Were the atmosphere of Mars entirely devoid of carbon dioxide, terraforming the planet _______ almost impossible.",
+            "options": [
+                "would be",
+                "will be",
+                "would have been",
+                "is"
+            ],
+            "answerIndex": 0,
+            "explanation": "Ini adalah conditional sentence tipe 2 dengan inversi ('If the atmosphere were...'). Klausa utamanya harus menggunakan pola 'would + bare infinitive', yaitu 'would be'."
+        },
+        {
+            "id": "S455",
+            "sectionType": "structure",
+            "questionText": "_______ by the intricate patterns of the microscopic organisms, the biologist spent years documenting their behavior.",
+            "options": [
+                "Fascinating",
+                "Fascinated",
+                "She was fascinated",
+                "To fascinate"
+            ],
+            "answerIndex": 1,
+            "explanation": "Frasa past participle 'Fascinated' berfungsi sebagai penjelas subjek 'the biologist'. Kata kerja pasif digunakan karena ahli biologi tersebut 'dibuat takjub' oleh organisme."
+        },
+        {
+            "id": "S456",
+            "sectionType": "structure",
+            "questionText": "Little _______ about the long-term cognitive effects of prolonged exposure to zero gravity.",
+            "options": [
+                "we know",
+                "do we know",
+                "we do know",
+                "know we"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kata negatif 'Little' yang ditempatkan di awal kalimat memicu aturan inversi penuh antara subjek dan auxiliary. Bentuk yang benar adalah 'do we know'."
+        },
+        {
+            "id": "S457",
+            "sectionType": "structure",
+            "questionText": "It is essential that every applicant _______ a portfolio demonstrating their prior experience in graphic design.",
+            "options": [
+                "submits",
+                "submit",
+                "submitted",
+                "submitting"
+            ],
+            "answerIndex": 1,
+            "explanation": "Frasa 'It is essential that' memicu mode subjunctive. Oleh karena itu, kata kerja dasar 'submit' digunakan untuk semua subjek tanpa memandang tunggal atau jamak."
+        },
+        {
+            "id": "S458",
+            "sectionType": "structure",
+            "questionText": "The engineers _______ the structural integrity of the dam noticed a microscopic fissure in the foundation.",
+            "options": [
+                "evaluated",
+                "were evaluating",
+                "evaluating",
+                "they evaluated"
+            ],
+            "answerIndex": 2,
+            "explanation": "Present participle 'evaluating' mereduksi klausa relatif aktif 'who were evaluating'. Frasa ini memodifikasi subjek utama 'The engineers'."
+        },
+        {
+            "id": "S459",
+            "sectionType": "structure",
+            "questionText": "There _______ several significant discrepancies between the witness's testimony and the forensic evidence.",
+            "options": [
+                "is",
+                "are",
+                "remains",
+                "remain"
+            ],
+            "answerIndex": 3,
+            "explanation": "Kalimat ekspletif (expletive sentence) yang diawali dengan 'There' menyesuaikan predikat dengan subjek logis setelahnya. 'several significant discrepancies' adalah jamak, sehingga kata kerja jamak 'remain' digunakan."
+        },
+        {
+            "id": "S460",
+            "sectionType": "structure",
+            "questionText": "So complex _______ that specialized quantum computers are required to run the simulations.",
+            "options": [
+                "the mathematical model is",
+                "is the mathematical model",
+                "being the mathematical model",
+                "has the mathematical model"
+            ],
+            "answerIndex": 1,
+            "explanation": "Bentuk penekanan 'So + adjective' (So complex) di awal kalimat menyebabkan inversi subjek dan predikat to be. Polanya adalah 'So + adjective + to be + subject'."
+        },
+        {
+            "id": "S461",
+            "sectionType": "structure",
+            "questionText": "Not wanting to compromise the integrity of the data, the lead researcher _______ the entire trial from scratch.",
+            "options": [
+                "restarting",
+                "restarted",
+                "was restarted",
+                "to restart"
+            ],
+            "answerIndex": 1,
+            "explanation": "Frasa partisipial di awal kalimat ('Not wanting...') menerangkan subjek 'the lead researcher'. Klausa utama membutuhkan kata kerja utama (finite verb) dalam bentuk past tense aktif, yaitu 'restarted'."
+        },
+        {
+            "id": "S462",
+            "sectionType": "structure",
+            "questionText": "At no time during the cross-examination _______ the defendant exhibit any signs of remorse.",
+            "options": [
+                "did",
+                "does",
+                "was",
+                "has"
+            ],
+            "answerIndex": 0,
+            "explanation": "Frasa preposisional negatif 'At no time' memicu inversi. Mengingat konteks kalimat dan penggunaan kata kerja dasar 'exhibit' setelah subjek, auxiliary untuk bentuk lampau 'did' adalah yang paling tepat."
+        },
+        {
+            "id": "S463",
+            "sectionType": "structure",
+            "questionText": "The dictator maintained power neither by coercion nor _______, but through absolute control of the media.",
+            "options": [
+                "by manipulating",
+                "through manipulation",
+                "by manipulation",
+                "manipulating"
+            ],
+            "answerIndex": 2,
+            "explanation": "Korelasi 'neither... nor...' membutuhkan struktur paralel. Karena bagian pertamanya adalah frasa preposisi 'by coercion', bagian keduanya harus setara bentuknya, yaitu 'by manipulation'."
+        },
+        {
+            "id": "S464",
+            "sectionType": "structure",
+            "questionText": "The legal counsel advised that the corporation _______ a formal settlement before the trial begins.",
+            "options": [
+                "seeks",
+                "sought",
+                "seek",
+                "seeking"
+            ],
+            "answerIndex": 2,
+            "explanation": "Kata kerja 'advised' menuntut klausa subjunctive setelahnya. Kata kerja dalam klausa 'that' harus menggunakan bentuk dasar 'seek', tidak mempedulikan subjek 'the corporation'."
+        },
+        {
+            "id": "S465",
+            "sectionType": "structure",
+            "questionText": "Should the primary power grid fail, the backup generators _______ automatically within seconds.",
+            "options": [
+                "will activate",
+                "activated",
+                "would activate",
+                "had activated"
+            ],
+            "answerIndex": 0,
+            "explanation": "Ini adalah pengandaian bersyarat tipe 1 dengan inversi 'Should' (pengganti 'If the primary power grid should fail'). Klausa utama menggunakan 'will + bare infinitive'."
+        },
+        {
+            "id": "S466",
+            "sectionType": "structure",
+            "questionText": "The less dense the surrounding fluid is, _______ for the object to achieve buoyancy.",
+            "options": [
+                "the more difficult it is",
+                "more difficult is it",
+                "it is more difficult",
+                "the most difficult"
+            ],
+            "answerIndex": 0,
+            "explanation": "Kalimat ini memakai pola komparatif ganda (double comparative). 'The less dense' harus diseimbangkan dengan klausa yang diawali 'the + comparative', yaitu 'the more difficult it is'."
+        },
+        {
+            "id": "S467",
+            "sectionType": "structure",
+            "questionText": "A renowned expert in behavioral economics, _______ numerous articles on consumer decision-making.",
+            "options": [
+                "Dr. Aris has published",
+                "publishing by Dr. Aris",
+                "Dr. Aris publishing",
+                "has Dr. Aris published"
+            ],
+            "answerIndex": 0,
+            "explanation": "Frasa apositif 'A renowned expert...' di awal kalimat membutuhkan subjek utama beserta kata kerjanya (finite verb). 'Dr. Aris has published' melengkapi struktur secara gramatikal."
+        },
+        {
+            "id": "S468",
+            "sectionType": "structure",
+            "questionText": "Animals _______ in captivity often lack the essential survival skills needed in the wild.",
+            "options": [
+                "are born",
+                "born",
+                "bearing",
+                "they are born"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kata 'born' di sini adalah bentuk past participle yang mereduksi klausa relatif pasif 'which are born'. Ini memodifikasi kata benda 'Animals'."
+        },
+        {
+            "id": "S469",
+            "sectionType": "structure",
+            "questionText": "Not only _______ distinct architectural styles, but they also reflect entirely different cultural philosophies.",
+            "options": [
+                "the two monuments exhibit",
+                "do the two monuments exhibit",
+                "the two monuments exhibiting",
+                "exhibit the two monuments"
+            ],
+            "answerIndex": 1,
+            "explanation": "Konjungsi korelatif 'Not only' yang ditempatkan di awal klausa memerlukan inversi subjek-verb. 'do' diletakkan sebelum subjek 'the two monuments'."
+        },
+        {
+            "id": "S470",
+            "sectionType": "structure",
+            "questionText": "_______ the rigorous calibration process, the instrument yielded highly precise measurements.",
+            "options": [
+                "Completed",
+                "Having completed",
+                "To complete",
+                "Complete"
+            ],
+            "answerIndex": 1,
+            "explanation": "Perfect participle 'Having completed' (bentuk aktif) digunakan ketika subjek (instrumen) telah menyelesaikan suatu aksi sebelum aksi di klausa utama terjadi. Note: instrumen di sini secara aktif menyelesaikan proses kalibrasi (atau diandaikan sebagai subjek aktif alat tersebut)."
+        },
+        {
+            "id": "S471",
+            "sectionType": "structure",
+            "questionText": "The labor union urged that the new safety legislation _______ by the end of the fiscal year.",
+            "options": [
+                "is passed",
+                "passes",
+                "be passed",
+                "was passed"
+            ],
+            "answerIndex": 2,
+            "explanation": "Kata kerja 'urged' mensyaratkan subjunctive mood. Karena undang-undang (legislation) dikenai tindakan (pasif), bentuk yang tepat adalah 'be + past participle' yaitu 'be passed'."
+        },
+        {
+            "id": "S472",
+            "sectionType": "structure",
+            "questionText": "_______ her predecessors, the newly appointed CEO favors an open-door policy and flat organizational structure.",
+            "options": [
+                "Unlike",
+                "Dislike",
+                "Not alike",
+                "Alike"
+            ],
+            "answerIndex": 0,
+            "explanation": "Preposisi 'Unlike' digunakan untuk membandingkan subjek ('the newly appointed CEO') dengan kelompok lain ('her predecessors') untuk menunjukkan perbedaan."
+        },
+        {
+            "id": "S473",
+            "sectionType": "structure",
+            "questionText": "Beneath the abyssal plain _______ vast reserves of natural gas frozen in crystalline structures.",
+            "options": [
+                "lie",
+                "lies",
+                "is laying",
+                "has lain"
+            ],
+            "answerIndex": 0,
+            "explanation": "Inversi lokatif terjadi karena frasa preposisional tempat di awal kalimat. Subjek aslinya adalah jamak, yaitu 'vast reserves', sehingga predikat yang benar adalah 'lie' (jamak)."
+        },
+        {
+            "id": "S474",
+            "sectionType": "structure",
+            "questionText": "The intense negotiations _______, the delegates finally signed the comprehensive trade agreement.",
+            "options": [
+                "having concluded",
+                "concluded",
+                "had concluded",
+                "were concluding"
+            ],
+            "answerIndex": 0,
+            "explanation": "Ini adalah konstruksi absolute phrase (subjek + participle) yang berdiri sendiri dari klausa utama. 'having concluded' menunjukkan tindakan yang telah tuntas sebelum penandatanganan."
+        },
+        {
+            "id": "S475",
+            "sectionType": "structure",
+            "questionText": "Seldom _______ such an innovative fusion of classical mechanics and quantum theory.",
+            "options": [
+                "physicists have witnessed",
+                "have physicists witnessed",
+                "physicists witnessed",
+                "witnessed physicists"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kata keterangan berkonotasi negatif 'Seldom' di posisi awal mewajibkan inversi susunan auxiliary dan subjek ('have physicists witnessed')."
+        },
+        {
+            "id": "S476",
+            "sectionType": "structure",
+            "questionText": "Anyone _______ to participate in the clinical trial must sign a detailed consent form.",
+            "options": [
+                "wishes",
+                "wished",
+                "wishing",
+                "is wishing"
+            ],
+            "answerIndex": 2,
+            "explanation": "Kata 'wishing' merupakan present participle yang mereduksi klausa relatif aktif 'who wishes'. Frasa ini memodifikasi kata ganti 'Anyone'."
+        },
+        {
+            "id": "S477",
+            "sectionType": "structure",
+            "questionText": "Had it not been for the discovery of penicillin, minor infections _______ fatal in the 20th century.",
+            "options": [
+                "would often be",
+                "will often be",
+                "would often have been",
+                "had often been"
+            ],
+            "answerIndex": 2,
+            "explanation": "Klausa awal merupakan inversi dari kondisional tipe 3 ('If it had not been for'). Maka klausa utamanya memerlukan bentuk 'would have + past participle' untuk merujuk ke probabilitas di masa lampau."
+        },
+        {
+            "id": "S478",
+            "sectionType": "structure",
+            "questionText": "The architect designed the skyscraper to be not only visually appealing but also _______ sound against hurricane-force winds.",
+            "options": [
+                "structure",
+                "structurally",
+                "structured",
+                "structuring"
+            ],
+            "answerIndex": 1,
+            "explanation": "Korelasi 'not only... but also' memerlukan struktur paralel. 'visually appealing' (adverb + adjective) harus setara dengan '(adverb) sound'. Kata yang tepat adalah adverbia 'structurally'."
+        },
+        {
+            "id": "S479",
+            "sectionType": "structure",
+            "questionText": "It is a strict requirement that the applicant _______ all mandatory seminars during the probationary period.",
+            "options": [
+                "attends",
+                "attend",
+                "attended",
+                "attending"
+            ],
+            "answerIndex": 1,
+            "explanation": "Frasa 'a strict requirement that' memicu pemakaian subjunctive mood. Karena itu, digunakan kata kerja bentuk dasar 'attend', terlepas dari subjek tunggal 'the applicant'."
+        },
+        {
+            "id": "S480",
+            "sectionType": "structure",
+            "questionText": "The faster a star consumes its hydrogen fuel, _______ its lifespan will be.",
+            "options": [
+                "the shorter",
+                "shorter",
+                "the shortest",
+                "shortly"
+            ],
+            "answerIndex": 0,
+            "explanation": "Perbandingan ganda menggunakan pola 'The + comparative... the + comparative...'. Frasa 'the shorter' melengkapi paralelisme dengan 'The faster'."
+        },
+        {
+            "id": "S481",
+            "sectionType": "structure",
+            "questionText": "_______ in a thick layer of volcanic ash, the ancient city remained perfectly preserved for centuries.",
+            "options": [
+                "Buried",
+                "Burying",
+                "To bury",
+                "Having buried"
+            ],
+            "answerIndex": 0,
+            "explanation": "Frasa partisipial 'Buried' (past participle) memberikan arti pasif 'terkubur' yang memodifikasi subjek klausa utama 'the ancient city'."
+        },
+        {
+            "id": "S482",
+            "sectionType": "structure",
+            "questionText": "Nowhere else in the known universe _______ conditions so perfectly aligned to support carbon-based life.",
+            "options": [
+                "there are",
+                "are there",
+                "they are",
+                "are they"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kata keterangan negatif 'Nowhere' memaksa inversi ketika ditempatkan di depan. Struktur ekspletif 'there are' dibalik menjadi 'are there'."
+        },
+        {
+            "id": "S483",
+            "sectionType": "structure",
+            "questionText": "_______ scientists find most perplexing is the organism's ability to regenerate its entire nervous system.",
+            "options": [
+                "That",
+                "What",
+                "Which",
+                "How"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kalimat ini membutuhkan klausa kata benda (noun clause) sebagai subjek kalimat. Kata ganti interogatif 'What' bertindak ganda sebagai objek dari 'find' dan penghubung pembentuk klausa yang menjadi subjek utama."
+        },
+        {
+            "id": "S484",
+            "sectionType": "structure",
+            "questionText": "The presiding judge ordered that the defendant _______ in custody until the final verdict is reached.",
+            "options": [
+                "remains",
+                "remain",
+                "remained",
+                "is remaining"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kata kerja 'ordered' menuntut bentuk subjunctive untuk kata kerja dalam klausa 'that'. Bentuk dasar 'remain' harus digunakan untuk subjek 'the defendant'."
+        },
+        {
+            "id": "S485",
+            "sectionType": "structure",
+            "questionText": "The philosophical treatise, _______ by a relatively unknown author, sparked a revolution in ethical thought.",
+            "options": [
+                "penning",
+                "penned",
+                "was penned",
+                "which penned"
+            ],
+            "answerIndex": 1,
+            "explanation": "Ini adalah bentuk reduksi dari klausa relatif pasif 'which was penned'. Kata kerja bentuk ketiga (past participle) 'penned' memberikan arti 'yang ditulis'."
+        },
+        {
+            "id": "S486",
+            "sectionType": "structure",
+            "questionText": "Hardly _______ the first draft of the manuscript when the publisher demanded a complete revision.",
+            "options": [
+                "the author had finished",
+                "had the author finished",
+                "did the author finish",
+                "the author finished"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kata 'Hardly' di awal kalimat memicu inversi. Pasangannya seringkali 'when' dengan tense 'past perfect', sehingga susunan yang benar adalah auxiliary 'had' mendahului subjek 'the author'."
+        },
+        {
+            "id": "S487",
+            "sectionType": "structure",
+            "questionText": "Upon _______ the atmospheric data, the meteorologists issued an immediate severe weather warning.",
+            "options": [
+                "analyze",
+                "analyzed",
+                "analyzing",
+                "analysis"
+            ],
+            "answerIndex": 2,
+            "explanation": "Preposisi 'Upon' diikuti oleh bentuk gerund ('analyzing') untuk merujuk pada aksi yang terjadi persis sebelum aksi di klausa utama."
+        },
+        {
+            "id": "S488",
+            "sectionType": "structure",
+            "questionText": "The ideal candidate must be not only proficient in Python _______ experienced in cloud computing infrastructure.",
+            "options": [
+                "but also",
+                "and also",
+                "as well as",
+                "yet also"
+            ],
+            "answerIndex": 0,
+            "explanation": "Pasangan korelasi yang benar untuk konjungsi 'not only' adalah selalu 'but also', digunakan untuk menghubungkan dua elemen paralel dalam kalimat."
+        },
+        {
+            "id": "S489",
+            "sectionType": "structure",
+            "questionText": "_______ for the gravitational pull of the moon, the Earth's axis would wobble chaotically.",
+            "options": [
+                "If it is not",
+                "Were it not",
+                "Had it not been",
+                "If not"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kondisi hipotetis di masa sekarang (tipe 2) dengan hasil 'would wobble'. Bentuk inversi dari 'If it were not for' adalah 'Were it not for'."
+        },
+        {
+            "id": "S490",
+            "sectionType": "structure",
+            "questionText": "Despite the rigorous search efforts, there _______ to be no conclusive evidence linking the suspect to the crime.",
+            "options": [
+                "appears",
+                "appear",
+                "appearing",
+                "is appearing"
+            ],
+            "answerIndex": 0,
+            "explanation": "Struktur ekspletif 'there' diikuti predikat yang disesuaikan dengan subjek setelahnya. Subjek logisnya adalah 'no conclusive evidence' (uncountable/tunggal), sehingga kata kerja tunggal 'appears' digunakan."
+        },
+        {
+            "id": "S491",
+            "sectionType": "structure",
+            "questionText": "The independent oversight committee recommended that the outdated software system _______ immediately.",
+            "options": [
+                "replaced",
+                "is replaced",
+                "be replaced",
+                "replaces"
+            ],
+            "answerIndex": 2,
+            "explanation": "Kata kerja 'recommended' menuntut subjunctive mood. Karena sistem tersebut 'diganti' (pasif), bentuk yang benar adalah kata kerja dasar pasif: 'be replaced'."
+        },
+        {
+            "id": "S492",
+            "sectionType": "structure",
+            "questionText": "On the gallery's main exhibition wall _______ three original masterpieces from the Renaissance period.",
+            "options": [
+                "hung",
+                "hanged",
+                "was hanging",
+                "were hung"
+            ],
+            "answerIndex": 0,
+            "explanation": "Kalimat ini memakai inversi lokatif. Subjeknya adalah 'three original masterpieces' (jamak). Kata kerja bentuk lampau untuk benda yang digantung adalah 'hung', tidak seperti 'hanged' yang untuk hukuman gantung."
+        },
+        {
+            "id": "S493",
+            "sectionType": "structure",
+            "questionText": "_______ by a sudden influx of complex algorithms, the mainframe processor automatically initiated a cooling sequence.",
+            "options": [
+                "Triggering",
+                "Triggered",
+                "Having triggered",
+                "To trigger"
+            ],
+            "answerIndex": 1,
+            "explanation": "Klausa partisipial ini memiliki makna pasif ('Dicuatkan oleh...'). Kata kerja bentuk ketiga (past participle) 'Triggered' menerangkan subjek 'the mainframe processor'."
+        },
+        {
+            "id": "S494",
+            "sectionType": "structure",
+            "questionText": "The higher the concentration of greenhouse gases in the atmosphere, _______ the rate of glacial melting.",
+            "options": [
+                "the more rapid is",
+                "more rapid",
+                "the more rapid",
+                "rapidly"
+            ],
+            "answerIndex": 2,
+            "explanation": "Aturan komparatif ganda berpasangan menuntut frasa tanpa kata kerja to be asalkan maknanya jelas. Bentuk 'the more rapid' setara dan berpasangan dengan 'The higher'."
+        },
+        {
+            "id": "S495",
+            "sectionType": "structure",
+            "questionText": "Scarcely _______ the intricate code when a massive power surge wiped out the server's memory.",
+            "options": [
+                "the programmer had debugged",
+                "had the programmer debugged",
+                "did the programmer debug",
+                "the programmer debugged"
+            ],
+            "answerIndex": 1,
+            "explanation": "Kata 'Scarcely' memicu inversi. Seringkali diikuti past perfect untuk aksi yang terjadi tepat sebelum aksi berikutnya (yang ditandai dengan 'when' + past tense). Jadi 'had' mendahului subjek 'the programmer'."
+        },
+        {
+            "id": "S496",
+            "sectionType": "structure",
+            "questionText": "The vast constellation of stars, along with countless nebulae and dark matter, _______ the entirety of our galaxy.",
+            "options": [
+                "comprise",
+                "comprises",
+                "comprising",
+                "are comprising"
+            ],
+            "answerIndex": 1,
+            "explanation": "Frasa komitatif 'along with...' tidak mengubah jumlah dari subjek utama kalimat. Subjek tunggalnya adalah 'The vast constellation', sehingga membutuhkan predikat berakhiran -s, yaitu 'comprises'."
+        },
+        {
+            "id": "S497",
+            "sectionType": "structure",
+            "questionText": "The novel extraction techniques _______ currently by geologists have significantly reduced environmental degradation.",
+            "options": [
+                "employing",
+                "are employed",
+                "employed",
+                "being employed"
+            ],
+            "answerIndex": 3,
+            "explanation": "Ini adalah reduksi dari klausa relatif pasif berkelanjutan ('which are currently being employed'). Kata keterangan 'currently' menekankan sifat progresif, sehingga frasa 'being employed' tepat untuk memodifikasi 'techniques'."
+        },
+        {
+            "id": "S498",
+            "sectionType": "structure",
+            "questionText": "It is crucial that the foundation of the skyscraper _______ on solid bedrock to ensure structural stability.",
+            "options": [
+                "lays",
+                "is laid",
+                "be laid",
+                "laid"
+            ],
+            "answerIndex": 2,
+            "explanation": "Kata sifat 'crucial' menyebabkan klausa 'that' menggunakan subjunctive mood. Pondasi bersifat pasif (diletakkan), sehingga kita memakai bentuk dasar to be diikuti past participle, yakni 'be laid'."
+        },
+        {
+            "id": "S499",
+            "sectionType": "structure",
+            "questionText": "_______ by an insatiable drive for innovation, the startup founder revolutionized the entire tech industry in under five years.",
+            "options": [
+                "Propelled",
+                "Propelling",
+                "To propel",
+                "Having propelled"
+            ],
+            "answerIndex": 0,
+            "explanation": "Frasa past participle 'Propelled' digunakan karena pendiri startup tersebut merupakan pihak yang 'didorong' oleh inovasi (makna pasif). Frasa ini memodifikasi subjek utama 'the startup founder'."
+        },
+        {
+            "id": "S500",
+            "sectionType": "structure",
+            "questionText": "Only through rigorous peer review and reproducible methodology _______ validated in the scientific community.",
+            "options": [
+                "a hypothesis can be",
+                "can a hypothesis be",
+                "a hypothesis is",
+                "is a hypothesis"
+            ],
+            "answerIndex": 1,
+            "explanation": "Frasa 'Only through...' di awal kalimat mengharuskan pola kalimat mengalami inversi pada klausa utamanya. Modal auxiliary 'can' harus mendahului subjek 'a hypothesis'."
         }
     ]
 }
