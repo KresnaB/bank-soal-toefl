@@ -5431,6 +5431,1831 @@
       "options": ["Being that", "late", "missed", "beginning"],
       "answerIndex": 0,
       "explanation": "Frasa 'Being that' tidak baku (informal) dan salah secara tata bahasa formal. Seharusnya menggunakan 'Since' atau 'Because'."
+    },
+    {
+      "id": "WE601",
+      "sectionType": "written_expression",
+      "questionText": "Not until the late 19th century d̲i̲d̲ the scientists r̲e̲a̲l̲i̲z̲e̲d̲ the i̲m̲p̲o̲r̲t̲a̲n̲c̲e̲ of s̲a̲n̲i̲t̲a̲t̲i̲o̲n̲.",
+      "underlinedParts": ["did", "realized", "importance", "sanitation"],
+      "options": ["did", "realized", "importance", "sanitation"],
+      "answerIndex": 1,
+      "explanation": "Dalam kalimat inversi dengan kata kerja bantu 'did', kata kerja utama harus kembali ke bentuk dasar (bare infinitive). Seharusnya 'realize', bukan 'realized'."
+    },
+    {
+      "id": "WE602",
+      "sectionType": "written_expression",
+      "questionText": "The board of directors i̲n̲s̲i̲s̲t̲e̲d̲ that the manager p̲r̲o̲v̲i̲d̲e̲s̲ a detailed r̲e̲p̲o̲r̲t̲ by F̲r̲i̲d̲a̲y̲.",
+      "underlinedParts": ["insisted", "provides", "report", "Friday"],
+      "options": ["insisted", "provides", "report", "Friday"],
+      "answerIndex": 1,
+      "explanation": "Subjunctive mood. Setelah kata kerja yang menunjukkan desakan (insisted), kata kerja pada klausa 'that' harus dalam bentuk dasar. Seharusnya 'provide'."
+    },
+    {
+      "id": "WE603",
+      "sectionType": "written_expression",
+      "questionText": "B̲o̲r̲n̲ in a small village, the a̲u̲t̲h̲o̲r̲'s̲ first novel r̲e̲f̲l̲e̲c̲t̲s̲ her early e̲x̲p̲e̲r̲i̲e̲n̲c̲e̲s̲.",
+      "underlinedParts": ["Born", "author's", "reflects", "experiences"],
+      "options": ["Born", "author's", "reflects", "experiences"],
+      "answerIndex": 1,
+      "explanation": "Dangling modifier. Subjek dari 'Born in a small village' adalah penulisnya, bukan novelnya. Seharusnya subjek setelah koma adalah 'the author', sehingga menjadi 'the author reflects...'."
+    },
+    {
+      "id": "WE604",
+      "sectionType": "written_expression",
+      "questionText": "The committee decided t̲o̲ h̲i̲r̲e̲ new staff, i̲n̲c̲r̲e̲a̲s̲i̲n̲g̲ the budget, a̲n̲d̲ update the s̲o̲f̲t̲w̲a̲r̲e̲.",
+      "underlinedParts": ["to hire", "increasing", "and", "software"],
+      "options": ["to hire", "increasing", "and", "software"],
+      "answerIndex": 1,
+      "explanation": "Paralelisme. Elemen yang digabungkan harus setara: 'to hire', '[to] increase', dan '[to] update'. Seharusnya 'increase'."
+    },
+    {
+      "id": "WE605",
+      "sectionType": "written_expression",
+      "questionText": "A great a̲m̲o̲u̲n̲t̲ of visitors a̲r̲e̲ expected to a̲t̲t̲e̲n̲d̲ the e̲x̲h̲i̲b̲i̲t̲i̲o̲n̲.",
+      "underlinedParts": ["amount", "are", "attend", "exhibition"],
+      "options": ["amount", "are", "attend", "exhibition"],
+      "answerIndex": 0,
+      "explanation": "'Visitors' adalah kata benda yang dapat dihitung (countable noun). Oleh karena itu, pengukur kuantitas yang tepat adalah 'number', bukan 'amount'."
+    },
+    {
+      "id": "WE606",
+      "sectionType": "written_expression",
+      "questionText": "The researcher r̲e̲f̲u̲s̲e̲d̲ r̲e̲l̲e̲a̲s̲i̲n̲g̲ the d̲a̲t̲a̲ until the patent was s̲e̲c̲u̲r̲e̲d̲.",
+      "underlinedParts": ["refused", "releasing", "data", "secured"],
+      "options": ["refused", "releasing", "data", "secured"],
+      "answerIndex": 1,
+      "explanation": "Verb complement. Kata kerja 'refuse' harus selalu diikuti oleh infinitive (to + verb 1), bukan gerund (verb-ing). Seharusnya 'to release'."
+    },
+    {
+      "id": "WE607",
+      "sectionType": "written_expression",
+      "questionText": "The supervisor had the technician t̲o̲ r̲e̲p̲a̲i̲r̲ the m̲a̲c̲h̲i̲n̲e̲ before the morning s̲h̲i̲f̲t̲.",
+      "underlinedParts": ["to repair", "machine", "before", "shift"],
+      "options": ["to repair", "machine", "before", "shift"],
+      "answerIndex": 0,
+      "explanation": "Causative verb. Pola active causative untuk kata kerja 'have' (had) adalah 'have + object + bare infinitive'. Seharusnya 'repair' tanpa 'to'."
+    },
+    {
+      "id": "WE608",
+      "sectionType": "written_expression",
+      "questionText": "The patient recovered q̲u̲i̲c̲k̲l̲y̲ because the doctor had performed an e̲x̲c̲e̲p̲t̲i̲o̲n̲a̲l̲ successful s̲u̲r̲g̲e̲r̲y̲.",
+      "underlinedParts": ["quickly", "exceptional", "successful", "surgery"],
+      "options": ["quickly", "exceptional", "successful", "surgery"],
+      "answerIndex": 1,
+      "explanation": "Untuk memodifikasi kata sifat 'successful', diperlukan kata keterangan (adverb). Seharusnya 'exceptionally'."
+    },
+    {
+      "id": "WE609",
+      "sectionType": "written_expression",
+      "questionText": "The new laboratory h̲a̲s̲ purchased state-of-the-art e̲q̲u̲i̲p̲m̲e̲n̲t̲s̲ for the u̲p̲c̲o̲m̲i̲n̲g̲ research.",
+      "underlinedParts": ["has", "equipments", "for", "upcoming"],
+      "options": ["has", "equipments", "for", "upcoming"],
+      "answerIndex": 1,
+      "explanation": "'Equipment' merupakan kata benda yang tidak dapat dihitung (uncountable noun) dan tidak boleh ditambahkan akhiran jamak '-s'. Seharusnya 'equipment'."
+    },
+    {
+      "id": "WE610",
+      "sectionType": "written_expression",
+      "questionText": "The phenomena o̲b̲s̲e̲r̲v̲e̲d̲ in the recent study i̲s̲ entirely u̲n̲p̲r̲e̲c̲e̲d̲e̲n̲t̲e̲d̲.",
+      "underlinedParts": ["observed", "is", "entirely", "unprecedented"],
+      "options": ["observed", "is", "entirely", "unprecedented"],
+      "answerIndex": 1,
+      "explanation": "Kata 'phenomena' adalah bentuk jamak dari 'phenomenon'. Oleh karena itu, kata kerjanya harus menyesuaikan menjadi jamak. Seharusnya 'are'."
+    },
+    {
+      "id": "WE611",
+      "sectionType": "written_expression",
+      "questionText": "The cheetah, w̲h̲i̲c̲h̲ the fastest land a̲n̲i̲m̲a̲l̲, can reach s̲p̲e̲e̲d̲s̲ of up to 70 m̲p̲h̲.",
+      "underlinedParts": ["which", "animal", "speeds", "mph"],
+      "options": ["which", "animal", "speeds", "mph"],
+      "answerIndex": 0,
+      "explanation": "Dalam struktur appositive, relative pronoun 'which' harus diikuti oleh kata kerja 'is' (which is the fastest...), atau dihilangkan sama sekali ('The cheetah, the fastest...')."
+    },
+    {
+      "id": "WE612",
+      "sectionType": "written_expression",
+      "questionText": "The climate in San Francisco is m̲u̲c̲h̲ m̲o̲r̲e̲ c̲o̲o̲l̲e̲r̲ than t̲h̲a̲t̲ in Los A̲n̲g̲e̲l̲e̲s̲.",
+      "underlinedParts": ["much", "more cooler", "that", "Los Angeles"],
+      "options": ["much", "more cooler", "that", "Los Angeles"],
+      "answerIndex": 1,
+      "explanation": "Double comparative. Kata 'cooler' sudah berbentuk komparatif (berakhiran -er), sehingga penambahan 'more' membuat kalimat menjadi berlebihan. Seharusnya cukup 'much cooler'."
+    },
+    {
+      "id": "WE613",
+      "sectionType": "written_expression",
+      "questionText": "The team was c̲o̲n̲g̲r̲a̲t̲u̲l̲a̲t̲e̲d̲ f̲o̲r̲ their outstanding p̲e̲r̲f̲o̲r̲m̲a̲n̲c̲e̲ during the final m̲a̲t̲c̲h̲.",
+      "underlinedParts": ["congratulated", "for", "performance", "match"],
+      "options": ["congratulated", "for", "performance", "match"],
+      "answerIndex": 1,
+      "explanation": "Preposisi idiomatis. Kata kerja 'congratulate' selalu diikuti oleh preposisi 'on', bukan 'for'. Seharusnya 'congratulated on'."
+    },
+    {
+      "id": "WE614",
+      "sectionType": "written_expression",
+      "questionText": "The students must m̲a̲k̲e̲ their homework b̲e̲f̲o̲r̲e̲ they can participate i̲n̲ the extracurricular a̲c̲t̲i̲v̲i̲t̲i̲e̲s̲.",
+      "underlinedParts": ["make", "before", "in", "activities"],
+      "options": ["make", "before", "in", "activities"],
+      "answerIndex": 0,
+      "explanation": "Kesalahan kolokasi (collocation). Dalam bahasa Inggris, pasangan yang tepat untuk 'homework' adalah 'do', bukan 'make'. Seharusnya 'do their homework'."
+    },
+    {
+      "id": "WE615",
+      "sectionType": "written_expression",
+      "questionText": "The company i̲n̲t̲e̲n̲d̲s̲ to advance f̲o̲r̲w̲a̲r̲d̲ with its plans t̲o̲ e̲x̲p̲a̲n̲d̲.",
+      "underlinedParts": ["intends", "forward", "its", "to expand"],
+      "options": ["intends", "forward", "its", "to expand"],
+      "answerIndex": 1,
+      "explanation": "Redundansi. Kata 'advance' sudah bermakna 'bergerak maju (forward)'. Penggunaan 'forward' menjadi pemborosan kata dan seharusnya dihilangkan."
+    },
+    {
+      "id": "WE616",
+      "sectionType": "written_expression",
+      "questionText": "I̲f̲ the government had acted s̲o̲o̲n̲e̲r̲, the crisis w̲o̲u̲l̲d̲ b̲e̲ averted a̲l̲t̲o̲g̲e̲t̲h̲e̲r̲.",
+      "underlinedParts": ["If", "sooner", "would be", "altogether"],
+      "options": ["If", "sooner", "would be", "altogether"],
+      "answerIndex": 2,
+      "explanation": "Conditional tipe 3 (unreal past). Klausa utama harus menggunakan 'would have + verb 3'. Seharusnya 'would have been averted'."
+    },
+    {
+      "id": "WE617",
+      "sectionType": "written_expression",
+      "questionText": "The lecture was s̲u̲c̲h̲ b̲o̲r̲i̲n̲g̲ that half the a̲u̲d̲i̲e̲n̲c̲e̲ fell a̲s̲l̲e̲e̲p̲.",
+      "underlinedParts": ["such", "boring", "audience", "asleep"],
+      "options": ["such", "boring", "audience", "asleep"],
+      "answerIndex": 0,
+      "explanation": "Kata 'such' hanya digunakan jika diikuti oleh frasa kata benda (noun phrase). Karena 'boring' adalah kata sifat tanpa benda, seharusnya menggunakan 'so'."
+    },
+    {
+      "id": "WE618",
+      "sectionType": "written_expression",
+      "questionText": "The responsibility for the p̲r̲o̲j̲e̲c̲t̲ falls e̲n̲t̲i̲r̲e̲l̲y̲ on the manager a̲n̲d̲ I̲.",
+      "underlinedParts": ["project", "entirely", "and", "I"],
+      "options": ["project", "entirely", "and", "I"],
+      "answerIndex": 3,
+      "explanation": "Pronoun case. Karena terletak setelah preposisi 'on', kata ganti yang digunakan harus sebagai objek (objective pronoun). Seharusnya 'and me'."
+    },
+    {
+      "id": "WE619",
+      "sectionType": "written_expression",
+      "questionText": "N̲e̲i̲t̲h̲e̲r̲ the supervisor n̲o̲r̲ the employees w̲a̲s̲ aware of the u̲p̲c̲o̲m̲i̲n̲g̲ inspection.",
+      "underlinedParts": ["Neither", "nor", "was", "upcoming"],
+      "options": ["Neither", "nor", "was", "upcoming"],
+      "answerIndex": 2,
+      "explanation": "Aturan Proximity. Dalam pola 'Neither... nor', kata kerja ditentukan oleh subjek yang paling dekat dengannya. 'employees' adalah jamak, seharusnya 'were'."
+    },
+    {
+      "id": "WE620",
+      "sectionType": "written_expression",
+      "questionText": "The professor w̲h̲o̲m̲ I b̲e̲l̲i̲e̲v̲e̲ wrote the t̲e̲x̲t̲b̲o̲o̲k̲ will b̲e̲ giving a lecture t̲o̲m̲o̲r̲r̲o̲w̲.",
+      "underlinedParts": ["whom", "textbook", "be", "tomorrow"],
+      "options": ["whom", "textbook", "be", "tomorrow"],
+      "answerIndex": 0,
+      "explanation": "Relative Pronoun. Meskipun ada sisipan 'I believe', pronoun tersebut berfungsi sebagai subjek dari kata kerja 'wrote'. Seharusnya menggunakan 'who'."
+    },
+    {
+      "id": "WE621",
+      "sectionType": "written_expression",
+      "questionText": "The new bridge i̲s̲ expected t̲o̲ c̲o̲m̲p̲l̲e̲t̲e̲ by the e̲n̲d̲ of next y̲e̲a̲r̲.",
+      "underlinedParts": ["is", "to complete", "end", "year"],
+      "options": ["is", "to complete", "end", "year"],
+      "answerIndex": 1,
+      "explanation": "Kalimat pasif dengan infinitive. Jembatan (bridge) tidak menyelesaikan dirinya sendiri, melainkan diselesaikan. Seharusnya menggunakan 'to be completed'."
+    },
+    {
+      "id": "WE622",
+      "sectionType": "written_expression",
+      "questionText": "D̲e̲s̲p̲i̲t̲e̲ he studied i̲n̲t̲e̲n̲s̲e̲l̲y̲ for the exam, he f̲a̲i̲l̲e̲d̲ to achieve a passing g̲r̲a̲d̲e̲.",
+      "underlinedParts": ["Despite", "intensely", "failed", "grade"],
+      "options": ["Despite", "intensely", "failed", "grade"],
+      "answerIndex": 0,
+      "explanation": "'Despite' adalah preposisi dan tidak bisa diikuti klausa lengkap (Subjek + Verb). Karena diikuti klausa 'he studied', seharusnya menggunakan konjungsi 'Although' atau 'Even though'."
+    },
+    {
+      "id": "WE623",
+      "sectionType": "written_expression",
+      "questionText": "She b̲o̲u̲g̲h̲t̲ a beautiful r̲e̲d̲ l̲a̲r̲g̲e̲ dress f̲o̲r̲ the gala.",
+      "underlinedParts": ["bought", "red", "large", "for"],
+      "options": ["bought", "red", "large", "for"],
+      "answerIndex": 2,
+      "explanation": "Aturan urutan kata sifat (Adjective Order). Ukuran (size) harus diletakkan sebelum warna (color). Seharusnya 'large red dress'."
+    },
+    {
+      "id": "WE624",
+      "sectionType": "written_expression",
+      "questionText": "Reading a w̲e̲l̲l̲-w̲r̲i̲t̲t̲e̲n̲ novel is much more e̲n̲j̲o̲y̲a̲b̲l̲e̲ than t̲o̲ w̲a̲t̲c̲h̲ a poorly directed m̲o̲v̲i̲e̲.",
+      "underlinedParts": ["well-written", "enjoyable", "to watch", "movie"],
+      "options": ["well-written", "enjoyable", "to watch", "movie"],
+      "answerIndex": 2,
+      "explanation": "Paralelisme dalam perbandingan. Subjek pertama menggunakan gerund 'Reading', maka elemen pembandingnya juga harus gerund. Seharusnya 'watching'."
+    },
+    {
+      "id": "WE625",
+      "sectionType": "written_expression",
+      "questionText": "A n̲u̲m̲b̲e̲r̲ of the cases a̲s̲s̲i̲g̲n̲e̲d̲ to the new detective r̲e̲m̲a̲i̲n̲s̲ u̲n̲s̲o̲l̲v̲e̲d̲.",
+      "underlinedParts": ["number", "assigned", "remains", "unsolved"],
+      "options": ["number", "assigned", "remains", "unsolved"],
+      "answerIndex": 2,
+      "explanation": "Subject-Verb Agreement. Frasa 'A number of...' secara kolektif bermakna jamak (banyak). Kata kerjanya harus jamak tanpa -s. Seharusnya 'remain'."
+    },
+    {
+      "id": "WE626",
+      "sectionType": "written_expression",
+      "questionText": "A̲f̲t̲e̲r̲ finishing his meal, he went to the l̲i̲v̲i̲n̲g̲ r̲o̲o̲m̲ to l̲a̲y̲ down on the s̲o̲f̲a̲.",
+      "underlinedParts": ["After", "living room", "lay", "sofa"],
+      "options": ["After", "living room", "lay", "sofa"],
+      "answerIndex": 2,
+      "explanation": "Lie vs. Lay. 'Lay' adalah kata kerja transitif (membutuhkan objek, misal: meletakkan buku). Untuk makna 'berbaring' (intransitif), seharusnya menggunakan kata dasar 'lie'."
+    },
+    {
+      "id": "WE627",
+      "sectionType": "written_expression",
+      "questionText": "L̲i̲t̲t̲l̲e̲ did they k̲n̲e̲w̲ that their discovery w̲o̲u̲l̲d̲ change the c̲o̲u̲r̲s̲e̲ of history.",
+      "underlinedParts": ["Little", "knew", "would", "course"],
+      "options": ["Little", "knew", "would", "course"],
+      "answerIndex": 1,
+      "explanation": "Negative Inversion. Jika kalimat inversi sudah menggunakan kata kerja bantu 'did', kata kerja utama harus dalam bentuk dasar. Seharusnya 'know'."
+    },
+    {
+      "id": "WE628",
+      "sectionType": "written_expression",
+      "questionText": "The new employees a̲r̲e̲ n̲o̲t̲ used t̲o̲ w̲o̲r̲k̲ under such i̲n̲t̲e̲n̲s̲e̲ pressure.",
+      "underlinedParts": ["are", "not", "to work", "intense"],
+      "options": ["are", "not", "to work", "intense"],
+      "answerIndex": 2,
+      "explanation": "Struktur 'be used to' (terbiasa dengan) harus diikuti oleh bentuk kata benda atau gerund (V-ing). Seharusnya 'to working'."
+    },
+    {
+      "id": "WE629",
+      "sectionType": "written_expression",
+      "questionText": "W̲h̲a̲t̲ the board members d̲e̲c̲i̲d̲e̲d̲ during the closed meeting a̲r̲e̲ still a s̲e̲c̲r̲e̲t̲.",
+      "underlinedParts": ["What", "decided", "are", "secret"],
+      "options": ["What", "decided", "are", "secret"],
+      "answerIndex": 2,
+      "explanation": "Noun Clause sebagai subjek. Klausa 'What the board members decided...' bertindak sebagai satu kesatuan subjek tunggal. Seharusnya menggunakan 'is'."
+    },
+    {
+      "id": "WE630",
+      "sectionType": "written_expression",
+      "questionText": "The witness t̲e̲s̲t̲i̲f̲i̲e̲d̲ that she had n̲o̲t̲ seen n̲o̲t̲h̲i̲n̲g̲ suspicious on the n̲i̲g̲h̲t̲ of the crime.",
+      "underlinedParts": ["testified", "not", "nothing", "night"],
+      "options": ["testified", "not", "nothing", "night"],
+      "answerIndex": 2,
+      "explanation": "Double Negative. Bahasa Inggris formal tidak mengizinkan bentuk negatif ganda 'not seen nothing'. Kata 'nothing' seharusnya diubah menjadi 'anything'."
+    },
+    {
+      "id": "WE631",
+      "sectionType": "written_expression",
+      "questionText": "It is v̲i̲t̲a̲l̲ that every applicant s̲u̲b̲m̲i̲t̲s̲ their documents b̲e̲f̲o̲r̲e̲ the d̲e̲a̲d̲l̲i̲n̲e̲.",
+      "underlinedParts": ["vital", "submits", "before", "deadline"],
+      "options": ["vital", "submits", "before", "deadline"],
+      "answerIndex": 1,
+      "explanation": "Subjunctive mood. Setelah frasa keharusan 'It is vital that', kata kerja harus berupa bentuk dasar murni tanpa akhiran apapun. Seharusnya 'submit'."
+    },
+    {
+      "id": "WE632",
+      "sectionType": "written_expression",
+      "questionText": "F̲a̲s̲c̲i̲n̲a̲t̲i̲n̲g̲ by the performance, the a̲u̲d̲i̲e̲n̲c̲e̲ stood up a̲n̲d̲ cheered l̲o̲u̲d̲l̲y̲.",
+      "underlinedParts": ["Fascinating", "audience", "and", "loudly"],
+      "options": ["Fascinating", "audience", "and", "loudly"],
+      "answerIndex": 0,
+      "explanation": "Partisipel untuk mengekspresikan emosi/kondisi subjek harus berbentuk Past Participle (-ed). Audiens merasa terpesona, jadi seharusnya 'Fascinated'."
+    },
+    {
+      "id": "WE633",
+      "sectionType": "written_expression",
+      "questionText": "A good l̲e̲a̲d̲e̲r̲ must be d̲e̲c̲i̲s̲i̲v̲e̲, compassionate, and h̲o̲n̲e̲s̲t̲y̲ at all t̲i̲m̲e̲s̲.",
+      "underlinedParts": ["leader", "decisive", "honesty", "times"],
+      "options": ["leader", "decisive", "honesty", "times"],
+      "answerIndex": 2,
+      "explanation": "Paralelisme. Deretan elemen sebelumnya adalah kata sifat (decisive, compassionate). Maka elemen ketiga juga harus kata sifat. Seharusnya 'honest'."
+    },
+    {
+      "id": "WE634",
+      "sectionType": "written_expression",
+      "questionText": "The t̲e̲r̲r̲i̲f̲y̲i̲n̲g̲ passengers s̲c̲r̲e̲a̲m̲e̲d̲ as the airplane e̲x̲p̲e̲r̲i̲e̲n̲c̲e̲d̲ severe t̲u̲r̲b̲u̲l̲e̲n̲c̲e̲.",
+      "underlinedParts": [
+        "terrifying",
+        "screamed",
+        "experienced",
+        "turbulence"
+      ],
+      "options": ["terrifying", "screamed", "experienced", "turbulence"],
+      "answerIndex": 0,
+      "explanation": "Present participle (-ing) berarti 'yang menakutkan'. Karena penumpang 'merasa ketakutan', seharusnya menggunakan past participle 'terrified'."
+    },
+    {
+      "id": "WE635",
+      "sectionType": "written_expression",
+      "questionText": "Some s̲t̲u̲d̲e̲n̲t̲s̲ prefer studying in groups, while a̲n̲o̲t̲h̲e̲r̲ prefer to study a̲l̲o̲n̲e̲ in the l̲i̲b̲r̲a̲r̲y̲.",
+      "underlinedParts": ["students", "another", "alone", "library"],
+      "options": ["students", "another", "alone", "library"],
+      "answerIndex": 1,
+      "explanation": "Kata 'another' digunakan untuk merujuk pada satu hal tambahan (singular). Untuk merujuk pada sisa orang dalam bentuk jamak, gunakan 'others'."
+    },
+    {
+      "id": "WE636",
+      "sectionType": "written_expression",
+      "questionText": "The chemistry p̲r̲o̲f̲e̲s̲s̲o̲r̲ provided a h̲i̲g̲h̲ detailed explanation o̲f̲ the p̲r̲o̲c̲e̲s̲s̲.",
+      "underlinedParts": ["professor", "high", "of", "process"],
+      "options": ["professor", "high", "of", "process"],
+      "answerIndex": 1,
+      "explanation": "Kata yang menjelaskan kata sifat 'detailed' harus berupa kata keterangan (adverb). Seharusnya 'highly detailed'."
+    },
+    {
+      "id": "WE637",
+      "sectionType": "written_expression",
+      "questionText": "The p̲o̲p̲u̲l̲a̲t̲i̲o̲n̲ of Tokyo is m̲u̲c̲h̲ l̲a̲r̲g̲e̲r̲ than N̲e̲w̲ Y̲o̲r̲k̲.",
+      "underlinedParts": ["population", "much", "larger", "New York"],
+      "options": ["population", "much", "larger", "New York"],
+      "answerIndex": 3,
+      "explanation": "Perbandingan yang tidak setara (Faulty Comparison). Populasi harus dibandingkan dengan populasi, bukan dengan nama kota. Seharusnya 'than that of New York'."
+    },
+    {
+      "id": "WE638",
+      "sectionType": "written_expression",
+      "questionText": "The company w̲h̲o̲ CEO r̲e̲s̲i̲g̲n̲e̲d̲ last week i̲s̲ facing severe f̲i̲n̲a̲n̲c̲i̲a̲l̲ difficulties.",
+      "underlinedParts": ["who", "resigned", "is", "financial"],
+      "options": ["who", "resigned", "is", "financial"],
+      "answerIndex": 0,
+      "explanation": "Relative pronoun untuk menunjukkan kepemilikan. CEO adalah milik perusahaan tersebut. Seharusnya menggunakan 'whose'."
+    },
+    {
+      "id": "WE639",
+      "sectionType": "written_expression",
+      "questionText": "She told me t̲h̲a̲t̲ she w̲i̲l̲l̲ move to Paris a̲f̲t̲e̲r̲ she finishes her g̲r̲a̲d̲u̲a̲t̲e̲ studies.",
+      "underlinedParts": ["that", "will", "after", "graduate"],
+      "options": ["that", "will", "after", "graduate"],
+      "answerIndex": 1,
+      "explanation": "Sequence of tenses. Karena klausa utama menggunakan past tense (told), klausa anak kalimat biasanya menyesuaikan bentuk lampau dari will. Seharusnya 'would'."
+    },
+    {
+      "id": "WE640",
+      "sectionType": "written_expression",
+      "questionText": "E̲a̲c̲h̲ of the participants w̲e̲r̲e̲ given a certificate a̲f̲t̲e̲r̲ the w̲o̲r̲k̲s̲h̲o̲p̲.",
+      "underlinedParts": ["Each", "were", "after", "workshop"],
+      "options": ["Each", "were", "after", "workshop"],
+      "answerIndex": 1,
+      "explanation": "Subjek kalimat adalah 'Each', yang secara gramatikal selalu dianggap tunggal. Kata kerja seharusnya menyesuaikan menjadi 'was'."
+    },
+    {
+      "id": "WE641",
+      "sectionType": "written_expression",
+      "questionText": "The manager d̲i̲s̲c̲u̲s̲s̲e̲d̲ a̲b̲o̲u̲t̲ the new marketing s̲t̲r̲a̲t̲e̲g̲y̲ during the a̲n̲n̲u̲a̲l̲ meeting.",
+      "underlinedParts": ["discussed", "about", "strategy", "annual"],
+      "options": ["discussed", "about", "strategy", "annual"],
+      "answerIndex": 1,
+      "explanation": "Kata kerja 'discuss' adalah kata kerja transitif yang langsung diikuti oleh objeknya. Penggunaan preposisi 'about' di sini salah dan berlebihan."
+    },
+    {
+      "id": "WE642",
+      "sectionType": "written_expression",
+      "questionText": "The doctor recommended t̲h̲a̲t̲ he s̲t̲o̲p̲s̲ smoking i̲m̲m̲e̲d̲i̲a̲t̲e̲l̲y̲ to improve his h̲e̲a̲l̲t̲h̲.",
+      "underlinedParts": ["that", "stops", "immediately", "health"],
+      "options": ["that", "stops", "immediately", "health"],
+      "answerIndex": 1,
+      "explanation": "Subjunctive mood. Setelah kata 'recommended', kata kerja pada klausa harus kembali ke bentuk dasar tanpa -s. Seharusnya 'stop'."
+    },
+    {
+      "id": "WE643",
+      "sectionType": "written_expression",
+      "questionText": "The engineer had t̲o̲o̲ f̲e̲w̲ time to complete the p̲r̲o̲j̲e̲c̲t̲ before the d̲e̲a̲d̲l̲i̲n̲e̲.",
+      "underlinedParts": ["too", "few", "project", "deadline"],
+      "options": ["too", "few", "project", "deadline"],
+      "answerIndex": 1,
+      "explanation": "'Time' adalah kata benda yang tidak dapat dihitung (uncountable). Kuantifier yang tepat untuk kata benda yang tidak dapat dihitung adalah 'little', bukan 'few'."
+    },
+    {
+      "id": "WE644",
+      "sectionType": "written_expression",
+      "questionText": "The principal, a̲l̲o̲n̲g̲ w̲i̲t̲h̲ several teachers, h̲a̲v̲e̲ decided to postpone the e̲v̲e̲n̲t̲.",
+      "underlinedParts": ["along with", "have", "postpone", "event"],
+      "options": ["along with", "have", "postpone", "event"],
+      "answerIndex": 1,
+      "explanation": "Intervening phrases seperti 'along with' tidak membuat subjek menjadi jamak. Subjek utamanya adalah 'The principal' (tunggal), maka kata kerjanya harus 'has'."
+    },
+    {
+      "id": "WE645",
+      "sectionType": "written_expression",
+      "questionText": "The human brain c̲o̲n̲s̲i̲s̲t̲s̲ f̲r̲o̲m̲ billions of n̲e̲u̲r̲o̲n̲s̲ that transmit s̲i̲g̲n̲a̲l̲s̲ rapidly.",
+      "underlinedParts": ["consists", "from", "neurons", "signals"],
+      "options": ["consists", "from", "neurons", "signals"],
+      "answerIndex": 1,
+      "explanation": "Preposisi idiomatis. Kata kerja 'consists' selalu dipasangkan dengan preposisi 'of', bukan 'from'."
+    },
+    {
+      "id": "WE646",
+      "sectionType": "written_expression",
+      "questionText": "Of the two p̲r̲o̲p̲o̲s̲a̲l̲s̲ submitted, the second one is definitely the b̲e̲s̲t̲ choice for the c̲o̲m̲p̲a̲n̲y̲.",
+      "underlinedParts": ["proposals", "best", "choice", "company"],
+      "options": ["proposals", "best", "choice", "company"],
+      "answerIndex": 1,
+      "explanation": "Derajat perbandingan (Degree of comparison). Jika hanya membandingkan dua hal ('of the two'), kita harus menggunakan bentuk comparative. Seharusnya 'better'."
+    },
+    {
+      "id": "WE647",
+      "sectionType": "written_expression",
+      "questionText": "The novel is p̲r̲a̲i̲s̲e̲d̲ for its compelling c̲h̲a̲r̲a̲c̲t̲e̲r̲s̲, its intricate plot, and b̲e̲c̲a̲u̲s̲e̲ it is p̲a̲c̲e̲d̲ perfectly.",
+      "underlinedParts": ["praised", "characters", "because", "paced"],
+      "options": ["praised", "characters", "because", "paced"],
+      "answerIndex": 2,
+      "explanation": "Paralelisme. Setelah koma sebelumnya menggunakan frasa kata benda ('its compelling characters', 'its intricate plot'). Maka elemen terakhir juga harus frasa benda. Seharusnya diganti menjadi 'its perfect pacing'."
+    },
+    {
+      "id": "WE648",
+      "sectionType": "written_expression",
+      "questionText": "I do not k̲n̲o̲w̲ w̲h̲e̲r̲e̲ i̲s̲ the nearest subway s̲t̲a̲t̲i̲o̲n̲.",
+      "underlinedParts": ["know", "where", "is", "station"],
+      "options": ["know", "where", "is", "station"],
+      "answerIndex": 2,
+      "explanation": "Embedded question (pertanyaan tersemat). Ketika pertanyaan menjadi bagian dari pernyataan, strukturnya harus berubah menjadi kalimat berita normal (Subjek + Verb). Seharusnya 'where the nearest subway station is'."
+    },
+    {
+      "id": "WE649",
+      "sectionType": "written_expression",
+      "questionText": "Both the m̲a̲n̲a̲g̲e̲r̲ o̲r̲ his assistant w̲i̲l̲l̲ attend the c̲o̲n̲f̲e̲r̲e̲n̲c̲e̲ in London.",
+      "underlinedParts": ["manager", "or", "will", "conference"],
+      "options": ["manager", "or", "will", "conference"],
+      "answerIndex": 1,
+      "explanation": "Konjungsi korelatif. Pasangan yang benar untuk 'Both' adalah 'and'. Kata 'or' digunakan sebagai pasangan dari 'Either'."
+    },
+    {
+      "id": "WE650",
+      "sectionType": "written_expression",
+      "questionText": "W̲a̲l̲k̲i̲n̲g̲ down the street, the b̲e̲a̲u̲t̲i̲f̲u̲l̲ s̲u̲n̲s̲e̲t̲ was a̲d̲m̲i̲r̲e̲d̲ by the couple.",
+      "underlinedParts": ["Walking", "beautiful", "sunset", "admired"],
+      "options": ["Walking", "beautiful", "sunset", "admired"],
+      "answerIndex": 2,
+      "explanation": "Dangling modifier. Modifikator 'Walking down the street' secara gramatikal dilekatkan pada subjek kalimat 'the sunset', yang mana tidak masuk akal (matahari terbenam tidak bisa berjalan). Subjeknya seharusnya 'the couple'."
+    },
+    {
+      "id": "WE651",
+      "sectionType": "written_expression",
+      "questionText": "The committee proposed that the new r̲e̲g̲u̲l̲a̲t̲i̲o̲n̲ t̲a̲k̲e̲s̲ effect i̲m̲m̲e̲d̲i̲a̲t̲e̲l̲y̲ after the a̲n̲n̲o̲u̲n̲c̲e̲m̲e̲n̲t̲.",
+      "underlinedParts": ["regulation", "takes", "immediately", "announcement"],
+      "options": ["regulation", "takes", "immediately", "announcement"],
+      "answerIndex": 1,
+      "explanation": "Subjunctive mood. Setelah kata kerja 'proposed', kata kerja pada klausa 'that' harus berbentuk dasar (bare infinitive) tanpa tambahan -s. Seharusnya 'take'."
+    },
+    {
+      "id": "WE652",
+      "sectionType": "written_expression",
+      "questionText": "N̲o̲w̲h̲e̲r̲e̲ e̲l̲s̲e̲ i̲n̲ the world y̲o̲u̲ c̲a̲n̲ find s̲u̲c̲h̲ a diverse ecosystem.",
+      "underlinedParts": ["Nowhere else", "in", "you can", "such"],
+      "options": ["Nowhere else", "in", "you can", "such"],
+      "answerIndex": 2,
+      "explanation": "Negative Inversion. Karena kalimat diawali dengan frasa negatif 'Nowhere else', susunan subjek dan auxiliary harus dibalik. Seharusnya 'can you'."
+    },
+    {
+      "id": "WE653",
+      "sectionType": "written_expression",
+      "questionText": "To s̲u̲c̲c̲e̲e̲d̲ in this competitive i̲n̲d̲u̲s̲t̲r̲y̲, one must be innovative, persistent, and h̲a̲v̲i̲n̲g̲ a clear v̲i̲s̲i̲o̲n̲.",
+      "underlinedParts": ["succeed", "industry", "having", "vision"],
+      "options": ["succeed", "industry", "having", "vision"],
+      "answerIndex": 2,
+      "explanation": "Parallelism (Kesejajaran). Deretan sebelumnya adalah kata sifat (innovative, persistent), sehingga elemen terakhir juga harus setara. Seharusnya 'visionary' atau menggunakan bentuk yang sama."
+    },
+    {
+      "id": "WE654",
+      "sectionType": "written_expression",
+      "questionText": "The s̲e̲r̲i̲e̲s̲ of lectures o̲n̲ quantum mechanics w̲e̲r̲e̲ highly i̲n̲f̲o̲r̲m̲a̲t̲i̲v̲e̲.",
+      "underlinedParts": ["series", "on", "were", "informative"],
+      "options": ["series", "on", "were", "informative"],
+      "answerIndex": 2,
+      "explanation": "Subject-Verb Agreement. Subjek utama adalah 'The series' yang dalam konteks ini adalah tunggal (satu rangkaian). Seharusnya menggunakan 'was'."
+    },
+    {
+      "id": "WE655",
+      "sectionType": "written_expression",
+      "questionText": "H̲a̲v̲i̲n̲g̲ s̲t̲u̲d̲i̲e̲d̲ for hours, the e̲x̲a̲m̲ was still d̲i̲f̲f̲i̲c̲u̲l̲t̲ for the s̲t̲u̲d̲e̲n̲t̲s̲.",
+      "underlinedParts": ["Having studied", "exam", "difficult", "students"],
+      "options": ["Having studied", "exam", "difficult", "students"],
+      "answerIndex": 1,
+      "explanation": "Dangling modifier. Modifikator 'Having studied' merujuk pada entitas yang belajar, yaitu siswa. Ujian (exam) tidak bisa belajar. Subjek klausa utama seharusnya 'the students'."
+    },
+    {
+      "id": "WE656",
+      "sectionType": "written_expression",
+      "questionText": "A̲l̲i̲k̲e̲ her older s̲i̲s̲t̲e̲r̲, she h̲a̲s̲ a profound interest i̲n̲ classical music.",
+      "underlinedParts": ["Alike", "sister", "has", "in"],
+      "options": ["Alike", "sister", "has", "in"],
+      "answerIndex": 0,
+      "explanation": "Word choice. 'Alike' adalah kata sifat/keterangan yang tidak bisa digunakan di awal kalimat dengan objek. Preposisi yang tepat untuk perbandingan di awal kalimat adalah 'Like'."
+    },
+    {
+      "id": "WE657",
+      "sectionType": "written_expression",
+      "questionText": "The company e̲x̲p̲e̲c̲t̲s̲ e̲v̲e̲r̲y̲ employee to perform t̲h̲e̲i̲r̲ duties e̲f̲f̲i̲c̲i̲e̲n̲t̲l̲y̲.",
+      "underlinedParts": ["expects", "every", "their", "efficiently"],
+      "options": ["expects", "every", "their", "efficiently"],
+      "answerIndex": 2,
+      "explanation": "Pronoun Agreement. 'Every employee' secara gramatikal adalah subjek tunggal. Kata ganti kepemilikan yang baku seharusnya 'his or her', bukan 'their'."
+    },
+    {
+      "id": "WE658",
+      "sectionType": "written_expression",
+      "questionText": "The m̲o̲r̲e̲ you practice, the l̲e̲s̲s̲ mistakes y̲o̲u̲ w̲i̲l̲l̲ make during the p̲e̲r̲f̲o̲r̲m̲a̲n̲c̲e̲.",
+      "underlinedParts": ["more", "less", "you will", "performance"],
+      "options": ["more", "less", "you will", "performance"],
+      "answerIndex": 1,
+      "explanation": "Countable vs Uncountable. 'Mistakes' adalah kata benda yang bisa dihitung (countable noun). Oleh karena itu, kata pembanding yang tepat adalah 'fewer', bukan 'less'."
+    },
+    {
+      "id": "WE659",
+      "sectionType": "written_expression",
+      "questionText": "The p̲h̲i̲l̲o̲s̲o̲p̲h̲e̲r̲ shared m̲a̲n̲y̲ profound k̲n̲o̲w̲l̲e̲d̲g̲e̲s̲ with h̲i̲s̲ disciples.",
+      "underlinedParts": ["philosopher", "many", "knowledges", "his"],
+      "options": ["philosopher", "many", "knowledges", "his"],
+      "answerIndex": 2,
+      "explanation": "'Knowledge' adalah uncountable noun (kata benda tak terhitung) sehingga tidak memiliki bentuk jamak dengan -s. Seharusnya 'knowledge'."
+    },
+    {
+      "id": "WE660",
+      "sectionType": "written_expression",
+      "questionText": "The reason w̲h̲y̲ the building c̲o̲l̲l̲a̲p̲s̲e̲d̲ was b̲e̲c̲a̲u̲s̲e̲ o̲f̲ the poor foundation.",
+      "underlinedParts": ["why", "collapsed", "because", "of"],
+      "options": ["why", "collapsed", "because", "of"],
+      "answerIndex": 2,
+      "explanation": "Redundancy (Pemborosan kata). Frasa 'The reason... was because of' berlebihan. Seharusnya diganti menjadi 'The reason... was that' atau cukup 'The building collapsed because of...'."
+    },
+    {
+      "id": "WE661",
+      "sectionType": "written_expression",
+      "questionText": "The mayor, as well as the city council members, a̲r̲e̲ facing h̲e̲a̲v̲y̲ criticism for the n̲e̲w̲ t̲a̲x̲ policy.",
+      "underlinedParts": ["are", "heavy", "new", "tax"],
+      "options": ["are", "heavy", "new", "tax"],
+      "answerIndex": 0,
+      "explanation": "Intervening phrases seperti 'as well as' tidak merubah jumlah subjek utama. Subjek utamanya 'The mayor' (tunggal). Seharusnya 'is'."
+    },
+    {
+      "id": "WE662",
+      "sectionType": "written_expression",
+      "questionText": "It is e̲s̲s̲e̲n̲t̲i̲a̲l̲ that the medicine i̲s̲ kept a̲w̲a̲y̲ from direct s̲u̲n̲l̲i̲g̲h̲t̲.",
+      "underlinedParts": ["essential", "is", "away", "sunlight"],
+      "options": ["essential", "is", "away", "sunlight"],
+      "answerIndex": 1,
+      "explanation": "Subjunctive mood setelah 'It is essential that'. Kata kerja (to be) harus dalam bentuk dasar murni. Seharusnya 'be'."
+    },
+    {
+      "id": "WE663",
+      "sectionType": "written_expression",
+      "questionText": "S̲c̲a̲r̲c̲e̲l̲y̲ had the match s̲t̲a̲r̲t̲e̲d̲ t̲h̲a̲n̲ the rain began to p̲o̲u̲r̲ heavily.",
+      "underlinedParts": ["Scarcely", "started", "than", "pour"],
+      "options": ["Scarcely", "started", "than", "pour"],
+      "answerIndex": 2,
+      "explanation": "Correlative Conjunction. Pasangan yang benar untuk adverbia 'Scarcely' adalah 'when', bukan 'than'. ('Than' digunakan untuk 'No sooner')."
+    },
+    {
+      "id": "WE664",
+      "sectionType": "written_expression",
+      "questionText": "Despite o̲f̲ his l̲a̲c̲k̲ of experience, he m̲a̲n̲a̲g̲e̲d̲ to secure the p̲r̲e̲s̲t̲i̲g̲i̲o̲u̲s̲ position.",
+      "underlinedParts": ["of", "lack", "managed", "prestigious"],
+      "options": ["of", "lack", "managed", "prestigious"],
+      "answerIndex": 0,
+      "explanation": "'Despite' adalah preposisi tunggal dan tidak pernah diikuti oleh 'of'. Seharusnya cukup 'Despite' atau diganti 'In spite of'."
+    },
+    {
+      "id": "WE665",
+      "sectionType": "written_expression",
+      "questionText": "The luggage w̲h̲i̲c̲h̲ was left at the t̲e̲r̲m̲i̲n̲a̲l̲ w̲e̲r̲e̲ eventually returned t̲o̲ its owner.",
+      "underlinedParts": ["which", "terminal", "were", "to"],
+      "options": ["which", "terminal", "were", "to"],
+      "answerIndex": 2,
+      "explanation": "Subject-Verb Agreement. Subjek 'The luggage' adalah uncountable noun (tunggal). Maka kata kerja utamanya juga harus tunggal. Seharusnya 'was'."
+    },
+    {
+      "id": "WE666",
+      "sectionType": "written_expression",
+      "questionText": "She requested that her a̲s̲s̲i̲s̲t̲a̲n̲t̲ d̲o̲e̲s̲ n̲o̲t̲ interrupt her w̲h̲i̲l̲e̲ she is in the m̲e̲e̲t̲i̲n̲g̲.",
+      "underlinedParts": ["assistant", "does not", "while", "meeting"],
+      "options": ["assistant", "does not", "while", "meeting"],
+      "answerIndex": 1,
+      "explanation": "Negative Subjunctive. Pada struktur subjunctive, bentuk negatif dibuat hanya dengan menambahkan kata 'not' sebelum kata kerja dasar, tanpa kata bantu 'do/does'. Seharusnya 'not interrupt'."
+    },
+    {
+      "id": "WE667",
+      "sectionType": "written_expression",
+      "questionText": "Under no c̲i̲r̲c̲u̲m̲s̲t̲a̲n̲c̲e̲s̲ t̲h̲e̲ e̲m̲p̲l̲o̲y̲e̲e̲s̲ a̲r̲e̲ allowed to a̲c̲c̲e̲s̲s̲ the confidential files.",
+      "underlinedParts": [
+        "circumstances",
+        "the employees are",
+        "access",
+        "files"
+      ],
+      "options": ["circumstances", "the employees are", "access", "files"],
+      "answerIndex": 1,
+      "explanation": "Mandatory Inversion. Jika frasa negatif seperti 'Under no circumstances' diletakkan di awal, subjek dan auxiliary harus dibalik. Seharusnya 'are the employees'."
+    },
+    {
+      "id": "WE668",
+      "sectionType": "written_expression",
+      "questionText": "The n̲u̲m̲b̲e̲r̲ of extinct s̲p̲e̲c̲i̲e̲s̲ a̲r̲e̲ increasing at an a̲l̲a̲r̲m̲i̲n̲g̲ rate.",
+      "underlinedParts": ["number", "species", "are", "alarming"],
+      "options": ["number", "species", "are", "alarming"],
+      "answerIndex": 2,
+      "explanation": "Frasa 'The number of' selalu dianggap sebagai subjek tunggal secara tata bahasa. Seharusnya menggunakan 'is'."
+    },
+    {
+      "id": "WE669",
+      "sectionType": "written_expression",
+      "questionText": "The professor was s̲o̲ pleased w̲i̲t̲h̲ the presentation t̲o̲ g̲i̲v̲e̲ the student an A g̲r̲a̲d̲e̲.",
+      "underlinedParts": ["so", "with", "to give", "grade"],
+      "options": ["so", "with", "to give", "grade"],
+      "answerIndex": 2,
+      "explanation": "Struktur kausalitas 'so... that'. Kata 'so' harus berpasangan dengan klausa 'that', bukan infinitive 'to'. Seharusnya 'that he gave'."
+    },
+    {
+      "id": "WE670",
+      "sectionType": "written_expression",
+      "questionText": "He b̲o̲u̲g̲h̲t̲ a S̲w̲i̲s̲s̲ e̲x̲p̲e̲n̲s̲i̲v̲e̲ watch as a r̲e̲w̲a̲r̲d̲ for his p̲r̲o̲m̲o̲t̲i̲o̲n̲.",
+      "underlinedParts": ["bought", "Swiss expensive", "reward", "promotion"],
+      "options": ["bought", "Swiss expensive", "reward", "promotion"],
+      "answerIndex": 1,
+      "explanation": "Adjective Order. Kata sifat berupa opini (expensive) harus diletakkan sebelum kata sifat yang menunjukkan asal/kebangsaan (Swiss). Seharusnya 'expensive Swiss'."
+    },
+    {
+      "id": "WE671",
+      "sectionType": "written_expression",
+      "questionText": "Not o̲n̲l̲y̲ h̲e̲ w̲a̲s̲ late f̲o̲r̲ the meeting, b̲u̲t̲ he also forgot h̲i̲s̲ presentation materials.",
+      "underlinedParts": ["only", "he was", "for", "but", "his"],
+      "options": ["only", "he was", "for", "but"],
+      "answerIndex": 1,
+      "explanation": "Inversion. Frasa 'Not only' di awal kalimat mewajibkan pembalikan posisi subjek dan auxiliary. Seharusnya 'was he'."
+    },
+    {
+      "id": "WE672",
+      "sectionType": "written_expression",
+      "questionText": "The data a̲n̲a̲l̲y̲z̲e̲d̲ by the research team c̲o̲n̲t̲r̲a̲d̲i̲c̲t̲s̲ the previously a̲c̲c̲e̲p̲t̲e̲d̲ t̲h̲e̲o̲r̲y̲.",
+      "underlinedParts": ["analyzed", "contradicts", "accepted", "theory"],
+      "options": ["analyzed", "contradicts", "accepted", "theory"],
+      "answerIndex": 1,
+      "explanation": "Dalam bahasa Inggris akademik formal (TOEFL), 'data' adalah bentuk jamak dari 'datum'. Oleh karena itu, kata kerjanya harus menyesuaikan ke bentuk jamak. Seharusnya 'contradict'."
+    },
+    {
+      "id": "WE673",
+      "sectionType": "written_expression",
+      "questionText": "The architecture of a̲n̲c̲i̲e̲n̲t̲ Rome is m̲u̲c̲h̲ more robust than G̲r̲e̲e̲c̲e̲ during the s̲a̲m̲e̲ period.",
+      "underlinedParts": ["ancient", "much", "Greece", "same"],
+      "options": ["ancient", "much", "Greece", "same"],
+      "answerIndex": 2,
+      "explanation": "Faulty Comparison (Perbandingan tidak logis). Arsitektur Roma harus dibandingkan dengan arsitektur Yunani, bukan dengan negara Yunani. Seharusnya 'that of Greece'."
+    },
+    {
+      "id": "WE674",
+      "sectionType": "written_expression",
+      "questionText": "Neither the m̲a̲n̲a̲g̲e̲r̲ nor his subordinates w̲a̲s̲ aware of the s̲u̲d̲d̲e̲n̲ policy c̲h̲a̲n̲g̲e̲.",
+      "underlinedParts": ["manager", "was", "sudden", "change"],
+      "options": ["manager", "was", "sudden", "change"],
+      "answerIndex": 1,
+      "explanation": "Rule of Proximity. Dalam pola 'Neither... nor', kata kerja harus sesuai dengan subjek yang paling dekat (subordinates - jamak). Seharusnya 'were'."
+    },
+    {
+      "id": "WE675",
+      "sectionType": "written_expression",
+      "questionText": "S̲h̲o̲u̲l̲d̲ the weather c̲l̲e̲a̲r̲s̲ up, the outdoor f̲e̲s̲t̲i̲v̲a̲l̲ will p̲r̲o̲c̲e̲e̲d̲ as planned.",
+      "underlinedParts": ["Should", "clears", "festival", "proceed"],
+      "options": ["Should", "clears", "festival", "proceed"],
+      "answerIndex": 1,
+      "explanation": "Inverted Conditional tipe 1. Kata kerja setelah modal 'Should' wajib berupa bare infinitive (kata kerja dasar tanpa akhiran). Seharusnya 'clear'."
+    },
+    {
+      "id": "WE676",
+      "sectionType": "written_expression",
+      "questionText": "W̲h̲o̲m̲ did you s̲a̲y̲ was r̲e̲s̲p̲o̲n̲s̲i̲b̲l̲e̲ for handling the c̲l̲i̲e̲n̲t̲ accounts?",
+      "underlinedParts": ["Whom", "say", "responsible", "client"],
+      "options": ["Whom", "say", "responsible", "client"],
+      "answerIndex": 0,
+      "explanation": "Relative Pronoun. Meskipun ada 'did you say', kata ganti ini bertindak sebagai subjek untuk 'was responsible'. Maka harus menggunakan 'Who'."
+    },
+    {
+      "id": "WE677",
+      "sectionType": "written_expression",
+      "questionText": "H̲a̲v̲i̲n̲g̲ r̲e̲v̲i̲e̲w̲e̲d̲ the documents, the c̲o̲n̲t̲r̲a̲c̲t̲ w̲a̲s̲ finally s̲i̲g̲n̲e̲d̲ by the board.",
+      "underlinedParts": ["Having reviewed", "contract", "was", "signed"],
+      "options": ["Having reviewed", "contract", "was", "signed"],
+      "answerIndex": 1,
+      "explanation": "Dangling modifier. Modifikator pasif salah. Kontrak tidak bisa meninjau (review) dirinya sendiri. Subjek utama setelah koma harusnya entitas yang meninjau, misalnya 'the board'."
+    },
+    {
+      "id": "WE678",
+      "sectionType": "written_expression",
+      "questionText": "The a̲m̲o̲u̲n̲t̲ of vehicles o̲n̲ the highway h̲a̲s̲ doubled in the l̲a̲s̲t̲ decade.",
+      "underlinedParts": ["amount", "on", "has", "last"],
+      "options": ["amount", "on", "has", "last"],
+      "answerIndex": 0,
+      "explanation": "'Vehicles' adalah kata benda yang dapat dihitung (countable). Kata pengukur kuantitas yang benar adalah 'number', bukan 'amount'."
+    },
+    {
+      "id": "WE679",
+      "sectionType": "written_expression",
+      "questionText": "B̲y̲ the time the rescue team a̲r̲r̲i̲v̲e̲s̲, the stranded climbers w̲i̲l̲l̲ w̲a̲i̲t̲ for over f̲i̲f̲t̲e̲e̲n̲ hours.",
+      "underlinedParts": ["By", "arrives", "will wait", "fifteen"],
+      "options": ["By", "arrives", "will wait", "fifteen"],
+      "answerIndex": 2,
+      "explanation": "Tenses. Untuk menyatakan suatu kejadian yang akan sedang dan telah berlangsung sebelum batas waktu di masa depan, gunakan Future Perfect Continuous. Seharusnya 'will have been waiting'."
+    },
+    {
+      "id": "WE680",
+      "sectionType": "written_expression",
+      "questionText": "I w̲o̲u̲l̲d̲ r̲a̲t̲h̲e̲r̲ you d̲o̲n̲'̲t̲ mention this a̲r̲r̲a̲n̲g̲e̲m̲e̲n̲t̲ to a̲n̲y̲o̲n̲e̲ else.",
+      "underlinedParts": ["would rather", "don't", "arrangement", "anyone"],
+      "options": ["would rather", "don't", "arrangement", "anyone"],
+      "answerIndex": 1,
+      "explanation": "Setelah frasa 'would rather' dengan subjek kedua (you), pernyataan tentang masa kini atau depan harus menggunakan bentuk Past Tense. Seharusnya 'didn't'."
+    },
+    {
+      "id": "WE681",
+      "sectionType": "written_expression",
+      "questionText": "The scientist r̲e̲q̲u̲i̲r̲e̲d̲ that the experiment i̲s̲ c̲o̲n̲d̲u̲c̲t̲e̲d̲ in a s̲t̲e̲r̲i̲l̲e̲ environment.",
+      "underlinedParts": ["required", "is", "conducted", "sterile"],
+      "options": ["required", "is", "conducted", "sterile"],
+      "answerIndex": 1,
+      "explanation": "Subjunctive mood. Verba yang menyatakan keharusan ('required') mewajibkan to be pada klausa 'that' kembali ke bentuk dasar. Seharusnya 'be'."
+    },
+    {
+      "id": "WE682",
+      "sectionType": "written_expression",
+      "questionText": "S̲o̲m̲e̲ people prefer living in u̲r̲b̲a̲n̲ areas, while a̲n̲o̲t̲h̲e̲r̲ choose rural s̲e̲t̲t̲i̲n̲g̲s̲.",
+      "underlinedParts": ["Some", "urban", "another", "settings"],
+      "options": ["Some", "urban", "another", "settings"],
+      "answerIndex": 2,
+      "explanation": "Kata 'another' digunakan untuk entitas tunggal. Karena subjek kata kerja 'choose' harus jamak (mewakili sekumpulan orang lain), seharusnya 'others'."
+    },
+    {
+      "id": "WE683",
+      "sectionType": "written_expression",
+      "questionText": "E̲x̲h̲a̲u̲s̲t̲i̲n̲g̲ from the rigorous t̲r̲a̲i̲n̲i̲n̲g̲, the athletes d̲e̲m̲a̲n̲d̲e̲d̲ a day of r̲e̲s̲t̲.",
+      "underlinedParts": ["Exhausting", "training", "demanded", "rest"],
+      "options": ["Exhausting", "training", "demanded", "rest"],
+      "answerIndex": 0,
+      "explanation": "Participle Adjective. Untuk mendeskripsikan subjek yang merasakan kelelahan (the athletes), gunakan past participle (-ed). Seharusnya 'Exhausted'."
+    },
+    {
+      "id": "WE684",
+      "sectionType": "written_expression",
+      "questionText": "The factory i̲n̲s̲t̲a̲l̲l̲e̲d̲ new m̲a̲c̲h̲i̲n̲e̲r̲i̲e̲s̲ t̲o̲ i̲n̲c̲r̲e̲a̲s̲e̲ the production r̲a̲t̲e̲.",
+      "underlinedParts": ["installed", "machineries", "to increase", "rate"],
+      "options": ["installed", "machineries", "to increase", "rate"],
+      "answerIndex": 1,
+      "explanation": "Uncountable Noun. Kata 'machinery' adalah kata benda yang tak dapat dihitung dan tidak memiliki bentuk jamak -ies. Seharusnya 'machinery' atau 'machines'."
+    },
+    {
+      "id": "WE685",
+      "sectionType": "written_expression",
+      "questionText": "Rarely w̲e̲ h̲a̲v̲e̲ e̲n̲c̲o̲u̲n̲t̲e̲r̲e̲d̲ a situation t̲h̲a̲t̲ requires such i̲m̲m̲e̲d̲i̲a̲t̲e̲ attention.",
+      "underlinedParts": ["we have", "encountered", "that", "immediate"],
+      "options": ["we have", "encountered", "that", "immediate"],
+      "answerIndex": 0,
+      "explanation": "Negative Inversion. Kata keterangan negatif 'Rarely' di awal kalimat memicu inversi antara auxiliary dan subjek. Seharusnya 'have we'."
+    },
+    {
+      "id": "WE686",
+      "sectionType": "written_expression",
+      "questionText": "Both the f̲o̲u̲n̲d̲e̲r̲ o̲r̲ the CEO m̲u̲s̲t̲ approve the a̲c̲q̲u̲i̲s̲i̲t̲i̲o̲n̲.",
+      "underlinedParts": ["founder", "or", "must", "acquisition"],
+      "options": ["founder", "or", "must", "acquisition"],
+      "answerIndex": 1,
+      "explanation": "Correlative Conjunction. Pasangan konjungsi untuk 'Both' adalah 'and'. 'Or' dipasangkan dengan 'Either'."
+    },
+    {
+      "id": "WE687",
+      "sectionType": "written_expression",
+      "questionText": "A̲l̲t̲h̲o̲u̲g̲h̲ the steep price, the l̲u̲x̲u̲r̲y̲ apartment was s̲o̲l̲d̲ within a w̲e̲e̲k̲.",
+      "underlinedParts": ["Although", "luxury", "sold", "week"],
+      "options": ["Although", "luxury", "sold", "week"],
+      "answerIndex": 0,
+      "explanation": "'Although' adalah kata hubung yang harus diikuti klausa. Karena 'the steep price' hanyalah frasa kata benda (noun phrase), preposisi yang tepat adalah 'Despite' atau 'In spite of'."
+    },
+    {
+      "id": "WE688",
+      "sectionType": "written_expression",
+      "questionText": "The d̲o̲c̲t̲o̲r̲ strongly advised him t̲o̲ l̲a̲y̲ in bed for a̲t̲ l̲e̲a̲s̲t̲ two days.",
+      "underlinedParts": ["doctor", "to lay", "at least", "days"],
+      "options": ["doctor", "to lay", "at least", "days"],
+      "answerIndex": 1,
+      "explanation": "Lie vs Lay. 'Lay' artinya meletakkan sesuatu (butuh objek). Untuk makna berbaring/istirahat tanpa objek, kata yang tepat adalah 'to lie'."
+    },
+    {
+      "id": "WE689",
+      "sectionType": "written_expression",
+      "questionText": "E̲a̲c̲h̲ of the new employees w̲e̲r̲e̲ required to a̲t̲t̲e̲n̲d̲ the orientation s̲e̲s̲s̲i̲o̲n̲.",
+      "underlinedParts": ["Each", "were", "attend", "session"],
+      "options": ["Each", "were", "attend", "session"],
+      "answerIndex": 1,
+      "explanation": "Subject-Verb Agreement. Subjek 'Each' secara absolut dianggap sebagai kata tunggal (singular). Seharusnya kata kerja yang digunakan adalah 'was'."
+    },
+    {
+      "id": "WE690",
+      "sectionType": "written_expression",
+      "questionText": "They p̲l̲a̲n̲ to repeat the experiment b̲a̲c̲k̲ to e̲n̲s̲u̲r̲e̲ the accuracy of the r̲e̲s̲u̲l̲t̲s̲.",
+      "underlinedParts": ["plan", "back", "ensure", "results"],
+      "options": ["plan", "back", "ensure", "results"],
+      "answerIndex": 1,
+      "explanation": "Redundancy. Kata 'repeat' sudah bermakna mengulang atau melakukan kembali. Penambahan kata 'back' menjadi pemborosan dan harus dihilangkan."
+    },
+    {
+      "id": "WE691",
+      "sectionType": "written_expression",
+      "questionText": "The c̲h̲o̲i̲r̲ sang so b̲e̲a̲u̲t̲i̲f̲u̲l̲ that the e̲n̲t̲i̲r̲e̲ audience was m̲o̲v̲e̲d̲ to tears.",
+      "underlinedParts": ["choir", "beautiful", "entire", "moved"],
+      "options": ["choir", "beautiful", "entire", "moved"],
+      "answerIndex": 1,
+      "explanation": "Adjective vs Adverb. Kata yang memodifikasi kata kerja (sang) haruslah berupa kata keterangan (adverb). Seharusnya 'beautifully'."
+    },
+    {
+      "id": "WE692",
+      "sectionType": "written_expression",
+      "questionText": "I do not k̲n̲o̲w̲ what i̲s̲ t̲h̲e̲ p̲r̲o̲b̲l̲e̲m̲ with this c̲o̲m̲p̲u̲t̲e̲r̲.",
+      "underlinedParts": ["know", "is the problem", "with", "computer"],
+      "options": ["know", "is the problem", "with", "computer"],
+      "answerIndex": 1,
+      "explanation": "Embedded Question. Pertanyaan yang tersemat dalam kalimat tidak memakai urutan inversi tanya. Seharusnya susunan normal: 'what the problem is'."
+    },
+    {
+      "id": "WE693",
+      "sectionType": "written_expression",
+      "questionText": "The c̲o̲n̲c̲e̲r̲n̲e̲d̲ mother told her children t̲o̲ n̲o̲t̲ play n̲e̲a̲r̲ the busy s̲t̲r̲e̲e̲t̲.",
+      "underlinedParts": ["concerned", "to not", "near", "street"],
+      "options": ["concerned", "to not", "near", "street"],
+      "answerIndex": 1,
+      "explanation": "Negative Infinitive. Posisi partikel negatif 'not' harus diletakkan tepat sebelum 'to'. Seharusnya 'not to'."
+    },
+    {
+      "id": "WE694",
+      "sectionType": "written_expression",
+      "questionText": "A p̲a̲c̲k̲ of wild wolves w̲e̲r̲e̲ spotted n̲e̲a̲r̲ the edge of the f̲o̲r̲e̲s̲t̲.",
+      "underlinedParts": ["pack", "were", "near", "forest"],
+      "options": ["pack", "were", "near", "forest"],
+      "answerIndex": 1,
+      "explanation": "Collective Noun. Subjek utamanya adalah 'A pack' (kawanan - tunggal), sedangkan 'of wild wolves' hanya frasa pelengkap. Seharusnya 'was'."
+    },
+    {
+      "id": "WE695",
+      "sectionType": "written_expression",
+      "questionText": "The candidate r̲e̲f̲u̲s̲e̲d̲ a̲n̲s̲w̲e̲r̲i̲n̲g̲ the reporter's q̲u̲e̲s̲t̲i̲o̲n̲s̲ during the p̲r̲e̲s̲s̲ conference.",
+      "underlinedParts": ["refused", "answering", "questions", "press"],
+      "options": ["refused", "answering", "questions", "press"],
+      "answerIndex": 1,
+      "explanation": "Infinitive Complement. Kata kerja 'refuse' harus diikuti oleh pasangan to-infinitive, bukan gerund (-ing). Seharusnya 'to answer'."
+    },
+    {
+      "id": "WE696",
+      "sectionType": "written_expression",
+      "questionText": "The novel was p̲r̲a̲i̲s̲e̲d̲ for its engaging p̲l̲o̲t̲, rich characters, and b̲e̲c̲a̲u̲s̲e̲ i̲t̲s̲ p̲a̲c̲i̲n̲g̲ w̲a̲s̲ e̲x̲c̲e̲l̲l̲e̲n̲t̲.",
+      "underlinedParts": [
+        "praised",
+        "plot",
+        "because its pacing was excellent",
+        "was"
+      ],
+      "options": ["praised", "plot", "because its pacing was excellent", "was"],
+      "answerIndex": 2,
+      "explanation": "Parallelism. Elemen dalam deretan (engaging plot, rich characters) berbentuk frasa benda (noun phrase). Maka elemen terakhir juga harus frasa benda: 'its excellent pacing'."
+    },
+    {
+      "id": "WE697",
+      "sectionType": "written_expression",
+      "questionText": "M̲a̲n̲y̲ of the i̲n̲f̲o̲r̲m̲a̲t̲i̲o̲n̲ presented a̲t̲ the seminar was o̲u̲t̲d̲a̲t̲e̲d̲.",
+      "underlinedParts": ["Many", "information", "at", "outdated"],
+      "options": ["Many", "information", "at", "outdated"],
+      "answerIndex": 0,
+      "explanation": "'Information' adalah uncountable noun (tak bisa dihitung). Kata 'Many' hanya untuk benda yang dapat dihitung. Seharusnya 'Much'."
+    },
+    {
+      "id": "WE698",
+      "sectionType": "written_expression",
+      "questionText": "L̲y̲i̲n̲g̲ on the desk i̲s̲ the contract and the p̲r̲o̲p̲o̲s̲a̲l̲ that you n̲e̲e̲d̲ to sign.",
+      "underlinedParts": ["Lying", "is", "proposal", "need"],
+      "options": ["Lying", "is", "proposal", "need"],
+      "answerIndex": 1,
+      "explanation": "Inverted Sentence. Subjek sebenarnya dari kalimat ini adalah 'the contract and the proposal' yang bernilai jamak (plural). Seharusnya 'are'."
+    },
+    {
+      "id": "WE699",
+      "sectionType": "written_expression",
+      "questionText": "The board of directors c̲o̲u̲l̲d̲ h̲a̲r̲d̲l̲y̲ a̲g̲r̲e̲e̲ on n̲o̲t̲h̲i̲n̲g̲ during the four-hour m̲e̲e̲t̲i̲n̲g̲.",
+      "underlinedParts": ["could", "hardly", "agree", "nothing"],
+      "options": ["could", "hardly", "agree", "nothing"],
+      "answerIndex": 3,
+      "explanation": "Double Negative. Kata 'hardly' sudah memiliki muatan negatif. Menambah 'nothing' akan menciptakan negatif ganda. Seharusnya 'anything'."
+    },
+    {
+      "id": "WE700",
+      "sectionType": "written_expression",
+      "questionText": "T̲h̲e̲ reason w̲h̲y̲ she declined the offer was b̲e̲c̲a̲u̲s̲e̲ the salary was t̲o̲o̲ low.",
+      "underlinedParts": ["The", "why", "because", "too"],
+      "options": ["The", "why", "because", "too"],
+      "answerIndex": 2,
+      "explanation": "Redundancy. 'The reason... was because' adalah bentuk redundan dalam aturan baku TOEFL. Seharusnya 'The reason... was that'."
+    },
+    {
+      "id": "WE701",
+      "sectionType": "written_expression",
+      "questionText": "O̲n̲l̲y̲ a̲f̲t̲e̲r̲ the supervisor explicitly authorized the transaction t̲h̲e̲ f̲u̲n̲d̲s̲ w̲e̲r̲e̲ successfully a̲l̲l̲o̲c̲a̲t̲e̲d̲.",
+      "underlinedParts": [
+        "Only after",
+        "the funds were",
+        "successfully",
+        "allocated"
+      ],
+      "options": ["Only after", "the funds were", "successfully", "allocated"],
+      "answerIndex": 1,
+      "explanation": "Mandatory Inversion. Jika kalimat diawali dengan frasa 'Only after', klausa utamanya harus mengalami inversi. Seharusnya 'were the funds'."
+    },
+    {
+      "id": "WE702",
+      "sectionType": "written_expression",
+      "questionText": "It is highly r̲e̲c̲o̲m̲m̲e̲n̲d̲e̲d̲ that anyone applying for the fellowship s̲u̲b̲m̲i̲t̲s̲ t̲h̲e̲i̲r̲ application b̲e̲f̲o̲r̲e̲ the deadline.",
+      "underlinedParts": ["recommended", "submits", "their", "before"],
+      "options": ["recommended", "submits", "their", "before"],
+      "answerIndex": 1,
+      "explanation": "Subjunctive mood. Setelah frasa 'It is recommended that', kata kerja harus berbentuk dasar (bare infinitive). Seharusnya 'submit', bukan 'submits'."
+    },
+    {
+      "id": "WE703",
+      "sectionType": "written_expression",
+      "questionText": "The e̲x̲t̲e̲n̲s̲i̲v̲e̲ network of underground caves and tunnels w̲e̲r̲e̲ completely mapped b̲y̲ the speleologists l̲a̲s̲t̲ y̲e̲a̲r̲.",
+      "underlinedParts": ["extensive", "were", "by", "last year"],
+      "options": ["extensive", "were", "by", "last year"],
+      "answerIndex": 1,
+      "explanation": "Subject-Verb Agreement. Subjek utamanya adalah 'The extensive network' (tunggal). Frasa preposisi tidak merubah subjek. Seharusnya 'was'."
+    },
+    {
+      "id": "WE704",
+      "sectionType": "written_expression",
+      "questionText": "The new strategy involves redefining the target a̲u̲d̲i̲e̲n̲c̲e̲, optimizing online p̲r̲e̲s̲e̲n̲c̲e̲, and t̲o̲ l̲a̲u̲n̲c̲h̲ localized a̲d̲v̲e̲r̲t̲i̲s̲e̲m̲e̲n̲t̲s̲.",
+      "underlinedParts": [
+        "audience",
+        "presence",
+        "to launch",
+        "advertisements"
+      ],
+      "options": ["audience", "presence", "to launch", "advertisements"],
+      "answerIndex": 2,
+      "explanation": "Parallelism. Karena bagian sebelumnya menggunakan gerund ('redefining', 'optimizing'), elemen terakhir juga harus setara. Seharusnya 'launching'."
+    },
+    {
+      "id": "WE705",
+      "sectionType": "written_expression",
+      "questionText": "L̲e̲f̲t̲ u̲n̲a̲t̲t̲e̲n̲d̲e̲d̲ in the laboratory over the weekend, the r̲e̲s̲e̲a̲r̲c̲h̲e̲r̲ found that the samples had d̲e̲g̲r̲a̲d̲e̲d̲.",
+      "underlinedParts": ["Left unattended", "researcher", "found", "degraded"],
+      "options": ["Left unattended", "researcher", "found", "degraded"],
+      "answerIndex": 1,
+      "explanation": "Dangling modifier. Yang ditinggalkan tanpa pengawasan adalah 'the samples', bukan 'the researcher'. Klausa utama harus diawali dengan 'the samples'."
+    },
+    {
+      "id": "WE706",
+      "sectionType": "written_expression",
+      "questionText": "The molecular s̲t̲r̲u̲c̲t̲u̲r̲e̲ of this newly discovered compound is remarkably s̲i̲m̲i̲l̲a̲r̲ to t̲h̲e̲ e̲x̲i̲s̲t̲i̲n̲g̲ p̲o̲l̲y̲m̲e̲r̲.",
+      "underlinedParts": ["structure", "similar", "the existing", "polymer"],
+      "options": ["structure", "similar", "the existing", "polymer"],
+      "answerIndex": 2,
+      "explanation": "Faulty comparison. Struktur molekul harus dibandingkan dengan struktur molekul lainnya. Seharusnya 'similar to that of the existing polymer'."
+    },
+    {
+      "id": "WE707",
+      "sectionType": "written_expression",
+      "questionText": "The hospital administration o̲r̲d̲e̲r̲e̲d̲ several state-of-the-art e̲q̲u̲i̲p̲m̲e̲n̲t̲s̲ for the n̲e̲w̲ c̲a̲r̲d̲i̲o̲l̲o̲g̲y̲ wing.",
+      "underlinedParts": ["ordered", "equipments", "new", "cardiology"],
+      "options": ["ordered", "equipments", "new", "cardiology"],
+      "answerIndex": 1,
+      "explanation": "'Equipment' adalah kata benda tak terhitung (uncountable noun) dan tidak bisa ditambahkan akhiran jamak -s. Seharusnya 'equipment'."
+    },
+    {
+      "id": "WE708",
+      "sectionType": "written_expression",
+      "questionText": "Recent studies indicate that this m̲e̲d̲i̲c̲a̲t̲i̲o̲n̲ is m̲u̲c̲h̲ m̲o̲r̲e̲ s̲a̲f̲e̲r̲ for elderly p̲a̲t̲i̲e̲n̲t̲s̲.",
+      "underlinedParts": ["medication", "much", "more safer", "patients"],
+      "options": ["medication", "much", "more safer", "patients"],
+      "answerIndex": 2,
+      "explanation": "Double comparative. Kata 'safer' sudah berbentuk komparatif, sehingga tidak perlu ditambah 'more'. Seharusnya cukup 'much safer'."
+    },
+    {
+      "id": "WE709",
+      "sectionType": "written_expression",
+      "questionText": "After analyzing the d̲a̲t̲a̲, the analysts decided to r̲e̲t̲u̲r̲n̲ b̲a̲c̲k̲ to their o̲r̲i̲g̲i̲n̲a̲l̲ hypothesis.",
+      "underlinedParts": ["data", "return", "back", "original"],
+      "options": ["data", "return", "back", "original"],
+      "answerIndex": 2,
+      "explanation": "Redundancy (Pemborosan kata). 'Return' sudah berarti 'go back' (kembali). Kata 'back' seharusnya dihilangkan."
+    },
+    {
+      "id": "WE710",
+      "sectionType": "written_expression",
+      "questionText": "The sudden drop in atmospheric p̲r̲e̲s̲s̲u̲r̲e̲ caused an e̲x̲t̲r̲e̲m̲e̲ r̲a̲p̲i̲d̲ change in w̲e̲a̲t̲h̲e̲r̲ conditions.",
+      "underlinedParts": ["pressure", "extreme", "rapid", "weather"],
+      "options": ["pressure", "extreme", "rapid", "weather"],
+      "answerIndex": 1,
+      "explanation": "Kata yang menjelaskan kata sifat 'rapid' harus berupa kata keterangan (adverb). Seharusnya 'extremely'."
+    },
+    {
+      "id": "WE711",
+      "sectionType": "written_expression",
+      "questionText": "Every candidate w̲h̲o̲ passes the initial screening m̲u̲s̲t̲ submit t̲h̲e̲i̲r̲ portfolio b̲y̲ Friday.",
+      "underlinedParts": ["who", "must", "their", "by"],
+      "options": ["who", "must", "their", "by"],
+      "answerIndex": 2,
+      "explanation": "Pronoun Agreement. 'Every candidate' adalah subjek tunggal. Kata ganti yang tepat dalam grammar formal adalah 'his or her', bukan 'their'."
+    },
+    {
+      "id": "WE712",
+      "sectionType": "written_expression",
+      "questionText": "F̲e̲e̲l̲i̲n̲g̲ exhausted after the long f̲l̲i̲g̲h̲t̲, she decided to l̲a̲y̲ on the couch and s̲l̲e̲e̲p̲.",
+      "underlinedParts": ["Feeling", "flight", "lay", "sleep"],
+      "options": ["Feeling", "flight", "lay", "sleep"],
+      "answerIndex": 2,
+      "explanation": "Lie vs Lay. 'Lay' adalah kata kerja transitif (membutuhkan objek). Untuk makna 'berbaring' tanpa objek, gunakan 'lie'."
+    },
+    {
+      "id": "WE713",
+      "sectionType": "written_expression",
+      "questionText": "The m̲a̲n̲a̲g̲e̲m̲e̲n̲t̲ announced that wages w̲i̲l̲l̲ r̲a̲i̲s̲e̲ significantly starting n̲e̲x̲t̲ quarter.",
+      "underlinedParts": ["management", "will", "raise", "next"],
+      "options": ["management", "will", "raise", "next"],
+      "answerIndex": 2,
+      "explanation": "Rise vs Raise. 'Raise' adalah kata kerja transitif (harus ada objek yang diangkat/dinaikkan). Jika subjeknya 'wages' yang naik sendiri (intransitif), seharusnya 'rise'."
+    },
+    {
+      "id": "WE714",
+      "sectionType": "written_expression",
+      "questionText": "The severe drought h̲a̲d̲ a devastating a̲f̲f̲e̲c̲t̲ on the region's agricultural p̲r̲o̲d̲u̲c̲t̲i̲o̲n̲ this y̲e̲a̲r̲.",
+      "underlinedParts": ["had", "affect", "production", "year"],
+      "options": ["had", "affect", "production", "year"],
+      "answerIndex": 1,
+      "explanation": "Affect vs Effect. 'Affect' adalah kata kerja. Karena posisinya setelah artikel 'a' dan kata sifat 'devastating', yang dibutuhkan adalah kata benda. Seharusnya 'effect'."
+    },
+    {
+      "id": "WE715",
+      "sectionType": "written_expression",
+      "questionText": "The construction of the b̲r̲i̲d̲g̲e̲ was delayed b̲e̲c̲a̲u̲s̲e̲ o̲f̲ the workers went on s̲t̲r̲i̲k̲e̲.",
+      "underlinedParts": ["bridge", "because of", "workers", "strike"],
+      "options": ["bridge", "because of", "workers", "strike"],
+      "answerIndex": 1,
+      "explanation": "'Because of' adalah preposisi dan harus diikuti oleh frasa kata benda. Karena diikuti oleh klausa 'the workers went on strike', seharusnya 'because'."
+    },
+    {
+      "id": "WE716",
+      "sectionType": "written_expression",
+      "questionText": "D̲e̲s̲p̲i̲t̲e̲ o̲f̲ the overwhelming evidence a̲g̲a̲i̲n̲s̲t̲ him, the defendant maintained his i̲n̲n̲o̲c̲e̲n̲c̲e̲.",
+      "underlinedParts": ["Despite of", "against", "maintained", "innocence"],
+      "options": ["Despite of", "against", "maintained", "innocence"],
+      "answerIndex": 0,
+      "explanation": "'Despite' tidak boleh diikuti oleh 'of'. Cukup gunakan 'Despite' atau ganti dengan 'In spite of'."
+    },
+    {
+      "id": "WE717",
+      "sectionType": "written_expression",
+      "questionText": "A staggering a̲m̲o̲u̲n̲t̲ of voters t̲u̲r̲n̲e̲d̲ o̲u̲t̲ for the local elections y̲e̲s̲t̲e̲rday̲.",
+      "underlinedParts": ["amount", "turned", "out", "yesterday"],
+      "options": ["amount", "turned", "out", "yesterday"],
+      "answerIndex": 0,
+      "explanation": "Kata 'voters' (pemilih) dapat dihitung (countable noun). Kuantifier yang tepat adalah 'number', bukan 'amount'."
+    },
+    {
+      "id": "WE718",
+      "sectionType": "written_expression",
+      "questionText": "The revised manuscript contains l̲e̲s̲s̲ grammatical e̲r̲r̲o̲r̲s̲ than the p̲r̲e̲v̲i̲o̲u̲s̲ d̲r̲a̲f̲t̲.",
+      "underlinedParts": ["less", "errors", "previous", "draft"],
+      "options": ["less", "errors", "previous", "draft"],
+      "answerIndex": 0,
+      "explanation": "'Errors' adalah kata benda yang dapat dihitung. Kata pembanding yang tepat adalah 'fewer', bukan 'less'."
+    },
+    {
+      "id": "WE719",
+      "sectionType": "written_expression",
+      "questionText": "The environmentalist pointed out that m̲u̲c̲h̲ ancient t̲r̲e̲e̲s̲ have been d̲e̲s̲t̲r̲o̲y̲e̲d̲ by l̲o̲g̲g̲i̲n̲g̲.",
+      "underlinedParts": ["much", "trees", "destroyed", "logging"],
+      "options": ["much", "trees", "destroyed", "logging"],
+      "answerIndex": 0,
+      "explanation": "Kata 'trees' adalah countable noun jamak. Seharusnya menggunakan 'many', bukan 'much'."
+    },
+    {
+      "id": "WE720",
+      "sectionType": "written_expression",
+      "questionText": "It was s̲o̲ an incredibly b̲r̲i̲l̲l̲i̲a̲n̲t̲ performance that the audience g̲a̲v̲e̲ a standing o̲v̲a̲t̲i̲o̲n̲.",
+      "underlinedParts": ["so", "brilliant", "gave", "ovation"],
+      "options": ["so", "brilliant", "gave", "ovation"],
+      "answerIndex": 0,
+      "explanation": "Jika diikuti oleh artikel 'an' dan frasa kata benda ('incredibly brilliant performance'), kata yang tepat adalah 'such', bukan 'so'."
+    },
+    {
+      "id": "WE721",
+      "sectionType": "written_expression",
+      "questionText": "The athletes trained h̲a̲r̲d̲l̲y̲ for six m̲o̲n̲t̲h̲s̲ to prepare for the o̲l̲y̲m̲p̲i̲c̲ g̲a̲m̲e̲s̲.",
+      "underlinedParts": ["hardly", "months", "olympic", "games"],
+      "options": ["hardly", "months", "olympic", "games"],
+      "answerIndex": 0,
+      "explanation": "'Hardly' berarti 'hampir tidak'. Untuk menyatakan melakukan sesuatu dengan keras atau sungguh-sungguh, gunakan kata keterangan 'hard'."
+    },
+    {
+      "id": "WE722",
+      "sectionType": "written_expression",
+      "questionText": "The guest speaker arrived l̲a̲t̲e̲l̲y̲ because of unexpected t̲r̲a̲f̲f̲i̲c̲ congestion on the h̲i̲g̲h̲w̲a̲y̲.",
+      "underlinedParts": ["lately", "traffic", "congestion", "highway"],
+      "options": ["lately", "traffic", "congestion", "highway"],
+      "answerIndex": 0,
+      "explanation": "'Lately' berarti 'baru-baru ini' (recently). Untuk menyatakan datang terlambat, gunakan kata sifat/keterangan 'late'."
+    },
+    {
+      "id": "WE723",
+      "sectionType": "written_expression",
+      "questionText": "Neither the f̲e̲d̲e̲r̲a̲l̲ judge nor the local magistrates w̲a̲s̲ willing to c̲o̲m̲m̲e̲n̲t̲ on the c̲a̲s̲e̲.",
+      "underlinedParts": ["federal", "was", "comment", "case"],
+      "options": ["federal", "was", "comment", "case"],
+      "answerIndex": 1,
+      "explanation": "Rule of Proximity. Dalam pola 'Neither... nor', kata kerja harus mengikuti subjek terdekat. Karena 'magistrates' jamak, seharusnya 'were'."
+    },
+    {
+      "id": "WE724",
+      "sectionType": "written_expression",
+      "questionText": "Either the main p̲i̲p̲e̲ or the connecting v̲a̲l̲v̲e̲s̲ is responsible for the m̲a̲s̲s̲i̲v̲e̲ water l̲e̲a̲k̲.",
+      "underlinedParts": ["pipe", "valves", "is", "leak"],
+      "options": ["pipe", "valves", "is", "leak"],
+      "answerIndex": 2,
+      "explanation": "Rule of Proximity. Dalam pola 'Either... or', kata kerja mengikuti subjek terdekat ('valves' - jamak). Seharusnya 'are'."
+    },
+    {
+      "id": "WE725",
+      "sectionType": "written_expression",
+      "questionText": "The talented author not only r̲e̲a̲d̲s̲ extensively but also w̲r̲i̲t̲i̲n̲g̲ multiple a̲r̲t̲i̲c̲l̲e̲s̲ e̲v̲e̲r̲y̲ week.",
+      "underlinedParts": ["reads", "writing", "articles", "every"],
+      "options": ["reads", "writing", "articles", "every"],
+      "answerIndex": 1,
+      "explanation": "Parallelism. Setelah 'not only' terdapat kata kerja 'reads' (present tense), maka setelah 'but also' harus setara. Seharusnya 'writes'."
+    },
+    {
+      "id": "WE726",
+      "sectionType": "written_expression",
+      "questionText": "Not only t̲h̲e̲ e̲c̲o̲n̲o̲m̲y̲ c̲r̲a̲s̲h̲e̲d̲, but unemployment a̲l̲s̲o̲ reached an a̲l̲l̲-t̲i̲m̲e̲ high.",
+      "underlinedParts": ["the economy crashed", "but", "also", "all-time"],
+      "options": ["the economy crashed", "but", "also", "all-time"],
+      "answerIndex": 0,
+      "explanation": "Negative Inversion. Ketika kalimat diawali dengan 'Not only', klausa harus dibalik. Seharusnya 'did the economy crash'."
+    },
+    {
+      "id": "WE727",
+      "sectionType": "written_expression",
+      "questionText": "Scarcely h̲a̲d̲ the negotiations c̲o̲n̲c̲l̲u̲d̲e̲d̲ than the war officially b̲e̲g̲a̲n̲.",
+      "underlinedParts": ["had", "concluded", "than", "began"],
+      "options": ["had", "concluded", "than", "began"],
+      "answerIndex": 2,
+      "explanation": "Correlative Conjunction. 'Scarcely' selalu dipasangkan dengan 'when', bukan 'than'."
+    },
+    {
+      "id": "WE728",
+      "sectionType": "written_expression",
+      "questionText": "No sooner h̲a̲d̲ the bell r̲u̲n̲g̲ when the students r̲u̲s̲h̲e̲d̲ out of the c̲l̲a̲s̲s̲r̲o̲o̲m̲.",
+      "underlinedParts": ["had", "rung", "when", "rushed"],
+      "options": ["had", "rung", "when", "rushed"],
+      "answerIndex": 2,
+      "explanation": "Correlative Conjunction. 'No sooner' selalu dipasangkan dengan 'than', bukan 'when'."
+    },
+    {
+      "id": "WE729",
+      "sectionType": "written_expression",
+      "questionText": "Just b̲e̲t̲w̲e̲e̲n̲ you and I̲, I firmly b̲e̲l̲i̲e̲v̲e̲ that the project is doomed to f̲a̲i̲l̲.",
+      "underlinedParts": ["between", "I", "believe", "fail"],
+      "options": ["between", "I", "believe", "fail"],
+      "answerIndex": 1,
+      "explanation": "Pronoun Case. 'Between' adalah preposisi, sehingga kata ganti setelahnya harus berupa objek. Seharusnya 'me', bukan 'I'."
+    },
+    {
+      "id": "WE730",
+      "sectionType": "written_expression",
+      "questionText": "The p̲r̲o̲f̲e̲s̲s̲o̲r̲ w̲h̲o̲m̲ is delivering the keynote s̲p̲e̲e̲c̲h̲ is an expert i̲n̲ linguistics.",
+      "underlinedParts": ["professor", "whom", "speech", "in"],
+      "options": ["professor", "whom", "speech", "in"],
+      "answerIndex": 1,
+      "explanation": "Relative Pronoun. Kata ganti ini berfungsi sebagai subjek untuk klausa 'is delivering', sehingga seharusnya menggunakan 'who', bukan 'whom'."
+    },
+    {
+      "id": "WE731",
+      "sectionType": "written_expression",
+      "questionText": "The s̲c̲i̲e̲n̲t̲i̲s̲t̲ w̲h̲o̲ research led to the b̲r̲e̲a̲k̲t̲h̲r̲o̲u̲g̲h̲ was awarded the prestigious p̲r̲i̲z̲e̲.",
+      "underlinedParts": ["scientist", "who", "breakthrough", "prize"],
+      "options": ["scientist", "who", "breakthrough", "prize"],
+      "answerIndex": 1,
+      "explanation": "Relative Pronoun for Possession. Kata yang tepat untuk menyatakan 'yang penelitiannya' (kepemilikan) adalah 'whose'."
+    },
+    {
+      "id": "WE732",
+      "sectionType": "written_expression",
+      "questionText": "The committee members, t̲h̲a̲t̲ were elected l̲a̲s̲t̲ month, w̲i̲l̲l̲ formally convene t̲o̲m̲o̲r̲r̲o̲w̲.",
+      "underlinedParts": ["that", "last", "will", "tomorrow"],
+      "options": ["that", "last", "will", "tomorrow"],
+      "answerIndex": 0,
+      "explanation": "Non-restrictive relative clause (diapit koma) tidak boleh menggunakan 'that'. Untuk merujuk pada manusia, seharusnya menggunakan 'who'."
+    },
+    {
+      "id": "WE733",
+      "sectionType": "written_expression",
+      "questionText": "It is a̲b̲s̲o̲l̲u̲t̲e̲l̲y̲ vital that the ambassador g̲o̲e̲s̲ to the summit a̲s̲ a representative of the c̲o̲u̲n̲t̲r̲y̲.",
+      "underlinedParts": ["absolutely", "goes", "as", "country"],
+      "options": ["absolutely", "goes", "as", "country"],
+      "answerIndex": 1,
+      "explanation": "Subjunctive mood. Setelah frasa 'It is vital that', kata kerja harus berbentuk dasar tanpa akhiran -s. Seharusnya 'go'."
+    },
+    {
+      "id": "WE734",
+      "sectionType": "written_expression",
+      "questionText": "The mayor, t̲o̲g̲e̲t̲h̲e̲r̲ w̲i̲t̲h̲ the city planners, a̲r̲e̲ reviewing the proposed z̲o̲n̲i̲n̲g̲ laws.",
+      "underlinedParts": ["together with", "are", "proposed", "zoning"],
+      "options": ["together with", "are", "proposed", "zoning"],
+      "answerIndex": 1,
+      "explanation": "Intervening phrases seperti 'together with' tidak menjadikan subjek jamak. Subjek utamanya 'The mayor' (tunggal). Seharusnya 'is'."
+    },
+    {
+      "id": "WE735",
+      "sectionType": "written_expression",
+      "questionText": "W̲h̲a̲t̲ the local residents desperately n̲e̲e̲d̲ are a comprehensive healthcare s̲y̲s̲t̲e̲m̲.",
+      "underlinedParts": ["What", "need", "are", "system"],
+      "options": ["What", "need", "are", "system"],
+      "answerIndex": 2,
+      "explanation": "Noun clause sebagai subjek ('What the local residents desperately need') diperlakukan sebagai entitas tunggal. Terlebih pelengkapnya adalah 'a comprehensive system' (tunggal). Seharusnya 'is'."
+    },
+    {
+      "id": "WE736",
+      "sectionType": "written_expression",
+      "questionText": "The assistant gathered all the relevant i̲n̲f̲o̲r̲m̲a̲t̲i̲o̲n̲s̲ and p̲r̲e̲s̲e̲n̲t̲e̲d̲ them to the b̲o̲a̲r̲d̲.",
+      "underlinedParts": ["informations", "presented", "them", "board"],
+      "options": ["informations", "presented", "them", "board"],
+      "answerIndex": 0,
+      "explanation": "'Information' adalah uncountable noun (tak bisa dihitung) sehingga tidak memiliki bentuk jamak dengan akhiran -s. Seharusnya 'information' (dan pronoun-nya 'it')."
+    },
+    {
+      "id": "WE737",
+      "sectionType": "written_expression",
+      "questionText": "The a̲n̲t̲i̲q̲u̲e̲ f̲u̲r̲n̲i̲t̲u̲r̲e̲s̲ sold at the a̲u̲c̲t̲i̲o̲n̲ fetched an e̲x̲t̲r̲a̲o̲r̲d̲i̲n̲a̲r̲y̲ price.",
+      "underlinedParts": ["antique", "furnitures", "auction", "extraordinary"],
+      "options": ["antique", "furnitures", "auction", "extraordinary"],
+      "answerIndex": 1,
+      "explanation": "'Furniture' adalah uncountable noun dan tidak bisa dijamakkan dengan akhiran -s. Seharusnya 'furniture'."
+    },
+    {
+      "id": "WE738",
+      "sectionType": "written_expression",
+      "questionText": "The museum e̲x̲h̲i̲b̲i̲t̲s̲ a rare collection of ancient j̲e̲w̲e̲l̲r̲i̲e̲s̲ d̲i̲s̲c̲o̲v̲e̲r̲e̲d̲ in E̲g̲y̲p̲t̲.",
+      "underlinedParts": ["exhibits", "jewelries", "discovered", "Egypt"],
+      "options": ["exhibits", "jewelries", "discovered", "Egypt"],
+      "answerIndex": 1,
+      "explanation": "'Jewelry' adalah kata benda yang tak bisa dihitung (uncountable). Seharusnya 'jewelry' (atau 'pieces of jewelry')."
+    },
+    {
+      "id": "WE739",
+      "sectionType": "written_expression",
+      "questionText": "While o̲n̲e̲ group of researchers focused on genetics, a̲n̲o̲t̲h̲e̲r̲ researchers s̲t̲u̲d̲i̲e̲d̲ environmental f̲a̲c̲t̲o̲r̲s̲.",
+      "underlinedParts": ["one", "another", "studied", "factors"],
+      "options": ["one", "another", "studied", "factors"],
+      "answerIndex": 1,
+      "explanation": "Kata 'another' hanya digunakan di depan kata benda tunggal. Karena 'researchers' adalah jamak, seharusnya menggunakan 'other'."
+    },
+    {
+      "id": "WE740",
+      "sectionType": "written_expression",
+      "questionText": "The newly hired e̲m̲p̲l̲o̲y̲e̲e̲s̲ are not used t̲o̲ w̲o̲r̲k̲ s̲u̲c̲h̲ l̲o̲n̲g̲ hours.",
+      "underlinedParts": ["employees", "to work", "such", "long"],
+      "options": ["employees", "to work", "such", "long"],
+      "answerIndex": 1,
+      "explanation": "Struktur 'be used to' (terbiasa) harus diikuti oleh gerund (-ing) atau noun. Seharusnya 'to working'."
+    },
+    {
+      "id": "WE741",
+      "sectionType": "written_expression",
+      "questionText": "The e̲n̲t̲i̲r̲e̲ team is really l̲o̲o̲k̲i̲n̲g̲ forward t̲o̲ s̲e̲e̲ the results of the e̲v̲a̲l̲u̲a̲t̲i̲o̲n̲.",
+      "underlinedParts": ["entire", "looking", "to see", "evaluation"],
+      "options": ["entire", "looking", "to see", "evaluation"],
+      "answerIndex": 2,
+      "explanation": "Frasa idiomatis 'look forward to' harus selalu diikuti oleh gerund (-ing) karena 'to' berfungsi sebagai preposisi. Seharusnya 'to seeing'."
+    },
+    {
+      "id": "WE742",
+      "sectionType": "written_expression",
+      "questionText": "The strict professor m̲a̲d̲e̲ all of his students t̲o̲ r̲e̲w̲r̲i̲t̲e̲ their essays b̲e̲f̲o̲r̲e̲ the final g̲r̲a̲d̲i̲n̲g̲.",
+      "underlinedParts": ["made", "to rewrite", "before", "grading"],
+      "options": ["made", "to rewrite", "before", "grading"],
+      "answerIndex": 1,
+      "explanation": "Causative verb 'make'. Pola aktifnya adalah 'make + object + bare infinitive'. Seharusnya 'rewrite' tanpa 'to'."
+    },
+    {
+      "id": "WE743",
+      "sectionType": "written_expression",
+      "questionText": "The manager h̲a̲d̲ the IT department t̲o̲ i̲n̲s̲t̲a̲l̲l̲ new firewall protections o̲n̲ all company c̲o̲m̲p̲u̲t̲e̲r̲s̲.",
+      "underlinedParts": ["had", "to install", "on", "computers"],
+      "options": ["had", "to install", "on", "computers"],
+      "answerIndex": 1,
+      "explanation": "Causative verb 'have'. Pola aktifnya adalah 'have + object + bare infinitive'. Seharusnya 'install' tanpa 'to'."
+    },
+    {
+      "id": "WE744",
+      "sectionType": "written_expression",
+      "questionText": "The c̲h̲i̲e̲f̲ engineer g̲o̲t̲ the technicians c̲h̲e̲c̲k̲ the backup generators p̲r̲i̲o̲r̲ to the storm.",
+      "underlinedParts": ["chief", "got", "check", "prior"],
+      "options": ["chief", "got", "check", "prior"],
+      "answerIndex": 2,
+      "explanation": "Causative verb 'get'. Pola aktifnya berbeda dengan make/have, yaitu 'get + object + to-infinitive'. Seharusnya 'to check'."
+    },
+    {
+      "id": "WE745",
+      "sectionType": "written_expression",
+      "questionText": "She wore a b̲e̲a̲u̲t̲i̲f̲u̲l̲ r̲e̲d̲ S̲p̲a̲n̲i̲s̲h̲ l̲a̲r̲g̲e̲ dress to the charity b̲a̲l̲l̲.",
+      "underlinedParts": ["beautiful", "red Spanish large", "charity", "ball"],
+      "options": ["beautiful", "red Spanish large", "charity", "ball"],
+      "answerIndex": 1,
+      "explanation": "Adjective Order. Urutan kata sifat yang benar adalah Opini-Ukuran-Warna-Asal. Seharusnya 'beautiful large red Spanish'."
+    },
+    {
+      "id": "WE746",
+      "sectionType": "written_expression",
+      "questionText": "D̲u̲r̲i̲n̲g̲ the severe blizzard, we c̲o̲u̲l̲d̲ hardly see n̲o̲t̲h̲i̲n̲g̲ through the f̲r̲o̲s̲t̲e̲d̲ windows.",
+      "underlinedParts": ["During", "could", "nothing", "frosted"],
+      "options": ["During", "could", "nothing", "frosted"],
+      "answerIndex": 2,
+      "explanation": "Double Negative. 'Hardly' sudah bermakna negatif, sehingga penggunaan 'nothing' menjadikannya ganda dan tidak baku. Seharusnya 'anything'."
+    },
+    {
+      "id": "WE747",
+      "sectionType": "written_expression",
+      "questionText": "The climate i̲n̲ the southern hemisphere is generally w̲a̲r̲m̲e̲r̲ than the northern h̲e̲m̲i̲s̲p̲h̲e̲r̲e̲.",
+      "underlinedParts": ["in", "warmer", "than", "hemisphere"],
+      "options": ["in", "warmer", "than", "hemisphere"],
+      "answerIndex": 2,
+      "explanation": "Faulty Comparison. Iklim di selatan harus dibandingkan dengan iklim di utara, bukan hanya dengan belahan bumi utara. Seharusnya 'than that of the northern hemisphere'."
+    },
+    {
+      "id": "WE748",
+      "sectionType": "written_expression",
+      "questionText": "B̲y̲ the time the police f̲i̲n̲a̲l̲l̲y̲ arrived, the burglars l̲e̲f̲t̲ the s̲c̲e̲n̲e̲.",
+      "underlinedParts": ["By", "finally", "left", "scene"],
+      "options": ["By", "finally", "left", "scene"],
+      "answerIndex": 2,
+      "explanation": "Sequence of Tenses. Karena pencuri sudah pergi sebelum polisi tiba di masa lampau, harus menggunakan Past Perfect. Seharusnya 'had left'."
+    },
+    {
+      "id": "WE749",
+      "sectionType": "written_expression",
+      "questionText": "By the e̲n̲d̲ of next year, the renowned a̲r̲c̲h̲i̲t̲e̲c̲t̲ w̲i̲l̲l̲ w̲o̲r̲k̲ on this project f̲o̲r̲ a decade.",
+      "underlinedParts": ["end", "architect", "will work", "for"],
+      "options": ["end", "architect", "will work", "for"],
+      "answerIndex": 2,
+      "explanation": "Future Perfect Tense. Untuk menyatakan aksi yang akan telah berlangsung selama durasi tertentu di masa depan. Seharusnya 'will have worked' atau 'will have been working'."
+    },
+    {
+      "id": "WE750",
+      "sectionType": "written_expression",
+      "questionText": "H̲a̲d̲ the engineers known about the structural f̲l̲a̲w̲, they w̲o̲u̲l̲d̲ a̲l̲t̲e̲r̲ the b̲l̲u̲e̲p̲r̲i̲n̲t̲s̲ immediately.",
+      "underlinedParts": ["Had", "flaw", "would alter", "blueprints"],
+      "options": ["Had", "flaw", "would alter", "blueprints"],
+      "answerIndex": 2,
+      "explanation": "Conditional Type 3 (Past Unreal). Klausa hasil (result clause) harus menggunakan 'would have + verb 3'. Seharusnya 'would have altered'."
+    },
+    {
+      "id": "WE751",
+      "sectionType": "written_expression",
+      "questionText": "O̲n̲l̲y̲ w̲h̲e̲n̲ the researchers completed the clinical trial d̲i̲d̲ they r̲e̲a̲l̲i̲z̲e̲d̲ the full i̲m̲p̲a̲c̲t̲ of the drug.",
+      "underlinedParts": ["Only when", "did", "realized", "impact"],
+      "options": ["Only when", "did", "realized", "impact"],
+      "answerIndex": 2,
+      "explanation": "Dalam struktur inversi dengan kata kerja bantu 'did', kata kerja utama harus kembali ke bentuk dasar (bare infinitive). Seharusnya 'realize'."
+    },
+    {
+      "id": "WE752",
+      "sectionType": "written_expression",
+      "questionText": "The board of trustees r̲e̲q̲u̲e̲s̲t̲e̲d̲ that the treasurer s̲u̲b̲m̲i̲t̲s̲ the financial report b̲y̲ F̲r̲i̲d̲a̲y̲.",
+      "underlinedParts": ["requested", "submits", "by", "Friday"],
+      "options": ["requested", "submits", "by", "Friday"],
+      "answerIndex": 1,
+      "explanation": "Subjunctive mood. Setelah kata kerja 'requested', kata kerja pada klausa 'that' harus berbentuk dasar tanpa akhiran -s. Seharusnya 'submit'."
+    },
+    {
+      "id": "WE753",
+      "sectionType": "written_expression",
+      "questionText": "The n̲u̲m̲b̲e̲r̲ of a̲p̲p̲l̲i̲c̲a̲n̲t̲s̲ for the international scholarship h̲a̲v̲e̲ increased s̲i̲g̲n̲i̲f̲i̲c̲a̲n̲t̲l̲y̲ this year.",
+      "underlinedParts": ["number", "applicants", "have", "significantly"],
+      "options": ["number", "applicants", "have", "significantly"],
+      "answerIndex": 2,
+      "explanation": "Subject-Verb Agreement. Frasa 'The number of' selalu dianggap sebagai subjek tunggal. Seharusnya menggunakan 'has'."
+    },
+    {
+      "id": "WE754",
+      "sectionType": "written_expression",
+      "questionText": "M̲a̲k̲i̲n̲g̲ a detailed project schedule is just as important as t̲o̲ f̲o̲l̲l̲o̲w̲ it s̲t̲r̲i̲c̲t̲l̲y̲.",
+      "underlinedParts": ["Making", "important", "to follow", "strictly"],
+      "options": ["Making", "important", "to follow", "strictly"],
+      "answerIndex": 2,
+      "explanation": "Parallelism. Karena subjek perbandingannya menggunakan gerund 'Making', maka elemen yang dibandingkan juga harus berupa gerund. Seharusnya 'following'."
+    },
+    {
+      "id": "WE755",
+      "sectionType": "written_expression",
+      "questionText": "U̲n̲a̲b̲l̲e̲ to find the correct path, the m̲a̲p̲ was consulted by the l̲o̲s̲t̲ h̲i̲k̲e̲r̲s̲.",
+      "underlinedParts": ["Unable", "map", "lost", "hikers"],
+      "options": ["Unable", "map", "lost", "hikers"],
+      "answerIndex": 1,
+      "explanation": "Dangling modifier. Modifikator 'Unable to find...' merujuk pada subjek yang tersesat (hikers), bukan peta (map). Seharusnya subjek klausa utama adalah 'the lost hikers'."
+    },
+    {
+      "id": "WE756",
+      "sectionType": "written_expression",
+      "questionText": "The architecture of the new l̲i̲b̲r̲a̲r̲y̲ is quite s̲i̲m̲i̲l̲a̲r̲ to the m̲u̲s̲e̲u̲m̲ a̲c̲r̲o̲s̲s̲ the street.",
+      "underlinedParts": ["library", "similar", "museum", "across"],
+      "options": ["library", "similar", "museum", "across"],
+      "answerIndex": 2,
+      "explanation": "Faulty comparison. Arsitektur harus dibandingkan dengan arsitektur lainnya, bukan dengan bangunan museum itu sendiri. Seharusnya 'that of the museum'."
+    },
+    {
+      "id": "WE757",
+      "sectionType": "written_expression",
+      "questionText": "The CEO, a̲l̲o̲n̲g̲ w̲i̲t̲h̲ several top executives, a̲r̲e̲ attending the global s̲u̲m̲m̲i̲t̲ i̲n̲ Geneva.",
+      "underlinedParts": ["along with", "are", "summit", "in"],
+      "options": ["along with", "are", "summit", "in"],
+      "answerIndex": 1,
+      "explanation": "Intervening phrase. Frasa seperti 'along with' tidak membuat subjek menjadi jamak. Subjek utamanya 'The CEO' (tunggal). Seharusnya 'is'."
+    },
+    {
+      "id": "WE758",
+      "sectionType": "written_expression",
+      "questionText": "S̲e̲l̲d̲o̲m̲ t̲h̲e̲ e̲c̲o̲n̲o̲m̲i̲s̲t̲s̲ h̲a̲v̲e̲ predicted a recession w̲i̲t̲h̲ such absolute certainty.",
+      "underlinedParts": ["Seldom", "the economists", "have", "with"],
+      "options": ["Seldom", "the economists", "have", "with"],
+      "answerIndex": 2,
+      "explanation": "Negative Inversion. Jika kalimat diawali dengan adverbia negatif seperti 'Seldom', posisi subjek dan auxiliary harus dibalik. Seharusnya 'have the economists'."
+    },
+    {
+      "id": "WE759",
+      "sectionType": "written_expression",
+      "questionText": "D̲e̲s̲p̲i̲t̲e̲ o̲f̲ the freezing t̲e̲m̲p̲e̲r̲a̲t̲u̲r̲e̲s̲, the rescue team c̲o̲n̲t̲i̲n̲u̲e̲d̲ their search operations.",
+      "underlinedParts": ["Despite", "of", "temperatures", "continued"],
+      "options": ["Despite", "of", "temperatures", "continued"],
+      "answerIndex": 1,
+      "explanation": "Kata preposisi 'Despite' tidak pernah diikuti oleh 'of'. Cukup gunakan 'Despite' atau ganti dengan 'In spite of'."
+    },
+    {
+      "id": "WE760",
+      "sectionType": "written_expression",
+      "questionText": "A large a̲m̲o̲u̲n̲t̲ of voters t̲u̲r̲n̲e̲d̲ o̲u̲t̲ for the local m̲a̲y̲o̲r̲a̲l̲ election.",
+      "underlinedParts": ["amount", "turned", "out", "mayoral"],
+      "options": ["amount", "turned", "out", "mayoral"],
+      "answerIndex": 0,
+      "explanation": "Kuantifier 'amount' digunakan untuk benda yang tak dapat dihitung (uncountable). Karena 'voters' (pemilih) dapat dihitung, seharusnya menggunakan 'number'."
+    },
+    {
+      "id": "WE761",
+      "sectionType": "written_expression",
+      "questionText": "The p̲r̲o̲f̲e̲s̲s̲o̲r̲ gave the students s̲e̲v̲e̲r̲a̲l̲ useful a̲d̲v̲i̲c̲e̲s̲ on how to p̲r̲e̲p̲a̲r̲e̲ for the exam.",
+      "underlinedParts": ["professor", "several", "advices", "prepare"],
+      "options": ["professor", "several", "advices", "prepare"],
+      "answerIndex": 2,
+      "explanation": "'Advice' adalah kata benda yang tak bisa dihitung (uncountable) sehingga tidak bisa ditambah akhiran -s. Seharusnya 'pieces of advice' atau cukup 'advice'."
+    },
+    {
+      "id": "WE762",
+      "sectionType": "written_expression",
+      "questionText": "The new policy will affect e̲v̲e̲r̲y̲o̲n̲e̲, i̲r̲r̲e̲g̲a̲r̲d̲l̲e̲s̲s̲ of their seniority w̲i̲t̲h̲i̲n̲ the c̲o̲m̲p̲a̲n̲y̲.",
+      "underlinedParts": ["everyone", "irregardless", "within", "company"],
+      "options": ["everyone", "irregardless", "within", "company"],
+      "answerIndex": 1,
+      "explanation": "'Irregardless' adalah bentuk ganda negatif yang tidak baku dalam bahasa Inggris formal. Seharusnya 'regardless'."
+    },
+    {
+      "id": "WE763",
+      "sectionType": "written_expression",
+      "questionText": "N̲e̲i̲t̲h̲e̲r̲ the supervisor nor the operators w̲a̲s̲ aware of the s̲a̲f̲e̲t̲y̲ v̲i̲o̲l̲a̲t̲i̲o̲n̲.",
+      "underlinedParts": ["Neither", "was", "safety", "violation"],
+      "options": ["Neither", "was", "safety", "violation"],
+      "answerIndex": 1,
+      "explanation": "Rule of Proximity. Dalam pola 'Neither... nor', kata kerja harus mengikuti subjek terdekat ('operators' - jamak). Seharusnya 'were'."
+    },
+    {
+      "id": "WE764",
+      "sectionType": "written_expression",
+      "questionText": "The reason w̲h̲y̲ the bridge collapsed was b̲e̲c̲a̲u̲s̲e̲ o̲f̲ the structural f̲l̲a̲w̲s̲.",
+      "underlinedParts": ["why", "because", "of", "flaws"],
+      "options": ["why", "because", "of", "flaws"],
+      "answerIndex": 1,
+      "explanation": "Redundansi. Penggunaan 'The reason... was because' adalah bentuk redundan/pemborosan. Seharusnya 'The reason... was that'."
+    },
+    {
+      "id": "WE765",
+      "sectionType": "written_expression",
+      "questionText": "H̲a̲v̲i̲n̲g̲ completed the assignment, the t̲e̲l̲e̲v̲i̲s̲i̲o̲n̲ was turned o̲n̲ by the s̲t̲u̲d̲e̲n̲t̲.",
+      "underlinedParts": ["Having", "television", "on", "student"],
+      "options": ["Having", "television", "on", "student"],
+      "answerIndex": 1,
+      "explanation": "Dangling modifier. Televisi tidak bisa menyelesaikan tugas. Subjek klausa utama seharusnya adalah entitas yang melakukan tindakan, yaitu 'the student'."
+    },
+    {
+      "id": "WE766",
+      "sectionType": "written_expression",
+      "questionText": "The climate in the northern hemisphere is g̲e̲n̲e̲r̲a̲l̲l̲y̲ colder than the s̲o̲u̲t̲h̲e̲r̲n̲ h̲e̲m̲i̲s̲p̲h̲e̲r̲e̲.",
+      "underlinedParts": ["generally", "southern", "hemisphere", "colder"],
+      "options": ["generally", "southern", "hemisphere", "colder"],
+      "answerIndex": 1,
+      "explanation": "Faulty comparison. Iklim harus dibandingkan dengan iklim, bukan dengan belahan bumi. Seharusnya 'than that of the southern hemisphere'."
+    },
+    {
+      "id": "WE767",
+      "sectionType": "written_expression",
+      "questionText": "The patient was advised t̲o̲ l̲a̲y̲ in bed for at l̲e̲a̲s̲t̲ two d̲a̲y̲s̲.",
+      "underlinedParts": ["to lay", "least", "days", "advised"],
+      "options": ["to lay", "least", "days", "advised"],
+      "answerIndex": 0,
+      "explanation": "Lie vs Lay. 'Lay' adalah kata kerja transitif (membutuhkan objek, misalnya meletakkan buku). Untuk bermakna 'berbaring' tanpa objek, gunakan 'to lie'."
+    },
+    {
+      "id": "WE768",
+      "sectionType": "written_expression",
+      "questionText": "The committee h̲a̲v̲e̲ decided to publish i̲t̲s̲ preliminary report r̲e̲g̲a̲r̲d̲i̲n̲g̲ the b̲u̲d̲g̲e̲t̲.",
+      "underlinedParts": ["have", "its", "regarding", "budget"],
+      "options": ["have", "its", "regarding", "budget"],
+      "answerIndex": 0,
+      "explanation": "Collective noun agreement. Karena kata gantinya menggunakan 'its' (tunggal), maka 'committee' bertindak sebagai satu kesatuan. Kata kerjanya harus tunggal 'has'."
+    },
+    {
+      "id": "WE769",
+      "sectionType": "written_expression",
+      "questionText": "She is u̲s̲e̲d̲ t̲o̲ w̲o̲r̲k̲ late into the n̲i̲g̲h̲t̲ to meet her d̲e̲a̲d̲l̲i̲n̲e̲s̲.",
+      "underlinedParts": ["used", "to", "work", "night"],
+      "options": ["used", "to", "work", "night"],
+      "answerIndex": 2,
+      "explanation": "Struktur 'be used to' (terbiasa dengan) mengharuskan penggunaan gerund (-ing) setelahnya. Seharusnya 'working'."
+    },
+    {
+      "id": "WE770",
+      "sectionType": "written_expression",
+      "questionText": "The director o̲r̲d̲e̲r̲e̲d̲ that the equipment i̲s̲ replaced b̲e̲f̲o̲r̲e̲ the next a̲u̲d̲i̲t̲.",
+      "underlinedParts": ["ordered", "is", "before", "audit"],
+      "options": ["ordered", "is", "before", "audit"],
+      "answerIndex": 1,
+      "explanation": "Subjunctive mood. Verba yang bermakna perintah ('ordered') mensyaratkan to be di klausa 'that' kembali ke bentuk dasar murni. Seharusnya 'be'."
+    },
+    {
+      "id": "WE771",
+      "sectionType": "written_expression",
+      "questionText": "Not only s̲h̲e̲ p̲a̲s̲s̲e̲d̲ the rigorous exam, but she a̲l̲s̲o̲ scored the highest g̲r̲a̲d̲e̲.",
+      "underlinedParts": ["she", "passed", "also", "grade"],
+      "options": ["she", "passed", "also", "grade"],
+      "answerIndex": 0,
+      "explanation": "Negative Inversion. Kalimat yang diawali dengan frasa 'Not only' harus diikuti inversi (auxiliary + subject). Seharusnya 'did she pass'."
+    },
+    {
+      "id": "WE772",
+      "sectionType": "written_expression",
+      "questionText": "It is v̲i̲t̲a̲l̲ that every passenger f̲a̲s̲t̲e̲n̲s̲ their seatbelt d̲u̲r̲i̲n̲g̲ the t̲u̲r̲b̲u̲l̲e̲n̲c̲e̲.",
+      "underlinedParts": ["vital", "fastens", "during", "turbulence"],
+      "options": ["vital", "fastens", "during", "turbulence"],
+      "answerIndex": 1,
+      "explanation": "Subjunctive mood. Setelah frasa keharusan 'It is vital that', kata kerja harus berbentuk dasar tanpa akhiran -s. Seharusnya 'fasten'."
+    },
+    {
+      "id": "WE773",
+      "sectionType": "written_expression",
+      "questionText": "Between you and I̲, this new marketing s̲t̲r̲a̲t̲e̲g̲y̲ is bound to f̲a̲i̲l̲ m̲i̲s̲e̲r̲a̲b̲l̲y̲.",
+      "underlinedParts": ["I", "strategy", "fail", "miserably"],
+      "options": ["I", "strategy", "fail", "miserably"],
+      "answerIndex": 0,
+      "explanation": "Pronoun case. Karena 'Between' adalah sebuah preposisi, kata ganti setelahnya harus berupa objek (objective pronoun). Seharusnya 'me'."
+    },
+    {
+      "id": "WE774",
+      "sectionType": "written_expression",
+      "questionText": "The factory purchased new m̲a̲c̲h̲i̲n̲e̲r̲i̲e̲s̲ to i̲n̲c̲r̲e̲a̲s̲e̲ its overall p̲r̲o̲d̲u̲c̲t̲i̲o̲n̲ c̲a̲p̲a̲c̲i̲t̲y̲.",
+      "underlinedParts": ["machineries", "increase", "production", "capacity"],
+      "options": ["machineries", "increase", "production", "capacity"],
+      "answerIndex": 0,
+      "explanation": "Kata 'machinery' adalah uncountable noun (tak bisa dihitung) dan tidak memiliki bentuk jamak. Seharusnya 'machinery' atau 'machines'."
+    },
+    {
+      "id": "WE775",
+      "sectionType": "written_expression",
+      "questionText": "The more time you s̲p̲e̲n̲d̲ studying, the h̲i̲g̲h̲e̲s̲t̲ your score w̲i̲l̲l̲ b̲e̲.",
+      "underlinedParts": ["spend", "highest", "will", "be"],
+      "options": ["spend", "highest", "will", "be"],
+      "answerIndex": 1,
+      "explanation": "Double comparative structure (The more..., the more...). Seharusnya menggunakan bentuk komparatif 'higher', bukan superlatif 'highest'."
+    },
+    {
+      "id": "WE776",
+      "sectionType": "written_expression",
+      "questionText": "The witness t̲e̲s̲t̲i̲f̲i̲e̲d̲ that he had not seen n̲o̲t̲h̲i̲n̲g̲ unusual on the n̲i̲g̲h̲t̲ in q̲u̲e̲s̲t̲i̲o̲n̲.",
+      "underlinedParts": ["testified", "nothing", "night", "question"],
+      "options": ["testified", "nothing", "night", "question"],
+      "answerIndex": 1,
+      "explanation": "Double negative. Karena sudah ada kata 'not', penggunaan 'nothing' membuat kalimat menjadi negatif ganda yang tidak baku. Seharusnya 'anything'."
+    },
+    {
+      "id": "WE777",
+      "sectionType": "written_expression",
+      "questionText": "W̲h̲o̲m̲ did the principal s̲a̲y̲ was responsible for organizing the e̲v̲e̲n̲t̲?",
+      "underlinedParts": ["Whom", "say", "responsible", "event"],
+      "options": ["Whom", "say", "responsible", "event"],
+      "answerIndex": 0,
+      "explanation": "Relative Pronoun. Kata ganti ini berfungsi sebagai subjek untuk 'was responsible' (meski dipisah oleh 'did the principal say'). Seharusnya menggunakan 'Who'."
+    },
+    {
+      "id": "WE778",
+      "sectionType": "written_expression",
+      "questionText": "The children were e̲x̲h̲a̲u̲s̲t̲i̲n̲g̲ after s̲p̲e̲n̲d̲i̲n̲g̲ the entire afternoon p̲l̲a̲y̲i̲n̲g̲ in the p̲a̲r̲k̲.",
+      "underlinedParts": ["exhausting", "spending", "playing", "park"],
+      "options": ["exhausting", "spending", "playing", "park"],
+      "answerIndex": 0,
+      "explanation": "Participle adjective. Untuk mendeskripsikan subjek yang merasakan kelelahan, gunakan past participle (-ed). Seharusnya 'exhausted'."
+    },
+    {
+      "id": "WE779",
+      "sectionType": "written_expression",
+      "questionText": "M̲a̲n̲y̲ of the i̲n̲f̲o̲r̲m̲a̲t̲i̲o̲n̲ provided in the manual w̲a̲s̲ outdated and i̲r̲r̲e̲l̲e̲v̲a̲n̲t̲.",
+      "underlinedParts": ["Many", "information", "was", "irrelevant"],
+      "options": ["Many", "information", "was", "irrelevant"],
+      "answerIndex": 0,
+      "explanation": "'Information' adalah kata benda tak bisa dihitung (uncountable). Kuantifier yang tepat adalah 'Much', bukan 'Many'."
+    },
+    {
+      "id": "WE780",
+      "sectionType": "written_expression",
+      "questionText": "S̲h̲o̲u̲l̲d̲ the weather c̲l̲e̲a̲r̲s̲ up, the outdoor concert w̲i̲l̲l̲ proceed as p̲l̲a̲n̲n̲e̲d̲.",
+      "underlinedParts": ["Should", "clears", "will", "planned"],
+      "options": ["Should", "clears", "will", "planned"],
+      "answerIndex": 1,
+      "explanation": "Inverted Conditional Tipe 1. Kata kerja setelah modal 'Should' harus kembali ke bentuk dasar tanpa -s. Seharusnya 'clear'."
+    },
+    {
+      "id": "WE781",
+      "sectionType": "written_expression",
+      "questionText": "The manager refused a̲c̲c̲e̲p̲t̲i̲n̲g̲ the resignation l̲e̲t̲t̲e̲r̲ from his best e̲m̲p̲l̲o̲y̲e̲e̲.",
+      "underlinedParts": ["accepting", "resignation", "letter", "employee"],
+      "options": ["accepting", "resignation", "letter", "employee"],
+      "answerIndex": 0,
+      "explanation": "Kata kerja 'refuse' harus selalu diikuti oleh infinitive (to + verb 1), bukan gerund. Seharusnya 'to accept'."
+    },
+    {
+      "id": "WE782",
+      "sectionType": "written_expression",
+      "questionText": "The new software is incredibly e̲f̲f̲i̲c̲i̲e̲n̲t̲, user-friendly, and i̲t̲ f̲u̲n̲c̲t̲i̲o̲n̲s̲ r̲e̲l̲i̲a̲b̲l̲y̲.",
+      "underlinedParts": ["efficient", "it", "functions", "reliably"],
+      "options": ["efficient", "it", "functions", "reliably"],
+      "answerIndex": 1,
+      "explanation": "Parallelism. Deretan sebelumnya terdiri dari kata sifat (efficient, user-friendly). Maka elemen terakhir juga harus kata sifat. Seharusnya diganti menjadi 'reliable'."
+    },
+    {
+      "id": "WE783",
+      "sectionType": "written_expression",
+      "questionText": "The t̲w̲i̲n̲s̲ are so alike that I frequently c̲o̲n̲f̲u̲s̲e̲ one from a̲n̲o̲t̲h̲e̲r̲.",
+      "underlinedParts": ["twins", "confuse", "one", "another"],
+      "options": ["twins", "confuse", "one", "another"],
+      "answerIndex": 3,
+      "explanation": "Idiom perbandingan untuk dua hal spesifik adalah 'one from the other'. Kata 'another' digunakan untuk entitas tambahan yang tidak spesifik."
+    },
+    {
+      "id": "WE784",
+      "sectionType": "written_expression",
+      "questionText": "A̲f̲t̲e̲r̲ the storm, the d̲e̲b̲r̲i̲s̲ were cleared a̲w̲a̲y̲ by the local a̲u̲t̲h̲o̲r̲i̲t̲i̲e̲s̲.",
+      "underlinedParts": ["After", "debris", "were", "away"],
+      "options": ["After", "debris", "were", "away"],
+      "answerIndex": 2,
+      "explanation": "'Debris' (puing-puing) adalah uncountable noun dan dianggap sebagai subjek tunggal. Seharusnya menggunakan 'was'."
+    },
+    {
+      "id": "WE785",
+      "sectionType": "written_expression",
+      "questionText": "The coach strongly a̲d̲v̲i̲s̲e̲d̲ that the players g̲e̲t̲s̲ plenty of r̲e̲s̲t̲ before the c̲h̲a̲m̲p̲i̲o̲n̲s̲h̲i̲p̲.",
+      "underlinedParts": ["advised", "gets", "rest", "championship"],
+      "options": ["advised", "gets", "rest", "championship"],
+      "answerIndex": 1,
+      "explanation": "Subjunctive mood. Setelah kata kerja 'advised', kata kerja pada klausa harus berbentuk dasar tanpa -s, terlepas dari subjeknya (players). Seharusnya 'get'."
+    },
+    {
+      "id": "WE786",
+      "sectionType": "written_expression",
+      "questionText": "Scarcely h̲a̲d̲ the bell rung t̲h̲a̲n̲ the students r̲u̲s̲h̲e̲d̲ out of the c̲l̲a̲s̲s̲r̲o̲o̲m̲.",
+      "underlinedParts": ["had", "than", "rushed", "classroom"],
+      "options": ["had", "than", "rushed", "classroom"],
+      "answerIndex": 1,
+      "explanation": "Pasangan konjungsi untuk kata adverbia 'Scarcely' adalah 'when', bukan 'than'."
+    },
+    {
+      "id": "WE787",
+      "sectionType": "written_expression",
+      "questionText": "The data c̲o̲l̲l̲e̲c̲t̲e̲d̲ from the various sensors s̲h̲o̲w̲s̲ a distinct upward t̲r̲e̲n̲d̲.",
+      "underlinedParts": ["collected", "shows", "distinct", "trend"],
+      "options": ["collected", "shows", "distinct", "trend"],
+      "answerIndex": 1,
+      "explanation": "Dalam aturan akademik baku TOEFL, 'data' adalah bentuk jamak (plural) dari 'datum'. Kata kerja seharusnya 'show'."
+    },
+    {
+      "id": "WE788",
+      "sectionType": "written_expression",
+      "questionText": "She b̲o̲u̲g̲h̲t̲ a beautiful I̲t̲a̲l̲i̲a̲n̲ l̲e̲a̲t̲h̲e̲r̲ r̲e̲d̲ purse for her mother's b̲i̲r̲t̲h̲d̲a̲y̲.",
+      "underlinedParts": ["bought", "Italian", "leather", "red"],
+      "options": ["bought", "Italian", "leather", "red"],
+      "answerIndex": 3,
+      "explanation": "Adjective order (Urutan kata sifat). Warna (red) harus ditempatkan sebelum asal (Italian) dan bahan (leather). Seharusnya 'red Italian leather'."
+    },
+    {
+      "id": "WE789",
+      "sectionType": "written_expression",
+      "questionText": "E̲a̲c̲h̲ of the participants w̲e̲r̲e̲ asked to c̲o̲m̲p̲l̲e̲t̲e̲ a lengthy q̲u̲e̲s̲t̲i̲o̲n̲n̲a̲i̲r̲e̲.",
+      "underlinedParts": ["Each", "were", "complete", "questionnaire"],
+      "options": ["Each", "were", "complete", "questionnaire"],
+      "answerIndex": 1,
+      "explanation": "Subject-Verb Agreement. Subjek kalimat ini adalah 'Each', yang secara gramatikal selalu berstatus tunggal (singular). Seharusnya 'was'."
+    },
+    {
+      "id": "WE790",
+      "sectionType": "written_expression",
+      "questionText": "The c̲o̲m̲p̲a̲n̲y̲ will advance f̲o̲r̲w̲a̲r̲d̲ with its e̲x̲p̲a̲n̲s̲i̲o̲n̲ plans n̲e̲x̲t̲ year.",
+      "underlinedParts": ["company", "forward", "expansion", "next"],
+      "options": ["company", "forward", "expansion", "next"],
+      "answerIndex": 1,
+      "explanation": "Redundansi. Kata 'advance' sudah mengandung makna bergerak maju (forward). Penggunaan kata 'forward' di sini adalah pemborosan dan harus dihilangkan."
+    },
+    {
+      "id": "WE791",
+      "sectionType": "written_expression",
+      "questionText": "The human brain is a̲ most c̲o̲m̲p̲l̲e̲x̲ organ i̲n̲ the entire b̲o̲d̲y̲.",
+      "underlinedParts": ["a", "complex", "in", "body"],
+      "options": ["a", "complex", "in", "body"],
+      "answerIndex": 0,
+      "explanation": "Bentuk Superlatif. Jika menggunakan 'most' untuk tingkatan paling, artikel yang digunakan harus 'the', bukan 'a'."
+    },
+    {
+      "id": "WE792",
+      "sectionType": "written_expression",
+      "questionText": "The patient's condition is m̲u̲c̲h̲ m̲o̲r̲e̲ w̲o̲r̲s̲e̲ today t̲h̲a̲n̲ it was y̲e̲s̲t̲e̲rday̲.",
+      "underlinedParts": ["much", "more", "worse", "than"],
+      "options": ["much", "more", "worse", "than"],
+      "answerIndex": 1,
+      "explanation": "Double comparative. Kata 'worse' sudah merupakan bentuk komparatif dari 'bad'. Penambahan 'more' membuat strukturnya menjadi ganda. Seharusnya cukup 'much worse'."
+    },
+    {
+      "id": "WE793",
+      "sectionType": "written_expression",
+      "questionText": "L̲y̲i̲n̲g̲ on the supervisor's desk i̲s̲ the final report and the b̲u̲d̲g̲e̲t̲ p̲r̲o̲p̲o̲s̲a̲l̲.",
+      "underlinedParts": ["Lying", "is", "budget", "proposal"],
+      "options": ["Lying", "is", "budget", "proposal"],
+      "answerIndex": 1,
+      "explanation": "Inverted sentence. Subjek sebenarnya dari kalimat tersebut adalah 'the final report and the budget proposal' yang berstatus jamak. Seharusnya menggunakan 'are'."
+    },
+    {
+      "id": "WE794",
+      "sectionType": "written_expression",
+      "questionText": "I do not k̲n̲o̲w̲ w̲h̲e̲r̲e̲ i̲s̲ the nearest subway s̲t̲a̲t̲i̲o̲n̲ located.",
+      "underlinedParts": ["know", "where", "is", "station"],
+      "options": ["know", "where", "is", "station"],
+      "answerIndex": 2,
+      "explanation": "Embedded question (pertanyaan tersemat). Di dalam pernyataan afirmatif, susunan klausa tanya kembali ke bentuk normal (Subjek + Verb). Seharusnya 'where the nearest subway station is'."
+    },
+    {
+      "id": "WE795",
+      "sectionType": "written_expression",
+      "questionText": "The manager was s̲h̲o̲c̲k̲e̲d̲ a̲b̲o̲u̲t̲ the sheer n̲u̲m̲b̲e̲r̲ of complaints received t̲h̲i̲s̲ week.",
+      "underlinedParts": ["shocked", "about", "number", "this"],
+      "options": ["shocked", "about", "number", "this"],
+      "answerIndex": 1,
+      "explanation": "Preposisi idiomatis. Kata sifat 'shocked' biasanya selalu diikuti oleh preposisi 'at' atau 'by', bukan 'about'."
+    },
+    {
+      "id": "WE796",
+      "sectionType": "written_expression",
+      "questionText": "Only b̲y̲ working collaboratively t̲h̲e̲ t̲e̲a̲m̲ m̲e̲m̲b̲e̲r̲s̲ c̲a̲n̲ achieve the a̲m̲b̲i̲t̲i̲o̲u̲s̲ goal.",
+      "underlinedParts": ["by", "the team", "members can", "ambitious"],
+      "options": ["by", "the team", "members can", "ambitious"],
+      "answerIndex": 2,
+      "explanation": "Mandatory Inversion. Jika kalimat dimulai dengan 'Only by', maka subjek dan auxiliary di klausa utama harus dibalik. Seharusnya 'can the team members'."
+    },
+    {
+      "id": "WE797",
+      "sectionType": "written_expression",
+      "questionText": "The luggage w̲h̲i̲c̲h̲ was left at the t̲e̲r̲m̲i̲n̲a̲l̲ w̲e̲r̲e̲ eventually returned t̲o̲ the owner.",
+      "underlinedParts": ["which", "terminal", "were", "to"],
+      "options": ["which", "terminal", "were", "to"],
+      "answerIndex": 2,
+      "explanation": "Subject-Verb Agreement. 'Luggage' adalah uncountable noun (dianggap tunggal). Maka verb utamanya juga harus tunggal. Seharusnya 'was'."
+    },
+    {
+      "id": "WE798",
+      "sectionType": "written_expression",
+      "questionText": "If the government h̲a̲d̲ acted sooner, the crisis w̲o̲u̲l̲d̲ b̲e̲ averted a̲l̲t̲o̲g̲e̲t̲h̲e̲r̲.",
+      "underlinedParts": ["had", "would", "be", "altogether"],
+      "options": ["had", "would", "be", "altogether"],
+      "answerIndex": 2,
+      "explanation": "Conditional Tipe 3 (unreal past). Klausa pengandaian lampau ('had acted') harus dipasangkan dengan 'would have + V3'. Seharusnya 'would have been'."
+    },
+    {
+      "id": "WE799",
+      "sectionType": "written_expression",
+      "questionText": "Both the m̲a̲n̲a̲g̲e̲r̲ o̲r̲ his assistants w̲i̲l̲l̲ attend the c̲o̲n̲f̲e̲r̲e̲n̲c̲e̲ in Paris.",
+      "underlinedParts": ["manager", "or", "will", "conference"],
+      "options": ["manager", "or", "will", "conference"],
+      "answerIndex": 1,
+      "explanation": "Correlative Conjunction. Pasangan konjungsi yang tepat untuk 'Both' adalah 'and'. Kata 'or' berpasangan dengan 'Either'."
+    },
+    {
+      "id": "WE800",
+      "sectionType": "written_expression",
+      "questionText": "The scientist w̲h̲o̲ research led to the b̲r̲e̲a̲k̲t̲h̲r̲o̲u̲g̲h̲ was awarded the p̲r̲i̲z̲e̲.",
+      "underlinedParts": ["who", "breakthrough", "awarded", "prize"],
+      "options": ["who", "breakthrough", "awarded", "prize"],
+      "answerIndex": 0,
+      "explanation": "Relative pronoun untuk menunjukkan kepemilikan (penelitian milik ilmuwan tersebut). Seharusnya menggunakan 'whose'."
     }
   ]
 }

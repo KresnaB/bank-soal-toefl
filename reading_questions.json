@@ -11237,6 +11237,1276 @@
           "explanation": "Paragraf terakhir menjelaskan bahwa makalah tahun 1976 menganalisis rasio 'isotop oksigen' dari 'inti sedimen laut dalam' dan mencocokkan frekuensi tersebut dengan matematika Milankovitch dengan presisi yang menakjubkan."
         }
       ]
+    },
+    {
+      "passageId": 91,
+      "title": "The Gut-Brain Axis and the Human Microbiome",
+      "content": "For over a century, the biomedical paradigm was heavily influenced by the germ theory of disease, which primarily cast bacteria as pathogenic invaders to be eradicated. However, the advent of high-throughput genomic sequencing has precipitated a paradigm shift, illuminating the human microbiome—the trillions of symbiotic microorganisms residing within and on our bodies—as a fundamental, integral component of human physiology. Now widely considered an 'extracorporeal organ,' the microbiome’s influence extends far beyond digestion. Perhaps the most revolutionary discovery in this field is the 'gut-brain axis,' a complex, bidirectional communication network linking the enteric nervous system of the gastrointestinal tract to the central nervous system (CNS).\n\nThe anatomical conduit for this communication is primarily the vagus nerve, a superhighway of sensory and motor fibers extending from the brainstem to the abdomen. While it was long established that the brain sends descending signals to regulate digestion, motility, and gastric acid secretion, recent research demonstrates that the vast majority of vagal nerve fibers—approximately 80%—are afferent, meaning they transmit information from the gut back up to the brain. The gut microbiota actively participate in this signaling by synthesizing a vast array of neuroactive compounds and neurotransmitters, including serotonin, dopamine, and gamma-aminobutyric acid (GABA). Remarkably, over 90% of the body's serotonin, a crucial regulator of mood and cognition, is produced in the gastrointestinal tract.\n\nThe implications of the gut-brain axis for neurology and psychiatry are profound. Dysbiosis—an imbalance or severe disruption in the composition of the microbial community—has been heavily implicated in a spectrum of neurological disorders. In rodent models, germ-free mice raised in sterile environments exhibit exacerbated stress responses and significant cognitive deficits, which can be partially reversed by microbial colonization. Furthermore, pathological forms of alpha-synuclein, the misfolded protein responsible for Parkinson's disease, have been hypothesized to originate in the gut mucosa following microbial dysbiosis, subsequently migrating up the vagus nerve to the brain over several decades.\n\nThis burgeoning field suggests that interventions targeting the microbiome, such as prebiotics, probiotics, and targeted dietary modifications, may offer novel therapeutic avenues for psychiatric conditions like depression and anxiety, as well as neurodegenerative diseases. As scientists continue to map the intricate biochemical dialogues between humans and their commensal bacteria, the very definition of what constitutes the 'human' self is being fundamentally redefined as a complex, multi-species superorganism.",
+      "questions": [
+        {
+          "id": "R901",
+          "questionText": "What is the primary purpose of the passage?",
+          "options": [
+            "(A) To warn against the widespread overuse of antibiotics.",
+            "(B) To explain how the germ theory of disease was fundamentally flawed.",
+            "(C) To describe the bidirectional communication between gut bacteria and the brain, and its neurological implications.",
+            "(D) To detail the anatomical structure of the vagus nerve in rodents."
+          ],
+          "answerIndex": 2,
+          "explanation": "Tujuan utama teks ini adalah menjelaskan 'gut-brain axis' (jalur komunikasi dua arah antara usus dan otak) dan dampaknya yang mendalam terhadap neurologi serta psikiatri."
+        },
+        {
+          "id": "R902",
+          "questionText": "The word 'precipitated' in paragraph 1 is closest in meaning to:",
+          "options": [
+            "(A) Prevented",
+            "(B) Brought about or caused",
+            "(C) Complicated",
+            "(D) Concealed"
+          ],
+          "answerIndex": 1,
+          "explanation": "'Precipitated' dalam konteks ini berarti memicu, menyebabkan, atau membawa perubahan ('brought about or caused') paradigma secara cepat."
+        },
+        {
+          "id": "R903",
+          "questionText": "According to the passage, what was a misconception held by the traditional biomedical paradigm?",
+          "options": [
+            "(A) That the brain plays a role in regulating digestion.",
+            "(B) That the human body is entirely sterile.",
+            "(C) That bacteria were almost exclusively viewed as disease-causing invaders.",
+            "(D) That the vagus nerve only carried signals from the gut to the brain."
+          ],
+          "answerIndex": 2,
+          "explanation": "Paragraf pertama menyatakan bahwa paradigma biomedis tradisional sangat dipengaruhi oleh teori kuman, yang utamanya memandang bakteri sebagai 'penyerbu patogen (penyebab penyakit) yang harus dibasmi'."
+        },
+        {
+          "id": "R904",
+          "questionText": "What does the passage state about the vagus nerve?",
+          "options": [
+            "(A) It primarily sends descending signals from the brain to control digestion.",
+            "(B) About 80% of its fibers transmit information upward from the gut to the brain.",
+            "(C) It is the only nerve in the body that lacks sensory fibers.",
+            "(D) It is easily damaged by high levels of serotonin."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf kedua secara eksplisit menyatakan bahwa 'sebagian besar serat saraf vagus—sekitar 80%—adalah aferen, artinya mereka mentransmisikan informasi dari usus kembali ke otak'."
+        },
+        {
+          "id": "R905",
+          "questionText": "The word 'afferent' in paragraph 2 refers to nerve fibers that:",
+          "options": [
+            "(A) Transmit signals from peripheral organs toward the central nervous system.",
+            "(B) Regulate the production of gastric acid.",
+            "(C) Block the absorption of neurotransmitters.",
+            "(D) Send commands from the brain to the muscles."
+          ],
+          "answerIndex": 0,
+          "explanation": "Teks tersebut mendefinisikan 'afferent' dengan frasa 'meaning they transmit information from the gut back up to the brain' (membawa sinyal dari organ tepi ke sistem saraf pusat)."
+        },
+        {
+          "id": "R906",
+          "questionText": "According to the passage, how do gut microbiota actively participate in signaling the brain?",
+          "options": [
+            "(A) By altering the physical shape of the vagus nerve.",
+            "(B) By synthesizing neuroactive compounds and neurotransmitters like serotonin.",
+            "(C) By migrating physically from the stomach to the brainstem.",
+            "(D) By destroying pathogenic bacteria in the bloodstream."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf kedua menyatakan bahwa mikrobiota usus berpartisipasi dengan 'mensintesis beragam senyawa neuroaktif dan neurotransmitter, termasuk serotonin, dopamin, dan GABA'."
+        },
+        {
+          "id": "R907",
+          "questionText": "What is 'dysbiosis' as defined in the passage?",
+          "options": [
+            "(A) A surgical procedure to sever the vagus nerve.",
+            "(B) A severe imbalance or disruption in the microbial community of the gut.",
+            "(C) The misfolding of alpha-synuclein proteins.",
+            "(D) A state of complete sterility in the gastrointestinal tract."
+          ],
+          "answerIndex": 1,
+          "explanation": "Teks secara langsung mendefinisikan dysbiosis sebagai 'suatu ketidakseimbangan atau gangguan parah dalam komposisi komunitas mikroba'."
+        },
+        {
+          "id": "R908",
+          "questionText": "How does the passage connect the gut microbiome to Parkinson's disease?",
+          "options": [
+            "(A) Parkinson's patients produce too much serotonin in their gut.",
+            "(B) Misfolded proteins causing the disease may originate in the gut due to dysbiosis and travel up the vagus nerve.",
+            "(C) A lack of gut bacteria directly destroys the motor cortex of the brain.",
+            "(D) Antibiotics used to treat Parkinson's inadvertently destroy the gut flora."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf ketiga menjelaskan hipotesis bahwa bentuk patologis alpha-synuclein (penyebab Parkinson) mungkin berasal dari mukosa usus setelah dysbiosis, lalu bermigrasi ke otak melalui saraf vagus."
+        },
+        {
+          "id": "R909",
+          "questionText": "The word 'commensal' in the final paragraph is closest in meaning to:",
+          "options": [
+            "(A) Hostile",
+            "(B) Temporary",
+            "(C) Symbiotic and non-harmful",
+            "(D) Artificial"
+          ],
+          "answerIndex": 2,
+          "explanation": "'Commensal' merujuk pada organisme yang hidup bersama dengan inangnya tanpa menyebabkan kerugian, bersinonim dengan bakteri simbiosis yang menguntungkan/tidak berbahaya."
+        },
+        {
+          "id": "R910",
+          "questionText": "It can be inferred from the passage that treating severe anxiety in the future might involve:",
+          "options": [
+            "(A) Removing the vagus nerve entirely.",
+            "(B) Prescribing medications that completely sterilize the gut.",
+            "(C) Prescribing specific dietary changes or probiotics to alter the patient's gut bacteria.",
+            "(D) Decreasing the amount of serotonin produced in the gastrointestinal tract."
+          ],
+          "answerIndex": 2,
+          "explanation": "Paragraf terakhir menyatakan bahwa 'intervensi yang menargetkan mikrobioma, seperti prebiotik, probiotik, dan modifikasi diet... mungkin menawarkan jalan terapeutik baru untuk kondisi psikiatri seperti depresi dan kecemasan'."
+        }
+      ]
+    },
+    {
+      "passageId": 92,
+      "title": "The Decipherment of Mayan Hieroglyphs",
+      "content": "For centuries following the Spanish conquest of Mesoamerica, the intricate hieroglyphic script of the ancient Maya civilization remained an impenetrable mystery. Carved into monumental stelae, painted on polychrome ceramics, and meticulously drawn in bark-paper codices, the script was long subjected to erroneous academic assumptions. Throughout the early to mid-20th century, the prevailing consensus, heavily championed by the eminent British Mayanist J. Eric S. Thompson, dictated that Mayan glyphs were purely ideographic or logographic—meaning each symbol represented a complete concept, idea, or astrological event, devoid of any phonetic or linguistic value. Under this framework, the Maya were romantically but inaccurately perceived as a peaceful society composed entirely of stargazing priests obsessed with the passage of time.\n\nThe initial fissure in this entrenched paradigm occurred in the 1950s, emanating from an unlikely source behind the Iron Curtain. Yuri Knorozov, a Soviet linguist who had never visited a Mayan ruin, published a revolutionary paper proposing that the Mayan script was, in fact, a logosyllabic system. Knorozov hypothesized that while some glyphs represented whole words (logograms), others represented phonetic syllables (usually consonant-vowel combinations). By analyzing the 16th-century alphabet recorded by the Spanish Friar Diego de Landa—which Thompson had dismissed as a misunderstanding—Knorozov successfully demonstrated that the glyphs possessed phonetic value, laying the indispensable groundwork for phonetic decipherment.\n\nThe second monumental breakthrough occurred a few years later through the work of Tatiana Proskouriakoff, a Russian-American architect and archaeologist. While analyzing a sequence of stelae at the site of Piedras Negras, Proskouriakoff noticed a distinct, repeating pattern of glyphs associated with specific dates. She brilliantly deduced that these dates did not correspond to abstract astrological cycles, but rather to the lifespans of actual human beings. She identified glyphs representing birth, accession to the throne, and death.\n\nProskouriakoff’s revelation was transformative. It definitively proved that the Mayan monuments were not mere celestial calendars, but dynastic histories recording the reigns, conquests, alliances, and bloodlines of specific historical kings and queens. The combined breakthroughs of Knorozov’s phonetic reading and Proskouriakoff’s historical context effectively unlocked the script. The ensuing decipherment radically altered our understanding of the Maya, dispelling the myth of the peaceful astronomer-priests and revealing a complex, politically dynamic, and often deeply warlike civilization.",
+      "questions": [
+        {
+          "id": "R911",
+          "questionText": "What is the main topic of the passage?",
+          "options": [
+            "(A) The history of the Spanish conquest of Mesoamerica.",
+            "(B) The rivalry between J. Eric S. Thompson and Yuri Knorozov.",
+            "(C) The astronomical discoveries made by ancient Mayan priests.",
+            "(D) The process and key figures involved in deciphering the Mayan hieroglyphic script."
+          ],
+          "answerIndex": 3,
+          "explanation": "Fokus utama teks ini adalah menjelaskan sejarah penguraian hieroglif Maya, memusatkan perhatian pada kontribusi Yuri Knorozov (sistem suku kata/fonetik) dan Tatiana Proskouriakoff (sejarah dinasti)."
+        },
+        {
+          "id": "R912",
+          "questionText": "According to the passage, what did J. Eric S. Thompson firmly believe about the Mayan script?",
+          "options": [
+            "(A) That it was an exact phonetic match to the Spanish alphabet.",
+            "(B) That it was purely logographic and contained no phonetic or linguistic value.",
+            "(C) That it was used exclusively to write fictional literature.",
+            "(D) That it was heavily influenced by the Egyptian hieroglyphic system."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf pertama menyatakan bahwa konsensus yang didukung Thompson mendikte bahwa mesin terbang Maya 'murni ideografis atau logografis... tanpa nilai fonetik atau linguistik apa pun'."
+        },
+        {
+          "id": "R913",
+          "questionText": "The word 'erroneous' in paragraph 1 is closest in meaning to:",
+          "options": [
+            "(A) Ancient",
+            "(B) Incorrect or mistaken",
+            "(C) Difficult",
+            "(D) Popular"
+          ],
+          "answerIndex": 1,
+          "explanation": "'Erroneous' berarti mengandung kesalahan atau salah ('incorrect or mistaken'). Asumsi akademis sebelumnya tentang skrip Maya terbukti salah."
+        },
+        {
+          "id": "R914",
+          "questionText": "What was Yuri Knorozov's major contribution to the decipherment?",
+          "options": [
+            "(A) He discovered the ruins of Piedras Negras.",
+            "(B) He proved that the Maya were peaceful astronomer-priests.",
+            "(C) He demonstrated that the script was logosyllabic, containing phonetic syllables.",
+            "(D) He traveled to Mexico and translated the bark-paper codices."
+          ],
+          "answerIndex": 2,
+          "explanation": "Paragraf kedua menjelaskan bahwa Knorozov mengusulkan dan membuktikan bahwa naskah itu adalah sistem logosilabis, 'menunjukkan bahwa mesin terbang memiliki nilai fonetik'."
+        },
+        {
+          "id": "R915",
+          "questionText": "How did Knorozov use the work of Friar Diego de Landa?",
+          "options": [
+            "(A) He proved that de Landa had forged the Maya alphabet.",
+            "(B) He used de Landa's 16th-century alphabet to analyze and prove the phonetic value of the glyphs.",
+            "(C) He dismissed de Landa's work as a complete misunderstanding.",
+            "(D) He translated de Landa's Spanish diary into Russian."
+          ],
+          "answerIndex": 1,
+          "explanation": "Teks menyatakan Knorozov 'Menganalisis alfabet abad ke-16 yang direkam oleh Friar Spanyol Diego de Landa... [dan] berhasil menunjukkan bahwa mesin terbang memiliki nilai fonetik'."
+        },
+        {
+          "id": "R916",
+          "questionText": "The word 'fissure' in paragraph 2 is closest in meaning to:",
+          "options": [
+            "(A) A deep crack or breach",
+            "(B) A complete agreement",
+            "(C) A physical wall",
+            "(D) A complicated theory"
+          ],
+          "answerIndex": 0,
+          "explanation": "'Fissure' secara harfiah berarti celah atau retakan. Dalam konteks ini, ini berarti 'retakan' pertama atau terobosan dalam paradigma yang sudah mapan ('a deep crack or breach')."
+        },
+        {
+          "id": "R917",
+          "questionText": "What did Tatiana Proskouriakoff conclude from the repeating pattern of glyphs at Piedras Negras?",
+          "options": [
+            "(A) They mapped the movement of the planet Venus.",
+            "(B) They corresponded to the lifespans of actual kings and queens, recording dynastic histories.",
+            "(C) They were instructions for building monumental stelae.",
+            "(D) They represented a warning about the arrival of the Spanish."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf ketiga menyatakan Proskouriakoff menyimpulkan bahwa tanggal-tanggal tersebut 'berhubungan dengan umur manusia yang sebenarnya', mewakili peristiwa kelahiran, naik takhta, dan kematian."
+        },
+        {
+          "id": "R918",
+          "questionText": "What was the resulting effect of deciphering the Mayan script on historical understanding?",
+          "options": [
+            "(A) It proved that the Maya had no centralized political structure.",
+            "(B) It revealed that the Maya had a complex, dynamic, and often warlike civilization, dispelling previous romantic myths.",
+            "(C) It showed that the Maya civilization was much younger than previously thought.",
+            "(D) It confirmed Thompson's theory that the Maya were only interested in astrology."
+          ],
+          "answerIndex": 1,
+          "explanation": "Kalimat terakhir menyatakan bahwa penguraian tersebut secara radikal mengubah pemahaman kita, 'menghilangkan mitos tentang para pendeta-astronom yang damai dan mengungkapkan peradaban yang kompleks, dinamis secara politik, dan seringkali sangat suka berperang'."
+        },
+        {
+          "id": "R919",
+          "questionText": "The word 'dispelling' in the final paragraph is closest in meaning to:",
+          "options": [
+            "(A) Strengthening",
+            "(B) Eliminating or making disappear",
+            "(C) Creating",
+            "(D) Ignoring"
+          ],
+          "answerIndex": 1,
+          "explanation": "'Dispelling' berarti menghilangkan keraguan, perasaan, atau mitos ('eliminating or making disappear')."
+        },
+        {
+          "id": "R920",
+          "questionText": "It can be inferred from the passage that prior to the 1950s, historians:",
+          "options": [
+            "(A) Fully understood the political history of the Maya kings.",
+            "(B) Thought the Maya script was structurally identical to Russian.",
+            "(C) Were largely ignorant of the true political and historical events of the ancient Maya civilization.",
+            "(D) Believed the Maya possessed highly advanced weaponry."
+          ],
+          "answerIndex": 2,
+          "explanation": "Karena teks menyatakan bahwa sebelum tahun 1950-an mereka secara keliru ('erroneous academic assumptions') menganggap Maya sebagai masyarakat pasif dan murni astronomis, dapat disimpulkan bahwa mereka tidak mengetahui peristiwa politik dan sejarah dinasti yang sebenarnya."
+        }
+      ]
+    },
+    {
+      "passageId": 93,
+      "title": "The Wilson Cycle and the Supercontinent Dance",
+      "content": "The widespread acceptance of plate tectonics in the 1960s revolutionized the Earth sciences, providing a unifying framework for understanding mountain building, volcanism, and seismicity. However, it was Canadian geophysicist J. Tuzo Wilson who recognized that plate tectonics was not merely a description of current geological processes, but a cyclical narrative that has driven Earth’s geographical evolution for billions of years. He proposed what is now known as the 'Wilson Cycle,' a theoretical model describing the continuous, rhythmic opening and closing of ocean basins and the subsequent assembly and fragmentation of supercontinents.\n\nThe Wilson Cycle comprises distinct, predictable stages. The cycle initiates with the 'embryonic stage,' characterized by the accumulation of heat trapped beneath a massive, insulating continental landmass. This thermal upwelling creates a mantle plume, forcing the continental crust to dome upwards and eventually fracture. This creates a continental rift valley, reminiscent of the modern East African Rift. As the rift widens, it eventually subsides below sea level, allowing ocean water to flood in and form a narrow, linear sea, known as the 'juvenile stage'—a process currently observable in the Red Sea.\n\nOver millions of years, the process transitions into the 'mature stage.' Continuous magma upwelling at the mid-ocean ridge drives seafloor spreading, widening the linear sea into a vast, mature ocean basin bordered by passive continental margins, much like the contemporary Atlantic Ocean. However, because the Earth is a sphere of finite surface area, the creation of new crust must be accommodated by the destruction of old crust. Consequently, the cycle enters its 'declining stage' when the dense, aging oceanic crust breaks and begins to subduct beneath lighter continental crust, forming deep ocean trenches and volcanic arcs, as seen around the Pacific 'Ring of Fire.'\n\nAs subduction consumes the intervening ocean, the separated continents are inexorably drawn back together. This culminates in the 'terminal stage': a monumental continental collision. Because continental crust is too buoyant to be subducted, the two landmasses smash together, thrusting the crust skyward to form towering mountain ranges, such as the Himalayas, which were formed by the ongoing collision of the Indian and Eurasian plates. The ocean basin is completely obliterated, leaving behind a 'suture zone' where the two continents are permanently welded together, often forming a new supercontinent. Eventually, the trapped mantle heat will build up once more beneath this new supercontinent, and the ephemeral cycle of rifting and collision will begin anew.",
+      "questions": [
+        {
+          "id": "R921",
+          "questionText": "What is the primary purpose of the passage?",
+          "options": [
+            "(A) To compare the geography of the Red Sea and the Atlantic Ocean.",
+            "(B) To explain the specific causes of earthquakes along the Pacific Ring of Fire.",
+            "(C) To describe the Wilson Cycle and the cyclical process of ocean basin creation and continental collision.",
+            "(D) To biography the life and discoveries of Canadian geophysicist J. Tuzo Wilson."
+          ],
+          "answerIndex": 2,
+          "explanation": "Tujuan utama teks ini adalah untuk menjelaskan Siklus Wilson, menguraikan tahapan-tahapan di mana cekungan laut terbuka dan tertutup, yang mengarah pada penciptaan dan perpecahan benua super."
+        },
+        {
+          "id": "R922",
+          "questionText": "According to the passage, what initiates the 'embryonic stage' of the Wilson Cycle?",
+          "options": [
+            "(A) The subduction of oceanic crust beneath a continent.",
+            "(B) A massive asteroid impact that cracks the Earth's crust.",
+            "(C) The accumulation of mantle heat beneath an insulating continental landmass, causing the crust to dome and fracture.",
+            "(D) The sudden freezing of ocean water during an ice age."
+          ],
+          "answerIndex": 2,
+          "explanation": "Paragraf kedua secara eksplisit menyatakan bahwa siklus dimulai dengan 'akumulasi panas yang terperangkap di bawah daratan benua yang masif... memaksa kerak benua melengkung ke atas dan akhirnya retak'."
+        },
+        {
+          "id": "R923",
+          "questionText": "The modern East African Rift is given as an example of which stage?",
+          "options": [
+            "(A) Embryonic stage (continental rifting)",
+            "(B) Juvenile stage (linear sea)",
+            "(C) Mature stage (vast ocean basin)",
+            "(D) Terminal stage (continental collision)"
+          ],
+          "answerIndex": 0,
+          "explanation": "Teks menyebutkan 'lembah celah benua (continental rift valley), mengingatkan pada East African Rift modern' pada tahap embrionik."
+        },
+        {
+          "id": "R924",
+          "questionText": "Why does the creation of new crust necessitate the destruction of old crust?",
+          "options": [
+            "(A) Because the old crust is highly radioactive.",
+            "(B) Because the Earth is a sphere with a finite surface area.",
+            "(C) Because mantle plumes require old crust for fuel.",
+            "(D) Because new crust is significantly heavier than old crust."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf ketiga menjelaskan bahwa 'karena Bumi adalah bola dengan luas permukaan terbatas, penciptaan kerak baru harus diakomodasi oleh penghancuran kerak lama'."
+        },
+        {
+          "id": "R925",
+          "questionText": "The word 'subduct' in paragraph 3 means to:",
+          "options": [
+            "(A) Evaporate into the atmosphere.",
+            "(B) Push upward to form a mountain.",
+            "(C) Break apart into smaller islands.",
+            "(D) Be drawn or sink down beneath another tectonic plate."
+          ],
+          "answerIndex": 3,
+          "explanation": "'Subduct' dalam geologi tektonik berarti ditarik atau tenggelam ke bawah lempeng tektonik lain ('sink beneath')."
+        },
+        {
+          "id": "R926",
+          "questionText": "What happens during the 'terminal stage' of the Wilson Cycle?",
+          "options": [
+            "(A) A new ocean basin completely floods a continent.",
+            "(B) Continental landmasses collide to form towering mountain ranges because they are too buoyant to subduct.",
+            "(C) All volcanic activity on Earth ceases temporarily.",
+            "(D) The ocean floor expands to its maximum possible width."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf keempat menyatakan bahwa pada tahap terminal, massa daratan bertabrakan ('continental collision') dan membentuk pegunungan karena kerak benua terlalu mengapung ('buoyant') untuk disubduksi."
+        },
+        {
+          "id": "R927",
+          "questionText": "The passage uses the Himalayas as an example of:",
+          "options": [
+            "(A) A continental rift valley.",
+            "(B) A passive continental margin.",
+            "(C) A volcanic arc caused by subduction.",
+            "(D) Towering mountain ranges formed by continental collision."
+          ],
+          "answerIndex": 3,
+          "explanation": "Pegunungan Himalaya secara langsung dikutip sebagai hasil tabrakan benua (tahap terminal) antara lempeng India dan Eurasia."
+        },
+        {
+          "id": "R928",
+          "questionText": "The word 'ephemeral' in the final paragraph is closest in meaning to:",
+          "options": [
+            "(A) Permanent and unchanging",
+            "(B) Lasting for a very short time or strictly temporary",
+            "(C) Dangerously violent",
+            "(D) Extremely beautiful"
+          ],
+          "answerIndex": 1,
+          "explanation": "'Ephemeral' berarti fana, sementara, atau tidak abadi. Meskipun proses geologi memakan waktu jutaan tahun, dalam skala waktu kosmis, benua super itu 'sementara' karena akan selalu pecah lagi."
+        },
+        {
+          "id": "R929",
+          "questionText": "What is a 'suture zone' as described in the passage?",
+          "options": [
+            "(A) The deepest part of an ocean trench.",
+            "(B) The area where a mantle plume first breaks the crust.",
+            "(C) The permanent welded boundary where two continents have collided and joined.",
+            "(D) The center line of a mid-ocean ridge."
+          ],
+          "answerIndex": 2,
+          "explanation": "Teks mendefinisikan 'zona jahitan' (suture zone) sebagai tempat 'di mana kedua benua secara permanen dilas bersama-sama'."
+        },
+        {
+          "id": "R930",
+          "questionText": "Based on the passage, the current state of the Atlantic Ocean best represents which stage of the Wilson Cycle?",
+          "options": [
+            "(A) Embryonic stage",
+            "(B) Juvenile stage",
+            "(C) Mature stage",
+            "(D) Terminal stage"
+          ],
+          "answerIndex": 2,
+          "explanation": "Paragraf ketiga secara eksplisit menggunakan Samudra Atlantik modern sebagai contoh dari 'mature stage' (tahap matang), sebuah cekungan laut luas yang berbatasan dengan margin benua yang pasif."
+        }
+      ]
+    },
+    {
+      "passageId": 94,
+      "title": "Elinor Ostrom and the Governance of the Commons",
+      "content": "In 1968, ecologist Garrett Hardin published a highly influential essay titled 'The Tragedy of the Commons.' Hardin presented a theoretical paradigm arguing that when a resource is held communally—such as a pasture, a fishery, or a forest—individual users, acting independently according to their own rational self-interest, will inevitably overexploit and deplete the resource, ultimately leading to its ruin. Hardin concluded that human beings are fundamentally incapable of self-regulation in communal settings. Consequently, he posited that the only viable solutions to avert ecological disaster were either absolute privatization of the resource or rigid, top-down government regulation.\n\nFor decades, Hardin's pessimistic axiom dominated economic and environmental policy. However, this deterministic view was profoundly challenged by political economist Elinor Ostrom, whose empirical, ground-up research earned her the Nobel Prize in Economic Sciences in 2009—the first woman to achieve this honor. Ostrom recognized that Hardin’s theory, while mathematically logical in a vacuum, was based on an oversimplified assumption that individuals are helplessly trapped in a 'prisoner's dilemma' and unable to communicate or collaborate.\n\nThrough extensive field studies analyzing how actual, real-world communities managed shared resources—from irrigation systems in Nepal and forests in Switzerland to fisheries in Maine—Ostrom discovered that the 'tragedy' was not inevitable. She documented myriad instances where local communities successfully avoided resource depletion without resorting to privatization or state coercion. These communities had spontaneously developed 'polycentric' governance systems: complex, multi-layered networks of localized, self-organized institutional arrangements.\n\nOstrom identified several core design principles that characterized successful, enduring Common-Pool Resource (CPR) institutions. Crucially, successful communities possessed clearly defined boundaries and membership rights, ensuring that the people managing the resource were the ones directly benefiting from it. Furthermore, they established robust, locally tailored rules regarding resource extraction, backed by graduated sanctions for rule-breakers. Instead of relying on distant government bureaucrats, the monitoring and enforcement were conducted by the resource users themselves. Ostrom's groundbreaking work dismantled the binary choice between the state and the free market, proving that under the right conditions, human beings possess a remarkable capacity for cooperative self-governance and sustainable ecological management.",
+      "questions": [
+        {
+          "id": "R931",
+          "questionText": "What is the primary focus of the passage?",
+          "options": [
+            "(A) The history of the Nobel Prize in Economic Sciences.",
+            "(B) A detailed description of fishing regulations in Maine.",
+            "(C) Garrett Hardin's 'Tragedy of the Commons' and Elinor Ostrom's research that challenged it.",
+            "(D) The environmental impact of privatizing global forests."
+          ],
+          "answerIndex": 2,
+          "explanation": "Teks ini memaparkan teori Hardin tentang Tragedi Kepemilikan Bersama (Tragedy of the Commons) dan kemudian berfokus pada bagaimana penelitian empiris Elinor Ostrom membantah teori tersebut dengan menunjukkan keberhasilan tata kelola mandiri lokal."
+        },
+        {
+          "id": "R932",
+          "questionText": "According to Garrett Hardin’s theory, why will a communally held resource inevitably be ruined?",
+          "options": [
+            "(A) Because the government will eventually seize it.",
+            "(B) Because individual users will act in their own self-interest and overexploit it.",
+            "(C) Because natural resources are inherently fragile and easily destroyed by weather.",
+            "(D) Because the cost of maintaining the resource is too high for local communities."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf pertama menjelaskan teori Hardin: 'pengguna individu, yang bertindak secara independen sesuai dengan kepentingan diri mereka sendiri yang rasional, pasti akan mengeksploitasi secara berlebihan dan menghabiskan sumber daya'."
+        },
+        {
+          "id": "R933",
+          "questionText": "What were the only two solutions to the 'Tragedy of the Commons' according to Hardin?",
+          "options": [
+            "(A) Community voting and foreign aid.",
+            "(B) Polycentric governance and graduated sanctions.",
+            "(C) Absolute privatization or rigid government regulation.",
+            "(D) Technological innovation or population control."
+          ],
+          "answerIndex": 2,
+          "explanation": "Teks secara eksplisit menyatakan Hardin berpendapat satu-satunya solusi yang layak adalah 'privatisasi absolut atas sumber daya atau regulasi pemerintah yang kaku dan dari atas ke bawah (top-down)'."
+        },
+        {
+          "id": "R934",
+          "questionText": "The word 'axiom' in paragraph 2 is closest in meaning to:",
+          "options": [
+            "(A) Accepted principle or established rule",
+            "(B) Wild guess",
+            "(C) Scientific experiment",
+            "(D) Minor error"
+          ],
+          "answerIndex": 0,
+          "explanation": "'Axiom' adalah sebuah pernyataan atau prinsip yang diterima sebagai kebenaran tanpa perlu pembuktian lebih lanjut ('accepted principle')."
+        },
+        {
+          "id": "R935",
+          "questionText": "What did Elinor Ostrom's field studies demonstrate?",
+          "options": [
+            "(A) That Hardin was entirely correct about human selfishness.",
+            "(B) That the 'tragedy of the commons' was not inevitable and communities could manage resources sustainably.",
+            "(C) That government regulation was strictly superior to local management.",
+            "(D) That the free market could solve all ecological problems."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf ketiga menyatakan Ostrom menemukan bahwa 'tragedi itu tidak dapat dihindari' dan mendokumentasikan kasus di mana masyarakat 'berhasil menghindari penipisan sumber daya tanpa menggunakan privatisasi atau paksaan negara'."
+        },
+        {
+          "id": "R936",
+          "questionText": "The word 'polycentric' in paragraph 3 implies a system that:",
+          "options": [
+            "(A) Has a single, powerful dictator.",
+            "(B) Completely lacks any rules or organization.",
+            "(C) Has multiple, overlapping centers of localized decision-making.",
+            "(D) Is strictly controlled by an international organization."
+          ],
+          "answerIndex": 2,
+          "explanation": "Teks mendefinisikan sistem polisentris sebagai 'jaringan yang kompleks dan berlapis-lapis dari pengaturan kelembagaan yang terlokalisasi dan terorganisir secara mandiri' (banyak pusat / multi-centered)."
+        },
+        {
+          "id": "R937",
+          "questionText": "Which of the following is identified by Ostrom as a core design principle for successful resource management?",
+          "options": [
+            "(A) Allowing anyone in the world open access to the resource.",
+            "(B) Having a distant government bureaucrat monitor the resource.",
+            "(C) Clearly defining boundaries and membership rights for users.",
+            "(D) Ensuring that no punishments are given to rule-breakers."
+          ],
+          "answerIndex": 2,
+          "explanation": "Paragraf keempat menyebutkan sebagai prinsip desain utama: 'komunitas yang sukses memiliki batas-batas dan hak keanggotaan yang didefinisikan dengan jelas'."
+        },
+        {
+          "id": "R938",
+          "questionText": "What does the passage imply about 'graduated sanctions'?",
+          "options": [
+            "(A) Punishments for rule-breakers start out mild and become more severe for repeat offenses.",
+            "(B) Only people who have graduated from university can be sanctioned.",
+            "(C) The government is the only entity allowed to punish rule-breakers.",
+            "(D) Sanctions are highly ineffective in local communities."
+          ],
+          "answerIndex": 0,
+          "explanation": "Meskipun tidak didefinisikan secara harfiah di teks, istilah 'graduated sanctions' (sanksi bertingkat) yang disebutkan menyiratkan sistem sanksi berskala/bertahap yang diberlakukan dengan baik oleh masyarakat itu sendiri."
+        },
+        {
+          "id": "R939",
+          "questionText": "The word 'dismantled' in the final paragraph is closest in meaning to:",
+          "options": [
+            "(A) Rebuilt",
+            "(B) Destroyed or broke apart",
+            "(C) Ignored",
+            "(D) Supported"
+          ],
+          "answerIndex": 1,
+          "explanation": "'Dismantled' berarti membongkar, menghancurkan, atau meruntuhkan ('destroyed or broke apart'). Pekerjaan Ostrom meruntuhkan pilihan biner yang sempit antara negara vs pasar."
+        },
+        {
+          "id": "R940",
+          "questionText": "Why was Ostrom's award of the Nobel Prize particularly notable according to the text?",
+          "options": [
+            "(A) She was the youngest person to ever win the prize.",
+            "(B) She had never published any scientific papers.",
+            "(C) She was the first woman to win the Nobel Prize in Economic Sciences.",
+            "(D) She shared the prize with Garrett Hardin."
+          ],
+          "answerIndex": 2,
+          "explanation": "Paragraf kedua secara eksplisit mencatat bahwa penelitiannya membuatnya mendapatkan Hadiah Nobel, dan dia adalah 'wanita pertama yang mencapai kehormatan ini'."
+        }
+      ]
+    },
+    {
+      "passageId": 95,
+      "title": "The Gothic Architectural Revolution",
+      "content": "During the mid-12th century, a radical architectural transformation swept across Europe, supplanting the heavy, fortress-like Romanesque style with the soaring, ethereal aesthetics of Gothic architecture. Romanesque structures were defined by their massive, thick stone walls, small windows, and dark interiors, necessitated by the engineering limitations of the semi-circular barrel vault. These heavy vaults exerted a tremendous outward pressure, requiring robust, continuous walls to prevent the building from collapsing. Consequently, building taller structures with ample natural light was an engineering impossibility under the Romanesque paradigm.\n\nThe genesis of the Gothic revolution is widely attributed to Abbot Suger and his ambitious renovation of the Basilica of Saint-Denis near Paris in 1140. Suger was heavily influenced by the theology of Pseudo-Dionysius the Areopagite, which equated light with the divine presence of God ('lux nova' or new light). Driven by this theological mandate to flood the sanctuary with celestial light, Suger and his master masons synthesized three critical architectural innovations: the pointed arch, the ribbed vault, and the flying buttress.\n\nUnlike the semi-circular arch, the pointed arch directed the immense weight of the stone roof more vertically down structural columns, rather than pushing it outwards horizontally. This innovation was paired with the ribbed vault, a skeletal framework of crossed stone ribs that supported lighter, thinner masonry webs. Together, these elements significantly reduced the sheer mass and lateral thrust of the roof. However, it was the invention of the flying buttress that truly liberated the walls. The flying buttress was an external structural support—an arched stone bridge that transferred the residual outward thrust of the high roof across an open space to a massive external pier.\n\nBecause the structural integrity of the building no longer relied on thick, load-bearing walls, the masonry between the columns could be entirely dissolved. Architects replaced solid stone with vast, kaleidoscopic expanses of stained glass, depicting biblical narratives and suffusing the interior with brilliantly colored light. Furthermore, the external buttresses allowed cathedrals to reach unprecedented, dizzying heights, drawing the worshiper's gaze inexorably upward toward heaven. The Gothic style, therefore, was not merely an evolution in structural engineering; it was the physical manifestation of medieval theology, utilizing revolutionary technology to construct a spiritual bridge between the earthly realm and the divine.",
+      "questions": [
+        {
+          "id": "R941",
+          "questionText": "What is the primary topic of the passage?",
+          "options": [
+            "(A) The biography and theological beliefs of Abbot Suger.",
+            "(B) A comparison of stained glass techniques in medieval Europe.",
+            "(C) The transition from Romanesque to Gothic architecture, focusing on key structural innovations and their theological purpose.",
+            "(D) The reasons why Romanesque buildings frequently collapsed."
+          ],
+          "answerIndex": 2,
+          "explanation": "Teks ini membahas perpindahan dari arsitektur Romawi ke Gotik, menjelaskan secara spesifik tiga inovasi struktural (lengkungan runcing, kubah berusuk, penopang terbang) dan motivasi teologisnya (cahaya ilahi)."
+        },
+        {
+          "id": "R942",
+          "questionText": "Why were Romanesque buildings characterized by thick walls and small windows?",
+          "options": [
+            "(A) Because the architects wanted to create a dark, frightening atmosphere.",
+            "(B) Because they needed robust walls to support the heavy outward pressure of the semi-circular barrel vaults.",
+            "(C) Because glass had not yet been invented in Europe.",
+            "(D) Because they were primarily built as military fortresses."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf pertama menyatakan bahwa kubah Romawi yang berat 'memberikan tekanan luar yang luar biasa, membutuhkan dinding yang kokoh dan berkelanjutan untuk mencegah bangunan runtuh'."
+        },
+        {
+          "id": "R943",
+          "questionText": "The word 'ethereal' in paragraph 1 is closest in meaning to:",
+          "options": [
+            "(A) Heavy and grounded",
+            "(B) Extremely delicate, light, and seemingly not of this world",
+            "(C) Highly symmetrical",
+            "(D) Inexpensive to build"
+          ],
+          "answerIndex": 1,
+          "explanation": "'Ethereal' berarti sangat ringan, halus, atau tampak seperti bukan dari dunia ini/surgawi. Berlawanan dengan arsitektur Romawi yang 'berat' (heavy)."
+        },
+        {
+          "id": "R944",
+          "questionText": "What theological concept drove Abbot Suger to renovate the Basilica of Saint-Denis?",
+          "options": [
+            "(A) The belief that poverty requires churches to be built from cheap wood.",
+            "(B) The equation of light with the divine presence of God ('lux nova').",
+            "(C) The idea that churches should be silent, acoustically dead spaces.",
+            "(D) The belief that God resides only in total darkness."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf kedua secara eksplisit menyatakan Suger didorong oleh teologi yang 'menyamakan cahaya dengan kehadiran ilahi Tuhan (lux nova atau cahaya baru)'."
+        },
+        {
+          "id": "R945",
+          "questionText": "How did the pointed arch improve upon the semi-circular arch?",
+          "options": [
+            "(A) It directed the weight of the roof more vertically downwards rather than pushing it outwards horizontally.",
+            "(B) It was much easier and faster to carve from solid stone.",
+            "(C) It completely eliminated the need for a roof.",
+            "(D) It prevented water from leaking into the cathedral during storms."
+          ],
+          "answerIndex": 0,
+          "explanation": "Paragraf ketiga menjelaskan bahwa lengkungan runcing (pointed arch) 'mengarahkan beban atap batu lebih vertikal ke bawah pada kolom struktural, daripada mendorongnya ke luar secara horizontal'."
+        },
+        {
+          "id": "R946",
+          "questionText": "What was the primary function of the 'flying buttress'?",
+          "options": [
+            "(A) To provide a decorative entrance for the high clergy.",
+            "(B) To house the cathedral's massive bronze bells.",
+            "(C) To act as an external support, transferring the outward thrust of the roof to a massive external pier.",
+            "(D) To circulate fresh air into the dark sanctuary."
+          ],
+          "answerIndex": 2,
+          "explanation": "Teks mendefinisikan penyangga terbang (flying buttress) sebagai 'dukungan struktural eksternal... yang mentransfer sisa dorongan ke luar dari atap tinggi... ke dermaga eksternal yang masif'."
+        },
+        {
+          "id": "R947",
+          "questionText": "The word 'dissolved' in paragraph 4 is used to convey that the solid masonry walls were:",
+          "options": [
+            "(A) Chemically melted by acid rain.",
+            "(B) Physically removed and replaced almost entirely by large expanses of stained glass.",
+            "(C) Painted over with liquid watercolors.",
+            "(D) Hidden behind large wooden tapestries."
+          ],
+          "answerIndex": 1,
+          "explanation": "Dalam konteks arsitektur ini, 'dilarutkan' (dissolved) digunakan secara kiasan untuk berarti bahwa dinding batu tebal dihilangkan dan digantikan oleh kaca patri yang luas ('replaced solid stone with vast... stained glass')."
+        },
+        {
+          "id": "R948",
+          "questionText": "What was the dual purpose of stained glass windows in Gothic cathedrals according to the text?",
+          "options": [
+            "(A) To act as load-bearing supports and to insulate the building.",
+            "(B) To hide the dirty streets outside and keep the congregation warm.",
+            "(C) To depict biblical narratives and to suffuse the interior with brilliantly colored, divine light.",
+            "(D) To display the wealth of the king and to record the names of the architects."
+          ],
+          "answerIndex": 2,
+          "explanation": "Paragraf keempat menyatakan bahwa hamparan kaca patri digunakan untuk 'menggambarkan narasi Alkitab dan menutupi interior dengan cahaya berwarna cerah'."
+        },
+        {
+          "id": "R949",
+          "questionText": "The word 'inexorably' in paragraph 4 is closest in meaning to:",
+          "options": [
+            "(A) Reluctantly",
+            "(B) Accidentally",
+            "(C) Unstoppably or inevitably",
+            "(D) Temporarily"
+          ],
+          "answerIndex": 2,
+          "explanation": "'Inexorably' berarti dengan cara yang tidak dapat dihentikan, diubah, atau dihindari ('unstoppably'). Ketinggian katedral tanpa henti menarik pandangan ke atas."
+        },
+        {
+          "id": "R950",
+          "questionText": "Which statement best summarizes the author’s conclusion about Gothic architecture?",
+          "options": [
+            "(A) It was a failure of engineering that accidentally resulted in beautiful art.",
+            "(B) It was purely a technological feat completely devoid of cultural meaning.",
+            "(C) It was a physical manifestation of medieval theology, merging advanced structural engineering with spiritual purpose.",
+            "(D) It was primarily designed to demonstrate the military strength of the French monarchy."
+          ],
+          "answerIndex": 2,
+          "explanation": "Kalimat terakhir merangkum dengan sempurna bahwa gaya Gotik bukan hanya evolusi teknik, tetapi 'manifestasi fisik dari teologi abad pertengahan, menggunakan teknologi revolusioner untuk membangun jembatan spiritual'."
+        }
+      ]
+    },
+    {
+      "passageId": 96,
+      "title": "Bioluminescence in the Abyssal Zone",
+      "content": "The abyssal zone of the world's oceans, plunging to depths between 4,000 and 6,000 meters, is an environment of extreme hostility characterized by crushing hydrostatic pressure, near-freezing temperatures, and an absolute absence of down-welling sunlight. Despite these seemingly uninhabitable conditions, this benthic realm teems with highly specialized life forms. Perhaps the most striking evolutionary adaptation among deep-sea fauna is bioluminescence: the biochemical emission of light by living organisms. Unlike sunlight, which is rapidly absorbed and scattered by water, the blue-green light predominantly emitted by these organisms travels efficiently through the marine depths.\n\nThe biochemical mechanism underpinning this phenomenon is highly conserved across various taxa. Bioluminescence is generated through a chemiluminescent reaction where a light-emitting molecule, generically termed luciferin, is oxidized in the presence of an catalyzing enzyme known as luciferase. This reaction is remarkably efficient, producing 'cold light' with nearly 100% of the energy released as photons rather than heat—a stark contrast to the energy-wasting thermal emission of an incandescent lightbulb.\n\nDeep-sea organisms have co-opted bioluminescence for a myriad of essential survival functions. Predation is a primary driver; the deep-sea anglerfish utilizes a glowing lure protruding from its dorsal fin to attract naive prey into its cavernous, tooth-lined maw. Conversely, bioluminescence serves as a vital defense mechanism. Some squid and crustaceans utilize 'counterillumination', emitting light from their ventral (bottom) surfaces to match the faint down-welling light from above, thereby masking their silhouettes from predators lurking below. \n\nAnother spectacular defensive strategy is the 'burglar alarm' effect. When caught or disturbed by a primary predator, certain jellyfish and dinoflagellates emit a brilliant, flashing display. This sudden burst of light acts as a visual distress signal, designed not to scare the immediate attacker, but to attract a larger, secondary predator that will consume the first, thereby allowing the luminescent organism to escape. Additionally, in the stygian darkness of the abyss, species-specific patterns of bioluminescence are crucial for intra-species communication and the location of potential mates, proving that light is the fundamental currency of survival in the ocean's darkest depths.",
+      "questions": [
+        {
+          "id": "R951",
+          "questionText": "What is the primary purpose of the passage?",
+          "options": [
+            "(A) To explain the chemical properties of ocean water at extreme depths.",
+            "(B) To describe the physical anatomy of the deep-sea anglerfish.",
+            "(C) To explore the biochemical mechanism and survival functions of bioluminescence in the deep ocean.",
+            "(D) To argue that bioluminescence is an inefficient use of biological energy."
+          ],
+          "answerIndex": 2,
+          "explanation": "Teks ini secara khusus membahas mekanisme biokimia (luciferin/luciferase) dan berbagai fungsi pertahanan serta predasi dari bioluminesensi di laut dalam."
+        },
+        {
+          "id": "R952",
+          "questionText": "According to the passage, what characterizes the 'abyssal zone'?",
+          "options": [
+            "(A) Warm temperatures and abundant sunlight.",
+            "(B) Extreme hydrostatic pressure, near-freezing temperatures, and absolute darkness.",
+            "(C) A complete absence of any living organisms.",
+            "(D) Shallow waters located near the continental shelf."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf pertama secara eksplisit menyatakan bahwa zona abisal ditandai dengan 'tekanan hidrostatik yang menghancurkan, suhu mendekati titik beku, dan sama sekali tidak ada sinar matahari yang turun'."
+        },
+        {
+          "id": "R953",
+          "questionText": "Why is the bioluminescent light emitted by deep-sea organisms usually blue-green?",
+          "options": [
+            "(A) Because blue-green light travels most efficiently through marine depths.",
+            "(B) Because luciferin is naturally a blue-green colored pigment.",
+            "(C) Because blue-green light produces the most heat to keep the animals warm.",
+            "(D) Because deep-sea predators are completely blind to all other colors."
+          ],
+          "answerIndex": 0,
+          "explanation": "Paragraf pertama menjelaskan bahwa cahaya biru-hijau yang dipancarkan 'merambat secara efisien melalui kedalaman laut', tidak seperti sinar matahari yang cepat diserap."
+        },
+        {
+          "id": "R954",
+          "questionText": "The word 'conserved' in paragraph 2 is closest in meaning to:",
+          "options": [
+            "(A) Protected from environmental damage",
+            "(B) Maintained or kept similar throughout evolutionary history",
+            "(C) Secreted in small amounts",
+            "(D) Rapidly destroyed"
+          ],
+          "answerIndex": 1,
+          "explanation": "Dalam biologi evolusioner, sifat yang 'conserved' berarti sifat tersebut dipertahankan atau tetap serupa di berbagai spesies dan waktu ('maintained or kept similar')."
+        },
+        {
+          "id": "R955",
+          "questionText": "What is the role of 'luciferase' in bioluminescence?",
+          "options": [
+            "(A) It is the light-emitting molecule that gets oxidized.",
+            "(B) It is the catalyzing enzyme that facilitates the oxidation of luciferin.",
+            "(C) It is the specific color pigment that determines the hue of the light.",
+            "(D) It is a toxic compound used to paralyze prey."
+          ],
+          "answerIndex": 1,
+          "explanation": "Teks menyatakan bahwa reaksi terjadi ketika luciferin dioksidasi 'dengan adanya enzim pengkatalisis yang dikenal sebagai luciferase'."
+        },
+        {
+          "id": "R956",
+          "questionText": "What makes the 'cold light' of bioluminescence highly efficient?",
+          "options": [
+            "(A) It relies entirely on solar energy stored during the day.",
+            "(B) Nearly 100% of the released energy is emitted as photons rather than being wasted as heat.",
+            "(C) It requires absolute zero temperatures to function properly.",
+            "(D) It can be generated without any metabolic energy from the organism."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf kedua membandingkannya dengan bola lampu pijar, mencatat bahwa bioluminesensi sangat efisien karena 'hampir 100% energi yang dilepaskan sebagai foton dan bukan panas'."
+        },
+        {
+          "id": "R957",
+          "questionText": "How does 'counterillumination' protect certain squid and crustaceans?",
+          "options": [
+            "(A) By emitting a blinding flash of light that temporarily paralyzes predators.",
+            "(B) By turning their bodies completely transparent.",
+            "(C) By emitting light from their bellies to match the faint light above, hiding their silhouettes from predators below.",
+            "(D) By creating glowing, detachable decoys to distract predators."
+          ],
+          "answerIndex": 2,
+          "explanation": "Teks menjelaskan counterillumination sebagai memancarkan cahaya dari permukaan perut (bawah) agar cocok dengan cahaya redup dari atas, 'dengan demikian menyamarkan siluet mereka dari predator yang mengintai di bawah'."
+        },
+        {
+          "id": "R958",
+          "questionText": "The word 'stygian' in paragraph 4 is closest in meaning to:",
+          "options": [
+            "(A) Sparkling",
+            "(B) Shallow",
+            "(C) Extremely dark and gloomy",
+            "(D) Highly pressurized"
+          ],
+          "answerIndex": 2,
+          "explanation": "'Stygian' merujuk pada Sungai Styx di dunia bawah tanah Yunani, digunakan untuk mendeskripsikan sesuatu yang sangat gelap, kelam, atau mengerikan ('extremely dark and gloomy')."
+        },
+        {
+          "id": "R959",
+          "questionText": "What is the intended goal of the 'burglar alarm' effect?",
+          "options": [
+            "(A) To scare away the predator that is currently attacking.",
+            "(B) To attract a secondary, larger predator that will eat the primary attacker.",
+            "(C) To warn other members of the same species to swim away quickly.",
+            "(D) To illuminate the surrounding area to find a hiding spot."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf terakhir menyatakan sinyal ini 'tidak dirancang untuk menakuti penyerang langsung, tetapi untuk menarik predator sekunder yang lebih besar yang akan memakan yang pertama'."
+        },
+        {
+          "id": "R960",
+          "questionText": "Which of the following is NOT mentioned in the passage as a function of bioluminescence?",
+          "options": [
+            "(A) Locating potential mates.",
+            "(B) Providing thermal warmth for developing embryos.",
+            "(C) Attracting naive prey.",
+            "(D) Intra-species communication."
+          ],
+          "answerIndex": 1,
+          "explanation": "Pilihan A, C, dan D secara eksplisit disebutkan di paragraf 3 dan 4. Teks secara khusus menyatakan bahwa bioluminesensi adalah 'cahaya dingin' yang tidak menghasilkan panas, sehingga tidak digunakan untuk menghangatkan embrio (B)."
+        }
+      ]
+    },
+    {
+      "passageId": 97,
+      "title": "Archaic Admixture: The Neanderthal Within",
+      "content": "For over a century, the dominant narrative in paleoanthropology regarding human origins was the 'Out of Africa' or 'Recent Single Origin' model. This theory posited that anatomically modern humans (Homo sapiens) evolved exclusively in Africa before migrating outwards around 60,000 to 70,000 years ago. As they expanded across Eurasia, they encountered indigenous archaic hominins, most notably the Neanderthals (Homo neanderthalensis). According to the strict replacement model, modern humans completely outcompeted and drove these archaic species to extinction without any significant interbreeding. Neanderthals were widely viewed as an evolutionary dead-end, cognitively inferior and biologically distinct.\n\nHowever, the advent of paleogenomics in the 21st century—spearheaded by geneticist Svante Pääbo—precipitated a massive paradigm shift. In 2010, Pääbo's team successfully sequenced the Neanderthal genome from degraded bone fragments. When they compared this ancient DNA to the genomes of contemporary humans, the results were astonishing. They discovered that modern humans of European and Asian descent carry approximately 1% to 2% Neanderthal DNA. Crucially, contemporary populations of Sub-Saharan African descent possess almost no Neanderthal DNA. \n\nThis discrepancy provided compelling evidence for a revised model known as 'assimilation' or 'introgression'. The genetic data indicates that as early Homo sapiens migrated out of Africa and into the Middle East, they encountered and successfully interbred with Neanderthal populations before subsequently diverging to populate Europe and Asia. The genetic legacy of this archaic admixture is not merely a benign historical footprint; it has tangible, phenotypic consequences for modern human health. \n\nEvolutionary biologists have identified that specific Neanderthal gene variants were positively selected for because they conferred distinct survival advantages in the harsher, colder environments of Eurasia. For example, certain inherited alleles significantly bolster the human immune system's ability to detect and fight novel viral and bacterial pathogens that our African ancestors had never encountered. However, this ancient genetic inheritance is a double-edged sword. Some of the very same Neanderthal variants that trigger a hyper-vigilant immune response have now been strongly correlated with an increased susceptibility to modern autoimmune diseases, such as lupus, Crohn's disease, and severe allergic reactions, illustrating the complex, lingering echoes of our archaic past.",
+      "questions": [
+        {
+          "id": "R961",
+          "questionText": "What is the primary purpose of the passage?",
+          "options": [
+            "(A) To detail the physical differences between Homo sapiens and Neanderthals.",
+            "(B) To explain how the 'Out of Africa' model was completely disproven.",
+            "(C) To describe how genomic sequencing revealed interbreeding between early modern humans and Neanderthals, and its modern consequences.",
+            "(D) To argue that autoimmune diseases are a purely modern phenomenon caused by industrialization."
+          ],
+          "answerIndex": 2,
+          "explanation": "Fokus utama teks adalah pergeseran dari model penggantian ketat (strict replacement) ke model introgresi (berkat paleogenomik) yang membuktikan bahwa manusia modern berbaur dengan Neanderthal dan membawa DNA mereka."
+        },
+        {
+          "id": "R962",
+          "questionText": "According to the 'strict replacement model' mentioned in paragraph 1, what happened when Homo sapiens encountered Neanderthals?",
+          "options": [
+            "(A) They merged to form a completely new species of hominin.",
+            "(B) Homo sapiens completely replaced them without any significant interbreeding.",
+            "(C) Neanderthals drove Homo sapiens back into Africa.",
+            "(D) They coexisted peacefully for hundreds of thousands of years."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf pertama menyatakan bahwa menurut model ini, manusia modern secara ketat 'sepenuhnya mengalahkan dan mendorong spesies purba ini menuju kepunahan tanpa perkawinan silang yang signifikan'."
+        },
+        {
+          "id": "R963",
+          "questionText": "The word 'spearheaded' in paragraph 2 is closest in meaning to:",
+          "options": [
+            "(A) Fought against",
+            "(B) Secretly funded",
+            "(C) Led or initiated",
+            "(D) Misunderstood"
+          ],
+          "answerIndex": 2,
+          "explanation": "'Spearheaded' berarti memimpin, mempelopori, atau menginisiasi suatu gerakan atau penemuan ('led or initiated')."
+        },
+        {
+          "id": "R964",
+          "questionText": "Why do contemporary Sub-Saharan African populations possess almost no Neanderthal DNA?",
+          "options": [
+            "(A) Because the Neanderthal DNA was completely erased by their harsh climate.",
+            "(B) Because Neanderthals primarily lived in Eurasia, and the interbreeding occurred after Homo sapiens left Africa.",
+            "(C) Because Sub-Saharan populations possessed a natural immunity to Neanderthal genetics.",
+            "(D) Because their ancestors migrated directly to the Americas instead of Eurasia."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf ketiga menyiratkan bahwa perkawinan silang terjadi 'saat Homo sapiens awal bermigrasi keluar dari Afrika dan masuk ke Timur Tengah'. Karena nenek moyang populasi Sub-Sahara tidak ikut dalam migrasi ini dan tetap di Afrika, mereka tidak berbaur dengan Neanderthal."
+        },
+        {
+          "id": "R965",
+          "questionText": "The word 'discrepancy' in paragraph 3 refers to:",
+          "options": [
+            "(A) The physical differences between Neanderthal and Homo sapiens skulls.",
+            "(B) The difference in Neanderthal DNA presence between Eurasian/Asian populations and Sub-Saharan African populations.",
+            "(C) The mathematical errors found in Svante Pääbo's early research.",
+            "(D) The conflict between geneticists and traditional archaeologists."
+          ],
+          "answerIndex": 1,
+          "explanation": "'Discrepancy' (ketidaksesuaian/perbedaan) merujuk pada kalimat sebelumnya: orang Eropa/Asia memiliki 1-2% DNA Neanderthal, sedangkan orang Afrika Sub-Sahara hampir tidak memilikinya."
+        },
+        {
+          "id": "R966",
+          "questionText": "What does the term 'introgression' or 'admixture' refer to in the context of the passage?",
+          "options": [
+            "(A) The sudden extinction of a species.",
+            "(B) The genetic mixing or interbreeding between distinct but related populations.",
+            "(C) The process of migrating from one continent to another.",
+            "(D) The extraction of DNA from ancient bone fragments."
+          ],
+          "answerIndex": 1,
+          "explanation": "Teks menggunakan introgresi/admixture untuk menggambarkan bahwa Homo sapiens awal 'bertemu dan berhasil kawin silang dengan populasi Neanderthal' (percampuran genetik)."
+        },
+        {
+          "id": "R967",
+          "questionText": "According to the passage, why were certain Neanderthal gene variants positively selected for in early modern humans?",
+          "options": [
+            "(A) They increased the physical height of Homo sapiens.",
+            "(B) They provided survival advantages in the colder environments of Eurasia, particularly by boosting the immune system.",
+            "(C) They improved the humans' ability to communicate using complex language.",
+            "(D) They allowed humans to digest dairy products effectively."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf keempat menyatakan bahwa varian tersebut dipilih 'karena mereka memberikan keuntungan bertahan hidup yang berbeda di lingkungan Eurasia yang lebih keras dan lebih dingin', misalnya dengan 'meningkatkan sistem kekebalan tubuh manusia'."
+        },
+        {
+          "id": "R968",
+          "questionText": "The phrase 'double-edged sword' in the final paragraph is used to illustrate that:",
+          "options": [
+            "(A) Neanderthals used advanced weapons to fight Homo sapiens.",
+            "(B) The inherited immune genes protected early humans but now cause increased rates of modern autoimmune diseases.",
+            "(C) Genetic sequencing can be used to cure diseases but also to create bioweapons.",
+            "(D) Homo sapiens had to fight both harsh weather and fierce predators."
+          ],
+          "answerIndex": 1,
+          "explanation": "Kiasan 'pedang bermata dua' digunakan untuk menunjukkan bahwa sifat genetik ini bermanfaat (melawan patogen purba) sekaligus merugikan (memicu penyakit autoimun modern)."
+        },
+        {
+          "id": "R969",
+          "questionText": "Which of the following diseases is NOT mentioned as being correlated with Neanderthal gene variants?",
+          "options": [
+            "(A) Lupus",
+            "(B) Crohn's disease",
+            "(C) Malaria",
+            "(D) Severe allergic reactions"
+          ],
+          "answerIndex": 2,
+          "explanation": "Teks secara spesifik menyebutkan Lupus, penyakit Crohn, dan reaksi alergi parah di paragraf terakhir. Malaria tidak disebutkan."
+        },
+        {
+          "id": "R970",
+          "questionText": "It can be inferred from the passage that prior to the year 2010:",
+          "options": [
+            "(A) Scientists widely accepted that everyone on Earth possessed Neanderthal DNA.",
+            "(B) Most paleoanthropologists believed Neanderthals contributed no genetic material to modern humans.",
+            "(C) Neanderthals were considered to be a highly advanced, intellectually superior species.",
+            "(D) DNA sequencing technology was completely unknown."
+          ],
+          "answerIndex": 1,
+          "explanation": "Karena genom baru diurutkan pada tahun 2010 yang memicu 'pergeseran paradigma', dapat disimpulkan bahwa sebelum itu, mayoritas ilmuwan mempercayai model 'penggantian ketat' (strict replacement) di mana tidak ada interbreeding/kontribusi genetik."
+        }
+      ]
+    },
+    {
+      "passageId": 98,
+      "title": "Hunting for Exoplanets: The Indirect Methods",
+      "content": "For millennia, the question of whether planets orbit stars other than our Sun remained purely a matter of philosophical speculation. The immense technical challenge in detecting these exoplanets lies in the staggering discrepancy in luminosity; a host star outshines its planetary companions by a factor of millions, if not billions, effectively drowning out the faint light of a planet in a blinding stellar glare. Consequently, direct imaging—taking an actual photograph of an exoplanet—remains exceedingly difficult and rare. Instead, the revolution in exoplanet discovery, which has yielded over 5,000 confirmed planets to date, was built primarily upon highly precise indirect detection methods.\n\nThe first successful technique to yield discoveries was the Radial Velocity method, also known as Doppler spectroscopy. This method relies on the gravitational interplay between a star and its planet. While a planet orbits a star, its gravity exerts a reciprocal, albeit minute, tug on the massive star, causing the star to wobble slightly around their common center of mass. As the star wobbles towards Earth, the light it emits is compressed into shorter, bluer wavelengths (blueshift). As it wobbles away, the light stretches into longer, redder wavelengths (redshift). By analyzing these subtle, periodic shifts in the stellar spectrum, astronomers can deduce the presence, mass, and orbital period of an unseen planet. However, this method exhibits a strong observational bias toward 'Hot Jupiters'—massive gas giants orbiting extremely close to their stars, which exert the most dramatic gravitational tugs.\n\nThe most prolific discovery tool, however, has been the Transit Photometry method, famously utilized by NASA's Kepler Space Telescope. A transit occurs when a planet passes directly between its host star and the observer, causing a minuscule, temporary dip in the star's apparent brightness. By continuously monitoring the luminosity of thousands of stars, telescopes can detect these periodic dimmings. The extent of the dimming reveals the planet's physical size relative to the star, while the time between transits dictates its orbital duration. \n\nTransit photometry requires a serendipitous alignment; the planetary orbit must be viewed almost exactly edge-on from Earth. Despite this geometric limitation, the sheer volume of stars surveyed has resulted in thousands of transit detections. By combining data from both Radial Velocity (providing mass) and Transit Photometry (providing size), scientists can calculate a planet's density, determining whether it is a gaseous giant or a rocky, terrestrial world. This capability is paramount in the ongoing quest to identify Earth-like planets residing within the 'Goldilocks zone'—the precise orbital region where conditions are just right for liquid water to exist on the planetary surface.",
+      "questions": [
+        {
+          "id": "R971",
+          "questionText": "What is the primary topic of the passage?",
+          "options": [
+            "(A) The history of the Kepler Space Telescope.",
+            "(B) The physical characteristics of 'Hot Jupiters'.",
+            "(C) The challenges of direct imaging and the mechanics of the two primary indirect methods used to discover exoplanets.",
+            "(D) The chemical composition of planetary atmospheres in the Goldilocks zone."
+          ],
+          "answerIndex": 2,
+          "explanation": "Teks secara komprehensif membahas kesulitan pencitraan langsung dan kemudian secara rinci menjelaskan dua metode deteksi tidak langsung (Kecepatan Radial dan Fotometri Transit)."
+        },
+        {
+          "id": "R972",
+          "questionText": "According to the passage, why is direct imaging of exoplanets so difficult?",
+          "options": [
+            "(A) Exoplanets do not reflect any light.",
+            "(B) The extreme distance causes the light from planets to shift out of the visible spectrum.",
+            "(C) The host star is millions of times brighter, hiding the planet in its glare.",
+            "(D) Telescopes cannot be built large enough to see objects outside our solar system."
+          ],
+          "answerIndex": 2,
+          "explanation": "Paragraf pertama menyatakan bahwa sebuah bintang melampaui teman planetnya dengan faktor jutaan 'secara efektif menenggelamkan cahaya redup planet dalam silau bintang yang menyilaukan'."
+        },
+        {
+          "id": "R973",
+          "questionText": "What physical phenomenon does the Radial Velocity method measure?",
+          "options": [
+            "(A) The sudden blocking of starlight by a passing planet.",
+            "(B) The shifting of a star's light spectrum caused by the gravitational tug of an orbiting planet.",
+            "(C) The amount of heat emitted by a planetary surface.",
+            "(D) The speed at which a star moves through the galaxy."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf kedua menjelaskan bahwa metode Kecepatan Radial menganalisis pergeseran Doppler (blueshift dan redshift) dalam spektrum bintang yang disebabkan oleh goyangan bintang akibat gravitasi planet."
+        },
+        {
+          "id": "R974",
+          "questionText": "The word 'reciprocal' in paragraph 2 is closest in meaning to:",
+          "options": [
+            "(A) Insignificant",
+            "(B) Mutual or corresponding",
+            "(C) Devastating",
+            "(D) Random"
+          ],
+          "answerIndex": 1,
+          "explanation": "'Reciprocal' berarti sesuatu yang berbalas, timbal balik, atau saling merespons ('mutual or corresponding'). Gravitasi bintang menarik planet, dan gravitasi planet memberikan tarikan timbal balik pada bintang."
+        },
+        {
+          "id": "R975",
+          "questionText": "Why is the Radial Velocity method biased toward finding 'Hot Jupiters'?",
+          "options": [
+            "(A) Because Hot Jupiters are the only planets that emit visible light.",
+            "(B) Because massive planets orbiting close to their stars exert the strongest, most easily detectable gravitational tugs.",
+            "(C) Because they block the largest amount of starlight during a transit.",
+            "(D) Because they only exist around exceptionally dim stars."
+          ],
+          "answerIndex": 1,
+          "explanation": "Teks menyatakan metode ini memiliki bias terhadap Hot Jupiters karena mereka adalah raksasa gas masif yang mengorbit sangat dekat dengan bintang mereka, 'yang memberikan tarikan gravitasi paling dramatis'."
+        },
+        {
+          "id": "R976",
+          "questionText": "How does the Transit Photometry method detect a planet?",
+          "options": [
+            "(A) By observing the planet reflecting light back to Earth.",
+            "(B) By measuring changes in the star's magnetic field.",
+            "(C) By detecting a minuscule, periodic dip in the star's brightness when the planet passes in front of it.",
+            "(D) By analyzing the blue and red shifts of the star's color."
+          ],
+          "answerIndex": 2,
+          "explanation": "Paragraf ketiga menjelaskan metode ini sebagai mendeteksi 'penurunan sementara dan sangat kecil pada kecerahan tampak bintang' saat planet melintas (transit) di depannya."
+        },
+        {
+          "id": "R977",
+          "questionText": "The word 'serendipitous' in paragraph 4 is closest in meaning to:",
+          "options": [
+            "(A) Scientifically rigorous",
+            "(B) Fortunate or occurring by lucky chance",
+            "(C) Highly restricted",
+            "(D) Mathematically predictable"
+          ],
+          "answerIndex": 1,
+          "explanation": "'Serendipitous' berarti terjadi atau ditemukan secara kebetulan dengan cara yang membahagiakan atau menguntungkan ('fortunate or occurring by lucky chance')."
+        },
+        {
+          "id": "R978",
+          "questionText": "What specific limitation does Transit Photometry have?",
+          "options": [
+            "(A) It can only detect planets the size of Earth.",
+            "(B) It only works on stars that are dying.",
+            "(C) The planetary orbit must be viewed almost exactly edge-on from Earth to see the transit.",
+            "(D) It cannot determine the physical size of the planet."
+          ],
+          "answerIndex": 2,
+          "explanation": "Paragraf keempat menyebutkan keterbatasan geometris ini: keselarasan yang kebetulan diperlukan di mana 'orbit planet harus dilihat hampir persis berhadapan (edge-on) dari Bumi'."
+        },
+        {
+          "id": "R979",
+          "questionText": "Why do scientists need data from BOTH the Radial Velocity and Transit methods to determine if a planet is rocky?",
+          "options": [
+            "(A) Because Radial Velocity is highly inaccurate on its own.",
+            "(B) Because one provides the mass and the other provides the size, which are both needed to calculate the planet's density.",
+            "(C) Because Transit Photometry can only detect gas giants.",
+            "(D) Because they need to confirm the planet is in the Goldilocks zone."
+          ],
+          "answerIndex": 1,
+          "explanation": "Teks menyatakan: 'Dengan menggabungkan data dari Kecepatan Radial (memberikan massa) dan Fotometri Transit (memberikan ukuran), para ilmuwan dapat menghitung kepadatan planet...' Kepadatan inilah yang menentukan apakah itu gas atau berbatu."
+        },
+        {
+          "id": "R980",
+          "questionText": "What defines the 'Goldilocks zone'?",
+          "options": [
+            "(A) The area where a star's light is totally blocked by a planet.",
+            "(B) The zone where a planet is guaranteed to have intelligent life.",
+            "(C) The exact orbital distance where conditions allow for liquid water to exist on a planet's surface.",
+            "(D) The region in space where the Kepler Space Telescope operates."
+          ],
+          "answerIndex": 2,
+          "explanation": "Kalimat terakhir mendefinisikan zona Goldilocks sebagai 'wilayah orbit yang tepat di mana kondisinya tepat bagi keberadaan air cair di permukaan planet'."
+        }
+      ]
+    },
+    {
+      "passageId": 99,
+      "title": "Adult Neurogenesis in the Dentate Gyrus",
+      "content": "For much of the 20th century, the central dogma of neurobiology maintained that the adult mammalian brain was incapable of generating new neurons. It was widely accepted that humans were endowed with a finite, immutable number of brain cells at birth, which would only steadily decline through age, disease, or trauma. However, pioneering histological research in the late 1990s shattered this pessimistic consensus. Using a synthetic marker that integrates into the DNA of dividing cells, researchers definitively proved that neurogenesis—the birth of new neurons—continues throughout adulthood, specifically isolated within two microenvironments of the brain, most notably the subgranular zone of the dentate gyrus within the hippocampus.\n\nThe hippocampus is structurally critical for learning, memory consolidation, and emotional regulation. The thousands of new neurons generated daily in the adult dentate gyrus are highly plastic and exceptionally excitable. Within a critical period of a few weeks post-generation, they weave themselves into existing neural circuitry. Computational models and behavioral studies suggest that these nascent neurons are uniquely suited for a cognitive process called 'pattern separation'. Pattern separation is the brain's ability to discriminate between highly similar, yet distinct, memories or events—for instance, remembering exactly where you parked your car today in a lot where you also parked yesterday.\n\nThe rate of hippocampal neurogenesis is highly dynamic and sensitive to environmental and behavioral stimuli. Studies robustly demonstrate that aerobic exercise, complex learning tasks, and environmentally enriched habitats significantly upregulate the proliferation and survival of these new cells. Conversely, chronic stress is profoundly neurotoxic. Elevated levels of glucocorticoids (like cortisol) released during prolonged stress severely suppress neurogenesis, shrinking the hippocampal volume over time. \n\nThis neurogenic suppression has sparked a revolutionary shift in the understanding of psychiatric disorders, leading to the 'neurogenic hypothesis of depression'. This hypothesis postulates that a deficit in adult neurogenesis may be a core underlying pathology of Major Depressive Disorder, rather than merely a chemical imbalance of serotonin. Supporting this view, researchers have observed that standard antidepressant medications generally take several weeks to alleviate depressive symptoms—a timeframe that curiously matches the exact maturation period required for new hippocampal neurons to integrate into the brain's emotional regulatory circuits. Therefore, promoting adult neurogenesis represents a highly promising frontier for novel psychiatric therapeutics.",
+      "questions": [
+        {
+          "id": "R981",
+          "questionText": "What is the primary topic of the passage?",
+          "options": [
+            "(A) The history of antidepressant medications.",
+            "(B) The discovery, function, and behavioral regulation of adult neurogenesis in the hippocampus.",
+            "(C) The exact process of DNA synthesis during cell division.",
+            "(D) How chronic stress permanently destroys the human brain."
+          ],
+          "answerIndex": 1,
+          "explanation": "Teks ini secara komprehensif mencakup pembuktian neurogenesis pada orang dewasa, lokasinya (hippocampus/dentate gyrus), perannya dalam ingatan (pattern separation), faktor yang mempengaruhinya, dan kaitannya dengan depresi."
+        },
+        {
+          "id": "R982",
+          "questionText": "According to the central dogma of 20th-century neurobiology, what happened to brain cells after birth?",
+          "options": [
+            "(A) They continued to multiply exponentially.",
+            "(B) They migrated to the spinal cord.",
+            "(C) The number of cells was finite and would only decline over time.",
+            "(D) They regenerated entirely every seven years."
+          ],
+          "answerIndex": 2,
+          "explanation": "Paragraf pertama menyatakan bahwa dogma pusat meyakini 'manusia diberkahi dengan jumlah sel otak yang terbatas dan tidak dapat diubah saat lahir, yang hanya akan terus menurun karena usia, penyakit, atau trauma'."
+        },
+        {
+          "id": "R983",
+          "questionText": "The word 'immutable' in paragraph 1 is closest in meaning to:",
+          "options": [
+            "(A) Invisible",
+            "(B) Unchanging or fixed",
+            "(C) Extremely vulnerable",
+            "(D) Rapidly growing"
+          ],
+          "answerIndex": 1,
+          "explanation": "'Immutable' berarti tidak dapat diubah, tetap, atau konstan ('unchanging or fixed')."
+        },
+        {
+          "id": "R984",
+          "questionText": "Where does adult neurogenesis primarily occur according to the passage?",
+          "options": [
+            "(A) In the frontal lobe of the cerebral cortex.",
+            "(B) In the subgranular zone of the dentate gyrus within the hippocampus.",
+            "(C) Throughout the entire nervous system equally.",
+            "(D) In the synthetic markers of the DNA."
+          ],
+          "answerIndex": 1,
+          "explanation": "Teks secara spesifik mengidentifikasi lokasi ini di akhir paragraf pertama: 'yang paling menonjol adalah zona subgranular gyrus dentatus di dalam hippocampus'."
+        },
+        {
+          "id": "R985",
+          "questionText": "What is 'pattern separation'?",
+          "options": [
+            "(A) The ability of the brain to distinguish between visual colors.",
+            "(B) The process by which old neurons die to make room for new ones.",
+            "(C) The cognitive ability to discriminate between highly similar, yet distinct memories.",
+            "(D) The physical separation of the left and right hemispheres of the brain."
+          ],
+          "answerIndex": 2,
+          "explanation": "Paragraf kedua secara eksplisit mendefinisikan pemisahan pola (pattern separation) sebagai 'kemampuan otak untuk membedakan antara ingatan atau peristiwa yang sangat mirip namun berbeda'."
+        },
+        {
+          "id": "R986",
+          "questionText": "Which of the following is stated to ENHANCE the rate of hippocampal neurogenesis?",
+          "options": [
+            "(A) Aerobic exercise and environmentally enriched habitats.",
+            "(B) Prolonged exposure to glucocorticoids.",
+            "(C) Chronic stress and severe trauma.",
+            "(D) A strict chemical imbalance of serotonin."
+          ],
+          "answerIndex": 0,
+          "explanation": "Paragraf ketiga menyatakan bahwa 'latihan aerobik, tugas pembelajaran kompleks, dan habitat yang diperkaya lingkungan secara signifikan meregulasi ke atas (meningkatkan) proliferasi dan kelangsungan hidup sel-sel baru ini'."
+        },
+        {
+          "id": "R987",
+          "questionText": "The word 'upregulate' in paragraph 3 is closest in meaning to:",
+          "options": [
+            "(A) Completely halt",
+            "(B) Increase the rate or level of",
+            "(C) Relocate to a higher area",
+            "(D) Randomly scramble"
+          ],
+          "answerIndex": 1,
+          "explanation": "Dalam biologi dan fisiologi, 'upregulate' berarti meningkatkan respons terhadap stimulus; dalam hal ini, meningkatkan laju ('increase the rate') proliferasi sel."
+        },
+        {
+          "id": "R988",
+          "questionText": "How does chronic stress affect the hippocampus?",
+          "options": [
+            "(A) It releases cortisol, which suppresses neurogenesis and shrinks the hippocampus.",
+            "(B) It causes the hippocampus to swell abnormally with fluid.",
+            "(C) It forces the old neurons to perform pattern separation excessively.",
+            "(D) It has absolutely no effect on the physical structure of the brain."
+          ],
+          "answerIndex": 0,
+          "explanation": "Teks menyatakan bahwa hormon stres (seperti kortisol) yang tinggi 'sangat menekan neurogenesis, menyusutkan volume hipokampus dari waktu ke waktu'."
+        },
+        {
+          "id": "R989",
+          "questionText": "According to the 'neurogenic hypothesis of depression', what might be a core underlying cause of the disorder?",
+          "options": [
+            "(A) A sudden, massive overproduction of new neurons.",
+            "(B) A purely chemical imbalance of too much serotonin.",
+            "(C) A deficit or severe lack of adult neurogenesis.",
+            "(D) The patient's inability to remember where they parked their car."
+          ],
+          "answerIndex": 2,
+          "explanation": "Paragraf terakhir mendefinisikan hipotesis ini sebagai postulat bahwa 'defisit (kekurangan) dalam neurogenesis dewasa mungkin merupakan patologi inti yang mendasari' dari depresi."
+        },
+        {
+          "id": "R990",
+          "questionText": "What piece of evidence is used to connect antidepressant medications to neurogenesis?",
+          "options": [
+            "(A) Antidepressants are exclusively made from synthetic DNA markers.",
+            "(B) The delayed timeframe for antidepressants to work matches the exact maturation time needed for new neurons to integrate into the brain.",
+            "(C) Antidepressants immediately cause aerobic exercise patterns in patients.",
+            "(D) Antidepressants completely erase similar memories to prevent confusion."
+          ],
+          "answerIndex": 1,
+          "explanation": "Penulis mencatat bahwa antidepresan membutuhkan waktu beberapa minggu untuk bekerja—sebuah jangka waktu 'yang secara aneh cocok dengan periode pematangan yang tepat yang diperlukan untuk neuron hipokampus baru untuk berintegrasi ke dalam sirkuit'."
+        }
+      ]
+    },
+    {
+      "passageId": 100,
+      "title": "The Silk Road and the Syncretism of Gandhara",
+      "content": "The term 'Silk Road', coined by German geographer Ferdinand von Richthofen in the late 19th century, evokes images of a singular, well-trodden highway stretching from imperial China to the Mediterranean. In reality, it was an intricate, shifting network of terrestrial trade routes and maritime corridors that connected the East and West for over 1,500 years. Initiated by the diplomatic and military expansions of China's Han Dynasty around 130 BCE, the network facilitated the lucrative exchange of Chinese silk for Central Asian 'heavenly horses', Roman glassware, and Indian spices. However, the most profound legacy of the Silk Road was not the transit of commercial commodities, but the unprecedented transmission of ideas, technologies, and religious philosophies.\n\nBecause the treacherous geography of the routes—spanning unforgiving deserts like the Taklamakan and formidable mountain ranges like the Pamirs—made long-distance end-to-end travel exceptionally rare, goods were passed along a chain of intermediaries. Nomadic tribes and oasis city-states acted as the primary brokers of this trade. Consequently, these cosmopolitan hubs became fertile grounds for cultural exchange and synthesis. \n\nNowhere is this cross-cultural fertilization more evident than in the ancient region of Gandhara, located in present-day northern Pakistan and eastern Afghanistan. Situated precisely at the crossroads of the Silk network, Gandhara was conquered by Alexander the Great in the 4th century BCE, leaving a lingering Hellenistic influence. Centuries later, under the Kushan Empire, the region enthusiastically embraced Buddhism, imported from the Indian subcontinent. The resulting collision of these cultures birthed Gandharan art—a spectacular visual syncretism. For the first time in history, the Buddha was depicted in human form, yet he was carved wearing the draped, flowing toga of a Roman patrician, featuring the curly hair and muscular physique of the Greek god Apollo.\n\nBeyond art and religion, the Silk Road was the primary conduit for paradigm-shifting technological transfers. The technique of papermaking, carefully guarded by the Chinese for centuries, eventually flowed westward along these routes, profoundly revolutionizing the Islamic world's academic output before reaching Europe to ignite the Renaissance. While the terrestrial Silk Road eventually experienced a protracted decline in the 15th century due to the fracturing of the Mongol Empire and the rise of faster, safer European maritime navigation, its historical role as the first globalized internet—a vast web of human interconnection—remains unparalleled.",
+      "questions": [
+        {
+          "id": "R991",
+          "questionText": "What is the primary argument made in the passage regarding the Silk Road?",
+          "options": [
+            "(A) It was a single, straight, paved road stretching from China to Rome.",
+            "(B) Its commercial trade was entirely controlled by the Han Dynasty without intermediaries.",
+            "(C) Its most significant historical impact was the exchange of ideas, art, and technology, rather than just commercial goods.",
+            "(D) It was primarily used for military conquests rather than trade."
+          ],
+          "answerIndex": 2,
+          "explanation": "Fokus utama teks adalah bahwa warisan paling mendalam dari Jalur Sutra 'bukanlah transit komoditas komersial, tetapi transmisi ide, teknologi, dan filosofi agama yang belum pernah terjadi sebelumnya' (seperti yang ditunjukkan oleh Gandhara dan pembuatan kertas)."
+        },
+        {
+          "id": "R992",
+          "questionText": "Why is the name 'Silk Road' somewhat misleading according to the passage?",
+          "options": [
+            "(A) Because silk was never actually traded on the routes.",
+            "(B) Because it was an intricate, shifting network of multiple terrestrial and maritime routes, not a singular road.",
+            "(C) Because it was built by the Roman Empire, not the Chinese.",
+            "(D) Because the route was only used for less than a century."
+          ],
+          "answerIndex": 1,
+          "explanation": "Paragraf pertama membedakan gambaran jalan tol ('singular highway') tunggal dengan kenyataan bahwa itu adalah 'jaringan rute perdagangan darat dan koridor maritim yang rumit dan terus bergeser'."
+        },
+        {
+          "id": "R993",
+          "questionText": "The word 'lucrative' in paragraph 1 is closest in meaning to:",
+          "options": [
+            "(A) Dangerously risky",
+            "(B) Highly profitable or wealth-producing",
+            "(C) Strictly religious",
+            "(D) Culturally insensitive"
+          ],
+          "answerIndex": 1,
+          "explanation": "'Lucrative' berarti menghasilkan keuntungan besar atau sangat menguntungkan ('highly profitable')."
+        },
+        {
+          "id": "R994",
+          "questionText": "According to the passage, how were goods primarily transported across the entirety of the Silk Road?",
+          "options": [
+            "(A) By a single merchant traveling from China directly to Rome.",
+            "(B) Exclusively by maritime boats navigating the Indian Ocean.",
+            "(C) By being passed along a chain of intermediaries, such as nomadic tribes and oasis city-states.",
+            "(D) By the military forces of Alexander the Great."
+          ],
+          "answerIndex": 2,
+          "explanation": "Paragraf kedua mencatat bahwa karena geografi yang berbahaya, perjalanan ujung-ke-ujung sangat jarang, sehingga 'barang-barang dilewatkan di sepanjang rantai perantara'."
+        },
+        {
+          "id": "R995",
+          "questionText": "What does the word 'syncretism' refer to in the context of Gandharan art?",
+          "options": [
+            "(A) The complete destruction of older artistic styles.",
+            "(B) The merging or blending of different cultural, religious, or artistic traditions.",
+            "(C) The technique of painting on wet plaster.",
+            "(D) A strict adherence to traditional Indian aesthetics."
+          ],
+          "answerIndex": 1,
+          "explanation": "Teks menggambarkan 'sinkretisme visual' Gandhara sebagai hasil dari 'tabrakan budaya-budaya ini', di mana konsep agama India (Buddha) digabungkan dengan gaya pahatan Yunani-Romawi (toga, rambut seperti Apollo)."
+        },
+        {
+          "id": "R996",
+          "questionText": "How did Gandharan art uniquely depict the Buddha?",
+          "options": [
+            "(A) He was shown exclusively as an abstract, geometric symbol.",
+            "(B) He was depicted as a traditional Chinese Emperor.",
+            "(C) He was carved in human form wearing a Roman-style toga and possessing Greek physical features.",
+            "(D) He was always portrayed riding a 'heavenly horse' from Central Asia."
+          ],
+          "answerIndex": 2,
+          "explanation": "Paragraf ketiga secara langsung menyatakan bahwa Buddha 'diukir mengenakan toga gaya bangsawan Romawi yang menjuntai, menampilkan rambut keriting dan fisik berotot dewa Yunani Apollo'."
+        },
+        {
+          "id": "R997",
+          "questionText": "What technological transfer is credited with revolutionizing the Islamic world and eventually igniting the European Renaissance?",
+          "options": [
+            "(A) Roman glassware manufacturing.",
+            "(B) The architectural design of Buddhist temples.",
+            "(C) The Chinese technique of papermaking.",
+            "(D) Advanced shipbuilding techniques."
+          ],
+          "answerIndex": 2,
+          "explanation": "Paragraf keempat mengidentifikasi bahwa 'teknik pembuatan kertas... secara mendalam merevolusi hasil akademik dunia Islam sebelum mencapai Eropa untuk memicu Renaisans'."
+        },
+        {
+          "id": "R998",
+          "questionText": "The word 'protracted' in paragraph 4 is closest in meaning to:",
+          "options": [
+            "(A) Sudden",
+            "(B) Violent",
+            "(C) Drawn out or prolonged over time",
+            "(D) Reversible"
+          ],
+          "answerIndex": 2,
+          "explanation": "'Protracted' berarti berlangsung lebih lama dari biasanya atau diperpanjang ('drawn out or prolonged'). Penurunan Jalur Sutra adalah proses yang panjang dan lambat."
+        },
+        {
+          "id": "R999",
+          "questionText": "What primarily caused the decline of the terrestrial Silk Road in the 15th century?",
+          "options": [
+            "(A) The complete exhaustion of silk supplies in China.",
+            "(B) A massive earthquake that destroyed the Pamir mountains.",
+            "(C) The fracturing of the Mongol Empire and the emergence of faster, safer maritime routes.",
+            "(D) A religious war between the Kushan Empire and the Han Dynasty."
+          ],
+          "answerIndex": 2,
+          "explanation": "Teks secara eksplisit menyebutkan dua penyebab penurunannya: 'patahnya (runtuhnya) Kekaisaran Mongol dan kebangkitan navigasi maritim Eropa yang lebih cepat dan lebih aman'."
+        },
+        {
+          "id": "R1000",
+          "questionText": "Why does the author compare the Silk Road to the 'first globalized internet' in the final sentence?",
+          "options": [
+            "(A) Because electricity was first discovered along its routes.",
+            "(B) Because it served as a vast, unparalleled network connecting human civilizations and facilitating the transfer of information.",
+            "(C) Because merchants communicated using a complex system of light signals across the desert.",
+            "(D) Because it allowed instantaneous communication between China and Rome."
+          ],
+          "answerIndex": 1,
+          "explanation": "Metafora 'internet global pertama' digunakan karena fungsinya sebagai 'jaring luas interkoneksi manusia' yang menggerakkan informasi, ide, dan teknologi (bukan hanya barang) ke seluruh dunia yang dikenal pada saat itu."
+        }
+      ]
     }
   ]
 }
