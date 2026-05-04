@@ -2746,6 +2746,62 @@
       "tags": ["listening_idioms", "listening_inference"]
     },
     {
+      "id": "L279",
+      "sectionType": "listening",
+      "audioFile": "audio_l239.mp3",
+      "questionText": "What does the woman say about Jane?",
+      "options": [
+        "She is studying the weather",
+        "She is feeling ill",
+        "She moved to a new city",
+        "She skipped class to go outside"
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'under the weather' berarti sedang merasa tidak enak badan atau sakit."
+    },
+    {
+      "id": "L280",
+      "sectionType": "listening",
+      "audioFile": "audio_l240.mp3",
+      "questionText": "What does the man mean?",
+      "options": [
+        "The manager has approved the requests",
+        "The decision has not been made yet",
+        "The manager threw the requests away",
+        "They will take an airplane for vacation"
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'up in the air' berarti sesuatu belum diputuskan atau belum pasti."
+    },
+    {
+      "id": "L281",
+      "sectionType": "listening",
+      "audioFile": "audio_l241.mp3",
+      "questionText": "What does the woman advise the man to do?",
+      "options": [
+        "Have a professional inspect the car",
+        "Give the money directly to the mechanic",
+        "Learn how to fix cars",
+        "Keep taking the bus"
+      ],
+      "answerIndex": 0,
+      "explanation": "Wanita itu menyarankan agar mekanik ('mechanic') memeriksa mobil tersebut sebelum pria itu membelinya."
+    },
+    {
+      "id": "L282",
+      "sectionType": "listening",
+      "audioFile": "audio_l242.mp3",
+      "questionText": "What happened?",
+      "options": [
+        "He bought the tickets online",
+        "The website was broken",
+        "He was unable to get the tickets",
+        "He sold his tickets"
+      ],
+      "answerIndex": 2,
+      "explanation": "Pria itu mengatakan tiket sudah habis terjual ('sold out') sebelum ia sempat mengakses situs web."
+    },
+    {
       "id": "L283",
       "sectionType": "listening",
       "audioFile": "audio_l243.mp3",
@@ -4269,6 +4325,1506 @@
       "answerIndex": 1,
       "explanation": "Pria itu menyarankan wanita tersebut untuk mempertimbangkan kembali keputusannya untuk absen. Ia menyatakan bahwa profesor akan memberikan petunjuk ujian jika ia hadir di sesi ulasan (review session), sehingga saran yang diberikan adalah agar wanita tersebut tetap menghadiri sesi ulasan.",
       "tags": ["listening_suggestion", "listening_detail"]
+    },
+    {
+      "id": "L501",
+      "sectionType": "listening",
+      "audioFile": "audio_l345.mp3",
+      "questionText": "What does the woman mean?",
+      "options": [
+        "She did not take the pop quiz.",
+        "She completely agrees that the quiz was extremely difficult.",
+        "She thinks it's a miracle that the man passed.",
+        "She wants the man to tell her more about the reading."
+      ],
+      "answerIndex": 1,
+      "explanation": "Ungkapan 'Tell me about it' adalah idiom persetujuan kuat. Frasa 'let alone ace it' (apalagi mendapat nilai sempurna) menunjukkan bahwa dia setuju kuis tersebut sangat sulit dan nyaris mustahil untuk dikerjakan dengan baik.",
+      "tags": ["listening_agreement", "listening_idioms"]
+    },
+    {
+      "id": "L502",
+      "sectionType": "listening",
+      "audioFile": "audio_l346.mp3",
+      "questionText": "What does the man imply about the IT department?",
+      "options": [
+        "They never manage to fix computers properly.",
+        "They usually take a long time to respond, so he was pleasantly surprised.",
+        "They ignored his ticket and he had to fix it himself.",
+        "They always fix issues before noon on the same day."
+      ],
+      "answerIndex": 1,
+      "explanation": "Pria itu menggunakan inversi negatif ('Rarely do they respond... same day') yang berarti mereka biasanya lambat. Namun, kali ini mereka mengejutkannya karena selesai sebelum siang ('up and running before noon').",
+      "tags": ["listening_negative", "listening_inference"]
+    },
+    {
+      "id": "L503",
+      "sectionType": "listening",
+      "audioFile": "audio_l347.mp3",
+      "questionText": "What does the woman imply?",
+      "options": [
+        "She refuses to drive faster because she fears getting a traffic ticket.",
+        "She wants to step on the gas pedal to avoid being late.",
+        "She is pulling over to let the man drive.",
+        "She hopes they miss the overture of the symphony."
+      ],
+      "answerIndex": 0,
+      "explanation": "Pria itu meminta wanita tersebut mengebut ('step on it'). Wanita itu menolak karena dia lebih memilih terlambat (melewatkan bagian awal pertunjukan) daripada ditilang oleh polisi ('get pulled over').",
+      "tags": ["listening_idioms", "listening_inference"]
+    },
+    {
+      "id": "L504",
+      "sectionType": "listening",
+      "audioFile": "audio_l348.mp3",
+      "questionText": "What did the man ultimately decide to do?",
+      "options": [
+        "Drop the class and build a fence.",
+        "Argue with the professor about his grade.",
+        "Remain in the advanced calculus class.",
+        "Drop out of the university entirely."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'on the fence' berarti ragu-ragu atau belum membuat keputusan. Namun, profesor meyakinkannya untuk 'stick it out' (bertahan dan tidak menyerah), sehingga dia tetap mengambil kelas tersebut.",
+      "tags": ["listening_idioms", "listening_detail"]
+    },
+    {
+      "id": "L505",
+      "sectionType": "listening",
+      "audioFile": "audio_l349.mp3",
+      "questionText": "What does the woman think about the proposal?",
+      "options": [
+        "It will easily be approved by the board.",
+        "It is highly unlikely to be approved due to financial losses.",
+        "The board has already miraculously approved it.",
+        "The deficit will actually help the proposal get approved."
+      ],
+      "answerIndex": 1,
+      "explanation": "Wanita tersebut menggunakan struktur negatif kondisional ('Not unless they miraculously overlook...'). Ia menyiratkan bahwa dewan direksi pasti akan melihat defisit yang besar tersebut, sehingga proposal sangat tidak mungkin disetujui.",
+      "tags": ["listening_negative", "listening_inference"]
+    },
+    {
+      "id": "L506",
+      "sectionType": "listening",
+      "audioFile": "audio_l350.mp3",
+      "questionText": "What does the man suggest the woman do?",
+      "options": [
+        "Cancel the gala due to feeling overwhelmed.",
+        "Hire a new caterer for the event.",
+        "Assign some of her responsibilities to others.",
+        "Join the junior committee."
+      ],
+      "answerIndex": 2,
+      "explanation": "Pria itu memberikan saran ('Why don't you...') agar wanita tersebut mendelegasikan ('delegate') atau menyerahkan sebagian tugasnya kepada anggota komite junior agar tidak terlalu terbebani.",
+      "tags": ["listening_suggestion", "listening_detail"]
+    },
+    {
+      "id": "L507",
+      "sectionType": "listening",
+      "audioFile": "audio_l351.mp3",
+      "questionText": "What does the woman mean?",
+      "options": [
+        "She is deeply shocked by Sarah's decision.",
+        "Sarah's decision is completely understandable given her priorities.",
+        "Sarah accepted the job because it pays extremely well.",
+        "Sarah's family forced her to turn down the offer."
+      ],
+      "answerIndex": 1,
+      "explanation": "Frasa 'hardly comes as a shock' berarti tidak mengejutkan sama sekali. Sarah sangat menghargai kedekatannya ('proximity') dengan keluarga, jadi menolak pekerjaan yang menggiurkan di New York adalah hal yang wajar baginya.",
+      "tags": ["listening_inference", "listening_negative"]
+    },
+    {
+      "id": "L508",
+      "sectionType": "listening",
+      "audioFile": "audio_l352.mp3",
+      "questionText": "What is the man's point?",
+      "options": [
+        "The apartment is definitely too expensive to rent.",
+        "The high rent might be justified by the included perks.",
+        "They should look at apartments closer to the astronomy center.",
+        "He wants to keep looking for a cheaper place to live."
+      ],
+      "answerIndex": 1,
+      "explanation": "Pria itu mengakui bahwa sewa ('rent') sangat mahal ('astronomical'), namun ia meminta wanita itu mempertimbangkan ('factor in') bahwa utilitas (listrik/air) digratiskan dan jarak tempuh ke tempat kerja jauh lebih dekat, yang dapat membenarkan harga sewa tersebut.",
+      "tags": ["listening_inference", "listening_detail"]
+    },
+    {
+      "id": "L509",
+      "sectionType": "listening",
+      "audioFile": "audio_l353.mp3",
+      "questionText": "What does the woman advise the man to do?",
+      "options": [
+        "Buy a new pair of shoes instead of a car.",
+        "Sign the lease before the price goes up.",
+        "Delay his decision until the newer cars are available.",
+        "Hold the car for a month."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'If I were in your shoes' berarti 'jika saya berada di posisimu'. 'Hold off' adalah phrasal verb yang berarti menunda. Wanita itu menyarankan untuk menunda menandatangani kontrak sampai model mobil baru keluar.",
+      "tags": ["listening_suggestion", "listening_idioms"]
+    },
+    {
+      "id": "L510",
+      "sectionType": "listening",
+      "audioFile": "audio_l354.mp3",
+      "questionText": "What does the man mean?",
+      "options": [
+        "Their department was the only one that was rejected.",
+        "Almost all departments experienced funding rejections.",
+        "The committee gave them a difficult time, but approved the funds.",
+        "He expects the funding to arrive later this year."
+      ],
+      "answerIndex": 1,
+      "explanation": "Pria tersebut menyatakan 'hardly any of the departments got what they asked for'. 'Hardly any' bermakna 'hampir tidak ada'. Ini menyiratkan bahwa penolakan dana dialami oleh hampir seluruh departemen, bukan hanya departemen mereka.",
+      "tags": ["listening_negative", "listening_inference"]
+    },
+    {
+      "id": "L511",
+      "sectionType": "listening",
+      "audioFile": "audio_l355.mp3",
+      "questionText": "What does the woman imply?",
+      "options": [
+        "The manager will quickly fix the equipment.",
+        "Complaining is useless because the manager refuses to change.",
+        "She will go with the man to speak to the manager.",
+        "The equipment is set up in the wrong way."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'set in his ways' berarti seseorang yang sangat kaku dan menolak untuk berubah. Wanita itu menggunakan pertanyaan retoris ('What good would that do?') untuk menyiratkan bahwa mengeluh adalah hal yang sia-sia karena manajer tidak akan mendengarkan.",
+      "tags": ["listening_inference", "listening_idioms"]
+    },
+    {
+      "id": "L512",
+      "sectionType": "listening",
+      "audioFile": "audio_l356.mp3",
+      "questionText": "What does the man mean?",
+      "options": [
+        "He is going to miss his shift on Friday.",
+        "He does not want to work extra hours.",
+        "He gladly accepts the offer to work the woman's shift.",
+        "He missed the chance to ask for more hours."
+      ],
+      "answerIndex": 2,
+      "explanation": "Ini adalah bentuk *double negative* atau penolakan halus yang berarti persetujuan. 'I wouldn't miss the chance' berarti dia sangat tidak ingin melewatkan kesempatan itu, yang mengindikasikan bahwa dia bersedia mengambil sif wanita tersebut untuk mendapat bayaran tambahan.",
+      "tags": ["listening_inference", "listening_negative"]
+    },
+    {
+      "id": "L513",
+      "sectionType": "listening",
+      "audioFile": "audio_l357.mp3",
+      "questionText": "What does the woman suggest the man do?",
+      "options": [
+        "Cancel the workshop and build a new resume.",
+        "Find someone else to lead the workshop.",
+        "Continue with the plan to lead the workshop.",
+        "Take a second class on resume building."
+      ],
+      "answerIndex": 2,
+      "explanation": "Phrasal verb 'follow through with it' berarti menyelesaikan sesuatu yang sudah dimulai atau direncanakan. Wanita itu menyarankan agar pria tersebut tidak mundur karena itu akan bagus untuk resume-nya.",
+      "tags": ["listening_suggestion", "listening_idioms"]
+    },
+    {
+      "id": "L514",
+      "sectionType": "listening",
+      "audioFile": "audio_l358.mp3",
+      "questionText": "What can be inferred from the conversation?",
+      "options": [
+        "They are currently studying in the library.",
+        "The man disagrees with the woman's opinion of the lecture.",
+        "Both of them regret attending the boring lecture.",
+        "The woman knew the lecture would be tedious beforehand."
+      ],
+      "answerIndex": 2,
+      "explanation": "Wanita itu menggunakan *past unreal conditional* (Had I known...) yang berarti dia menyesal datang ke kuliah yang membosankan ('tedious') tersebut. Pria itu merespons dengan idiom 'You can say that again', yang merupakan ekspresi persetujuan kuat.",
+      "tags": ["listening_inference", "listening_agreement"]
+    },
+    {
+      "id": "L515",
+      "sectionType": "listening",
+      "audioFile": "audio_l359.mp3",
+      "questionText": "What does the woman mean?",
+      "options": [
+        "They need to work late into the night to finish.",
+        "They should save electricity by turning off the oil lamps.",
+        "The project deadline has been extended to next week.",
+        "It is impossible to finish the project on time."
+      ],
+      "answerIndex": 0,
+      "explanation": "Idiom 'burn the midnight oil' berarti bekerja atau belajar sampai larut malam. Wanita itu menyiratkan mereka bisa selesai tepat waktu hanya jika mereka bersedia lembur hingga larut.",
+      "tags": ["listening_idioms", "listening_inference"]
+    },
+    {
+      "id": "L516",
+      "sectionType": "listening",
+      "audioFile": "audio_l360.mp3",
+      "questionText": "What does the man imply?",
+      "options": [
+        "He barely sold his house.",
+        "Houses in the area are selling for less than their original price.",
+        "The housing market is slowly recovering.",
+        "Everyone is asking the same price for their houses."
+      ],
+      "answerIndex": 1,
+      "explanation": "Kata 'plummeting' berarti jatuh drastis. Pria itu mengkonfirmasinya dengan menggunakan kalimat pembatas negatif 'Barely a single house... sold for the asking price' (Hampir tidak ada satupun rumah yang terjual sesuai harga awal yang diminta), menyiratkan harga rumah turun drastis.",
+      "tags": ["listening_inference", "listening_negative"]
+    },
+    {
+      "id": "L517",
+      "sectionType": "listening",
+      "audioFile": "audio_l361.mp3",
+      "questionText": "What does the woman mean?",
+      "options": [
+        "She thinks the software is very logical.",
+        "She agrees that the instructions are extremely confusing.",
+        "She dropped the manual in the mud.",
+        "She wants the man to explain the software to her."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'wrap my head around' berarti memahami sesuatu. Idiom 'as clear as mud' adalah sarkasme yang berarti sama sekali tidak jelas atau sangat membingungkan. Frasa 'Tell me about it' menunjukkan persetujuan.",
+      "tags": ["listening_agreement", "listening_idioms"]
+    },
+    {
+      "id": "L518",
+      "sectionType": "listening",
+      "audioFile": "audio_l362.mp3",
+      "questionText": "What does the man suggest the woman do?",
+      "options": [
+        "Stand in line at the admissions office.",
+        "Drop out of the university.",
+        "Send a message or call the office to ask about her status.",
+        "Wait another month for a response."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'drop them a line' berarti mengirim pesan singkat, surat, atau email untuk menghubungi seseorang. Pria itu menyarankan wanita tersebut untuk proaktif menanyakan statusnya.",
+      "tags": ["listening_suggestion", "listening_idioms"]
+    },
+    {
+      "id": "L519",
+      "sectionType": "listening",
+      "audioFile": "audio_l363.mp3",
+      "questionText": "What does the woman say about Professor Grant?",
+      "options": [
+        "He brought the exams to the review session.",
+        "He thoroughly explained the midterm format.",
+        "He completely avoided discussing the test format.",
+        "He only mentioned the format once."
+      ],
+      "answerIndex": 2,
+      "explanation": "Ini adalah bentuk inversi negatif ('Never once did he bring it up'). Phrasal verb 'bring it up' berarti mengangkat sebuah topik. Wanita itu menyatakan bahwa profesor sama sekali tidak membicarakan format ujian tersebut.",
+      "tags": ["listening_negative", "listening_detail"]
+    },
+    {
+      "id": "L520",
+      "sectionType": "listening",
+      "audioFile": "audio_l364.mp3",
+      "questionText": "What happened to the marketing campaign?",
+      "options": [
+        "It was launched successfully on Monday.",
+        "It was delayed until the budget is secured.",
+        "It was entirely cancelled due to lack of funds.",
+        "The marketing team burned the proposals."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'put it on the back burner' berarti menunda sesuatu atau menganggapnya sebagai prioritas rendah untuk sementara waktu. Kampanye tersebut ditunda hingga pendanaannya disetujui.",
+      "tags": ["listening_idioms", "listening_detail"]
+    },
+    {
+      "id": "L521",
+      "sectionType": "listening",
+      "audioFile": "audio_l365.mp3",
+      "questionText": "What does the woman mean?",
+      "options": [
+        "She is eager to speak at the conference.",
+        "She has absolutely no desire to present.",
+        "She is slightly nervous but willing to try.",
+        "She doesn't think the crowd will be large."
+      ],
+      "answerIndex": 1,
+      "explanation": "Frasa negatif ganda/idiomatis 'couldn't be less inclined' berarti keengganannya sudah berada di tingkat paling bawah (maksimal). Ini menyiratkan bahwa dia sama sekali tidak ingin berbicara di depan kerumunan besar tersebut.",
+      "tags": ["listening_negative", "listening_inference"]
+    },
+    {
+      "id": "L522",
+      "sectionType": "listening",
+      "audioFile": "audio_l366.mp3",
+      "questionText": "What does the man imply about the caterers?",
+      "options": [
+        "They rarely require a deposit.",
+        "They usually finalize the menu early.",
+        "They are waiting for the payment to finalize the details.",
+        "They cancelled the reception."
+      ],
+      "answerIndex": 2,
+      "explanation": "Pria itu menggunakan inversi negatif 'Seldom do they...' (Jarang sekali mereka...). Maknanya adalah pihak katering tidak akan menyelesaikan pesanan (finalize) sebelum mereka menerima uang muka (upfront deposit).",
+      "tags": ["listening_inference", "listening_negative"]
+    },
+    {
+      "id": "L523",
+      "sectionType": "listening",
+      "audioFile": "audio_l367.mp3",
+      "questionText": "What does the woman mean?",
+      "options": [
+        "She wants to do the data entry for him.",
+        "She agrees that the task is incredibly frustrating.",
+        "She thinks the man should speak up more.",
+        "She is taking the data away from him."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'driving me up the wall' berarti membuat sangat frustrasi/marah. Wanita itu merespons dengan idiom 'You took the words right out of my mouth', yang merupakan ekspresi persetujuan total atas apa yang baru saja dikatakan pria itu.",
+      "tags": ["listening_agreement", "listening_idioms"]
+    },
+    {
+      "id": "L524",
+      "sectionType": "listening",
+      "audioFile": "audio_l368.mp3",
+      "questionText": "What happened to the man?",
+      "options": [
+        "He dropped the seminar.",
+        "He successfully enrolled in the class.",
+        "He was unable to register because there were no spots left.",
+        "He forgot his login credentials."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'full to the brim' bermakna penuh sesak atau sudah mencapai batas maksimal. Pria itu menyiratkan bahwa kelas tersebut sudah penuh saat ia masuk, sehingga ia gagal mendaftar.",
+      "tags": ["listening_detail", "listening_idioms"]
+    },
+    {
+      "id": "L525",
+      "sectionType": "listening",
+      "audioFile": "audio_l369.mp3",
+      "questionText": "What does the woman advise the man to do?",
+      "options": [
+        "Take the summer classes instead.",
+        "Look for a different internship.",
+        "Accept the internship offer without hesitation.",
+        "Wait for a better opportunity."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'jump at' berarti menerima sebuah tawaran atau kesempatan dengan sangat antusias dan tanpa ragu. Wanita itu menyarankan pria tersebut untuk mengambil kesempatan magang itu.",
+      "tags": ["listening_suggestion", "listening_idioms"]
+    },
+    {
+      "id": "L526",
+      "sectionType": "listening",
+      "audioFile": "audio_l370.mp3",
+      "questionText": "What does the man imply?",
+      "options": [
+        "They had plenty of time to go to New York.",
+        "He is very disappointed about the tickets.",
+        "Their lack of time makes not getting tickets acceptable.",
+        "They should buy tickets for a different day."
+      ],
+      "answerIndex": 2,
+      "explanation": "Frasa 'It's not as if we had the time...' menyiratkan bahwa seandainya mereka mendapatkan tiket pun, mereka tetap tidak punya waktu untuk pergi. Dengan kata lain, tidak mendapatkan tiket bukanlah masalah besar.",
+      "tags": ["listening_inference", "listening_negative"]
+    },
+    {
+      "id": "L527",
+      "sectionType": "listening",
+      "audioFile": "audio_l371.mp3",
+      "questionText": "What does the woman say about her presentation?",
+      "options": [
+        "It was a complete disaster.",
+        "She couldn't answer any of the questions.",
+        "It was generally successful despite some minor difficulties.",
+        "The board rejected her proposal outright."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'by and large' berarti secara umum atau pada dasarnya. Idiom 'got my point across' berarti berhasil mengkomunikasikan maksudnya. Meski ada kesulitan (stumbled), presentasinya secara umum berhasil.",
+      "tags": ["listening_inference", "listening_idioms"]
+    },
+    {
+      "id": "L528",
+      "sectionType": "listening",
+      "audioFile": "audio_l372.mp3",
+      "questionText": "Under what condition will the man buy the property?",
+      "options": [
+        "If the property price goes up.",
+        "If the interest rates stabilize or decrease.",
+        "If he can get a larger loan.",
+        "He will absolutely buy it regardless of the rates."
+      ],
+      "answerIndex": 1,
+      "explanation": "Pria itu menjawab 'Not if the interest rates keep skyrocketing' (Tidak jadi jika suku bunga terus melonjak). Artinya, dia hanya akan membeli jika suku bunganya tidak naik (stabil atau turun).",
+      "tags": ["listening_inference", "listening_negative"]
+    },
+    {
+      "id": "L529",
+      "sectionType": "listening",
+      "audioFile": "audio_l373.mp3",
+      "questionText": "What does the woman say about the committee?",
+      "options": [
+        "They have made a final decision.",
+        "They are avoiding the main issue and haven't decided yet.",
+        "They are working outside in the bushes.",
+        "They will announce the verdict in a few minutes."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'beating around the bush' berarti berputar-putar, menghindari pokok permasalahan, atau menunda-nunda mengambil keputusan yang pasti.",
+      "tags": ["listening_detail", "listening_idioms"]
+    },
+    {
+      "id": "L530",
+      "sectionType": "listening",
+      "audioFile": "audio_l374.mp3",
+      "questionText": "What does the man mean?",
+      "options": [
+        "She should report the discrepancies immediately.",
+        "She should avoid interfering and leave the situation alone.",
+        "She should wake up the manager.",
+        "She is going to lose her job regardless."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'let sleeping dogs lie' berarti menghindari campur tangan dalam suatu situasi agar tidak menimbulkan masalah baru. Pria itu menyarankan wanita tersebut untuk mengabaikan masalah itu demi mengamankan pekerjaannya.",
+      "tags": ["listening_suggestion", "listening_idioms"]
+    },
+    {
+      "id": "L531",
+      "sectionType": "listening",
+      "audioFile": "audio_l375.mp3",
+      "questionText": "What does the woman imply?",
+      "options": [
+        "The curriculum will be completely updated soon.",
+        "It is highly unlikely the committee will make major changes.",
+        "She expects the overhaul to happen today.",
+        "The committee is moving too fast with the updates."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'That'll be the day' digunakan untuk menyatakan bahwa sesuatu sangat kecil kemungkinannya untuk terjadi. Wanita tersebut menyiratkan bahwa komite sangat lamban (dragging their feet) dan tidak akan mungkin melakukan perombakan besar.",
+      "tags": ["listening_inference", "listening_idioms"]
+    },
+    {
+      "id": "L532",
+      "sectionType": "listening",
+      "audioFile": "audio_l376.mp3",
+      "questionText": "What does the man mean?",
+      "options": [
+        "He didn't try to submit the proposal at all.",
+        "He submitted the proposal exactly at noon.",
+        "A technical issue prevented him from submitting it on time.",
+        "He forgot the deadline for the grant proposal."
+      ],
+      "answerIndex": 2,
+      "explanation": "Ungkapan 'Not for lack of trying' berarti kegagalan tersebut bukan karena dia malas atau tidak berusaha, melainkan karena ada faktor eksternal di luar kendalinya, yaitu server yang rusak saat dia sedang mengunggah file.",
+      "tags": ["listening_inference", "listening_negative"]
+    },
+    {
+      "id": "L533",
+      "sectionType": "listening",
+      "audioFile": "audio_l377.mp3",
+      "questionText": "What does the woman suggest the man do?",
+      "options": [
+        "Take the job in Seattle immediately.",
+        "Get more sleep tonight so he isn't so tired.",
+        "Delay making his final decision until the next day.",
+        "Reject the offer and stay where he is."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'sleep on it' adalah sebuah saran untuk mengambil waktu ekstra, biasanya hingga keesokan harinya, untuk memikirkan sebuah keputusan besar sebelum memberikan jawaban pasti.",
+      "tags": ["listening_suggestion", "listening_idioms"]
+    },
+    {
+      "id": "L534",
+      "sectionType": "listening",
+      "audioFile": "audio_l378.mp3",
+      "questionText": "What does the man mean?",
+      "options": [
+        "He sings in the university choir.",
+        "He completely agrees because he is experiencing the exact same thing.",
+        "He thinks the woman is exaggerating her workload.",
+        "He wants to help the woman study for her classes."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'You're preaching to the choir' berarti setuju sepenuhnya dengan seseorang karena mereka memiliki pandangan atau pengalaman yang sama. Pria itu mengkonfirmasi dengan mengatakan ia bergadang tiga kali minggu ini.",
+      "tags": ["listening_agreement", "listening_idioms"]
+    },
+    {
+      "id": "L535",
+      "sectionType": "listening",
+      "audioFile": "audio_l379.mp3",
+      "questionText": "What does the woman say about the professor?",
+      "options": [
+        "He rarely provides information about the exam early.",
+        "He gave them a lot of clues during the lecture.",
+        "He will talk about the exam tomorrow.",
+        "He completely changed the format of the final exam."
+      ],
+      "answerIndex": 0,
+      "explanation": "Inversi negatif 'Seldom does he give away...' memberi penekanan bahwa sang profesor sangat jarang (seldom) memberikan petunjuk apa pun tentang ujian jauh-jauh hari sebelum minggu terakhir kelas.",
+      "tags": ["listening_negative", "listening_detail"]
+    },
+    {
+      "id": "L536",
+      "sectionType": "listening",
+      "audioFile": "audio_l380.mp3",
+      "questionText": "What does the man imply?",
+      "options": [
+        "He thinks the lecture will be cancelled due to the storm.",
+        "He is too afraid of the storm to leave his house.",
+        "He fully intends to attend the lecture despite the severe weather.",
+        "He is going to travel the world with Dr. Aris."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'I wouldn't miss it for the world' digunakan untuk mengekspresikan bahwa tidak ada hal apapun (termasuk badai) yang dapat menghalanginya untuk hadir. Ia pasti akan pergi ke kuliah tersebut.",
+      "tags": ["listening_inference", "listening_idioms"]
+    },
+    {
+      "id": "L537",
+      "sectionType": "listening",
+      "audioFile": "audio_l381.mp3",
+      "questionText": "What does the woman mean?",
+      "options": [
+        "Sarah is currently eating a large meal.",
+        "The man should report Sarah to the auditor immediately.",
+        "Sarah is extremely busy and the man shouldn't be offended.",
+        "Sarah intentionally ignored the budget problem."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'a lot on her plate' berarti sedang memikul tanggung jawab atau pekerjaan yang sangat banyak. Frasa 'don't take it to heart' menasihati pria itu agar tidak tersinggung oleh sikap Sarah yang mengabaikannya.",
+      "tags": ["listening_inference", "listening_idioms"]
+    },
+    {
+      "id": "L538",
+      "sectionType": "listening",
+      "audioFile": "audio_l382.mp3",
+      "questionText": "What does the man say about the suppliers?",
+      "options": [
+        "They were very helpful and accommodating.",
+        "They were completely uncooperative.",
+        "They offered a great alternative to the problem.",
+        "They accommodated all of their requests."
+      ],
+      "answerIndex": 1,
+      "explanation": "Frasa 'anything but accommodating' adalah struktur negatif yang berarti kebalikan dari akomodatif. Dengan kata lain, pemasok tersebut sama sekali tidak kooperatif atau tidak mau berkompromi.",
+      "tags": ["listening_negative", "listening_detail"]
+    },
+    {
+      "id": "L539",
+      "sectionType": "listening",
+      "audioFile": "audio_l383.mp3",
+      "questionText": "What does the woman imply?",
+      "options": [
+        "The man should fix the plumbing himself to save money.",
+        "Complaining could trigger a whole new set of complicated problems.",
+        "The landlord is going to evict the man.",
+        "The plumbing issues are actually caused by worms."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'opening a can of worms' berarti melakukan suatu tindakan yang tampaknya sederhana namun pada akhirnya memicu masalah baru yang jauh lebih rumit dan merepotkan (seperti kenaikan harga sewa).",
+      "tags": ["listening_inference", "listening_idioms"]
+    },
+    {
+      "id": "L540",
+      "sectionType": "listening",
+      "audioFile": "audio_l384.mp3",
+      "questionText": "What can be inferred about the woman?",
+      "options": [
+        "She is glad she enrolled in the language course.",
+        "She regrets her decision to take the intensive course.",
+        "She plans to drop out of the class immediately.",
+        "She thinks the course material is too easy for her."
+      ],
+      "answerIndex": 1,
+      "explanation": "Penggunaan struktur kalimat kondisional masa lalu 'If only I had known... I wouldn't have enrolled' (Seandainya saja saya tahu... saya tidak akan mendaftar) menunjukkan penyesalan yang kuat atas keputusannya mengambil kelas yang ternyata sangat berat tersebut.",
+      "tags": ["listening_inference", "listening_negative"]
+    },
+    {
+      "id": "L541",
+      "sectionType": "listening",
+      "audioFile": "audio_l385.mp3",
+      "questionText": "What does the woman imply?",
+      "options": [
+        "The board has already approved the project.",
+        "The board will likely reject the project to save money.",
+        "The board wants to expand the corners of the building.",
+        "The project will be approved by the end of the quarter."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'green-light' berarti menyetujui, dan 'cut corners' berarti menghemat uang (seringkali dengan mengurangi kualitas atau prosedur). Kata 'Hardly' bermakna 'sangat tidak mungkin'. Wanita itu menyiratkan dewan direksi kemungkinan besar akan menolaknya karena mereka sedang berhemat.",
+      "tags": ["listening_inference", "listening_negative", "listening_idioms"]
+    },
+    {
+      "id": "L542",
+      "sectionType": "listening",
+      "audioFile": "audio_l386.mp3",
+      "questionText": "What does the man offer to do?",
+      "options": [
+        "Help the woman find her lost glasses.",
+        "Attempt to balance the ledger himself.",
+        "Take a break and rest his eyes.",
+        "Report the accounting error to the manager."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'at my wit's end' berarti sangat kebingungan/frustrasi. Pria itu merespons dengan idiom 'take a crack at it', yang berarti menawarkan diri untuk mencoba menyelesaikannya. 'A fresh pair of eyes' merujuk pada sudut pandang orang lain yang baru melihat masalah tersebut.",
+      "tags": ["listening_suggestion", "listening_idioms"]
+    },
+    {
+      "id": "L543",
+      "sectionType": "listening",
+      "audioFile": "audio_l387.mp3",
+      "questionText": "What does the woman mean?",
+      "options": [
+        "She wants the man to tell her more about the speaker.",
+        "She strongly agrees that the late cancellation was highly problematic.",
+        "She managed to fix the clock before the eleventh hour.",
+        "She is unaware that the speaker cancelled."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'at the eleventh hour' berarti di menit-menit terakhir. 'Tell me about it' adalah ekspresi persetujuan yang sangat kuat. Wanita tersebut setuju bahwa itu menyusahkan karena mereka harus terburu-buru (scramble) mencari pengganti.",
+      "tags": ["listening_agreement", "listening_idioms"]
+    },
+    {
+      "id": "L544",
+      "sectionType": "listening",
+      "audioFile": "audio_l388.mp3",
+      "questionText": "What does the man say about the landlord?",
+      "options": [
+        "He completely ignored the man's complaint.",
+        "He has never been defensive before.",
+        "He reacted unusually defensively but agreed to fix the roof.",
+        "He refused to hire a contractor until Friday."
+      ],
+      "answerIndex": 2,
+      "explanation": "Pria itu menggunakan inversi negatif 'Rarely have I seen him so defensive', yang menyiratkan bahwa respons defensif dari pemilik rumah itu tidak biasa. Meskipun begitu, ia tetap berjanji untuk mengirimkan kontraktor.",
+      "tags": ["listening_detail", "listening_negative"]
+    },
+    {
+      "id": "L545",
+      "sectionType": "listening",
+      "audioFile": "audio_l389.mp3",
+      "questionText": "What does the woman imply the man should have done?",
+      "options": [
+        "He should have bought eggs at the market.",
+        "He should have prepared a backup plan instead of relying solely on an extension.",
+        "He should have asked Professor Clark earlier.",
+        "He should have refused to write the term paper."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'put all your eggs in one basket' berarti mempertaruhkan segalanya pada satu kemungkinan. Wanita itu menyiratkan pria tersebut salah karena hanya mengandalkan perpanjangan waktu tanpa menyiapkan rencana cadangan (seperti mencoba menyelesaikannya tepat waktu).",
+      "tags": ["listening_inference", "listening_idioms"]
+    },
+    {
+      "id": "L546",
+      "sectionType": "listening",
+      "audioFile": "audio_l390.mp3",
+      "questionText": "What does the man imply?",
+      "options": [
+        "They absolutely must hire the director despite the tight budget.",
+        "They cannot afford to hire anyone right now.",
+        "He disagrees with the woman about the budget.",
+        "The marketing director wants a very high salary."
+      ],
+      "answerIndex": 0,
+      "explanation": "Pria itu menggunakan *double negative* 'can't afford not to', yang bermakna sesuatu itu sangat penting atau wajib dilakukan demi kelangsungan bisnis, terlepas dari biaya atau kendala anggaran.",
+      "tags": ["listening_inference", "listening_negative"]
+    },
+    {
+      "id": "L547",
+      "sectionType": "listening",
+      "audioFile": "audio_l391.mp3",
+      "questionText": "What had the woman assumed about the man?",
+      "options": [
+        "She assumed he was the one who cancelled the negotiations.",
+        "She assumed he was completely unaware of the situation.",
+        "She assumed he was working on the merger.",
+        "She assumed he was trapped in a loop."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'out of the loop' berarti tidak diberi informasi atau tidak mengetahui berita terbaru. Karena wanita itu berkata 'So you're not out of the loop after all' (Jadi kamu tidak ketinggalan berita pada akhirnya), itu berarti sebelumnya ia berasumsi pria tersebut tidak tahu apa-apa.",
+      "tags": ["listening_inference", "listening_negative", "listening_idioms"]
+    },
+    {
+      "id": "L548",
+      "sectionType": "listening",
+      "audioFile": "audio_l392.mp3",
+      "questionText": "What does the man mean?",
+      "options": [
+        "He disagrees and needs the answer immediately.",
+        "He wants her to mull the answer on Monday.",
+        "He has absolutely no objection to her taking more time to decide.",
+        "He doesn't care about her final answer."
+      ],
+      "answerIndex": 2,
+      "explanation": "Frasa 'By all means' adalah ekspresi persetujuan penuh. Phrasal verb 'hold off' berarti menunda, dan 'mull it over' berarti memikirkan baik-baik. Pria itu mempersilakan wanita tersebut untuk mengambil waktu sepuasnya.",
+      "tags": ["listening_agreement", "listening_idioms"]
+    },
+    {
+      "id": "L549",
+      "sectionType": "listening",
+      "audioFile": "audio_l393.mp3",
+      "questionText": "What does the woman mean?",
+      "options": [
+        "The team needs to swallow their medicine.",
+        "It's a tough reality to accept, but they must move forward.",
+        "She is going to complain to the committee.",
+        "The presentation was extremely bad."
+      ],
+      "answerIndex": 1,
+      "explanation": "Pria itu menggunakan inversi 'Not once did the committee acknowledge...' (Tidak sekalipun komite mengakui...). Wanita tersebut membalas dengan idiom 'bitter pill to swallow', yang berarti kenyataan tidak menyenangkan yang harus diterima, dan menyarankan untuk fokus pada proyek berikutnya.",
+      "tags": ["listening_inference", "listening_idioms"]
+    },
+    {
+      "id": "L550",
+      "sectionType": "listening",
+      "audioFile": "audio_l394.mp3",
+      "questionText": "What can be inferred from the conversation?",
+      "options": [
+        "The woman loves her new position.",
+        "The man thinks the woman should quit her job immediately.",
+        "The woman deeply regrets accepting the job due to the terrible commute.",
+        "The woman is having a second interview."
+      ],
+      "answerIndex": 2,
+      "explanation": "Wanita tersebut menggunakan *past unreal conditional* ('If I had known... I would never have accepted') yang menunjukkan penyesalan mendalam ('regret') atas keputusannya karena perjalanan ke tempat kerja (commute) ternyata sangat melelahkan (grueling).",
+      "tags": ["listening_inference", "listening_negative"]
+    },
+    {
+      "id": "L551",
+      "sectionType": "listening",
+      "audioFile": "audio_l395.mp3",
+      "questionText": "What does the woman mean?",
+      "options": [
+        "She will ask the board for an extension outside.",
+        "The deadline can still be negotiated.",
+        "Asking for more time is completely impossible.",
+        "The board wants the project carved in stone."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'out of the question' berarti sesuatu sama sekali tidak mungkin atau tidak diizinkan. 'Set in stone' berarti sesuatu sudah final dan tidak bisa diubah. Wanita itu menyiratkan bahwa meminta perpanjangan waktu adalah hal yang mustahil.",
+      "tags": ["listening_idioms", "listening_inference"]
+    },
+    {
+      "id": "L552",
+      "sectionType": "listening",
+      "audioFile": "audio_l396.mp3",
+      "questionText": "What does the man imply?",
+      "options": [
+        "The woman should have read the instructions.",
+        "The software is completely broken.",
+        "He will help the woman read the notes.",
+        "The release notes are confusing."
+      ],
+      "answerIndex": 0,
+      "explanation": "Pria itu menggunakan struktur past unreal conditional dengan inversi ('Had you read...' = 'If you had read...'). Ia menyiratkan bahwa wanita itu berada dalam masalah (predicament) karena dia tidak membaca catatan rilis (release notes) sebelumnya.",
+      "tags": ["listening_inference", "listening_suggestion"]
+    },
+    {
+      "id": "L553",
+      "sectionType": "listening",
+      "audioFile": "audio_l397.mp3",
+      "questionText": "What does the woman mean?",
+      "options": [
+        "The speaker was hitting a nail with a hammer.",
+        "She completely agrees with the man's assessment.",
+        "She thinks the presentation was organized very well.",
+        "She got a headache during the presentation."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'hit the nail right on the head' digunakan untuk menyatakan bahwa perkataan seseorang sangat tepat dan akurat. Ini adalah ekspresi persetujuan yang kuat terhadap keluhan pria tersebut.",
+      "tags": ["listening_agreement", "listening_idioms"]
+    },
+    {
+      "id": "L554",
+      "sectionType": "listening",
+      "audioFile": "audio_l398.mp3",
+      "questionText": "What does the man mean?",
+      "options": [
+        "The strategy will definitely not alienate anyone.",
+        "There is a good chance the strategy will push away their main customers.",
+        "He dislikes the new demographic.",
+        "It is impossible to shift their brand image."
+      ],
+      "answerIndex": 1,
+      "explanation": "Pria itu menggunakan double negative 'not unlikely' yang bermakna 'sangat mungkin' (likely). Dia mengonfirmasi kekhawatiran wanita tersebut bahwa strategi baru kemungkinan besar akan mengasingkan pelanggan utama mereka.",
+      "tags": ["listening_negative", "listening_inference"]
+    },
+    {
+      "id": "L555",
+      "sectionType": "listening",
+      "audioFile": "audio_l399.mp3",
+      "questionText": "What is the woman's concern?",
+      "options": [
+        "The man is losing weight.",
+        "The man is not taking enough courses.",
+        "The man is taking on too many responsibilities at once.",
+        "The man is spreading butter too thinly."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'spreading yourself too thin' berarti seseorang mengambil terlalu banyak pekerjaan atau tanggung jawab pada saat yang bersamaan sehingga tidak bisa menanganinya dengan maksimal.",
+      "tags": ["listening_idioms", "listening_suggestion"]
+    },
+    {
+      "id": "L556",
+      "sectionType": "listening",
+      "audioFile": "audio_l400.mp3",
+      "questionText": "What does the man say about the landlord?",
+      "options": [
+        "He will fix the roof immediately.",
+        "He absolutely refuses to make repairs right now.",
+        "He doesn't understand the circumstances.",
+        "He is going to renew the lease himself."
+      ],
+      "answerIndex": 1,
+      "explanation": "Penggunaan frasa negatif di awal kalimat ('Under no circumstances') memicu inversi ('will he pay'). Ini adalah bentuk penolakan mutlak; pemilik rumah sama sekali tidak mau membayar perbaikan sampai kontrak sewa diperbarui.",
+      "tags": ["listening_negative", "listening_detail"]
+    },
+    {
+      "id": "L557",
+      "sectionType": "listening",
+      "audioFile": "audio_l401.mp3",
+      "questionText": "What does the woman imply about the merger?",
+      "options": [
+        "It was successfully finalized.",
+        "It will be signed in the air.",
+        "The situation is currently unresolved due to unexpected problems.",
+        "The negotiations will happen on an airplane."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'hit a snag' berarti menemui masalah/kendala yang tidak terduga. Idiom 'up in the air' berarti sesuatu masih belum pasti atau belum diputuskan. Wanita itu menyiratkan proses merger sedang tertunda.",
+      "tags": ["listening_inference", "listening_idioms"]
+    },
+    {
+      "id": "L558",
+      "sectionType": "listening",
+      "audioFile": "audio_l402.mp3",
+      "questionText": "What does the man mean?",
+      "options": [
+        "He disagrees completely with the woman.",
+        "He thinks they should cut costs regardless of quality.",
+        "He shares the woman's opinion entirely.",
+        "He cannot understand the woman's point."
+      ],
+      "answerIndex": 2,
+      "explanation": "Frasa 'I couldn't agree with you more' adalah ekspresi persetujuan maksimal, yang menggunakan kata negatif ('couldn't') untuk memberikan penekanan positif yang kuat (sangat setuju).",
+      "tags": ["listening_agreement", "listening_negative"]
+    },
+    {
+      "id": "L559",
+      "sectionType": "listening",
+      "audioFile": "audio_l403.mp3",
+      "questionText": "What does the woman imply?",
+      "options": [
+        "The cab driver caused them to miss the train.",
+        "They are still stuck in traffic.",
+        "The cab driver's knowledge helped them avoid missing the train.",
+        "She knew the back routes better than the driver."
+      ],
+      "answerIndex": 2,
+      "explanation": "Frasa kondisional 'If it hadn't been for...' (Seandainya bukan karena...) menyiratkan bahwa tindakan sopir taksi tersebutlah yang menyelamatkan mereka dari kemacetan, sehingga mereka berhasil mengejar kereta.",
+      "tags": ["listening_inference", "listening_detail"]
+    },
+    {
+      "id": "L560",
+      "sectionType": "listening",
+      "audioFile": "audio_l404.mp3",
+      "questionText": "What does the man suggest?",
+      "options": [
+        "They should stop working for the day and rest.",
+        "They should call someone to help them.",
+        "They should crunch numbers until tomorrow.",
+        "They should change the lighting in the room."
+      ],
+      "answerIndex": 0,
+      "explanation": "Idiom 'call it a day' berarti menghentikan aktivitas atau pekerjaan pada hari itu. 'Fresh eyes' berarti melihat kembali masalah tersebut setelah beristirahat.",
+      "tags": ["listening_suggestion", "listening_idioms"]
+    },
+    {
+      "id": "L561",
+      "sectionType": "listening",
+      "audioFile": "audio_l405.mp3",
+      "questionText": "What does the man mean?",
+      "options": [
+        "The committee has almost finished the shortlist.",
+        "The committee is nowhere near finished with the process.",
+        "The screening process was very short.",
+        "Someone took a shot at the committee."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'not by a long shot' berarti sama sekali tidak, atau masih sangat jauh dari selesai. 'Bogged down' berarti terjebak atau terhambat. Pria itu menyiratkan komite masih tertahan di tahap awal dan jauh dari kata selesai.",
+      "tags": ["listening_idioms", "listening_inference"]
+    },
+    {
+      "id": "L562",
+      "sectionType": "listening",
+      "audioFile": "audio_l406.mp3",
+      "questionText": "What does the woman imply?",
+      "options": [
+        "The man should sell his visual aids.",
+        "The man is not prepared for the presentation.",
+        "The man is underestimating his own abilities.",
+        "The man should use shorter visual aids."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'don't sell yourself short' berarti jangan meremehkan diri sendiri. Idiom 'inside and out' berarti mengetahui sesuatu dengan sangat mendalam. Wanita itu meyakinkan pria tersebut bahwa ia mampu karena ia sangat menguasai materinya.",
+      "tags": ["listening_suggestion", "listening_idioms"]
+    },
+    {
+      "id": "L563",
+      "sectionType": "listening",
+      "audioFile": "audio_l407.mp3",
+      "questionText": "What does the man say about the file?",
+      "options": [
+        "He saw it on her desk.",
+        "He put it nowhere near her desk.",
+        "He definitely did not see it on her desk.",
+        "He doesn't know where the desk is."
+      ],
+      "answerIndex": 2,
+      "explanation": "Pria itu menggunakan inversi negatif 'Nowhere did I see it...' untuk memberikan penekanan kuat bahwa ia sama sekali tidak melihat file tersebut di meja wanita itu.",
+      "tags": ["listening_negative", "listening_detail"]
+    },
+    {
+      "id": "L564",
+      "sectionType": "listening",
+      "audioFile": "audio_l408.mp3",
+      "questionText": "What does the woman mean?",
+      "options": [
+        "She needs to buy more straws.",
+        "The tax hike is the final unacceptable event.",
+        "She supports the city council's decision.",
+        "She is building a house in the suburbs."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'that's the last straw' merujuk pada rentetan kejadian buruk yang akhirnya mencapai batas toleransi seseorang, sehingga memicu tindakan (dalam hal ini, memutuskan untuk pindah).",
+      "tags": ["listening_inference", "listening_idioms"]
+    },
+    {
+      "id": "L565",
+      "sectionType": "listening",
+      "audioFile": "audio_l409.mp3",
+      "questionText": "What happened to the meeting?",
+      "options": [
+        "It was held at the downtown office.",
+        "The client called to confirm the time.",
+        "It was cancelled shortly before it was supposed to happen.",
+        "It was moved to a different location."
+      ],
+      "answerIndex": 2,
+      "explanation": "Phrasal verb 'called it off' berarti membatalkan. Idiom 'at the last minute' berarti di saat-saat terakhir. Pertemuan tersebut dibatalkan sesaat sebelum waktu pelaksanaannya.",
+      "tags": ["listening_detail", "listening_idioms"]
+    },
+    {
+      "id": "L566",
+      "sectionType": "listening",
+      "audioFile": "audio_l410.mp3",
+      "questionText": "What can be inferred from the conversation?",
+      "options": [
+        "The drop in temperature improved the crop yield.",
+        "The farmers had an exceptionally good harvest.",
+        "The sudden cold weather negatively impacted the crops.",
+        "The farmers took a break during the cold weather."
+      ],
+      "answerIndex": 2,
+      "explanation": "Pria itu menggunakan past unreal conditional 'If it weren't for... the crop yield would have been exceptional'. Ini menyiratkan kenyataan sebaliknya: karena ada penurunan suhu tiba-tiba, hasil panen menjadi tidak bagus (gagal panen).",
+      "tags": ["listening_inference", "listening_negative"]
+    },
+    {
+      "id": "L567",
+      "sectionType": "listening",
+      "audioFile": "audio_l411.mp3",
+      "questionText": "What does the man offer to do?",
+      "options": [
+        "Stab the lab equipment.",
+        "Attempt to operate the equipment.",
+        "Return the equipment to his previous job.",
+        "Read the instructions aloud."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'take a stab at it' berarti mencoba melakukan sesuatu, seringkali tanpa kepastian akan berhasil. Pria itu menawarkan diri untuk mencoba mengoperasikan alat tersebut berdasarkan pengalamannya.",
+      "tags": ["listening_suggestion", "listening_idioms"]
+    },
+    {
+      "id": "L568",
+      "sectionType": "listening",
+      "audioFile": "audio_l412.mp3",
+      "questionText": "What does the woman advise the man?",
+      "options": [
+        "Not to hold his breath during the exam.",
+        "To expect the professor to curve the grades.",
+        "Not to expect the professor to be lenient with the grades.",
+        "To ask the professor to teach for more years."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'I wouldn't hold my breath' digunakan untuk menyarankan seseorang agar tidak terlalu mengharapkan sesuatu terjadi, karena kemungkinannya sangat kecil. Wanita itu menyarankan pria tersebut untuk tidak berharap nilainya akan dikatrol (curved).",
+      "tags": ["listening_suggestion", "listening_idioms"]
+    },
+    {
+      "id": "L569",
+      "sectionType": "listening",
+      "audioFile": "audio_l413.mp3",
+      "questionText": "What does the man mean?",
+      "options": [
+        "He wants the woman to repeat what she said.",
+        "He completely agrees that the software is problematic.",
+        "He hasn't experienced any computer crashes.",
+        "He thinks the software update was beneficial."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'You can say that again' adalah bentuk persetujuan yang sangat kuat. Pria itu sangat setuju bahwa pembaruan perangkat lunak tersebut menyebabkan masalah karena komputernya terus mengalami *crash*.",
+      "tags": ["listening_agreement", "listening_idioms"]
+    },
+    {
+      "id": "L570",
+      "sectionType": "listening",
+      "audioFile": "audio_l414.mp3",
+      "questionText": "What does the woman imply?",
+      "options": [
+        "She is glad the renovations are taking a long time.",
+        "She expects to have a great place to study soon.",
+        "She has given up hope of using the student union to study this semester.",
+        "She will help renovate the student union."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'So much for...' digunakan untuk mengekspresikan kekecewaan karena suatu rencana atau harapan telah gagal atau tidak bisa terwujud. Wanita itu menyiratkan harapannya untuk belajar di sana semester ini telah pupus.",
+      "tags": ["listening_inference", "listening_idioms"]
+    },
+    {
+      "id": "L571",
+      "sectionType": "listening",
+      "audioFile": "audio_l415.mp3",
+      "questionText": "What does the woman imply?",
+      "options": [
+        "They presented the projections very clearly.",
+        "The board did not read the financial projections.",
+        "Their unclear presentation caused the proposal's rejection.",
+        "They should have rejected the board's proposal."
+      ],
+      "answerIndex": 2,
+      "explanation": "Wanita tersebut menggunakan kalimat pengandaian masa lalu dengan inversi ('Had we presented...' yang berarti 'If we had presented...'). Ini menyiratkan kenyataan yang sebaliknya: karena presentasi proyeksi keuangan mereka kurang jelas, proposal mereka ditolak dan mereka berada dalam masalah.",
+      "tags": ["listening_inference", "listening_negative"]
+    },
+    {
+      "id": "L572",
+      "sectionType": "listening",
+      "audioFile": "audio_l416.mp3",
+      "questionText": "What does the man mean?",
+      "options": [
+        "He will gladly take over the orientation.",
+        "He is too busy to help the woman.",
+        "He wants to stretch before the orientation.",
+        "He thinks the new hires are too thin."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'stretched pretty thin' berarti seseorang mengambil terlalu banyak pekerjaan atau tanggung jawab sehingga sangat sibuk dan kewalahan. Pria itu menolak permintaan wanita tersebut secara halus karena ia sendiri terlalu sibuk.",
+      "tags": ["listening_idioms", "listening_inference"]
+    },
+    {
+      "id": "L573",
+      "sectionType": "listening",
+      "audioFile": "audio_l417.mp3",
+      "questionText": "What does the woman mean?",
+      "options": [
+        "She wants the man to stop talking.",
+        "She agrees completely with the man's observation.",
+        "She took the man's software manual.",
+        "She thinks the software is working perfectly."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'took the words right out of my mouth' digunakan ketika seseorang baru saja mengatakan apa yang sebenarnya ingin kita katakan. Ini adalah ekspresi persetujuan yang sangat kuat (strong agreement).",
+      "tags": ["listening_agreement", "listening_idioms"]
+    },
+    {
+      "id": "L574",
+      "sectionType": "listening",
+      "audioFile": "audio_l418.mp3",
+      "questionText": "What does the man say about the professor?",
+      "options": [
+        "He clearly explained the format of the exam.",
+        "He pointed to the exam format on the board.",
+        "He never mentioned the format of the exam at all.",
+        "He said the exam would definitely be open-book."
+      ],
+      "answerIndex": 2,
+      "explanation": "Pria itu menggunakan inversi negatif 'At no point did he...' (Tidak pada satu titik pun dia...). Kata 'allude' berarti menyebutkan secara tidak langsung. Jadi, sang profesor sama sekali tidak pernah membahas format ujian tersebut.",
+      "tags": ["listening_negative", "listening_detail"]
+    },
+    {
+      "id": "L575",
+      "sectionType": "listening",
+      "audioFile": "audio_l419.mp3",
+      "questionText": "What does the woman suggest the man do?",
+      "options": [
+        "Drop the class and throw away his towel.",
+        "Persist with the class and study with others.",
+        "Talk to the professor about the advanced physics class.",
+        "Find a new study group."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'throw in the towel' berarti menyerah. Wanita itu menyarankan 'I wouldn't throw in the towel just yet' (Saya tidak akan menyerah dulu jika jadi kamu) dan menyarankannya untuk bergabung dengan kelompok belajar agar bisa bertahan di kelas tersebut.",
+      "tags": ["listening_suggestion", "listening_idioms"]
+    },
+    {
+      "id": "L576",
+      "sectionType": "listening",
+      "audioFile": "audio_l420.mp3",
+      "questionText": "What does the man imply about the apartment?",
+      "options": [
+        "It is too expensive and has no benefits.",
+        "It doesn't have a gym or parking area.",
+        "The high cost is somewhat justified by the included amenities.",
+        "He does not want to rent the apartment."
+      ],
+      "answerIndex": 2,
+      "explanation": "Pria itu menggunakan *double negative* 'not without its perks' (bukan tanpa keuntungan). Ia menyiratkan bahwa meskipun sewanya mahal (steep), fasilitas tambahan (perks) seperti parkir dan gym membuat apartemen tersebut sepadan.",
+      "tags": ["listening_inference", "listening_negative"]
+    },
+    {
+      "id": "L577",
+      "sectionType": "listening",
+      "audioFile": "audio_l421.mp3",
+      "questionText": "What does the woman say about the funding?",
+      "options": [
+        "It was approved on Tuesday.",
+        "The decision is still undecided.",
+        "The committee threw the proposal in the air.",
+        "It was definitely rejected."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'up in the air' berarti suatu rencana atau keputusan masih belum pasti atau belum diputuskan. Wanita itu menyatakan bahwa komite baru akan rapat hari Selasa depan.",
+      "tags": ["listening_idioms", "listening_detail"]
+    },
+    {
+      "id": "L578",
+      "sectionType": "listening",
+      "audioFile": "audio_l422.mp3",
+      "questionText": "What does the man suggest they do?",
+      "options": [
+        "Leave the office at five o'clock.",
+        "Work intensely and persistently to finish the task.",
+        "Turn off the power in the office.",
+        "Fasten their seatbelts."
+      ],
+      "answerIndex": 1,
+      "explanation": "Phrasal verb 'buckle down' berarti mulai bekerja keras dan fokus, sedangkan 'power through' berarti terus melakukan sesuatu meskipun sulit atau melelahkan. Pria itu menyarankan agar mereka fokus dan bekerja keras menyelesaikannya.",
+      "tags": ["listening_suggestion", "listening_idioms"]
+    },
+    {
+      "id": "L579",
+      "sectionType": "listening",
+      "audioFile": "audio_l423.mp3",
+      "questionText": "What does the woman imply about Sarah?",
+      "options": [
+        "She will definitely decline the job offer.",
+        "She is excited to travel to Tokyo.",
+        "She will accept the job in a million years.",
+        "She has never been to Tokyo."
+      ],
+      "answerIndex": 0,
+      "explanation": "Idiom 'Not in a million years' adalah bentuk penolakan atau ketidakmungkinan yang sangat kuat. Wanita itu menyiratkan bahwa Sarah sama sekali tidak akan menerima posisi tersebut karena dia benci bepergian.",
+      "tags": ["listening_negative", "listening_inference"]
+    },
+    {
+      "id": "L580",
+      "sectionType": "listening",
+      "audioFile": "audio_l424.mp3",
+      "questionText": "What does the man mean?",
+      "options": [
+        "He wants to give a speech too.",
+        "He entirely agrees with the woman's opinion.",
+        "He thinks the speech was boring.",
+        "He captured a video of the audience."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'I'll say!' adalah ekspresi bahasa lisan yang digunakan untuk menunjukkan persetujuan yang sangat antusias dengan pernyataan lawan bicara. Pria itu sangat setuju bahwa pidato CEO sangat menginspirasi.",
+      "tags": ["listening_agreement", "listening_idioms"]
+    },
+    {
+      "id": "L581",
+      "sectionType": "listening",
+      "audioFile": "audio_l425.mp3",
+      "questionText": "What does the woman mean?",
+      "options": [
+        "She supports the mayor's budget plan.",
+        "She alone understands the mayor's strategy.",
+        "She agrees that the mayor's expectation is unrealistic.",
+        "She dreams of becoming the mayor."
+      ],
+      "answerIndex": 2,
+      "explanation": "Frasa 'You're not the only one' menunjukkan persetujuan. Idiom 'pipe dream' berarti sebuah harapan atau rencana yang mustahil untuk diwujudkan. Wanita itu setuju dengan pria tersebut bahwa rencana sang wali kota sangat tidak realistis.",
+      "tags": ["listening_agreement", "listening_idioms", "listening_negative"]
+    },
+    {
+      "id": "L582",
+      "sectionType": "listening",
+      "audioFile": "audio_l426.mp3",
+      "questionText": "What does the man imply about the director?",
+      "options": [
+        "He rarely enforces the dress code.",
+        "He is highly unlikely to make an exception.",
+        "He frequently changes his mind.",
+        "He is going to bend down."
+      ],
+      "answerIndex": 1,
+      "explanation": "Pria itu menggunakan inversi negatif 'Seldom, if ever, does he bend the rules'. Idiom 'bend the rules' berarti memberikan pengecualian atau kelonggaran. Kalimat ini menyiratkan bahwa sang direktur hampir tidak pernah melonggarkan aturannya untuk siapa pun.",
+      "tags": ["listening_inference", "listening_negative"]
+    },
+    {
+      "id": "L583",
+      "sectionType": "listening",
+      "audioFile": "audio_l427.mp3",
+      "questionText": "What can be inferred about the woman?",
+      "options": [
+        "She watched the finale while working.",
+        "She missed the show because she was extremely busy.",
+        "She buried the paperwork under the TV.",
+        "She didn't want to watch the show."
+      ],
+      "answerIndex": 1,
+      "explanation": "Penggunaan past unreal conditional (pengandaian masa lalu) dengan inversi 'Had I not been buried...' (Seandainya saya tidak tertimbun...) menyiratkan kenyataan sebaliknya: dia sangat sibuk dengan pekerjaannya sehingga dia terpaksa melewatkan acara tersebut, meskipun dia sangat ingin menontonnya.",
+      "tags": ["listening_inference", "listening_idioms"]
+    },
+    {
+      "id": "L584",
+      "sectionType": "listening",
+      "audioFile": "audio_l428.mp3",
+      "questionText": "What does the man advise the woman to do?",
+      "options": [
+        "Ask the firm for a higher stipend.",
+        "Look for a different firm in Paris.",
+        "Accept the internship for its long-term career benefits.",
+        "Paint a bigger picture of the door."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'getting your foot in the door' berarti mendapatkan peluang awal atau pijakan pertama di sebuah organisasi/perusahaan. Pria itu menyarankan wanita tersebut untuk melihat jangka panjang ('big picture') dan menerima magang tersebut demi keuntungan kariernya di masa depan.",
+      "tags": ["listening_suggestion", "listening_idioms"]
+    },
+    {
+      "id": "L585",
+      "sectionType": "listening",
+      "audioFile": "audio_l429.mp3",
+      "questionText": "What does the woman mean?",
+      "options": [
+        "The report was destroyed by boiling water.",
+        "The committee lost the proposal.",
+        "The main reason for rejection was insufficient evidence.",
+        "She doesn't understand the committee's decision either."
+      ],
+      "answerIndex": 2,
+      "explanation": "Phrasal verb 'boils down to' berarti alasan atau elemen yang paling mendasar dari sebuah situasi. Wanita itu menjelaskan bahwa alasan utama penolakan komite adalah kurangnya data yang konkret di laporan awal mereka.",
+      "tags": ["listening_detail", "listening_idioms"]
+    },
+    {
+      "id": "L586",
+      "sectionType": "listening",
+      "audioFile": "audio_l430.mp3",
+      "questionText": "What does the man imply?",
+      "options": [
+        "The professor is famous for being very kind.",
+        "The deadline will definitely be extended.",
+        "The woman should expect the professor to be strict.",
+        "He doesn't know the professor very well."
+      ],
+      "answerIndex": 2,
+      "explanation": "Pria itu menggunakan *litotes* (pernyataan negatif yang ironis) 'not exactly known for his leniency' yang berarti profesor tersebut sangat ketat dan tidak mudah memberikan kelonggaran (leniency). Ia menyiratkan agar wanita itu tidak berharap banyak pada perpanjangan waktu.",
+      "tags": ["listening_inference", "listening_negative"]
+    },
+    {
+      "id": "L587",
+      "sectionType": "listening",
+      "audioFile": "audio_l431.mp3",
+      "questionText": "What does the woman imply the man should do?",
+      "options": [
+        "Buy more candles for his room.",
+        "Stop overworking and get some rest.",
+        "Finish his thesis tonight.",
+        "Go to the hospital immediately."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'burning the candle at both ends' berarti bekerja terlalu keras dari pagi buta hingga larut malam sehingga tidak memiliki waktu istirahat yang cukup. Wanita itu secara tidak langsung menasihatinya untuk berhenti memforsir diri agar tidak jatuh sakit.",
+      "tags": ["listening_suggestion", "listening_idioms"]
+    },
+    {
+      "id": "L588",
+      "sectionType": "listening",
+      "audioFile": "audio_l432.mp3",
+      "questionText": "What does the man mean?",
+      "options": [
+        "He wants the woman to stop talking.",
+        "His computer is functioning perfectly.",
+        "He completely agrees that the update made things worse.",
+        "He thinks the bugs have been fixed."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'You took the words right out of my mouth' adalah ungkapan persetujuan yang sangat kuat. Pria itu merasakan hal yang sama persis, yaitu bahwa pembaruan tersebut malah membuat kinerja komputer semakin buruk.",
+      "tags": ["listening_agreement", "listening_idioms"]
+    },
+    {
+      "id": "L589",
+      "sectionType": "listening",
+      "audioFile": "audio_l433.mp3",
+      "questionText": "What does the woman say about their flight?",
+      "options": [
+        "They got direct tickets to Tokyo.",
+        "The travel agent couldn't find Seoul on the map.",
+        "They must take a connecting flight because direct seats were unavailable.",
+        "They are going to sit apart on the direct flight."
+      ],
+      "answerIndex": 2,
+      "explanation": "Inversi negatif 'Nowhere could she find' memberikan penekanan bahwa agen perjalanan sama sekali tidak bisa menemukan dua kursi yang berdekatan pada penerbangan langsung. Sebagai gantinya, mereka terpaksa harus transit (layover) di Seoul.",
+      "tags": ["listening_detail", "listening_negative"]
+    },
+    {
+      "id": "L590",
+      "sectionType": "listening",
+      "audioFile": "audio_l434.mp3",
+      "questionText": "What does the man imply?",
+      "options": [
+        "The manager physically assaulted him.",
+        "His attempt to change the situation was completely futile.",
+        "The manager agreed with his complaints.",
+        "He is building a wall in the office."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'beating my head against a brick wall' berarti mencoba memperjuangkan atau menjelaskan sesuatu secara terus-menerus namun sia-sia karena pihak lain sama sekali tidak mau mendengar atau peduli. Pria itu menyiratkan protesnya tidak membuahkan hasil.",
+      "tags": ["listening_inference", "listening_idioms"]
+    },
+    {
+      "id": "L591",
+      "sectionType": "listening",
+      "audioFile": "audio_l435.mp3",
+      "questionText": "What does the woman mean?",
+      "options": [
+        "They must comply with the regulations immediately.",
+        "The regulations do not require immediate compliance.",
+        "She doesn't know where the regulations are printed.",
+        "The fiscal year is ending tomorrow."
+      ],
+      "answerIndex": 1,
+      "explanation": "Wanita tersebut menggunakan inversi negatif 'Nowhere is it stated...' yang berarti 'Tidak ada satupun tertulis/dinyatakan bahwa...'. Ia menyiratkan bahwa mereka tidak perlu mematuhi aturan tersebut dengan segera (sebelum akhir tahun fiskal).",
+      "tags": ["listening_negative", "listening_inference"]
+    },
+    {
+      "id": "L592",
+      "sectionType": "listening",
+      "audioFile": "audio_l436.mp3",
+      "questionText": "What can be inferred about the woman's research?",
+      "options": [
+        "She is currently setting up her new lab.",
+        "She received the funding at the very last minute.",
+        "The committee cancelled her funding unexpectedly.",
+        "She decided to pull the plug on her own research."
+      ],
+      "answerIndex": 2,
+      "explanation": "Wanita itu menggunakan pengandaian masa lalu (past unreal conditional) 'Had the committee not pulled the plug...' yang berarti pada kenyataannya komite *telah* membatalkan dananya ('pull the plug'). 'At the eleventh hour' adalah idiom yang berarti di saat-saat terakhir.",
+      "tags": ["listening_inference", "listening_idioms"]
+    },
+    {
+      "id": "L593",
+      "sectionType": "listening",
+      "audioFile": "audio_l437.mp3",
+      "questionText": "What does the man mean?",
+      "options": [
+        "He wants the woman to repeat her question.",
+        "He completely understands the seminar.",
+        "He agrees that the seminar is too difficult to comprehend.",
+        "He thinks the seminar is over."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'going right over my head' berarti materi tersebut terlalu sulit untuk dipahami. Pria itu merespons dengan 'You can say that again', yang merupakan idiom untuk menyatakan persetujuan yang sangat kuat.",
+      "tags": ["listening_agreement", "listening_idioms"]
+    },
+    {
+      "id": "L594",
+      "sectionType": "listening",
+      "audioFile": "audio_l438.mp3",
+      "questionText": "What does the woman advise the man to do?",
+      "options": [
+        "Submit whatever he has finished by Friday.",
+        "Go to sleep and finish the manuscript later.",
+        "Request more time to ensure the quality of his work.",
+        "Work faster to meet the strict deadline."
+      ],
+      "answerIndex": 2,
+      "explanation": "Pria itu menggunakan idiom 'running on fumes' (kehabisan tenaga). Wanita tersebut memberikan saran ('If I were you...') agar ia meminta perpanjangan waktu ('extension') daripada menyerahkan karya yang buruk ('subpar work').",
+      "tags": ["listening_suggestion", "listening_idioms"]
+    },
+    {
+      "id": "L595",
+      "sectionType": "listening",
+      "audioFile": "audio_l439.mp3",
+      "questionText": "What does the man say about the dean?",
+      "options": [
+        "He approved the changes immediately.",
+        "He rarely approves things without a board review.",
+        "He never reviews the academic board's decisions.",
+        "He is waiting for the woman's endorsement."
+      ],
+      "answerIndex": 1,
+      "explanation": "Pria itu menggunakan inversi negatif 'Seldom does he endorse...' yang berarti dekan sangat jarang menyetujui sesuatu tanpa peninjauan menyeluruh dari dewan akademik terlebih dahulu.",
+      "tags": ["listening_negative", "listening_detail"]
+    },
+    {
+      "id": "L596",
+      "sectionType": "listening",
+      "audioFile": "audio_l440.mp3",
+      "questionText": "What does the woman imply?",
+      "options": [
+        "The negotiations with the union were successful.",
+        "They have to start the negotiations all over again.",
+        "The union agreed to the healthcare benefits.",
+        "They are moving the meeting to a new square."
+      ],
+      "answerIndex": 1,
+      "explanation": "Idiom 'hit a snag' berarti menemui masalah atau kendala. Idiom 'back to square one' berarti harus mengulang segala sesuatunya dari awal kembali. Ini mengisyaratkan negosiasi tersebut gagal dan harus diulang.",
+      "tags": ["listening_idioms", "listening_inference"]
+    },
+    {
+      "id": "L597",
+      "sectionType": "listening",
+      "audioFile": "audio_l441.mp3",
+      "questionText": "What does the man mean?",
+      "options": [
+        "They do not have the money to pay the auditors.",
+        "It was absolutely necessary to discuss the issue.",
+        "He regrets bringing up the budget deficit.",
+        "The auditors ignored the budget deficit."
+      ],
+      "answerIndex": 1,
+      "explanation": "Pria tersebut menggunakan bentuk *double negative* 'couldn't afford not to' (tidak bisa tidak). Ini adalah bentuk penekanan kuat yang berarti bahwa membahas masalah tersebut adalah sebuah keharusan atau kewajiban mutlak.",
+      "tags": ["listening_negative", "listening_inference"]
+    },
+    {
+      "id": "L598",
+      "sectionType": "listening",
+      "audioFile": "audio_l442.mp3",
+      "questionText": "What does the woman imply about Sarah?",
+      "options": [
+        "She needs warmer clothes for the main campus.",
+        "She is more determined than ever to transfer.",
+        "She has lost her confidence and might not transfer.",
+        "She was accepted into the competitive program."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'gotten cold feet' berarti kehilangan keberanian atau menjadi ragu dan takut untuk melakukan sesuatu yang sebelumnya telah direncanakan.",
+      "tags": ["listening_inference", "listening_idioms"]
+    },
+    {
+      "id": "L599",
+      "sectionType": "listening",
+      "audioFile": "audio_l443.mp3",
+      "questionText": "What does the man mean?",
+      "options": [
+        "He stole the woman's computer.",
+        "He thinks the software update is very useful.",
+        "He strongly agrees with the woman's complaint.",
+        "He wants the woman to stop talking."
+      ],
+      "answerIndex": 2,
+      "explanation": "Idiom 'You took the words right out of my mouth' digunakan untuk menyatakan persetujuan yang sangat kuat, karena lawan bicara baru saja mengatakan hal yang persis sama dengan yang dipikirkan atau ingin dikatakan oleh pembicara.",
+      "tags": ["listening_agreement", "listening_idioms"]
+    },
+    {
+      "id": "L600",
+      "sectionType": "listening",
+      "audioFile": "audio_l444.mp3",
+      "questionText": "What does the woman mean?",
+      "options": [
+        "She really enjoyed the scenic route.",
+        "The man's choice of route caused them to be late.",
+        "They arrived early for the opening act.",
+        "The opening act was twenty minutes long."
+      ],
+      "answerIndex": 1,
+      "explanation": "Wanita tersebut menggunakan pengandaian masa lalu dengan inversi 'Had you not insisted...' (Seandainya kamu tidak bersikeras...). Ini menyiratkan bahwa keterlambatan mereka disebabkan oleh keputusan pria itu yang bersikeras mengambil rute yang memiliki pemandangan indah (scenic route) tersebut.",
+      "tags": ["listening_inference", "listening_negative"]
     }
   ],
   "long_sets": [
